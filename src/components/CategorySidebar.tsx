@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { XIcon, ArrowLeftRight } from 'lucide-react';
 import { useTheme } from '../contexts/ThemeContext';
-import { getCategoryColor, getCategoryHoverClassOptimized, getCategorySelectedClass } from '../utils/categoryColorUtils';
 
 interface CategorySidebarProps {
   categories: Array<{ name: string; color: string }>;
@@ -43,7 +42,7 @@ export function CategorySidebar({
     <aside className={`${isMobile ? 'w-full h-full' : 'w-64 h-full'} bg-white dark:bg-gray-800 ${!isMobile ? 'border-r border-gray-200 dark:border-gray-700' : ''} flex flex-col overflow-hidden`}>
       {isMobile && (
         <div className="flex justify-between items-center p-6 pb-4 flex-shrink-0">
-          <h2 className="text-lg font-semibold text-gray-900 dark:text-white">Categories</h2>
+          <div></div>
           <button
             onClick={onClose}
             className="p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
@@ -67,42 +66,14 @@ export function CategorySidebar({
                     style={{ maxHeight: '80px' }}
                     onError={handleLogoError}
                   />
-                  {!isLinkMode && (
-                    <p className="text-gray-600 dark:text-gray-400 text-sm">Bite-sized tech tips to level up your productivity</p>
-                  )}
                 </div>
               ) : (
                 <div className="mb-8">
                   <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">Super Productive</h1>
-                  {!isLinkMode && (
-                    <p className="text-gray-600 dark:text-gray-400 text-sm">Bite-sized tech tips to level up your productivity</p>
-                  )}
                 </div>
               )}
-              <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Categories</h2>
             </>
           )}
-          
-          <div className="space-y-2">
-            {isLinkMode && (
-              <div className="text-gray-600 dark:text-gray-400 text-sm font-medium mb-1">
-                Apps for...
-              </div>
-            )}
-            {categories.map(category => (
-              <button
-                key={category.name}
-                onClick={() => onCategorySelect(category.name)}
-                className={`w-full text-left px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
-                  selectedCategory === category.name 
-                    ? getCategorySelectedClass(category, isDarkMode)
-                    : `text-gray-700 dark:text-gray-300 ${getCategoryHoverClassOptimized(category.name)}`
-                }`}
-              >
-                {category.name === 'All' && isLinkMode ? '→ Every Use-Case' : category.name}
-              </button>
-            ))}
-          </div>
         </div>
       </div>
       
@@ -118,7 +89,7 @@ export function CategorySidebar({
             onClick={onToggleLinkMode}
             className="w-full px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-blue-50 hover:border-blue-500 dark:hover:bg-blue-900/20 dark:hover:border-blue-500 transition-all duration-200 flex items-center justify-center gap-2"
           >
-            {isLinkMode ? 'Posts' : 'Apps'}
+            {isLinkMode ? 'Posts' : 'Blogroll'}
             <ArrowLeftRight className="w-4 h-4" />
           </button>
         )}

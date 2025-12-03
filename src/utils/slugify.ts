@@ -54,6 +54,71 @@ function extractTextFromPortableText(content: any[]): string {
 }
 
 /**
+ * Extract the first sentence from Portable Text content
+ * @param content - Array of Portable Text blocks
+ * @returns The first sentence as a string
+ */
+export function extractFirstSentence(content: any[]): string {
+  if (!Array.isArray(content)) return '';
+  
+  const fullText = extractTextFromPortableText(content);
+  if (!fullText) return '';
+  
+  // Match the first sentence (ending with . ! or ? followed by space or end of string)
+  const sentenceMatch = fullText.match(/^[^.!?]*[.!?](?:\s|$)/);
+  if (sentenceMatch) {
+    return sentenceMatch[0].trim();
+  }
+  
+  // If no sentence ending found, return first 200 characters
+  return fullText.substring(0, 200).trim();
+}
+
+/**
+ * Extract the sentence containing the search term from Portable Text content
+ * @param content - Array of Portable Text blocks
+ * @param searchTerm - The search term to find
+ * @returns The sentence containing the search term, or first sentence if not found
+ */
+export function extractSentenceWithMatch(content: any[], searchTerm: string): string {
+  if (!Array.isArray(content) || !searchTerm) return '';
+  
+  const fullText = extractTextFromPortableText(content);
+  if (!fullText) return '';
+  
+  const lowerSearchTerm = searchTerm.toLowerCase().trim();
+  const lowerText = fullText.toLowerCase();
+  
+  // Find the position of the search term in the text
+  const matchIndex = lowerText.indexOf(lowerSearchTerm);
+  if (matchIndex === -1) {
+    // If not found, return first sentence
+    return extractFirstSentence(content);
+  }
+  
+  // Find the start of the sentence containing the match
+  let sentenceStart = 0;
+  for (let i = matchIndex; i >= 0; i--) {
+    if (fullText[i] === '.' || fullText[i] === '!' || fullText[i] === '?') {
+      sentenceStart = i + 1;
+      break;
+    }
+  }
+  
+  // Find the end of the sentence containing the match
+  let sentenceEnd = fullText.length;
+  for (let i = matchIndex; i < fullText.length; i++) {
+    if (fullText[i] === '.' || fullText[i] === '!' || fullText[i] === '?') {
+      sentenceEnd = i + 1;
+      break;
+    }
+  }
+  
+  return fullText.substring(sentenceStart, sentenceEnd).trim();
+}
+
+
+/**
  * Filter posts by search query across title, excerpt, and content
  * @param posts - Array of posts to filter
  * @param query - Search query string

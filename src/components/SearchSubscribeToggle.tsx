@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useNewsletter } from '../hooks/useNewsletter';
 import { useWindowSize } from '../hooks/useWindowSize';
 import { CheckIcon, LoaderIcon, ArrowLeftRight } from 'lucide-react';
@@ -24,6 +24,7 @@ export function SearchSubscribeToggle({
   const [inputValue, setInputValue] = useState('');
   const { isLoading, isSuccess, error, subscribe, reset } = useNewsletter();
   const { width } = useWindowSize();
+  const inputRef = useRef<HTMLInputElement>(null);
 
   // Reset success state after 3 seconds
   useEffect(() => {
@@ -36,9 +37,14 @@ export function SearchSubscribeToggle({
     }
   }, [isSuccess, reset]);
 
-  // Clear input when switching modes
+  // Focus input when switching TO search mode
   useEffect(() => {
-    setInputValue('');
+    if (isSearchMode) {
+      // Focus input when switching to search mode
+      setTimeout(() => {
+        inputRef.current?.focus();
+      }, 100);
+    }
   }, [isSearchMode]);
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -63,13 +69,15 @@ export function SearchSubscribeToggle({
   };
 
   const toggleMode = () => {
-    setIsSearchMode(!isSearchMode);
-    setInputValue('');
+    const newMode = !isSearchMode;
+    setIsSearchMode(newMode);
     
-    // Clear search when switching from search mode
+    // Clear input and search when switching away from search mode
     if (isSearchMode && onSearch) {
+      setInputValue('');
       onSearch('');
     }
+    // Don't clear input when switching to search mode - let user continue typing
   };
 
   // Determine search placeholder based on screen size
@@ -80,7 +88,7 @@ export function SearchSubscribeToggle({
     if (width >= 770 && width <= 860) {
       return "Search the blog";
     }
-    return "Find the perfect prompt, tool, or workflow";
+    return "Search the blog";
   };
 
   const currentPlaceholder = isSearchMode ? getSearchPlaceholder() : placeholder;
@@ -101,6 +109,7 @@ export function SearchSubscribeToggle({
         <div className="flex items-center gap-3">
           <div className="flex-1">
             <input
+              ref={inputRef}
               type={isSearchMode ? "text" : "email"}
               value={inputValue}
               onChange={handleInputChange}
@@ -113,8 +122,8 @@ export function SearchSubscribeToggle({
           <button
             type={isSearchMode ? "button" : "submit"}
             disabled={isLoading || (!isSearchMode && !inputValue)}
-            onClick={isSearchMode ? undefined : undefined}
-            className={`px-10 py-2 bg-blue-500 text-white rounded-lg font-medium ${!isSearchMode ? 'hover:bg-blue-600' : ''} transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2 whitespace-nowrap flex-shrink-0 w-28 ${buttonClassName}`}
+            onClick={isSearchMode ? () => inputRef.current?.focus() : undefined}
+            className={`px-10 py-2 bg-blue-500 text-white rounded-lg font-medium ${!isSearchMode ? 'hover:bg-blue-600' : 'hover:bg-blue-600'} transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2 whitespace-nowrap flex-shrink-0 w-28 ${buttonClassName}`}
           >
             {isLoading && <LoaderIcon className="w-4 h-4 animate-spin" />}
             {isSearchMode ? "Search" : currentButtonText}

@@ -1,4 +1,5 @@
 import React, { useRef } from 'react';
+import { Link } from 'react-router-dom';
 import { PortableText } from '@portabletext/react';
 import { XIcon, ClockIcon, CopyIcon, CheckIcon, TwitterIcon, LinkedinIcon, FacebookIcon, MailIcon, MessageCircleIcon, ShareIcon } from 'lucide-react';
 import { NewsletterForm } from './NewsletterForm';
@@ -143,10 +144,19 @@ export function BlogModal({
     return String(readTime || '5 min');
   };
 
+  // Determine the post URL - special handling for about page
+  const getPostLink = () => {
+    if (post.id === 'about') {
+      return '/about';
+    }
+    const postSlug = post.slug || post.id;
+    return `/posts/${postSlug}`;
+  };
+
   // Generate the current post URL for sharing
   const getPostUrl = () => {
     const baseUrl = window.location.origin;
-    return `${baseUrl}/posts/${post.slug || post.id}`;
+    return `${baseUrl}${getPostLink()}`;
   };
 
   // Get share text for social media
@@ -185,16 +195,26 @@ export function BlogModal({
         <div className="flex-1 overflow-y-auto overflow-x-hidden px-4 md:px-16 py-8">
           {/* Header content now inside scrollable area */}
           <div className="mb-8">
-            <div className="flex items-center gap-2 mb-3">
-              <div className="flex items-center gap-1 text-gray-600 dark:text-gray-400 text-sm">
-                <ClockIcon className="w-4 h-4" />
-                {formatReadTime(post.read_time || post.readTime)}
+            {post.id !== 'about' && (
+              <div className="flex items-center gap-2 mb-3">
+                <div className="flex items-center gap-1 text-gray-600 dark:text-gray-400 text-sm">
+                  <ClockIcon className="w-4 h-4" />
+                  {formatReadTime(post.read_time || post.readTime)}
+                </div>
+                <span className={`px-3 py-1 rounded-full text-sm font-medium text-white ${getCategoryColor(post.category)}`}>
+                  {post.category}
+                </span>
               </div>
-              <span className={`px-3 py-1 rounded-full text-sm font-medium text-white ${getCategoryColor(post.category)}`}>
-                {post.category}
-              </span>
-            </div>
-            <h1 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">{post.title}</h1>
+            )}
+            <h1 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
+              <Link 
+                to={getPostLink()}
+                onClick={onClose}
+                className="hover:underline transition-all"
+              >
+                {post.title}
+              </Link>
+            </h1>
             {(post.subheader || post.excerpt) && post.id !== 'about' && (
               <p className="text-gray-600 dark:text-gray-400 text-lg">{post.subheader || post.excerpt}</p>
             )}
@@ -318,51 +338,51 @@ export function BlogModal({
                 <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
                   <div className="flex items-center gap-3 mb-4">
                     <ShareIcon className="w-5 h-5 text-gray-600 dark:text-gray-400" />
-                    <span className="text-gray-700 dark:text-gray-300 font-medium">Give your friends their time back → Click to share</span>
+                    <span className="text-gray-700 dark:text-gray-300 font-medium">Like this post? → Click to share</span>
                   </div>
                   <div className="flex items-center gap-2 flex-wrap social-share-buttons">
                     <a
                       href={shareUrls.linkedin}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex items-center gap-2 px-4 py-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-white rounded-lg transition-colors whitespace-nowrap flex-shrink-0 mb-2"
+                      className="flex items-center justify-center p-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-white rounded-lg transition-colors flex-shrink-0 mb-2"
+                      title="Share on LinkedIn"
                     >
                       <LinkedinIcon className="w-4 h-4" />
-                      <span className="text-sm font-medium">LinkedIn</span>
                     </a>
                     <a
                       href={shareUrls.twitter}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex items-center gap-2 px-4 py-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-white rounded-lg transition-colors whitespace-nowrap flex-shrink-0 mb-2"
+                      className="flex items-center justify-center p-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-white rounded-lg transition-colors flex-shrink-0 mb-2"
+                      title="Share on Twitter"
                     >
                       <TwitterIcon className="w-4 h-4" />
-                      <span className="text-sm font-medium">Twitter</span>
                     </a>
                     <a
                       href={shareUrls.facebook}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex items-center gap-2 px-4 py-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-white rounded-lg transition-colors whitespace-nowrap flex-shrink-0 mb-2"
+                      className="flex items-center justify-center p-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-white rounded-lg transition-colors flex-shrink-0 mb-2"
+                      title="Share on Facebook"
                     >
                       <FacebookIcon className="w-4 h-4" />
-                      <span className="text-sm font-medium">Facebook</span>
                     </a>
                     <a
                       href={shareUrls.whatsapp}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="flex items-center gap-2 px-4 py-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-white rounded-lg transition-colors whitespace-nowrap flex-shrink-0 mb-2"
+                      className="flex items-center justify-center p-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-white rounded-lg transition-colors flex-shrink-0 mb-2"
+                      title="Share on WhatsApp"
                     >
                       <MessageCircleIcon className="w-4 h-4" />
-                      <span className="text-sm font-medium">WhatsApp</span>
                     </a>
                     <a
                       href={shareUrls.email}
-                      className="flex items-center gap-2 px-4 py-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-white rounded-lg transition-colors whitespace-nowrap flex-shrink-0 mb-2"
+                      className="flex items-center justify-center p-2 bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-white rounded-lg transition-colors flex-shrink-0 mb-2"
+                      title="Share via Email"
                     >
                       <MailIcon className="w-4 h-4" />
-                      <span className="text-sm font-medium">Email</span>
                     </a>
                   </div>
                 </div>

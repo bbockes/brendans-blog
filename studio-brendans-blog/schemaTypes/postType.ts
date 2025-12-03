@@ -30,29 +30,6 @@ export const postType = defineType({
       validation: (rule) => rule.required(),
     }),
     defineField({
-      name: 'image',
-      title: 'Main image',
-      type: 'image',
-      options: {
-        hotspot: true, // Allows for better cropping in the studio
-      },
-      fields: [
-        {
-          name: 'alt',
-          type: 'string',
-          title: 'Alternative text',
-          description: 'Important for SEO and accessibility.',
-        },
-      ],
-    }),
-    defineField({
-      name: 'excerpt',
-      title: 'Excerpt',
-      type: 'string',
-      description: 'A short summary of the post for previews.',
-      validation: (rule) => rule.max(200),
-    }),
-    defineField({
       name: 'category',
       title: 'Category',
       type: 'string',
@@ -70,13 +47,6 @@ export const postType = defineType({
           { title: 'Shortcuts', value: 'Shortcuts' },
         ],
       },
-      validation: (rule) => rule.required(),
-    }),
-    defineField({
-      name: 'readTime',
-      title: 'Read Time',
-      type: 'string',
-      description: 'Estimated read time (e.g., "5 min").',
       validation: (rule) => rule.required(),
     }),
     defineField({

@@ -1,8 +1,8 @@
-import React, { useState, useEffect, useMemo, useCallback } from 'react';
+import React, { useState, useEffect, useLayoutEffect, useMemo, useCallback, useRef } from 'react';
 import { useNavigate, useParams, useLocation } from 'react-router-dom';
 import { BlogCard } from './BlogCard';
+import { BlogPost } from './BlogPost';
 import { LinkCard } from './LinkCard';
-import { BlogModal } from './BlogModal';
 import { CategorySidebar } from './CategorySidebar';
 import { MobileHeader } from './MobileHeader';
 import { DarkModeToggle } from './DarkModeToggle';
@@ -11,7 +11,7 @@ import { SearchSubscribeToggle } from './SearchSubscribeToggle';
 import { fetchAboutPage, transformAboutPageToBlogPost } from '../lib/aboutPageService';
 import { LinkedinIcon } from 'lucide-react';
 import { sanityClient, POSTS_QUERY, CATEGORIES_QUERY, LINK_CARDS_QUERY, LINK_CARD_CATEGORIES_QUERY } from '../lib/sanityClient';
-import { slugify, findPostBySlug, filterPostsBySearchQuery } from '../utils/slugify';
+import { slugify, findPostBySlug, filterPostsBySearchQuery, extractFirstSentence, extractSentenceWithMatch } from '../utils/slugify';
 import { generateMetaDescription, generatePageTitle, DEFAULT_OG_IMAGE } from '../utils/seoUtils.js';
 import { getCategoryColor } from '../utils/categoryColorUtils';
 import { getCategoryDisplayName, getSchemaCategory } from '../utils/categoryMappingUtils';
@@ -124,6 +124,10 @@ export function BlogLayout() {
   const [isLinkMode, setIsLinkMode] = useState<boolean>(false);
   const [aboutPageData, setAboutPageData] = useState<Post | null>(null);
   const [aboutPageLoading, setAboutPageLoading] = useState<boolean>(false);
+  const [visiblePostsCount, setVisiblePostsCount] = useState<number>(5); // Start with 5 posts
+  const postsPerLoad = 5; // Load 5 more posts at a time
+  const observerTarget = useRef<HTMLDivElement>(null);
+  const filteredPostsRef = useRef<any[]>([]);
 
   // Function to get category color based on name
   const getCategoryColor = (categoryName) => {
@@ -330,16 +334,21 @@ export function BlogLayout() {
       const post = findPostBySlug(posts, slug);
       if (post) {
         console.log('✅ Found post, setting selectedPost:', post.title);
+        // Reset visible posts count when navigating to a post
+        setVisiblePostsCount(5);
         setSelectedPost(post);
       } else {
         console.log('❌ Post not found, redirecting to home');
         // Post not found, redirect to home
         navigate('/', { replace: true });
         setSelectedPost(null);
+        setVisiblePostsCount(5);
       }
     } else if (location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive') {
       console.log('🏠 On home page, clearing selectedPost');
       setSelectedPost(null);
+      // Reset visible posts count when navigating to homepage
+      setVisiblePostsCount(5);
     }
   }, [slug, posts, navigate, location.pathname]);
 
@@ -348,6 +357,51 @@ export function BlogLayout() {
     console.log('🎯 selectedPost state changed:', selectedPost ? selectedPost.title : 'null');
     console.log('🎯 selectedPost full object:', selectedPost);
   }, [selectedPost]);
+
+  // Scroll to top when route changes - handle both post pages and homepage
+  useLayoutEffect(() => {
+    // Always reset visible posts count on route change to prevent infinite scroll issues
+    setVisiblePostsCount(5);
+    
+    // Scroll to top immediately (synchronously before paint)
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+    document.documentElement.scrollTop = 0;
+    document.body.scrollTop = 0;
+  }, [location.pathname]);
+
+  // Aggressive scroll to top when route or selectedPost changes
+  useEffect(() => {
+    const scrollToTop = () => {
+      // Force scroll to top using all methods
+      window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+      if (window.scrollTo) window.scrollTo(0, 0);
+      document.documentElement.scrollTop = 0;
+      document.body.scrollTop = 0;
+      // Also try scrolling the main container if it exists
+      const mainContainer = document.querySelector('main') || document.querySelector('.main-container');
+      if (mainContainer) {
+        mainContainer.scrollTop = 0;
+      }
+    };
+    
+    // Immediate scroll
+    scrollToTop();
+    
+    // Use requestAnimationFrame for next frame
+    requestAnimationFrame(() => {
+      scrollToTop();
+      // Multiple attempts to catch any late-rendering content
+      requestAnimationFrame(() => {
+        scrollToTop();
+        setTimeout(scrollToTop, 0);
+        setTimeout(scrollToTop, 50);
+        setTimeout(scrollToTop, 100);
+        setTimeout(scrollToTop, 200);
+        setTimeout(scrollToTop, 300);
+        setTimeout(scrollToTop, 500);
+      });
+    });
+  }, [location.pathname, selectedPost]);
 
   // Filter posts by category and search query
   const filteredPosts = useMemo(() => {
@@ -387,22 +441,107 @@ export function BlogLayout() {
     return filtered;
   }, [posts, linkCards, selectedCategory, searchQuery, isLinkMode]);
 
+  // Reset visible posts count when filters change or when navigating to homepage
+  useEffect(() => {
+    // Reset when navigating back to homepage (selectedPost is cleared) or when filters change
+    const isHomePage = location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive';
+    if (isHomePage && !selectedPost) {
+      // Only reset when we're actually on homepage showing all posts
+      setVisiblePostsCount(postsPerLoad);
+    }
+  }, [selectedCategory, searchQuery, isLinkMode, location.pathname, postsPerLoad, selectedPost]);
+
+  // Keep ref in sync with filteredPosts for infinite scroll
+  useEffect(() => {
+    filteredPostsRef.current = filteredPosts as any[];
+  }, [filteredPosts]);
+
+  // Visible posts for infinite scroll (only for blog posts, not link mode)
+  const visiblePosts = useMemo(() => {
+    if (isLinkMode) {
+      return [];
+    }
+    return (filteredPosts as Post[]).slice(0, visiblePostsCount);
+  }, [filteredPosts, visiblePostsCount, isLinkMode]);
+
+  // Infinite scroll observer
+  useEffect(() => {
+    // Don't use infinite scroll for link mode or when showing a single post
+    if (isLinkMode) return;
+    
+    const isHomePage = location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive';
+    const isSinglePostPage = location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/';
+    
+    // Only attach observer on homepage when showing list of posts (not single post)
+    if (!isHomePage || selectedPost || isSinglePostPage) {
+      console.log('⏸️ Skipping infinite scroll - isHomePage:', isHomePage, 'selectedPost:', !!selectedPost, 'isSinglePostPage:', isSinglePostPage);
+      return;
+    }
+    
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            // Use ref to get latest filteredPosts
+            const currentFilteredPosts = filteredPostsRef.current;
+            const totalPosts = currentFilteredPosts.length;
+            
+            setVisiblePostsCount(prev => {
+              if (prev < totalPosts) {
+                const newCount = Math.min(prev + postsPerLoad, totalPosts);
+                console.log('🔄 Loading more posts. Previous:', prev, 'New:', newCount, 'Total:', totalPosts);
+                return newCount;
+              }
+              return prev;
+            });
+          }
+        });
+      },
+      { 
+        threshold: 0.1,
+        rootMargin: '200px' // Start loading 200px before the element comes into view
+      }
+    );
+
+    // Wait for DOM to update, then attach observer
+    const timeoutId = setTimeout(() => {
+      const currentTarget = observerTarget.current;
+      
+      if (currentTarget) {
+        observer.observe(currentTarget);
+        console.log('👁️ Observer attached to trigger element');
+      } else {
+        console.log('⚠️ Observer target element not found');
+      }
+    }, 300); // Increased timeout slightly to ensure DOM is ready
+
+    return () => {
+      clearTimeout(timeoutId);
+      const currentTarget = observerTarget.current;
+      if (currentTarget) {
+        observer.unobserve(currentTarget);
+      }
+      observer.disconnect();
+    };
+  }, [filteredPosts.length, isLinkMode, postsPerLoad, location.pathname, selectedPost]); // Recreate observer when route or selectedPost changes
+
   const handlePostClick = post => {
     console.log('🖱️ Post clicked:', post.title);
     // Use the same logic as findPostBySlug to ensure consistency
     const postSlug = post.slug?.current || post.slug || slugify(post.title);
     console.log('🔗 Navigating to slug:', postSlug);
+    // Reset visible posts count to prevent infinite scroll from interfering
+    setVisiblePostsCount(5);
+    // Force scroll to top before navigation
+    window.scrollTo(0, 0);
+    document.documentElement.scrollTop = 0;
+    document.body.scrollTop = 0;
     navigate(`/posts/${postSlug}`);
   };
 
   const handleAboutClick = () => {
     console.log('ℹ️ About button clicked, navigating to /about');
     navigate('/about');
-  };
-
-  const handleCloseModal = () => {
-    console.log('❌ Modal close requested, navigating to home');
-    navigate('/');
   };
 
   const handleCategorySelect = (category) => {
@@ -426,7 +565,15 @@ export function BlogLayout() {
   const handleSearch = useCallback((query: string) => {
     console.log('Search called with query:', query);
     setSearchQuery(query);
-  }, []);
+    // Clear selected post when searching so results show in main content area
+    if (query.trim()) {
+      setSelectedPost(null);
+      // Navigate to home if on a post page
+      if (location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/') {
+        navigate('/', { replace: true });
+      }
+    }
+  }, [navigate, location.pathname]);
 
   const toggleMobileMenu = () => {
     setIsMobileMenuOpen(!isMobileMenuOpen);
@@ -475,12 +622,12 @@ export function BlogLayout() {
             {/* Desktop Header - shows on large screens and up only */}
             <div className="hidden lg:flex justify-between items-center mb-8">
               {!isLinkMode ? (
-                <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm flex items-center overflow-hidden" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px' }}>
+                <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm flex items-center overflow-hidden" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px', marginLeft: '44px' }}>
                   <div className="px-4 py-4 w-full">
                     <SearchSubscribeToggle 
                       className="w-full" 
                       onSearch={handleSearch}
-                      placeholder="Get 3 new tips in your inbox every Wednesday"
+                      placeholder="Never miss a post! Get free email updates"
                     />
                   </div>
                 </div>
@@ -488,10 +635,10 @@ export function BlogLayout() {
                 <div className="flex justify-start items-center" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px' }}>
                   <div>
                     <h1 className="text-3xl font-bold text-gray-800 dark:text-white">
-                      <span className="text-[#7D1FF1] dark:text-[#AA75F0]">Apps you know.</span> <span className="text-gray-800 dark:text-gray-200">Apps you don't.</span>
+                      <span className="text-[#7D1FF1] dark:text-[#AA75F0]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
                     </h1>
                     <p className="text-gray-600 dark:text-gray-400 mt-2">
-                      Every app on the blog—and then some.
+                      A few of my favorite blogs—well worth your time and attention.
                     </p>
                   </div>
                 </div>
@@ -510,7 +657,7 @@ export function BlogLayout() {
             {/* Tablet Subscribe Section - shows on medium screens only */}
             {!isLinkMode ? (
               <div className="hidden md:block lg:hidden mb-6">
-                <div className="flex items-start gap-6">
+                <div className="flex items-start gap-6" style={{ paddingLeft: '60px', paddingTop: '30px' }}>
                   <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm overflow-hidden flex-1 tablet-subscribe-container">
                     <div className="px-4 py-4">
                       <SearchSubscribeToggle 
@@ -536,10 +683,10 @@ export function BlogLayout() {
                 <div className="flex-1 flex justify-start">
                   <div>
                     <h1 className="text-2xl font-bold text-gray-800 dark:text-white">
-                      <span className="text-[#7D1FF1] dark:text-[#AA75F0]">Apps you know.</span> <span className="text-gray-800 dark:text-gray-200">Apps you don't.</span>
+                      <span className="text-[#7D1FF1] dark:text-[#AA75F0]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
                     </h1>
                     <p className="text-gray-600 dark:text-gray-400 mt-1">
-                      Every app on the blog—and then some.
+                      A few of my favorite blogs—well worth your time and attention.
                     </p>
                   </div>
                 </div>
@@ -576,10 +723,10 @@ export function BlogLayout() {
               <div className="md:hidden mb-6">
                 <div>
                   <h1 className="text-xl font-bold text-gray-800 dark:text-white text-left">
-                    <span className="text-[#7D1FF1] dark:text-[#AA75F0]">Apps you know.</span> <span className="text-gray-800 dark:text-gray-200">Apps you don't.</span>
+                    <span className="text-[#7D1FF1] dark:text-[#AA75F0]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
                   </h1>
                   <p className="text-gray-600 dark:text-gray-400 mt-1 text-left">
-                    Every app on the blog—and then some.
+                    A few of my favorite blogs—well worth your time and attention.
                   </p>
                 </div>
               </div>
@@ -602,27 +749,115 @@ export function BlogLayout() {
               </div>
             )}
 
-            {/* Content Grid */}
+            {/* Content - Blog Posts (consecutive) or Link Cards (grid) */}
             {!(isLinkMode ? linkLoading : loading) && !(isLinkMode ? linkError : error) && (
-              <div className={`grid gap-6 w-full ${
-                isLinkMode 
-                  ? 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3' 
-                  : 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4'
-              }`}>
+              <>
                 {isLinkMode ? (
-                  filteredPosts.map((linkCard: any) => (
-                    <LinkCard key={linkCard._id} linkCard={linkCard} />
-                  ))
+                  <div className={`grid gap-6 w-full grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3`}>
+                    {filteredPosts.map((linkCard: any) => (
+                      <LinkCard key={linkCard._id} linkCard={linkCard} />
+                    ))}
+                  </div>
                 ) : (
-                  filteredPosts.map((post: any) => (
-                    <BlogCard key={post.id} post={post} onClick={() => handlePostClick(post)} />
-                  ))
+                  <div className="w-full max-w-4xl mx-auto" style={{ paddingLeft: '60px', paddingTop: '30px' }}>
+                    {/* Show single post if on a post route, otherwise show all visible posts */}
+                    {selectedPost && (location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/') ? (
+                      <div key={selectedPost.id} id={`post-${selectedPost.slug?.current || selectedPost.slug || selectedPost.id}`}>
+                        <BlogPost post={selectedPost} />
+                      </div>
+                    ) : searchQuery.trim() ? (
+                      /* Show search results with title and matching sentence */
+                      <div className="w-full" style={{ maxWidth: '650px' }}>
+                        {visiblePosts.map((post: any) => {
+                          const postSlug = post.slug?.current || post.slug || slugify(post.title);
+                          const matchingSentence = post.content 
+                            ? extractSentenceWithMatch(post.content, searchQuery.trim())
+                            : (post.excerpt || post.subheader || '');
+                          const searchTerm = searchQuery.trim();
+                          
+                          // Helper function to highlight search term in text
+                          const highlightText = (text: string) => {
+                            if (!text || !searchTerm) return text;
+                            const regex = new RegExp(`(${searchTerm.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+                            const parts = text.split(regex);
+                            return parts.map((part, index) => {
+                              if (part.toLowerCase() === searchTerm.toLowerCase()) {
+                                return (
+                                  <mark key={index} className="bg-blue-200 dark:bg-blue-400 px-1 rounded">
+                                    {part}
+                                  </mark>
+                                );
+                              }
+                              return <React.Fragment key={index}>{part}</React.Fragment>;
+                            });
+                          };
+                          
+                          return (
+                            <div 
+                              key={post.id} 
+                              className="mb-8 pb-8 border-b border-gray-200 dark:border-gray-700 last:border-b-0"
+                            >
+                              <h2 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2">
+                                <button
+                                  onClick={() => handlePostClick(post)}
+                                  className="hover:underline transition-all text-left"
+                                >
+                                  {highlightText(post.title)}
+                                </button>
+                              </h2>
+                              {matchingSentence && (
+                                <p className="text-gray-600 dark:text-gray-400 text-lg">
+                                  {highlightText(matchingSentence)}
+                                </p>
+                              )}
+                            </div>
+                          );
+                        })}
+                        {/* Infinite scroll trigger */}
+                        {(() => {
+                          const totalPosts = (filteredPosts as Post[]).length;
+                          if (visiblePostsCount >= totalPosts) return null;
+                          return (
+                            <div 
+                              ref={observerTarget} 
+                              className="h-20 w-full flex items-center justify-center py-4"
+                              style={{ minHeight: '80px' }}
+                            >
+                              <div className="text-gray-600 dark:text-gray-400 text-sm">Loading more posts...</div>
+                            </div>
+                          );
+                        })()}
+                      </div>
+                    ) : (
+                      <>
+                        {visiblePosts.map((post: any) => (
+                          <div key={post.id} id={`post-${post.slug?.current || post.slug || post.id}`}>
+                            <BlogPost post={post} />
+                          </div>
+                        ))}
+                        {/* Infinite scroll trigger */}
+                        {(() => {
+                          const totalPosts = (filteredPosts as Post[]).length;
+                          if (visiblePostsCount >= totalPosts) return null;
+                          return (
+                            <div 
+                              ref={observerTarget} 
+                              className="h-20 w-full flex items-center justify-center py-4"
+                              style={{ minHeight: '80px' }}
+                            >
+                              <div className="text-gray-600 dark:text-gray-400 text-sm">Loading more posts...</div>
+                            </div>
+                          );
+                        })()}
+                      </>
+                    )}
+                  </div>
                 )}
-              </div>
+              </>
             )}
 
-            {/* No content message */}
-            {!(isLinkMode ? linkLoading : loading) && !(isLinkMode ? linkError : error) && filteredPosts.length === 0 && (
+            {/* No content message - only show when not displaying a single selected post */}
+            {!(isLinkMode ? linkLoading : loading) && !(isLinkMode ? linkError : error) && filteredPosts.length === 0 && !(selectedPost && (location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/')) && (
               <div className="flex justify-center items-center py-12">
                 <div className="text-gray-600 dark:text-gray-400">
                   {isLinkMode ? (
@@ -645,14 +880,6 @@ export function BlogLayout() {
         </div>
       </main>
 
-      {/* Modal - This should render when selectedPost is set */}
-      {console.log('🎭 Rendering modal check - selectedPost exists:', !!selectedPost)}
-      {selectedPost && (
-        <>
-          {console.log('🎭 Actually rendering BlogModal component')}
-          <BlogModal post={selectedPost} onClose={handleCloseModal} />
-        </>
-      )}
     </div>
   );
 }
