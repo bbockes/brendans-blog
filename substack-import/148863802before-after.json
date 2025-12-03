@@ -1,0 +1,143 @@
+{
+  "title": "148863802.before After",
+  "slug": "148863802before-after",
+  "publishedAt": "2025-11-30T19:30:08.745Z",
+  "excerpt": "80% of the fun of watching shows like Fixer Upper and Extreme Home Makeover is at the end, when they showcase the before and after.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "80% of the fun of watching shows like",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Fixer Upper",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Extreme Home Makeover",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is at the end, when they showcase the before and after.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, it’s only",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "then",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "when you get to see the improvements they made.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As in: what was banal or broken,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "they made it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "better",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", and the final",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "results",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "of what they did.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. Giving your readers, users, clients, or viewers a means of exploring the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "contrast",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "between what was and what is, is a phenomenal way to showcase your work. And an even better marketing tactic for broadcasting what future clients can expect of you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "next time",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.kristinbanta.com/before-and-after/"
+        }
+      ]
+    }
+  ]
+}

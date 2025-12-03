@@ -1,0 +1,84 @@
+{
+  "title": "Packing and accurate records",
+  "slug": "packing-and-accurate-records",
+  "publishedAt": "2021-04-10T05:06:00.000Z",
+  "excerpt": "The first rule of packing is to  pack light . Because packing more than you need can be a burden.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The first rule of packing is to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "pack light",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Because packing more than you need can be a burden.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/2QyYgZ6Lrqg"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A financial one, sure, because a carry on bag cost less than a checked one. But also a mental and quasi-emotional one as well.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "More stuff means means more to keep track of. More of a risk you'll lose something or forget it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The same principle holds true for many other things, well beyond the confines of luggage. Anything you can or need to inventory: papers, property, passwords, records, data, merchandise.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "More cruft means more to manage.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

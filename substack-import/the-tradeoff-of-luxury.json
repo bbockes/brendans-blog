@@ -1,0 +1,95 @@
+{
+  "title": "The tradeoff of luxury",
+  "slug": "the-tradeoff-of-luxury",
+  "publishedAt": "2019-02-15T07:38:00.000Z",
+  "excerpt": "How much longer do you have to exercise to burn off that large latte as opposed to a small?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How much longer do you have to exercise to burn off that large latte as opposed to a small?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or pay for an additional 300 square feet of real estate at your new digs? Or a supposedly faster or sleeker automobile?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What do you get out of paying for better than average? For the status of bigger or nicer or fancier than everyone in your circle?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Is it worth the tradeoff?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In the time or effort you have to expend to afford it? In the things you have to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "accumulate",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to fill the void? In the posture you have to maintain to keep your standing?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brendanbockes.typepad.com/blog/2017/10/how-big-a-house-do-you-need-an-ode-to-tiny-living.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Every choice has a cost. Even the “better” ones.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "148863243.standing Out For Its Own Sake",
+  "slug": "148863243standing-out-for-its-own-sake",
+  "publishedAt": "2025-11-30T19:29:59.395Z",
+  "excerpt": "Taken from a TBWA marketing video (the ad agency behind Apple’s ads): “disruption is looking at the obvious and doing the opposite of that.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Taken from a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "TBWA",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "marketing video (the ad agency behind Apple’s ads): “disruption is looking at the obvious and doing the opposite of that.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://tbwa.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Who knew?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, being different is only a great strategy when the status quo is stagnant or deprived.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Any other time, and swimming against the tide is just stupid.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "title": "148863119.change Of Heart Insurance",
+  "slug": "148863119change-of-heart-insurance",
+  "publishedAt": "2025-11-30T19:29:56.836Z",
+  "excerpt": "It doesn’t exist.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn’t exist.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most insurance companies aren't too keen on betting against a couple’s potential lack of foresight. And why would they? It’s a losing deal.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why of the the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "13% of engagements",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "that don't end in marriage, most of them have to pay double. Once with heart-break, twice for the vacant horse-drawn carriage.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://fortune.com/2015/01/27/wedding-insurance/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a sad but potent lesson: decisions made twice are costly. So make one and stick to it. Don’t change your mind.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "See the world clearly. Be honest with yourself. Decide once, then commit.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

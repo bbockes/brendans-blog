@@ -1,0 +1,91 @@
+{
+  "title": "In sync",
+  "slug": "in-sync",
+  "publishedAt": "2022-06-29T06:00:00.000Z",
+  "excerpt": "One of the biggest objections many organizations have for  not  going full-time remote is the misconception that they’ll no longer be in sync.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of the biggest objections many organizations have for ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " going full-time remote is the misconception that they’ll no longer be in sync.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because they’ve confused proximity of people with persistent coordination.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They’re not the same.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Working at the same time in the same place is no guarantee that your team is in sync.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But persistent and anticipated check-ins—by way of meetings, memos, messages and updates—are a great way to keep everyone on the same page.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You you know what?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " You can do that while working in different time zones and in different states.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

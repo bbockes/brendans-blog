@@ -1,0 +1,65 @@
+{
+  "title": "A wealth of information",
+  "slug": "a-wealth-of-information",
+  "publishedAt": "2019-04-22T06:15:00.000Z",
+  "excerpt": "It’s highly likely that your friends, coworkers and peers have an abundance of knowledge and insights you’re not aware of.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s highly likely that your friends, coworkers and peers have an abundance of knowledge and insights you’re not aware of.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everything from what it’s like to fly a plane, to find a sitemap, to make kombucha, parent a child, or paint a mural.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everything from the next best show to watch, book to read, podcast to hear, or food joint to hit up.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Learning about the things that the people around know that you don’t can be a highly effective way to expand on what you do know.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, you’ll never know unless you ask.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

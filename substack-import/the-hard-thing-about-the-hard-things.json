@@ -1,0 +1,62 @@
+{
+  "title": "The hard thing about the hard things",
+  "slug": "the-hard-thing-about-the-hard-things",
+  "publishedAt": "2022-07-01T07:13:00.000Z",
+  "excerpt": "Elon Musk has  said  that the most difficult thing Tesla has done hasn’t been to make an affordable electric car, but to build the facilty to build a fleet of electric cars.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Elon Musk has ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "said",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that the most difficult thing Tesla has done hasn’t been to make an affordable electric car, but to build the facilty to build a fleet of electric cars.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.ted.com/talks/elon_musk_elon_musk_talks_twitter_tesla_and_how_his_brain_works_live_at_ted2022"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can’t learn that kind of thing by going to business school.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Only by doing. And staying at it long enough to learn from what doesn’t work.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

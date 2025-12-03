@@ -1,0 +1,361 @@
+{
+  "title": "148862627.how To Prioritize Tasks And Catch A Flight On Time",
+  "slug": "148862627how-to-prioritize-tasks-and-catch-a-flight-on-time",
+  "publishedAt": "2025-11-30T19:29:48.380Z",
+  "excerpt": "In project management, the critical path is the shortest possible series of steps your project must take to achieve its intended result.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In project management, the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "critical path",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is the shortest possible series of steps your project must take to achieve its intended result.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.projectmanager.com/blog/understanding-critical-path-project-management"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The critical path minimizes holdup or “slack” by prioritizing the appropriate order of steps needed to carry out a project based a) what critical tasks can cause the most most holdup, and b) eliminating extraneous tasks that can be completed at the end (or after your deadline).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So, for example, you need to wake up and catch a plane on time. This requires the following tasks:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You need want coffee.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You want to eat something.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You want/need to take a shower.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You want to brust your teeth, comb your hair, etc.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You need to get dressed appropriately (and pack your bag)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You need to drive to the airport.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You need to be in the terminal by your boarding time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So the question is, what could cause the most holdup?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Well…“wants” are immediately off the table. Sure, you might think you need coffee or food or clean teeth or a slick head of hair, but in reality you don’t and you know it. And (once you’re in the terminal and assuming you’re not late) can probably make a fast dash to Starbucks and the bathroom and check them all off in 13 minutes flat.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Showering is more equidistant. Some days you may only want to take a shower, while other days you may",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "need to (especially if it’s a long flight). Showering depends on hot water in the tank (which is generally a constant), but you can always push through a cold one if necessary. Thus, while showering is a little more “important,” there’s no potential room for slack either.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Dressing appropriately (and packing) depends on having the adequate attire that’s clean, dry, and ready to wear. And driving to the airport (and making it there on time) requires both a) leaving at a certain time, b) having enough gas in your tank to make the distance and c) finding somewhere to park.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "More dependency equals more room for holdup, because without ready clothes and sufficient range and a parked car, you’re not likely going to meet your deadline. So it makes sense that you should focus on these tasks",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "first",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "(and focus on tasks you can complete once your in the terminal",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "second",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "). If you consider the critical path, your list of priorities should look more like this:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ensure there’s enough gas in your tank.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ensure you have clothes to wear.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pack your bag(s).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Take a shower (if you have time).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Get dressed.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Drive to the airport (check in, go through security, etc).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Brush your teeth, comb your hair, etc.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Eat something.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Grab a coffee.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In this way, you get there on time by focusing on the minimum viable series of steps (the critical path), and prioritizing all tasks in order of first: their potential to cause delays and second: based on necessity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Critical path thinking can apply to any kind of project or situation where there are multiple tasks that need to be completed in an uncertain order. By discerning between tasks that cause slack and tasks that don't, while prioritizing the former, you can complete projects in the minimum time required, and save extraneous tasks for later (either before or after ship date).",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "title": "Freedom of doubt",
+  "slug": "freedom-of-doubt",
+  "publishedAt": "2020-09-12T05:00:00.000Z",
+  "excerpt": "It turns out that the  first symptom  of hypoxia, the condition whereby the body and brain are deprived of oxygen, (at least among paratroopers) is overconfidence.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out that the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "first symptom",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " of hypoxia, the condition whereby the body and brain are deprived of oxygen, (at least among paratroopers) is overconfidence.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/QwzvNAAqH3g?t=8917"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The obvious reason being that being deprived of air makes you stupid. And that your rational mind—the one that tells you what you think you know—is capable of overcompensating for the fact that you’re vulnerable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nobody wants to feel like they're not in control. Just like no one is reluctant to admit when they’re sick or need help.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson here—that we need to be hyper-aware of our limits—is simple, but astonishingly hard to do. Because what it means is that—when we’re in a state of ambiguity, when we lack experience or exposure—we need to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "overcompensate",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " for our bias towards confidence, by first acknowledging and then addressing all the ways we ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "might",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " be wrong.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because what we don’t know ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " hurt us. Even if don’t think it can.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And while it’s one thing to be confident that you’re right. It’s entirely another to assure you’re ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not wrong",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

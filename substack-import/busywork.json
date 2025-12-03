@@ -1,0 +1,84 @@
+{
+  "title": "Busywork",
+  "slug": "busywork",
+  "publishedAt": "2020-08-30T07:00:00.000Z",
+  "excerpt": "It turns out you can keep busy for quite a long time without ever doing  anything  in particular.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out you can keep busy for quite a long time without ever doing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "anything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " in particular.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps, that’s because action disconnected from clearly defined goals and objectives is just action.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lots of movement, but no ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "direction",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Just because you’re doing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " doesn’t mean you’re making progress.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

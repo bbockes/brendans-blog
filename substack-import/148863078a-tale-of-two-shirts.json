@@ -1,0 +1,83 @@
+{
+  "title": "148863078.a Tale Of Two Shirts",
+  "slug": "148863078a-tale-of-two-shirts",
+  "publishedAt": "2025-11-30T19:29:55.628Z",
+  "excerpt": "A few years ago I discovered a gem of a thrift-store find: a blue Thomas Pink travelers shirt with my exact measurements, for $7. For those unfamiliar with the brand, these are top-quality handsewn sh",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A few years ago I discovered a gem of a thrift-store find: a blue",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Thomas Pink",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "travelers shirt with my exact measurements, for $7. For those unfamiliar with the brand, these are top-quality handsewn shirts that sell for well over $150 each...a cut (literally) above anything you might otherwise consider superb (think: Brooks Brothers or Jos.Bank).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.thomaspink.com/us/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For all intents and purposes, it's my favorite shirt. I wear it for headshots, high-profile dates, and job interviews. But it's not the shirt I wear the most. (In fact, it's probably the shirt I wear the least.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What is? Enter the overpriced $45 IZOD blue flannel shirt my Mom got me from Khols last Christmas. It's not pretty (comparitively), it was probably made in China by a machine, but it is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "comfortable. And--considering I sport it as a de facto robe--you can find me wearing it pretty much every other day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It gets worn the most often, but it's not my favorite. How can this be? Value is subjective (and contextual). And preference isn't always a function of utility or price. (Keep that in mind the next time you make something to buy).",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

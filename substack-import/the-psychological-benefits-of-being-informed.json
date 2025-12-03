@@ -1,0 +1,53 @@
+{
+  "title": "The psychological benefits of being informed",
+  "slug": "the-psychological-benefits-of-being-informed",
+  "publishedAt": "2019-11-27T06:34:34.000Z",
+  "excerpt": "If you don’t know you have options, it’s hard to stay confident in the face of uncertainty. And given all that ambiguity, it’s even harder to start.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you don’t know you have options, it’s hard to stay confident in the face of uncertainty. And given all that ambiguity, it’s even harder to start.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But if you know how the world works, that this path leads to this outcome, and that their ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " opportunities available, well then it’s going to feel a lot different than it does starting from nowhere.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Following a map (and knowing the terrain) sure beat following nothing.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

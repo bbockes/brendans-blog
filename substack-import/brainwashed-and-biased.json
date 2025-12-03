@@ -1,0 +1,64 @@
+{
+  "title": "Brainwashed and biased",
+  "slug": "brainwashed-and-biased",
+  "publishedAt": "2020-10-04T07:05:00.000Z",
+  "excerpt": "We all are. Every single one of us.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We all are. Every single one of us.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Molded by a lifetime of one-sided experiences.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Oddly enough, asking around—your friends, your colleagues—for ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "their",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " version of the truth, is the best way to develop any sense of objectivity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Find accuracy in averages.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

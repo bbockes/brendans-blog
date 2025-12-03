@@ -1,0 +1,98 @@
+{
+  "title": "Real stories",
+  "slug": "real-stories",
+  "publishedAt": "2020-10-07T07:05:00.000Z",
+  "excerpt": "There’s a great line in Bird by Bird by Anne Lamott. It goes like this:",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s a great line in Bird by Bird by Anne Lamott. It goes like this:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“To be a good writer, you not only have to write a great deal but you have to care. You do not have to have a complicated moral philosophy. But a writer tries, I think, to be part of the solution, to understand a little about life and pass it on.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It occurred to me recently, that you can just as well replace the words ‘writer’ and ‘write,’ in the above sentence, with nearly any other form of knowledge work. Because whether you’re a designer or a developer or a brand strategist—we’re all just trying to make things better. (Otherwise, these choices would be in the hands of our clients or our customers, and we wouldn’t have these jobs.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In the spirt of making things better, I think there’s a moral impetus for us to do things that have user’s best interests at heart. And I find it odd that we don’t already have such standards in place. After all, designers have heuristics, and financial advisors have fiduciary obligations, and doctors have the Hippocratic Oath. So, why don’t we simply draw up some standards and make them formal decree?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nowhere is this more needed than in politics, and in business and marketing, and journalism and media. Because no matter what you do in these industries, your job at the end of the day is to tell stories. Stories that resonate with your listeners and their world-view, that align with our most sincere values, and frankly, that reflect the truth.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, in telling stories, it’s our job--our responsibility—to discern between an accurate story and a fib. To know the difference between a white lie and hyperbole. To make promises that are filled with possibly, but also promises that we can keep. It doesn’t do anyone any good if you can’t discern fact from fiction.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider, for example, the unprecedented rise of gaslighting in present media. After nearly 6-9 months of economic breakdown, businesses (and politicians) are eager to open back up, and even more eager to convince us that things have returned to normal. So, here they are—a billboard here, a commercial there, billions spent on advertising—all in a mad effort to convince us that everything is okay. Or rather, that even though things are not okay or entirely back to normal, every brand in sight can and will come to your aid, and help us get back to the way things were. (As if Covid is long gone or never even existed.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Who makes these choices? About what to say and what not to? About what’s an embellished claim versus an overblown truth? I don’t have the authority to make that call for every brand or person in every medium. But strategists, plural—the people who make choices about what others read and consume and watch—certainly can, and they certainly should. Because while making great promises is an essential step in making progress, delivering on them is just as, if not more, important.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

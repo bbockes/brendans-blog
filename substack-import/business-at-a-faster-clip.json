@@ -1,0 +1,132 @@
+{
+  "title": "Business at a faster clip",
+  "slug": "business-at-a-faster-clip",
+  "publishedAt": "2021-08-03T05:21:20.000Z",
+  "excerpt": "A  clipper ship  is a ship with lots of sails.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "clipper ship",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a ship with lots of sails.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Clipper"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "More precisely, it was a vessel with a remarkably large sail-plan (surface area of sails)—ideal for moving people or cargo as fast as possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ship builders once made a fortune building and selling the ships for profit, both for the trip between China and England (during the mid-1800 tea-trade), and between New York and San Fransisco (during the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "California Gold Rush",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ").",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Gold_rush#/media/File:California_Clipper_500.jpg"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a great case-study to say the least. Not the least because the shipwrights who build them were in search of tea or gold. But because, by the craze of greed and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "groupthink",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (and the good sense to avoid them)—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "these",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " merchants found a better (albiet more modest) way to make it rich.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Bandwagon_effect"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not with tea or gold. But with the means to go out and find it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

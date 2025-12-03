@@ -1,0 +1,95 @@
+{
+  "title": "148862227.same Time Same Place",
+  "slug": "148862227same-time-same-place",
+  "publishedAt": "2025-11-30T19:29:44.270Z",
+  "excerpt": "Waking up at 5. Or going to bed at 11. Everyday.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Waking up at 5. Or going to bed at 11. Everyday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Working (on yourself, your side-hustle or your brand) for an hour or two before you go to work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or hitting the gym right after.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Writing, at the peak of dawn, or on your lunch break, or in the same cafe afternoon.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The quality of your output doesn’t matter nearly as much as the time you put in. Because as long as it’s a consistent routine, an ever expanding",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "chain",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "of events, there’s always tomorrow.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brendanbockes.typepad.com/blog/2018/09/dont-break-the-chain.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everything gets better in time. The important part is committing to a process (a time, a place, a practice) to begin with.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

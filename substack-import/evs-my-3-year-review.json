@@ -1,0 +1,172 @@
+{
+  "title": "Evs my 3 year review",
+  "slug": "evs-my-3-year-review",
+  "publishedAt": "2019-06-02T07:32:00.000Z",
+  "excerpt": "Thursday marked my three 3 anniversary of owning my 2013 Nissan Leaf.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thursday marked my three 3 anniversary of owning my 2013 Nissan Leaf.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s been a fun ride to say the least. By far the best car I’ve ever owned (or driven), and (in my opinion), an incredible(!) value.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Make no mistake, EVs are the future. If you’ve driven one, you know what I mean. Their quiet (silent). Fun to drive (no gears make for quick, effortless acceleration). And matched with the onboard tech, it literally feels like the future.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, they’re not without their shortcomings.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In my case, my Leaf tops out at 85 miles of range (that’s how far you can go on a full charge). That means I can basically make the 30 mile drive from my house in the suburbs to the nearest city (DC) and back, on a good day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If I’m blasting the AC, however, it shaves off about 4 miles. If it’s freezing outside (under 30F) and I’m running the heater, it takes off anywhere from 10 to 15.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Obviously, with roughly 40 miles each way, I can’t go very far on a single charge. Which means I have to plan out where I’m going ahead of time, and be conscious of how much range I have left. It also makes long distance trips impossible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Charging (in case your curious) is fairly straightforward. It all depends on the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "power output",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and can take anywhere from 30 minutes to 8 hours. If all your doing is driving within 30 miles of your home (like most people do on an average day), however, you don’t really need to charge while you’re out…and charging at night while you’re asleep is often sufficient.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://chargehub.com/en/electric-car-charging-guide.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The biggest problem moving forward concerning the mass adoption of EVs is likely going to be the distribution of charging stations. We’ll inevitably get cars that have 400 or 500 miles of range. But having the infrastructure to support them is going to be a challenge.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "While there are many public EV charging stations available, there’s not currently a default standard. Instead, there are roughly a dozen EV charging networks that all have their own business model, policy, prices, and user experience. Moreover, there’s not currently enough chargers available for more than 10% of the population to reliably access. In fact, it’s already becoming too difficult to access one when you need to, especially if you live in a busy metropolitan area.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, maintenance is likely going to be an issue as well. I’ve seen dozens of broken (useless) chargers scattered around the DMV alone. Getting them fixed (and contacting someone who can fix it) is going to be a constant operation.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. For a city car, EV’s are an amazing deal. And if you’re frugal like me and only take an out of town trip once or twice a month, it’s probably cheaper to rent a car than to fork over another 10-20K on a gas-guzzler.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re interested, I’d recommend you look into a Nissan Leaf or Chevy Bolt. They’ll both give you a little over 200 miles of range for a little over $30,000, but you can probably find them cheaper used (I got mine used for $13K). Of course, if you can afford to splurge, the value of the Model 3 (and their extensive supercharger network) is unparalleled.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "148863258.first Learn The Words",
+  "slug": "148863258first-learn-the-words",
+  "publishedAt": "2025-11-30T19:29:59.625Z",
+  "excerpt": "Not unlike the tools we use, words are pretty cheap and easy to pick up.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not unlike the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "tools",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "we use, words are pretty cheap and easy to pick up.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2020/05/dancing-with-tech/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, if we’re eager to learn anything, learning the words might be the best place to start.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After all, if you don’t know what we—the experts, the pundits, the tribe—are talking about, it’s hard to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "contribute",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "anything meaningful to the conversation.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/reciting-wikipedia-vs-being-apart-of-the-conversation/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Diffusing dunbars number",
+  "slug": "diffusing-dunbars-number",
+  "publishedAt": "2018-03-30T13:50:39.000Z",
+  "excerpt": "Dunbar  is probably right about having 150 friends.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Dunbar",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is probably right about having 150 friends.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Dunbar%27s_number"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thing is, connections aren’t friends. Neither is your network.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Connections are links. Links to thoughts, to hobbies, to experiences, to stories, to jobs, to people, etc. Thus, if you’re intentionally limiting your circle because you can’t realistically interact with all the members of your digital rolodex, you’re essentially narrowing your exposure to new ideas.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Case in point: take a concept you had little or no exposure to ten years ago (a few from my experience: cryptocurrency, augmented-reality, momos, experience-design, Rapi Kaur, etc.) Think about how you discovered them. Were they shared with you by a friend or colleague? Now think about how much more time it would have taken you to find these concepts if they weren’t shared, by way of a serendipitous encounter.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed, the odds are dramatically lower. Because ideas aren’t dispersed in a vacuum. They’re shared from network to network via connection.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For the modern creative, then, more connections equals more ideas, more leverage, and more impact. You can’t have more than 150 true friends any more than you can interact with every idea or hyperlink you come into contact with. But that doesn’t mean you shouldn’t befriend new people. Or expand your network. Or, to use the analogy of reading, buy more books than you have time to scrutinize.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Connections beget connections. In a connection-driven economy, that's how you win.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

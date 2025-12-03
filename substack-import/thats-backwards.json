@@ -1,0 +1,144 @@
+{
+  "title": "Thats backwards",
+  "slug": "thats-backwards",
+  "publishedAt": "2021-07-14T07:24:54.000Z",
+  "excerpt": "It turns out that in  Amsterdam  you don’t pay to board a train. You pay just before you get off—otherwise, the system will continue to charge your card as if you’re still onboard.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out that in ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Amsterdam",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " you don’t pay to board a train. You pay just before you get off—otherwise, the system will continue to charge your card as if you’re still onboard.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://medium.com/bakken-b%C3%A6ck/the-newcomers-guide-to-amsterdam-eca9536ab620"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People who live in Yupno Valley, in the remote mountains of Papua New Guinea, don’t see ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the past",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " as something behind us—but rather something below us.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.scientificamerican.com/article/how-we-make-sense-of-time/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "nomads",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " of all kinds don’t own a home…at least not one tied to a physical address. They don’t need one.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=6sxCFZ8_d84"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So much of what we do, think, and feel is tied to our culture. By the places and people we call home.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So much so that it’s easy—and terribly tempting—to confuse (our) culture with what’s normal, ordinary, or commonplace.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And why regularly confronting things that appear to be backwards is a healthy habit to embrace.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Helping us to see what’s right-side-up for a reason (versus what’s normal, but technically backwards based on what we expect.)",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

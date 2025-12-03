@@ -1,0 +1,83 @@
+{
+  "title": "148863098.asking The Right Questions",
+  "slug": "148863098asking-the-right-questions",
+  "publishedAt": "2025-11-30T19:29:56.112Z",
+  "excerpt": "It occurred to me recently that so much of what we do as artists and designers and thinkers and leaders really comes down to asking the right questions.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It occurred to me recently that so much of what we do as artists and designers and thinkers and leaders really comes down to asking the right questions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because at the end of the day, we’re really just trying to make things better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People, products, systems, society. It doesn’t matter the context so much that we ask the questions that will give us the most clarity and insight. And then, from that, ask the questions that will enable us to use our data to make our iterations not only statistically significant, but remarkable all-around.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s true that asking the right questions is how you avoid",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ambiguous",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "feedback. But it’s much more than that, because the right questions are also what make both discovering and utilizing the right",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "data",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "possible. Giving you the information you need to make fully informed decisions about what to do next, and what not to.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/how-is-everything/"
+        }
+      ]
+    }
+  ]
+}

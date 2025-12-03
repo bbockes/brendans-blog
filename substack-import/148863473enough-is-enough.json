@@ -1,0 +1,135 @@
+{
+  "title": "148863473.enough Is Enough",
+  "slug": "148863473enough-is-enough",
+  "publishedAt": "2025-11-30T19:30:02.274Z",
+  "excerpt": "Everyone has their own threshold for adequateism .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everyone has their own threshold for",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "adequateism",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/adequate-ism/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Some bloggers, for example, want to have thousands of followers. I’m okay with ten.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Some people get a kick out of running 42 whole kilometers. Other people find joy in walking one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many people won’t be happy unless they make over 80K this year, but others are perfectly fine with around 50.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And some businesses want to scale to infinity, while others are intentionally and happily small.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The point is not to feel bad (or to shame people) because",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "your",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "definition of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "enough",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is bigger or smaller than others’.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://pjrvs.com/enough"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s to decide on what your enough is. And to embrace the fact that your enough is enough, for you.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "title": "148863566.an Eye For Something",
+  "slug": "148863566an-eye-for-something",
+  "publishedAt": "2025-11-30T19:30:03.587Z",
+  "excerpt": "Designers and artists talk a lot about learning to see —opening your eyes to the design details around you. I don’t think this is nearly as mystical as it appears.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Designers and artists talk a lot about",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "learning to see",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—opening your eyes to the design details around you. I don’t think this is nearly as mystical as it appears.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://vimeo.com/45232468"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Great engineers, for example, look a well-made bridge differently than you or I do. They can tell when and why something been masterfully executed and designed.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Same goes for army generals, architects, and chefs.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After you’ve been exposed to the good and the bad for long enough, it gets easier to notice organically what works and what doesn’t. And easier still to discern the astonishingly(!) great from the good.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As an avid-reader and writer, I can read a piece of writing and tell you how well it’s been written. That’s no surprise. But the same can be said for other people in other professions. They see things differently, notice things that are easily missed, and use their viewpoints to create and do things worth cherishing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson is not that you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "learn to see things differently, in",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "any",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "area you wish. But that by never so much as noticing what’s there, and what could be better, you’ll never learn to look.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

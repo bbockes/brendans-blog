@@ -1,0 +1,106 @@
+{
+  "title": "148863694.layers Of Empathy",
+  "slug": "148863694layers-of-empathy",
+  "publishedAt": "2025-11-30T19:30:04.931Z",
+  "excerpt": "Most of the time when we show empathy for others it's pretty one-dimensional.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of the time when we show empathy for others it's pretty one-dimensional.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "\"She's got to work the holiday weekend. That sucks.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We rarely think all the other experiences and feelings they'll endure.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How the cold will feel on their face. What’s it like talking to impatient customers at 7pm on a Friday. How long (or frustrating) their commute might be.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps that’s why articulating their feelings, frustrations, thoughts and opinions might be the perfect",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "exercise",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "in fabricating a little of it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.nngroup.com/articles/persona/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because it doesn’t matter if you get your persona 100% accurate. Or that you literally walk a mile in their shoes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Just that you feel what they feel, think what they think, or see the world from their point of view, if only momentarily.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

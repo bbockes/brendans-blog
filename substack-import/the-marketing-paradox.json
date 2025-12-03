@@ -1,0 +1,116 @@
+{
+  "title": "The marketing paradox",
+  "slug": "the-marketing-paradox",
+  "publishedAt": "2019-05-29T05:16:00.000Z",
+  "excerpt": "The irony of marketing is that organizations who create great products rarely have to do a lot of it.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The irony of marketing is that organizations who create great products rarely have to do a lot of it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Disney doesn't have to do a lot of cold-calling to sell tickets to Disney Land.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Neither do the folks at ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Jeni's",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " Splendid Ice Creams. Regardless of their $10+ per pint markup.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Or consider the few who gladly fork over a few hundred dollars for a pair of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "jeans",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://jenis.com/about/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://hiutdenim.co.uk"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is to say that the best way to market a product is to start by creating one people are willing eager pay for to begin with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Otherwise you're stuck finding/soliciting/convincing people to buy a thing they don't aready (and might never) care about from the start.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

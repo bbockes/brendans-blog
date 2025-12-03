@@ -1,0 +1,164 @@
+{
+  "title": "What tech diet are you on",
+  "slug": "what-tech-diet-are-you-on",
+  "publishedAt": "2019-03-30T07:05:00.000Z",
+  "excerpt": "I think we can all agree that tracking the calories you consume on a diet heavy on sweets isn’t likely to help you lose weight.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I think we can all agree that tracking the calories you consume on a diet heavy on sweets isn’t likely to help you lose weight.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The same could be said for Apple’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Screen Time",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " feature. Knowing something isn’t working (or how much it consumes your time) isn’t the same as changing your behavior.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.wired.com/story/apple-screen-time-digital-wellness-tech-addiction/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In the same way that switching to a diet coke won't improve your health, taking a momentary break from your phone won't curb your attention deficit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, what enables lasting change is a long-term commitment to a new way of being. Taking a hard look at your current lifestyle, assessing your values, and taking steps to change your relationship.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Digital minimalism",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is but one method that can help you reassess how you use digital tools. So is a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "phone detox",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", regular forest bathing, or embracing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "analog social media",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://medium.com/s/story/six-years-with-a-distraction-free-iphone-8cf5eb4f97e3"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "http://calnewport.com/blog/2018/12/29/join-analog-social-media/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In the same way that there certainly isn’t a one and only diet for everyone, I predict we’ll soon see a variety of digital wellness programs tailored for a variety of lifestyles. The point being not to find a miracle end-all-be-all method, but to adopt something that works for you and aligns with your values.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Screen Time doesn’t work for the same reasons counting calories doesn’t directly help you loose weight. Noticing your dependency or how your desctructive habits manifest might be a useful exercise in acknowledging that you have a problem. But it’s far and away from the mental shift of being ready and willing to make a commitment to something new. Ultimately, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is what is going to replace your behavior.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

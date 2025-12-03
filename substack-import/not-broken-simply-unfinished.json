@@ -1,0 +1,156 @@
+{
+  "title": "Not broken simply unfinished",
+  "slug": "not-broken-simply-unfinished",
+  "publishedAt": "2021-01-22T06:02:30.000Z",
+  "excerpt": "It’s amazing how much you can change your perspective by changing the narrative. Turning a phrase. Playing with words.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s amazing how much you can change your perspective by changing the narrative. Turning a phrase. Playing with words.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“I’m no good at this” is a handicap. “I’m no good at this ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "yet",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "” is an opportunity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“I didn’t make the team” is immutable. “I haven’t made the team, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "so far",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "” is alterable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not everything is final. Discerning between what ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " and what ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "isn’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is a form of realism that can literally change ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Enabling possibility. Not discouraging it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hat tip to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Amanda Gorman",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " for the title.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/mqa-FiEKLcI?t=44"
+        }
+      ]
+    }
+  ]
+}

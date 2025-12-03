@@ -1,0 +1,106 @@
+{
+  "title": "On the dangers of labeling problems as such",
+  "slug": "on-the-dangers-of-labeling-problems-as-such",
+  "publishedAt": "2015-11-04T19:58:46.000Z",
+  "excerpt": "Trick question: if someone you care about has a personal problem but doesn’t yet know it is one, should you inform them of it?",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Trick question: if someone you care about has a personal problem but doesn’t yet know it is one, should you inform them of it?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Suppose, for example, you have a kid who’s shy, but doesn’t quite yet know that being shy is a social impediment in our culture, should you tell him he has a problem?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I think not. I think telling people about their inadequacies only serves to lower their self-esteem, a practice that, as ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Brene Brown",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " has written extensively about, generally (and ironically) only lowers one’s chances of overcoming their personal problems.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://brenebrown.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Along those lines, for the kid who is shy, being labeled “shy” only makes it ever more likely that he continues to be shy, because in his mind being “shy” is a fixed trait, rather than an emotion he can control. On the flip side, if you were to comment on his style of being quiet in specific circumstances (like around strangers), it’s much more likely he’ll change his actions. This is because acting quite in a specific situation is very different from the thinking of being quite in general. The latter is seen as a fixed personality characteristic, whereas the former is a specific action step, one that allows for the possibility of change.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Certainly you can encourage him to talk more and change his behavior, that’s easy. Place him in a safe environment and take baby steps. Go from talking to dogs to making small talk with his friends to speaking up in class. That’s behavior modification, and it works.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But don’t tell him he has huge personal problem that if left unchecked will ruin his chances of having a future social life, and therefore a life in general. Labeling personality traits as fixed personality flaws and/or problems (even if that’s not your intention) only serves to make it harder to actually change those behaviors.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "My advice: If someone you care about has a personal issue, don't make it big deal, don't amplify it, and don't use language that makes their problem appear as a fixed trait. Instead, simply encourage baby steps and small progress. And encourage them to look at change as a gateway, not something that absolutely must happen to guarentee a good life, but an opportunity and a choice, a means to experience life more richly and more fully.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

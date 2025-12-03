@@ -1,0 +1,100 @@
+{
+  "title": "148863271.its On All Of Us",
+  "slug": "148863271its-on-all-of-us",
+  "publishedAt": "2025-11-30T19:29:59.895Z",
+  "excerpt": "This pretty much sums up my take on #blacklivesmatter.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "pretty much sums up my take on #blacklivesmatter.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.instagram.com/p/CA0liW7B6Ly/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because they do. And we—collectively—have an obligation to end inequity of all kinds.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To dismantle our privilege. And to disrupt the systems that make it possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not easy. For anyone. But it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "our responsibility.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because protesters protesting with like-minded protesters will never eradicate racial injustice on their own.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Changing the conversation from ‘this is someone else’s problem’ to ‘this is something that affects us all’ is the only way that possibly will.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

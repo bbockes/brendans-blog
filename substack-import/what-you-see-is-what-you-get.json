@@ -1,0 +1,116 @@
+{
+  "title": "What you see is what you get",
+  "slug": "what-you-see-is-what-you-get",
+  "publishedAt": "2019-04-18T05:59:00.000Z",
+  "excerpt": "Writers block can be a powerful  nocebo  for the writer who’s uncomfortable with publishing bad ideas.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Writers block can be a powerful ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "nocebo",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " for the writer who’s uncomfortable with publishing bad ideas.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brendanbockes.typepad.com/blog/2017/10/writers-block-is-a-nocebo.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the myth of the struggling artist can be a supportive crutch for the artist unwilling to pick themselves.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The same can be said for all the people who think they're no good at math, can’t dance, or aren’t creative. Saying “I’m not built that way” is self-reassuring as much as it is self-sabotaging.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The converse is also true.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Believing you can (despite no actual evidence) can be a powerful antidote against self-doubt.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And “acting as if” can often be a sure-fire route to building the credibility, confidence and feedback cycles you need to thrive.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If your narrative or posture doesn’t serve you, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "change it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

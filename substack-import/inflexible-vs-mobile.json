@@ -1,0 +1,75 @@
+{
+  "title": "Inflexible vs mobile",
+  "slug": "inflexible-vs-mobile",
+  "publishedAt": "2021-07-23T05:52:13.000Z",
+  "excerpt": "Most companies are stuck doing what they’re good at.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most companies are stuck doing what they’re good at.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Enabling other companies to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "capitalize",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " on doing what they aren't.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Making something new. Doing something that’s never been done before.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s how every breakthrough company you know of went from underdog to top dog.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not by being better than their competitors at what they did. But by finding new and better ways to deliver the same outcome.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

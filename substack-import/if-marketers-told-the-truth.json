@@ -1,0 +1,174 @@
+{
+  "title": "If marketers told the truth",
+  "slug": "if-marketers-told-the-truth",
+  "publishedAt": "2017-11-06T11:18:19.000Z",
+  "excerpt": "Dunkin Donuts would sell an assortment of diabetes-inducing, somewhat-stale fried-dough confectionary treats, with a variety of flavors.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Dunkin Donuts would sell an assortment of diabetes-inducing, somewhat-stale fried-dough confectionary treats, with a variety of flavors.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "SUV and pickup truck dealers would sell large, overpriced vehicles with bigger engines, horrible gas-mileage, and more rigid-looking frames (which give the perception that they’re safer or higher quality but not ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ").",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Criticism_of_sport_utility_vehicles"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And Apple would confess that their watch is really a high-priced smart-watch that can do everything your phone can do only with a much less functional UX. Or that their latest phone is merely an exorbitantly overpriced emoji ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "machine",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=sjlHnJvXdQs"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Who knows? Maybe every retailer in the world would fess up and tell you that the price you pay for an item (even if it’s at a discount) is significantly higher than the price it costs them to manufacture it (sometimes by as much as 300%). Consider that the marginal cost for the software, apps or media you’ve paid for, on the device you’re reading this on, cost virtually nothing for the distributor to make one more copy of. Or how ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Brandless",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " still makes a profit selling everything in it’s inventory for a mere $3.00",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brandless.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The reality is you and I have been lied to. Deceived into the idea that what we’ve paid for is worth far more than it costs.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, this is what every successful marketer does. They spin us a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "story",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " we choose to believe that enables us and encourages us to interact with them.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.npr.org/templates/story/story.php?storyId=5222377"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The truth is, we lie to ourselves (all the time) so we can have the things we believe we want.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Great marketing simply lets us off the hook.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

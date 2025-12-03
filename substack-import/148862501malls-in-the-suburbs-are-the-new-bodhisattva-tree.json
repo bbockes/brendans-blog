@@ -1,0 +1,62 @@
+{
+  "title": "148862501.malls In The Suburbs Are The New Bodhisattva Tree",
+  "slug": "148862501malls-in-the-suburbs-are-the-new-bodhisattva-tree",
+  "publishedAt": "2025-11-30T19:29:46.590Z",
+  "excerpt": "That’s the best kōan I’ve got.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s the best",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "kōan",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "I’ve got.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/K%C5%8Dan"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out you don’t need to go on a 7 day retreat to a Himalayan monastery if you want to find inner peace.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Where you are right now is sufficient.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

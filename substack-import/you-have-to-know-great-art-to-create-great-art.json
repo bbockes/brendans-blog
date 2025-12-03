@@ -1,0 +1,73 @@
+{
+  "title": "You have to know great art to create great art",
+  "slug": "you-have-to-know-great-art-to-create-great-art",
+  "publishedAt": "2016-06-02T14:13:29.000Z",
+  "excerpt": "If you read as much as I do, there comes a point when you get a pretty good sense of the quality of any particular piece of writing. Great writing is entertaining, engaging and above all, it flows. It",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you read as much as I do, there comes a point when you get a pretty good sense of the quality of any particular piece of writing. Great writing is entertaining, engaging and above all, it flows. It’s like a good conversation. And so, if you read enough, eventually you can tell what is great writing versus what isn’t. Do it enough, and it becomes intuitive. And yet, I have no idea how to sit down in front of computer and write something like Malcolm Gladwell. Gladwell’s put in his 10,000 ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "hours",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", he’s knows what he’s doing, and it’s very apparent to me that his writing is par excellence. I’m aware of this on an intuitive level (even for writers who are far less well known), but I still don’t know how to write at that level of quality organically.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.wisdomgroup.com/blog/10000-hours-of-practice/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Same thing applies (I’m sure) to all other forms of art, like music. My brother, for example, is going to Chicago in September to pursue his master’s in saxophone performance. He’s certainly fabulous on saxophone, and to the normal (non college level instrumentalist) he sounds like a pro. And yet he regularly listens to music by musicians that are way above his level, and he knows what really great music sounds like. He has almost intuitive sense of the nuances in the tone and expression of particular notes, even on extremely complex pieces. And he’s aware of this, on a level, I’m sure, that many people aren’t even remotely aware of. And yet he can’t quite yet play at the level of his instructors. He can see it, hear it, feel it and understand it, but he can’t create music at that level of playing on the fly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s this invisible, intuitive “knowing” from years of exposure that, I think, separates the professionals from the amateurs. It’s what, if you’re lucky, you get paid to do for living. And ideally, it’s what we go to school for. Not to be taught something that can be handed to us in a book or lecture, but this illusive skill and way of looking at our craft that we gradually develop over time as we immerse ourselves more and more fully in the stuff of quality.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "My point is, my brother and I won’t get better in our respected fields of interest in a vacuum. It’s understood that we’ll have to work hard, through trial and error, and disciplined practice for years to become like the artists we aspire to be. But at the same time, we have to continually expose ourselves to material that’s better than our own, and consistently push ourselves to create at that level. Once you have an intuitive sense of what great art looks like, then you can begin to learn to replicate it, to copy, to steal, and to create something uniquely your own. But you have to have that instinctive quality first. And that’s something you simply can’t read about in a book.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

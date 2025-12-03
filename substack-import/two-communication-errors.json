@@ -1,0 +1,127 @@
+{
+  "title": "Two communication errors",
+  "slug": "two-communication-errors",
+  "publishedAt": "2017-01-03T11:15:23.000Z",
+  "excerpt": "Communication is a tool we use to exchange ideas and be understood by one another. Language (whether it's your first, second or third) is the medium by which we communicate.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Communication is a tool we use to exchange ideas and be understood by one another. Language (whether it's your first, second or third) is the medium by which we communicate.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We spend an enormous amount of time and effort trying to get people to communicate better, whether it's verbal or written or simply talking in front of an audience. That's what english is for in grade school, and all those general education english look-alike classes you take in college. And it's why all manner of job training deals so much with looking people in the eye, articulating your thoughts clearly and speaking directly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And yet, most of the day to day problems we face when dealing with people are situations where we misunderstand or are misunderstood. This is primarily because of two reasons.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The first, and most obvious, is someone (you or your counterpart) makes an assumption about what was communicated, whether it be what was literally expressed, or the implications of what was said based on the other person's non-verbals or tone, and that false assumption (however 'right' in their mind) creates an unfavorable impression and/or misinterpretation. We're all familiar with this one, we say something (often trying to be funny), our counterpart makes an assumption about what was said, they're offended, we're confused. Happens all the time. The solution here is pretty simple, give the other person the benefit of the doubt. Sure, they might be trying to offend you, but don't lean into it until you're 100% confident they are. That is, until they're upfront castigating you in your face, assume the best. At worst, it can make you appear less reactive and more mature, at best, you can avoid a potential conflict altogether.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The second situation where we often find ourselves misunderstanding one another is simply a misunderstanding of the concepts being spoken. This applies not only to situations where a word (or mannerism) in one language means something completely different in another (did you know the word \"avocado\" means \"testicle\" in Nahuatl?), but also between individuals speaking the same language, but misunderstanding the meaning behind the same words being spoken.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Classic example: someone walks into a Starbucks with a friend, and not knowing much about coffee and espresso beverages they say to the barista, \"I'd like a coffee beverage with flavor that's not too strong and not to light....with no milk.\" The barista might then conclude they want a medium roast black coffee (no milk, coffee ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "flavor",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", not a blonde roast, not a dark roast, just right). To anyone that speaks \"coffee,\" this is what the patron ordered. But most people don't speak coffee (even folks who go to Starbucks three times a week). And so generally you have an upset customer who justifiably believes the barista has no clue what he's doing. This is why semantics matter, because if you (or the person you're talking to) doesn't understand what a word means, how can they possibly understand what's being communicated. And words, whether it's \"espresso\" or \"cappuccino\" or big-words like \"amphigory\" or \"neuroplasticity\" or \"boondoggle,\" are the means by which we communicate.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So, learn your vocabulary. It's not just about passing your grade school exam, it's about articulating clearly and efficiently what you want and what you mean. Words matter.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And for the folks who don't understand Starbucks coffee-speak yet, here's a great guide: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "click here",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://vamers.com/2016/04/21/ordering-at-starbucks-a-guide-to-starbucks-lingo/"
+        }
+      ]
+    }
+  ]
+}

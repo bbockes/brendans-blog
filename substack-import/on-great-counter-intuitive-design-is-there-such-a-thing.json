@@ -1,0 +1,87 @@
+{
+  "title": "On great counter intuitive design is there such a thing",
+  "slug": "on-great-counter-intuitive-design-is-there-such-a-thing",
+  "publishedAt": "2017-01-17T12:04:47.000Z",
+  "excerpt": "We talk a lot about breakthrough ideas as being revolutionary, out of the box concepts. But what about design?",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We talk a lot about breakthrough ideas as being revolutionary, out of the box concepts. But what about design?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Should you turn it counter-clockwise to open? Or clockwise?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Should the warning light be red? Or green? Or blue?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Should “raise volume” buttons be above the “decrease volume” buttons on your smartphone? How about the position of “lock” and “unlock” in your car?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Is it necessary to have handles on doors that need to be pushed away from you to be opened?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Certainly, whether something is intuitive or not depends on how it’s already been baked into our culture. And it’s always insightful when art shows us how things can be different. But if you carelessly make a widget or a website or anything that’s not intuitive by design (without intending to) then you’re doing anyone who will ever use your product a disservice.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Call me an idealist, but great design is intuitive design. You shouldn’t have to check the FAQ page any more than you should have to consult the instruction manual. You should be able to use a thing without thinking too hard about how to use it. And baffled when considering how it could be designed better any other way.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

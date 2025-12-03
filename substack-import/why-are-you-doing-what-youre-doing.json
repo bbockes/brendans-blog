@@ -1,0 +1,105 @@
+{
+  "title": "Why are you doing what youre doing",
+  "slug": "why-are-you-doing-what-youre-doing",
+  "publishedAt": "2018-06-01T11:41:40.000Z",
+  "excerpt": "If you find yourself doing something and you don’t yet know the answer to that question, maybe it’s about time you asked.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you find yourself doing something and you don’t yet know the answer to that question, maybe it’s about time you asked.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Why am I doing this (or not doing this?) Why do I believe what I believe?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And then ask again. And again. And again.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Until you uncover a (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "first",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") principle. A fundamental truth. The foundation for a worldview or a brand of knowledge or a chain of reasoning or a mode of behavior.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/First_principle"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Past your cultural biases, your assumptions or your unconscious predispositions. Beyond analogy or deduction or doubt.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you indubitably know why you’re doing what you're doing, it’s a lot easier to realize what you should be doing next, and why.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

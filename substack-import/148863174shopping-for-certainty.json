@@ -1,0 +1,84 @@
+{
+  "title": "148863174.shopping For Certainty",
+  "slug": "148863174shopping-for-certainty",
+  "publishedAt": "2025-11-30T19:29:58.037Z",
+  "excerpt": "I've often wondered why freelance clients looking for writers will so often scrutinize your work history and CV, but won't often give a second thought to what you actually wrote or how many words you'",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I've often wondered why freelance clients looking for writers will so often scrutinize your work history and CV, but won't often give a second thought to what you actually wrote or how many words you've written.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or why so many people rely on overused, arbitrary metrics to track their performance, even when those",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "numbers",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "don't often measure much.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2014/05/speedometer-confusion/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or, even, why so many people find reasons to watch the news everyday, even when it rarely tells them anything actually new.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The reason, I realize, is obvious: faced with groundlessness, competing priorities, busyness and the like, people crave solidarity and certainty. And we don't tend to think much about whether our sources or options are the best or actually right.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People shop for certainty all the time. And when we do, we often settle for average and invest in things we think we know will work. Even if it means we choose to overlook many things that might work out better, for fear they not work at all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

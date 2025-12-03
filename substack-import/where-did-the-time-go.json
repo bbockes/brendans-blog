@@ -1,0 +1,53 @@
+{
+  "title": "Where did the time go",
+  "slug": "where-did-the-time-go",
+  "publishedAt": "2021-03-04T06:07:00.000Z",
+  "excerpt": "I recently started tracking how I spend my time, and I realized an immediately applicable truth.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently started tracking how I spend my time, and I realized an immediately applicable truth.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you don't know where your time goes, there's no question you'll likely lose sight of some of it. (Because you never proactively ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "planned on",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " using it to begin with.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Fortunately, the opposite is just as true.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "The best trips are the serendipitous ones",
+  "slug": "the-best-trips-are-the-serendipitous-ones",
+  "publishedAt": "2019-07-21T19:52:57.000Z",
+  "excerpt": "...are the serendipitous ones.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...are the serendipitous ones.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not because you don't know where you're going.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But because you're open to finding something you didn't know was there.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

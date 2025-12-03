@@ -1,0 +1,83 @@
+{
+  "title": "And you call yourself a writer",
+  "slug": "and-you-call-yourself-a-writer",
+  "publishedAt": "2020-02-28T06:20:53.000Z",
+  "excerpt": "Yesterday I found not one, but three typos in something I wrote and published to my blog. For a fleeting second I was back in grade school being harassed by teachers about punctuation and grammar and ",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yesterday I found not one, but three typos in something I wrote and published to my blog. For a fleeting second I was back in grade school being harassed by teachers about punctuation and grammar and semantics.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Red marks strewn about, like an inebriated memorandum of condemnation. Me realizing that maybe, just maybe, I'm not so cut out for this as I may have thought.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's when I remembered that, not unlike your response to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "rejection",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " are the only person you can tell yourself definitively that you weren’t made to do a thing well.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/when-youre-rejected/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All those rejects from ivy-league talent-scouts? Presumably failed artists? Penniless actors? Newsflash: You are about as capable as you make up your mind to be. That much has always been true. Even when you miss the mark, fail to make the grade, and, especially, don’t get picked for the team.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

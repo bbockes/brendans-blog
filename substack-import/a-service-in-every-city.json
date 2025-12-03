@@ -1,0 +1,65 @@
+{
+  "title": "A service in every city",
+  "slug": "a-service-in-every-city",
+  "publishedAt": "2023-01-25T05:00:00.000Z",
+  "excerpt": "Here’s something that’s pretty obvious with profound implications: In every city in the world, there’s likely someone who needs the services you provide.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s something that’s pretty obvious with profound implications: In every city in the world, there’s likely someone who needs the services you provide.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This means that if your skills are scarce and valuable, you’ll almost always find work, no matter where you go.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, if you don’t need to be in the same place to do your job as your clients or your customers, it also means you can work from anywhere, while still making a name for yourself elsewhere.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why a full service agency that provides many services can rank for a few of them in a handful of places. Or why a talented freelancer can make six-figures by working in twelve cities instead of one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What matters is what you do, not where you are.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

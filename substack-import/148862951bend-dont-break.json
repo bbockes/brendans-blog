@@ -1,0 +1,73 @@
+{
+  "title": "148862951.bend Dont Break",
+  "slug": "148862951bend-dont-break",
+  "publishedAt": "2025-11-30T19:29:53.537Z",
+  "excerpt": "Breaking the rules (as it happens) is not okay. Because people who enter into the arena assume that you’re going to play by the same rules as they are. That’s why paying someone to write your term pap",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Breaking the rules (as it happens) is not okay. Because people who enter into the arena assume that you’re going to play by the same rules as they are. That’s why paying someone to write your term paper for you is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "cheating",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", but paying a freelancer to copy-edit your resume is not.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://grademiners.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bending the rules, however, seems to be perfectly fine. Because while throwing a curve ball at 90 miles an hour may have (at one point) seemed like cheating, it’s not. And the reason it’s not is because baseball doesn’t have rules about how a pitcher throws a ball.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out there’s a pretty fine line between cheating and ‘bending the rules.’ Learning to walk that line, however, is probably worth the risk.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bending the rules, after all, is the only way we’ll ever see how far we can go without breaking them.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

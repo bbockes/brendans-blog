@@ -1,0 +1,53 @@
+{
+  "title": "148863252.knowledge And Action",
+  "slug": "148863252knowledge-and-action",
+  "publishedAt": "2025-11-30T19:29:59.544Z",
+  "excerpt": "Look around you. See the people who have the life or the job or the skills you want?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Look around you. See the people who have the life or the job or the skills you want?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider: What do they know, that you don’t? What are they doing, that you aren’t?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Worth recognizing that's the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "only important distinction",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "between them and you.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

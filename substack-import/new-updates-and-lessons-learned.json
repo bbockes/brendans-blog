@@ -1,0 +1,341 @@
+{
+  "title": "New updates and lessons learned",
+  "slug": "new-updates-and-lessons-learned",
+  "publishedAt": "2020-09-07T05:59:33.000Z",
+  "excerpt": "My domain name expired last Monday (expected) and, seeing how I didn't have a contingency plan, my blog site crashed (also expected).",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "My domain name expired last Monday (expected) and, seeing how I didn't have a contingency plan, my blog site crashed (also expected).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What I didn't expect was how time-consuming migrating my blog to a different domain was going to take me. Or rather, that because I’m frugal, deciding to put my blog on my main domain (more specifically a sub-domain of my main domain) would take me almost a week to configure and optimize.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So here we are. The same blog, on a new site (one that people can hopefully pronounce), and a few lessons learned about tackling any complex project that you know little about:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For one, backups are always a good thing to have. Even--especially--when you don't think you need them. (Suffice to say that if I didn't have one, this blog would be toast.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Complex projects take time. Complex projects that require you to perform tasks that have a learning curve, and that you've never done before, take ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "a lot",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of time. So prepare and plan in advance.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can't learn unless you give yourself permission to fail. I was really apprehensive about toying around with my site's phpMyAdmin files, but I realized that if I didn't try, I'd never learn. (I actually ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "failed",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " quite a few times in the process-but each time I learned from what clearly didn't work.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(Having a backup can help a lot with this, because it gives you peace of mind knowing that you can never mess up too much.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you find that the time it takes to take a shortcut is just as long (or longer) than it would take you to do it manually, it's not a shortcut, it's a sunk cost. Stop wasting time and stick to the standard workaround.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Along with that, beware of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "bottomless holes",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". It turns out there are plenty of things you can do to effectively migrate, design and optimize a website—but many of those things (>80%) you can do without, or at very least, do ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "after",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you’ve shipped your project. Adding inessential tasks only saps your time and drains your momentum. Better to stick to doing what you need done first, before you start to do what you’d merely like.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2020/09/filling-a-bottomless-hole/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s that. My new blog can be found at ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "blog.brendanbockes.com",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (no www.) If there are any posts you’ve saved from my old domain, you can find them at the same address, just with the new domain (example: blog.brendanbockes.com/busywork). I plan on getting those links redirected soon.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In case you missed them, here are the links to the previous 7 days of posts:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pixels laced in pixie-dust",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/pixels-laced-in-pixie-dust/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What goes around",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/what-goes-around/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Skeleton crews",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/skeleton-crews/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Late blame and long-term guilt",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/late-blame-and-long-term-guilt/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Craft and commerce",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/craft-and-commerce/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Dry runs, cold pools and fear",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/dry-runs-cold-pools-and-fear/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thanks for reading!",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

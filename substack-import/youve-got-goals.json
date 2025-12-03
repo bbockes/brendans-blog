@@ -1,0 +1,64 @@
+{
+  "title": "Youve got goals",
+  "slug": "youve-got-goals",
+  "publishedAt": "2021-01-04T07:00:00.000Z",
+  "excerpt": "(We all do.)",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(We all do.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps, then, when it comes time to deciding where to spend your time and your energy today, you ought to keep those goals top of mind.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That what you prioritize ought to be consistent with your objectives. With what’s urgent, yes, but also what’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "important",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to where you intend to go.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After all, it’s hard to go anywhere when you’re not consistently moving in the right direction.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

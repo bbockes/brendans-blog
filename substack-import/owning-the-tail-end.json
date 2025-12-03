@@ -1,0 +1,73 @@
+{
+  "title": "Owning the tail end",
+  "slug": "owning-the-tail-end",
+  "publishedAt": "2021-05-02T06:05:00.000Z",
+  "excerpt": "I've written about  The Tail End  before, the idea that we only have so much time to spend with our family and friends, and that the older we get, the less time we have.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I've written about ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "The Tail End",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " before, the idea that we only have so much time to spend with our family and friends, and that the older we get, the less time we have.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/the-tail-end-from-my-point-of-view/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It recently occurred to me that we can extend the principle to almost anyone we momentarily spend time with: bosses and colleagues, customers and clerks, distant relatives or (even) opponents. Any person in our lives who we might only have days if not minutes to spend with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That not unlike the emotional maneuvering we do when compromising with our coworkers or closest siblings, it might be wise (beneficial even) to simply give people the benefit of the doubt, to be prosocial, and to act with the best of intentions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, of course, it's the nice thing to do. But also because with only so much time, there's very little to lose.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

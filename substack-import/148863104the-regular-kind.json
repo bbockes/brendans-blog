@@ -1,0 +1,111 @@
+{
+  "title": "148863104.the Regular Kind",
+  "slug": "148863104the-regular-kind",
+  "publishedAt": "2025-11-30T19:29:56.312Z",
+  "excerpt": "J. Kenji López-Alt knows how to make the absolute best chocolate chip cookies . (And he has the science to prove it.)",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "J. Kenji López-Alt knows how to make the absolute best",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "chocolate chip cookies",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". (And he has the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "science",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "to prove it.)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.seriouseats.com/recipes/2013/12/print/the-food-lab-best-chocolate-chip-cookie-recipe.html"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://sweets.seriouseats.com/2013/12/the-food-lab-the-best-chocolate-chip-cookies.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, his recipe will taste nothing like your favorite, because that's not how your Mom made them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Meaning, they can't possibly be the absolute",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "best",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", regardless of how much data and testing is involved.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's simple really. They are not the regular kind. For you anyway.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

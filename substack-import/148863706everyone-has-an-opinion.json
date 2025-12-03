@@ -1,0 +1,54 @@
+{
+  "title": "148863706.everyone Has An Opinion",
+  "slug": "148863706everyone-has-an-opinion",
+  "publishedAt": "2025-11-30T19:30:07.179Z",
+  "excerpt": "Which means that the only useful way to get a useful opinion is to ask lots of people and to look for patterns.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that the only useful way to get a useful opinion is to ask lots of people and to look for patterns.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, if you’re asking for feedback from anyone, almost everyone will have feedback to share.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Good feedback. Bad feedback. A little of both.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The only way to know for sure that what you’re getting isn’t a fluke is to ask around.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

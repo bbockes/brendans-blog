@@ -1,0 +1,220 @@
+{
+  "title": "How much of your identity is based on location",
+  "slug": "how-much-of-your-identity-is-based-on-location",
+  "publishedAt": "2017-02-06T10:44:19.000Z",
+  "excerpt": "The food you’ve been eating since you were a kid. The team(s) you root for on tv. The news stations you watch and the  music  you listen to. Customs, traditions, what you do for fun on weekends. For m",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The food you’ve been eating since you were a kid. The team(s) you root for on tv. The news stations you watch and the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "music",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " you listen to. Customs, traditions, what you do for fun on weekends. For many people, even who they consider friends and foes and who they fall in love with. It’s all based on where you consider home on a map.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://radio.garden"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One choice is to accept this as it is. To say “this is the way things have always been, it’s what’s familiar…it’s what’s right,” and to avoid the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "other",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " people, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "other",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " cultures, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "other",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " ways of seeing the world.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The other choice (as you might have guessed) is to seek out ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the others",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". To welcome them, to connect with them, and to travel to the place they consider home. Indeed, this choice is riskier. You might be rejected, you might make a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "faux pas",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", you might be criticized for your beliefs. Worst case scenario, you’re accused of being a terrorist simply because of where you’re from.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.ef.com/blog/language/common-cultural-faux-pas/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But you might also learn new ways of seeing and experiencing our world. Try different foods, adopt different ways of thinking, learn new ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "words",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", make new friends. You might also begin to understand how much of what you consider “normal” and even “morally or consciously right” is a byproduct of where you from and who you hang out with.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://thoughtcatalog.com/katie-mather/2015/07/45-beautiful-untranslatable-words-that-describe-exactly-how-youre-feeling/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Normal is not a universal law. It’s a symptom of location-based inculcation. Indeed, one choice is to reject that statement, to live your life based on a culturally-defined script, and to create ways to block the assimilation of foreign culture (and foreign people) into your home, your school and your community.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The other choice is to open your literal and metaphorical doors (and to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "un-obstuck",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " blockages). To evaluate a person not because of what they look like, but based on their ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "essential",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " nature. To seek out the invisible. His beliefs, his culture, his way of thinking. And to experience life (with the hope of beginning to see the world) the way he is accustomed to, based on where he’s from, and the culture that has been adopted there.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.nytimes.com/2017/02/03/us/visa-ban-legal-challenge.html"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "/on-essentialism-the-little-prince-and-that-thing-we-call-love/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You might realize that many people (even people here) don’t care at all who won the game last night. They might not even know how to play football. But they might know a great deal about what’s going on in their corner of the world. What’s happening? Within their cultural zeitgeist, in the news, in their minds. And how? How do they live? How do they think? How do they prepare for tomorrow? How do they cope? How do they experience and enjoy that thing which we call life?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

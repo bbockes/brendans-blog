@@ -1,0 +1,95 @@
+{
+  "title": "Everyone needs a lick lick pad",
+  "slug": "everyone-needs-a-lick-lick-pad",
+  "publishedAt": "2018-12-08T06:16:00.000Z",
+  "excerpt": "I'm a lot more likely to go to the gym when I find something entertaining to do while I'm there, like listening to a podcast or playlist.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I'm a lot more likely to go to the gym when I find something entertaining to do while I'm there, like listening to a podcast or playlist.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Similarly, I’m more willing to eat real food (as opposed to junk food) when I actually enjoy what I’m eating.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, I'm more inclined to take my girlfriend shopping when there's something for me to do while I wait, like sitting in the local cafe and writing this post.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "dogs",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and humans alike, distraction can be a helpful tool if it gets us to do the essential things we otherwise wouldn't enjoy doing.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://licklickpad.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "From going to bed early (or getting out of bed on time), to staying in shape, to getting things done, everything is easier when you're at least sort-of enjoying yourself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Who said work can't be fun?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

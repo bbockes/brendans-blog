@@ -1,0 +1,114 @@
+{
+  "title": "148861978.when Do You Go To Work 2",
+  "slug": "148861978when-do-you-go-to-work-2",
+  "publishedAt": "2025-11-30T19:29:41.045Z",
+  "excerpt": "It’s so tempting to get up in the morning and do absolutely nothing with the time we’re allotted before we “go to work.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s so tempting to get up in the morning and do absolutely nothing with the time we’re allotted before we “go to work.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We wake up, make coffee, grab some breakfast (or not) and all too naturally turn on the TV, or our computer, only to waste the next half hour to an hour watching the not-so-important",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "breaking-news",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "or catching up on the latest in our Facebook feed.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2013/02/real-time-news-is-neither/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(For me, my temptation is my Feedly feed, which is slightly more educational, but no more productive).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What if you took that hour of free time and spent it learning a new skill that could increase your job prospects? Or built an online platform that garnered the attention of more than a few loyal followers? Or made something cool and sold it on Etsy. Or attended an",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "event",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "where you might actually learn something new. Or did something (anything!) that changed someone for the better.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://creativemornings.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You’re always working for yourself. Even when you’re working for “the man,” you’re still working to support your own well-being (financially, emotionally, spiritually, etc.).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Might as well start early.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

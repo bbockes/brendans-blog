@@ -1,0 +1,125 @@
+{
+  "title": "The hype cycle",
+  "slug": "the-hype-cycle",
+  "publishedAt": "2019-12-14T06:33:05.000Z",
+  "excerpt": "Not  drinking  while you're out is quickly becoming the 'in-thing' to do.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "drinking",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " while you're out is quickly becoming the 'in-thing' to do.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.vox.com/the-goods/2019/3/26/18267092/sober-curious-nonalcoholic-drinks-spirits"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, just yesterday that wasn't the case.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But back during prohibition is was.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And before that? (You get the idea.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, trends come and go.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can't predict the rise (or decline) of a trend any more than you can predict the future (none of us can). But paying attention to the times can at least help you notice what's next.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": " ... Related: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "This",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a fantastic campaign to support!",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://ifundwomen.com/projects/listen-bar"
+        }
+      ]
+    }
+  ]
+}

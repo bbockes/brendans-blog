@@ -1,0 +1,419 @@
+{
+  "title": "148862108.curation Is The Next Frontier Of The Web Part 1",
+  "slug": "148862108curation-is-the-next-frontier-of-the-web-part-1",
+  "publishedAt": "2025-11-30T19:29:43.089Z",
+  "excerpt": "There’s a lot of stuff online. If I wanted to, I could listen to just about any song ever recorded, watch videos or read articles on any topic I wanted to, or find a recipe for any meal conceivable.",
+  "image": "",
+  "readTime": "5 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s a lot of stuff online. If I wanted to, I could listen to just about any song ever recorded, watch videos or read articles on any topic I wanted to, or find a recipe for any meal conceivable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas, there's a lot of noise. Complexity abound. So much choice, in fact, it’s hard for many people to choose. So what many people discover online is only the next thing in their feed. Easy,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "habit-forming",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "clickbait. Nothing new. Not the esoteric. Not the weird. Not the stuff that challenges them or surprises them or makes them learn more in any significant way.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=hVDN2mjJpb8&t=1s"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why you and I need a guide. How else will we discover the next best thing? Something that changes our posture, or inspires us deeply, or changes everything?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Content curation is the next frontier of the web. Because we don’t need more stuff online. We need systems that help us find the gems—the very best the web has to offer—within it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For the curious among you, here’s a short list of what I’ve found to be the very best curated-content apps/sites available today:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hype Machine",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ": a fancy independent blog music aggregator that indexes hundreds of music blogs, collects their posts, and categorizes them in a list of over hundred genres (ever heard of vaporwave?). They also have a popular tab, sort of like an indie top 100, that includes the most popular songs based on how many times a song was posted by an independent blog that day. They then allow you to save all your favorites for later listening on all your devices. Hence, it’s a curator that uses data in the form of posts from thousands of other human curators—making it the coolest music discovery app ever, and a great model for thinking about other curated systems.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://hypem.com/popular"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Discovr",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ": This unique app allows you type in a musician and then see similar artists that fit within the genre of the artist you searched. It then allows you to do this again and again for each artist you click, creating essentially a musical family tree. It’s clean web-like design, which visualizes each artist within each subsequent thread, ability to link to Spotify and sample songs, as well as read the biographies of each artist, make Discovr an invaluable tool for new music discovery.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.discovr.fm"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pocket",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ": Other than being a fabulous bookmark app in and of itself for websites and articles, Pocket also",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "recommends",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "new articles or sites related to the ones you've previously tagged. You can also subscribe to their daily/weekly newsletter (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Pocket Hits",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") filled with unique articles that the majority of it's users have also tagged using the app.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://getpocket.com"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.fastcompany.com/3064955/pockets-next-frontier-solving-the-internets-clickbait-problem"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://getpocket.com/explore/pocket-hits"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instapaper Daily",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ": Similar to Pocket Hits, each article that’s posted to this daily blog is based on whats most popular that day as determined by a host of factors using data from all Instapaper users. It’s obviously not completely unbiased material, because only a subset of the population uses the app, or reads enough to make it worthwhile, but it is a great tool for discovering the most trending reads available online. The",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Instapaper",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "app, for those interested, is also a spectacular reading (and article bookmarking) application that I use almost every day.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.instapaper.com/daily"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.instapaper.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "WikiTribune",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ": Still in it’s infancy, this online news platform could very well change how we discover, digest and interact with the 24/7 news coverage that is ubiquitous online. By hiring transparent journalists, aimed at writing the most relevant, unbiased, fact-based material, with no ads, this very well could be the game-changer the media conglomerate needs.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.wikitribune.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yummily",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is a bookmark app for recipes you find online. The site and companion app indexes all recipes uploaded by it’s users and categorizes them based on cuisine or diet type, giving you easy access to over a million curated recipes. Furthermore, on the main “just for you” page, you can also browse recipes based on your own individualized dietary restrictions, as well as disliked ingredients and favorite cuisines. You can also search specific recipes (like “paleo bbq sauce”) and then see all the recipes (the most popular and the less so) in it’s index that match your search query. Really nifty recipe finder.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.yummly.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hyper",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ": Although recently discontinued, Hyper was simply the best online video curator app I’ve ever seen, and a fantastic model for all human-curated content sharing companies. Starting out two years ago as at a thought experiment, Hyper showcased 10 of the most unique, interesting, human-selected videos the creators found online that day, followed by a new top ten the next day and so forth. Thanks to the amazing work of it’s creators, both in the selection of the videos showcased and it’s frictionless design, Hyper raised the bar for what a quality video magazine could be.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.watchhyper.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’d be remiss to add that blogs and vlogs and podcasts are also curation machines. Free insights from people the world over, from all sorts of industries, backgrounds and cultures. People who can teach you so many fascinating things, from how to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "cook",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", to how save",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "money",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", to how to see (great",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "design",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "), to what",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "book",
+          "marks": [
+            "link-3"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "to read next, to how to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "question",
+          "marks": [
+            "link-4"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "everything. Always available, always free, always interesting; what an incredible privilege.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.greenkitchenstories.com"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "http://www.mrmoneymustache.com"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "http://www.swiss-miss.com/"
+        },
+        {
+          "_key": "link-3",
+          "_type": "link",
+          "href": "https://www.brainpickings.org"
+        },
+        {
+          "_key": "link-4",
+          "_type": "link",
+          "href": "http://sethgodin.typepad.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed, curation of content is the web’s next frontier. But the very best curation isn’t done by machines, but by real people. People who put in the time, energy, attention, thoughtfulness of selection, and late nights, to make this all possible. Obviously, there are multiple implications to this fact. More on this in my next post.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

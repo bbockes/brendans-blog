@@ -1,0 +1,114 @@
+{
+  "title": "148862972.relative Importance",
+  "slug": "148862972relative-importance",
+  "publishedAt": "2025-11-30T19:29:53.971Z",
+  "excerpt": "Many people argue that spending billions of dollars to go to space is a waste. Others reflect on how our time on this planet is limited—a blip in space-time—and that anything we could possibly do down",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many people argue that spending billions of dollars to go to space is a waste. Others reflect on how our time on this planet is limited—a blip in space-time—and that anything we could possibly do down here is pointless.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Likewise, while others believe that how they spend their time while they’re alive counts for how they’ll spend their time when they aren’t, others discredit the idea the experiencing anything beyond",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "right here, right now",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is superfluous.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And that bargain you saw online the other day? While you might think it’s a great value, not everyone does. In fact, many might think it’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "trash",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=mzEO8m_2R5Q"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "we",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "value what",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "we",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "value. And value is always in the eye of the beholder.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to sell to those who share a mutual value than spend any time at all coaxing those who won’t.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

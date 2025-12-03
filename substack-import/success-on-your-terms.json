@@ -1,0 +1,94 @@
+{
+  "title": "Success on your terms",
+  "slug": "success-on-your-terms",
+  "publishedAt": "2019-03-14T07:41:00.000Z",
+  "excerpt": "That’s what it means to  pick yourself .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s what it means to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "pick yourself",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To commit to doing your thing despite the gatekeepers who won’t let you in.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To practice even when you don’t make the team.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or to do the work because you can (or because you can’t think of anything else you’d rather do).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Acting like a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "professional",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " even when the world treats you like an amateur is the first step in becoming a professional.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Turning-Pro-Inner-Power-Create/dp/1936891034"
+        }
+      ]
+    }
+  ]
+}

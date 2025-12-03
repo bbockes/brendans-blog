@@ -1,0 +1,65 @@
+{
+  "title": "Hours",
+  "slug": "hours",
+  "publishedAt": "2019-10-02T05:37:09.000Z",
+  "excerpt": "That’s how much time you’ll spend in your car annually if you commute for an hour to work each day.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s how much time you’ll spend in your car annually if you commute for an hour to work each day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which raises the very real issue, what are you going to do with that time?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Certainly, you could spend it doing absolutely nothing. Or honing your ability to beat Shazam. (Nothing wrong with that.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But you could also spend most of it (or all of it) listening to something that makes you smarter, more aware, or more cogent. A habit that could make you incrementally better in the roles you fill (be it being a parent, teacher, leader, employer or employee).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s indubitably metamorphic is when those 500 hours compound. When the connections you make beget other connections, and when 500 hours become five-thousand or ten.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

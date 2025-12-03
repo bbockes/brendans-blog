@@ -1,0 +1,101 @@
+{
+  "title": "Beliefs interpretations and assumptions",
+  "slug": "beliefs-interpretations-and-assumptions",
+  "publishedAt": "2019-06-01T08:06:04.000Z",
+  "excerpt": "…that’s what makes up a worldview.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…that’s what makes up a worldview.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Beliefs are an acceptance of what we consider to be true. Such as, ‘people like me’ or ‘I’m a socialable, likeable person.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Interpretations are a (subjective) way of explaining something. X happened because of Y. ‘She didn't laugh at my joke, therefore, she doesn’t like me.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And assumptions are accepting things to be true, without conscious thought. You can assume that ‘most people are friendly (or unfriendly)’ or that your coworkers are intelligent (or aren't).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Psychology",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " teaches us that these prepositions work both ways. That not only are they relative, but that they can often reinforce the very behaviors and reactions that sustain them.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Reciprocal_determinism"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you walk around with the belief that you’re uninteresting, it’s going to be hard to convince the people around you that you aren’t. In contrast, if you assume those people enjoy your company and want to talk to you, you'll find they're more approachable, not less.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out the world we inhabit is often just as much a function of the world we see, as the view we reinforce.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

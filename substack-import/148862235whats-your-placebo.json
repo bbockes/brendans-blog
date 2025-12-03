@@ -1,0 +1,90 @@
+{
+  "title": "148862235.whats Your Placebo",
+  "slug": "148862235whats-your-placebo",
+  "publishedAt": "2025-11-30T19:29:44.380Z",
+  "excerpt": "Something I’ve discovered is that if I exercise in the morning I’m far more likely to take health-positive steps (taking the stairs, avoiding processed junk, skipping dessert) throughout the day.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I’ve discovered is that if I exercise in the morning I’m far more likely to take health-positive steps (taking the stairs, avoiding processed junk, skipping dessert) throughout the day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I might have only burned a few calories in my short 20 minute bout this morning, but as long as I put in a workout, I can convince myself (at least for while) that I’m at least a somewhat health conscious and active person.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it doesn’t matter if the exercise actually helps me avoid junk food or move more, what matters is the story I get to tell myself afterwords.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The same goes for writing this blog. Writing for 20 minutes everyday not only makes me a better writer, but it allows me to tell myself I’m a writer to begin with, which reinfornces my ability to be curious and open to new ideas and things to write about.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And think about the athelete’s totem or your lucky sweater or any number of the things you do that might not actually improve your performance but help convince you that you’re capable. Herbal tea doesn’t necessarily help you fall asleep. What matters is your intent. The transition from wake-time to bed-time, from labor to low-key, from demands to dreams.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Placebos",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "work. For better or worse. Might as well be at least a little deliberate about them.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://sethgodin.typepad.com/files/placebo-godin.pdf"
+        }
+      ]
+    }
+  ]
+}

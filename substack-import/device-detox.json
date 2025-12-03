@@ -1,0 +1,127 @@
+{
+  "title": "Device detox",
+  "slug": "device-detox",
+  "publishedAt": "2021-04-29T07:07:29.000Z",
+  "excerpt": "We don't like to admit it, but the colors, sounds, and imagery on everything from our phones to our televisions affect how we engage with them. They distract us more easily, and hold our attention lon",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We don't like to admit it, but the colors, sounds, and imagery on everything from our phones to our televisions affect how we engage with them. They distract us more easily, and hold our attention longer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To demonstrate this fact, I recently switched the colors of my phone to grayscale to see if it had any effect on my productivity or mood.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Turns out it did, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "dramatically",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". Not unlike the difference between taking a stroll through a park and one through Times Square. (Imagine the difference doing that 5 times a day for every day of the year.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Watching a movie on mute (with subtitles) produces a similar effect. It’s not as sticky. More tranquil. Less attention-grabbing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, I often read my Kindle on airplane mode precisely for this reason. Because I've found that even ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "access",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to anything that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "could",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " distract me—an advertisement here, a popup there—lends itself to a distracted mode of reading.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I've read that Tim Urban, of Wait But Why fame, has two phones. One for being productive, and everything he does during the day. And a second phone with ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "no SIM card",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " (a \"bed phone\"), for doing healthy, stress-free activities at night.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps, we'd do well do adopt a similar set of habits. Or, to at least acknowledge that we ought to listen with the sound off every once in a while.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

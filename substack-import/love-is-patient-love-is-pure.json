@@ -1,0 +1,117 @@
+{
+  "title": "Love is patient love is pure",
+  "slug": "love-is-patient-love-is-pure",
+  "publishedAt": "2019-02-20T04:35:00.000Z",
+  "excerpt": "Actually, that’s not entirely true.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Actually, that’s not entirely true.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most love is biased, based on your relationship together. What they do and don’t do. Who they are, their values, and how they make us feel.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's why you \"love\" the person you're with, and don't feel the same way about other people.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Unbiased love, in contrast, is exactly that.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Choosing to look people in the eye. To give them the dignity they deserve.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not based on what ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "taxonomy",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " or tribe they belong to. Not based on what side they are on. But because their human.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://art19.com/shows/akimbo/episodes/73d13379-2c34-4d6e-903e-038036479cff"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because there is no “us” vs. “them.” Only us.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The sooner we embrace that fact the sooner we can begin to move forward as a culture.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

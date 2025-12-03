@@ -1,0 +1,125 @@
+{
+  "title": "What are you testing and why",
+  "slug": "what-are-you-testing-and-why",
+  "publishedAt": "2019-07-31T05:26:00.000Z",
+  "excerpt": "What you test for defines what you get. That sounds obvious enough.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What you test for defines what you get. That sounds obvious enough.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you test for ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "speed",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", you’re going to get people who are good at responding quickly, not those who carefully assess things slowly (or who are prone to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "overthink",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ").",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.stitcher.com/podcast/revisionist-history"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://introvertdear.com/news/introverts-and-extroverts-brains-really-are-different-according-to-science/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And screening based on ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "adaptability",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " will no doubt get you people who are more adaptable, while weeding out people who are intractable or less-yielding (not that those are necessarily bad things, because they aren’t).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://thecooperreview.com/google-amazon-facebook-secrets-hiring-best-people/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One last example: Giving preference to people who are ‘well rounded’ might make for more diversity…but it will inevitably leave out people who are singularly-focused and perhaps astonishingly(!) great a one or two useful things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s no question that you get what you test for. Far more nuanced and consequential to discern is ‘",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "what are you testing for, and, why are you testing for it to begin with?’",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

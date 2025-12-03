@@ -1,0 +1,94 @@
+{
+  "title": "Million dollars",
+  "slug": "million-dollars",
+  "publishedAt": "2020-01-13T14:05:57.000Z",
+  "excerpt": "That’s how much money Amazon would lose everyday if a mere 1% of the 300 million people who use their site daily didn’t complete their purchase.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s how much money Amazon would lose everyday if a mere 1% of the 300 million people who use their site daily didn’t complete their purchase.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why wouldn’t they? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Poor UX",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed, of the top ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "7 reasons",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " why digitial buyers abandon their shopping carts, 4 of them have to do with a poor user experience. (And only 2 of them have to do with price).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.barilliance.com/wp-content/uploads/2016/01/statistic_id467656_us-online-shopping-cart-abandonment-reasons-2015.png"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. Whether you're trying to save a quarter billion, double your ROI, or simply delight your customers or your clients, design matters.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Probably a lot more than you think.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

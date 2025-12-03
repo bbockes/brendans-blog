@@ -1,0 +1,120 @@
+{
+  "title": "The writers dilemma",
+  "slug": "the-writers-dilemma",
+  "publishedAt": "2021-12-08T07:08:00.000Z",
+  "excerpt": "One of the hardest parts of being a content writer is explaining to readers’ words and concepts that they themselves don’t know of firsthand.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of the hardest parts of being a content writer is explaining to readers’ words and concepts that they themselves don’t know of firsthand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The reason ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is two-fold:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "First you have to do the research required to understand the concept yourself, based on what’s available.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then you have to explain it in a way that makes sense to someone who doesn’t understand what those concepts mean, in an entirely original and uncomplicated way.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People who aren’t writers often don’t understand the implicit two-part nature of this process. Which is why managers don’t often give you enough time to do both.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That—and the fact that’s it’s inherently hard to come up with something that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "actually explains",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " something on some else’s level—is why all but the best of content writing is mostly illegible, or practically meaningless.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Writing is hard. Simplifying the complex is even harder. Doing both with little time is relatively impossible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That just one reason why great companies with great bosses with great teams and great writer’s can do (mostly) ‘everything right’ and still fail.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": "148862234.its Not For Everyone",
+  "slug": "148862234its-not-for-everyone",
+  "publishedAt": "2025-11-30T19:29:44.368Z",
+  "excerpt": "…but it might be for you.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…but it might be for you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of the unique benefits the internet now affords each of us is choosing the direction we, as a culture, move towards.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That it’s now not up to a gatekeeper to decide what gets distributed is an often overlooked privelege.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now, each of us gets to choose the art and the voices and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "projects",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "that are birthed into our world. We get to connect and rally behind the causes and tribes and products that we want to see, hear and experience.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.indiegogo.com/projects/nois-debut-album#/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Certainly, you have to pick and choose. You can’t support everyone, and you probably won’t want to.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because it’s not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "for",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everyone. That’s what makes it scarce, unique and valuable, to you. The point is, you get to decide what club your in, to choose what get’s backed, what get’s made, and where we go from here.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What a privilege.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "title": "Do you really need to watch the inauguration",
+  "slug": "do-you-really-need-to-watch-the-inauguration",
+  "publishedAt": "2017-01-20T10:36:08.000Z",
+  "excerpt": "Or what’s on playing on Youtube or your Facebook feed?",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or what’s on playing on Youtube or your Facebook feed?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or check the weather forecast? Or the local news?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Certainly, these things are happening now, live. But that doesn’t mean you need to be engaging with them. What difference does it make in your life if you see them or not?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The reality is these things are going to happen without you. They don’t need your input or your attention. They’ll happen now, and then something else will happen. And it doesn’t help you one bit if you're watching it as it’s happening or not.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can’t change the weather any more than you can change who’s being elected President. And I think we can all agree that watching nonsense videos on youtube and Facebook isn’t necessarily a good use of our time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I think a better question to ask is, what can I be doing right now with this allotted time to most make a difference for the people around me? Maybe it’s a coffee run. Maybe it’s a blog post like this one. Maybe it’s organizing a meeting where you actually talk about things that matter. Or possibly reading for 20 minutes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can change your world everyday. But only if you give up knowing and updating and checking the things that really don’t make a difference.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "PS: a handy weather app ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "like this one",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (with notifications) can give you real-time weather updates faster than it takes you to turn on the tv.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://darksky.net/app/"
+        }
+      ]
+    }
+  ]
+}

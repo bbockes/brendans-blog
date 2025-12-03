@@ -1,0 +1,95 @@
+{
+  "title": "148862619.innovation Is A Two Way Street",
+  "slug": "148862619innovation-is-a-two-way-street",
+  "publishedAt": "2025-11-30T19:29:47.996Z",
+  "excerpt": "I read TIME’s Best Inventions of the Year the other day. You wouldn’t believe how many times the writer’s said, “Usually in this industry or brand category this happens…not so with this product.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I read TIME’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Best Inventions of the Year",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "the other day. You wouldn’t believe how many times the writer’s said, “Usually in this industry or brand category this happens…not so with this product.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://time.com/collection/best-inventions-2018/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "From Metal 3D printers to electric Semis to video-game controllers enhanced with cardboard, it’s seems like taking an uncommon approach to a well-known thing might be the only reliable method for innovation.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "However, if that’s the case, you can’t always be right. You can’t always do something creative or edgy or different and know before it hits the market that masses of people are going to like it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which mean’s you have to embrace the fact that you might be wrong. That you have just a likely chance that it might not work out.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if you’re so worried about avoiding risk that you never take a risk on doing something different, you’ll never come up with anything original.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Think about that the next time you’re tempted to include anything about \"innovation” in your mission statement.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

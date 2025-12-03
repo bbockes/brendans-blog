@@ -1,0 +1,95 @@
+{
+  "title": "148862439.how To Make A Salad Bowl At The Grocery Store",
+  "slug": "148862439how-to-make-a-salad-bowl-at-the-grocery-store",
+  "publishedAt": "2025-11-30T19:29:46.077Z",
+  "excerpt": "1. Grab an organic green mix .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "1. Grab an organic green",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "mix",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.earthboundfarm.com/products/category/organic-salads-greens/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "2. Use the salad bar (if available), bulk (nuts/seeds/dried fruit) and available produce (shredded carrots, diced onions, cherry tomatoes) for toppings.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "3. Grab a canned tuna or chicken if you want protein.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "4. Bring a large tuber-ware container. Add all your ingredients. Shake til well mixed.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "5. There you go. Healthy meal, on the go.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Available at most grocery stores. At a better value per-dollar than most restaurants.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

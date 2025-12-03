@@ -1,0 +1,163 @@
+{
+  "title": "148863197.dissecting Social Proof",
+  "slug": "148863197dissecting-social-proof",
+  "publishedAt": "2025-11-30T19:29:58.849Z",
+  "excerpt": "People are highly attuned and receptive to the opinions of others.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People are highly attuned and receptive to the opinions of others.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why most people respond so well to word of mouth, because making decisions based on what your friends recommend is a lot easier than going it alone.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's also why being the host at a party (or being the DJ) can put you in a position to make more friends…because the more people you know, the more other people will be inclined to want to know you too.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, this extends far beyond just the physical world.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider that, in the span of just two decades, people have discovered that word of mouth extends far beyond the opinions of their immediate circle of friends. Just by knowing the what other people think of a product or venue (people we’ve never met), most of us have decided that we too can reliably decide if a thing is worthy of our purchase.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Banking on this idea, and the relatively recent",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "phenomenon",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "of people actively researching products before they buy them, organizations like Yelp and Amazon have made whole businesses selling third-party reviews to the masses.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.thinkwithgoogle.com/marketing-resources/micro-moments/zero-moment-truth/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider something as seemingly negligible as",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "backlinks",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "trust signals",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". The former being links from one website that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "link back",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to another—the digital equivalent of a real-world shout-out, and the holy grail for SEO. The latter being sections of a page displaying affiliations or collaborations with other like-minded organizations, something you've no doubt seen. These are two real world examples of digital tactics organizations use to communicate trust between each other and their services, while putting buyers at ease.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.shoutmeloud.com/backlink.html"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.wordstream.com/blog/ws/2017/03/27/trust-signals"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The point isn't that buying backlinks or bribing people to give you good ratings is the latest and greatest marketing tactic. But in acknowledging that selling a thing (your product, your service, yourself) without acknowledging the social forces that will inform and sway how your audience responds to it is likely a mistake.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

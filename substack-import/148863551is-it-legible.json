@@ -1,0 +1,64 @@
+{
+  "title": "148863551.is It Legible",
+  "slug": "148863551is-it-legible",
+  "publishedAt": "2025-11-30T19:30:03.275Z",
+  "excerpt": "I picked up a notebook I had in my backpack the other day.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I picked up a notebook I had in my backpack the other day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I couldn’t read anything I wrote. My handwriting was illegible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of the work we do (as knowledge workers) is focused the crafting the message; transmitting particulars and having something to say.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And too often we forget that the medium is the message…that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "we do the work or tell the story or record the message, matters just as much.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

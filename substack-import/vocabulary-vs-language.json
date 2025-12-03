@@ -1,0 +1,76 @@
+{
+  "title": "Vocabulary vs language",
+  "slug": "vocabulary-vs-language",
+  "publishedAt": "2020-06-14T05:05:00.000Z",
+  "excerpt": "Vocabulary is any word easily spelled and abstractly defined.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Vocabulary is any word easily spelled and abstractly defined.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Words like egregious and inculcate are vocabulary. Words in a spelling bee are vocabulary.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Language is far more nuanced. Colloquialism, verbiage, slang. The bits and bites of a culture, no matter how small.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Writing with nothing but vocabulary is often so rudimentary it's trite. And prose made of language and nothing else can often be so esoteric it's illegible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The trick, then, is to write for your users, your customers, and your fans.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To use vocabulary that you and the larger culture understand, but say it in a way that resonates with them and their culture. To write in their language, and in so doing, to strike a chord between what you have to say, and what they want to hear.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Potlucks vs potlaches",
+  "slug": "potlucks-vs-potlaches",
+  "publishedAt": "2019-08-27T04:47:00.000Z",
+  "excerpt": "Most of us are familiar with a potluck, a gift-giving feast whereby everyone generously contributes whatever they can, for the benefit of all. \n \n A  potlatch , in contrast, is an opulent banquet in w",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of us are familiar with a potluck, a gift-giving feast whereby everyone generously contributes whatever they can, for the benefit of all.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "A ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "potlatch",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", in contrast, is an opulent banquet in which people waste valuable items in order to demonstrate their status, for their own benefit. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "The point isn’t that engaging in a metaphorical potlatch (as opposed to a figurative potluck) is inherently bad.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "(They ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "both",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "make you feel good, after all.)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "The question is, if that’s the case, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why would you want to?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Potlatch"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "title": "148861825.learning How To Make The Perfect Egg Is A Great Metaphor For Mastering Any Other Skill",
+  "slug": "148861825learning-how-to-make-the-perfect-egg-is-a-great-metaphor-for-mastering-any-other-skill",
+  "publishedAt": "2025-11-30T19:29:38.379Z",
+  "excerpt": "It’s requires your attention, your patience and your time.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s requires your attention, your patience and your time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes you forget the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "instructions",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Sometimes you get distracted.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=42dbuhteL4o"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes you overdo it, sometimes you fall asleep.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed, just about any skill worth learning (or anything worth working towards) requires the same concentration, commitment and state of calm as learning to make the perfect egg. These are practices that require our full attention, that challenge us to continue at it even when we lose focus, even when we lose our patience, even when we’re bored with the routine.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But just as with learning to make the perfect egg, everyday you do it, you get better. Even if better simply means learning how not to do it next time.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

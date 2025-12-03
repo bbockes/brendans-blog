@@ -1,0 +1,154 @@
+{
+  "title": "148862102.with Practice",
+  "slug": "148862102with-practice",
+  "publishedAt": "2025-11-30T19:29:42.897Z",
+  "excerpt": "Our brains are incredibly pliable machines. Capable of hard-wiring incredibly difficult routines into our psyches as well as grasping and adapting to novel stimuli.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Our brains are incredibly pliable machines. Capable of hard-wiring incredibly difficult routines into our psyches as well as grasping and adapting to novel stimuli.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so we’re an incredibly adaptable species. Capable of both doing extraordinarily complex tasks as well as training our minds (and therefore our senses) to notice all manner of particulars.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Stick your",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "nose",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "out often enough and you’ll distinguish smells in a way you never knew you could.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://lifehacker.com/5984208/how-to-power-up-your-sense-of-smell"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Same goes for tasting (the flavor",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "notes",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "in a single-origin). Or seeing (good",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "design",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "). Or feeling (your way through a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "city",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "or a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "sentence",
+          "marks": [
+            "link-3"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "). Or hearing (the highs, mids and lows of your new headphones). Or repeating a task without much thought (like driving a car).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://i2.wp.com/tinyfootprintcoffee.com/wp-content/uploads/2017/01/SCAA_FlavorWheel.01.18.15.jpg"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://ia.net/topics/learning-to-see/"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=RmsoHyMRtbg"
+        },
+        {
+          "_key": "link-3",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=Eqzmdu6g0n0"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Your mind is more than capable of doing whatever you set it to. The difficult part is doing it often enough to make it stick.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

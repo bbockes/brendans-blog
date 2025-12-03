@@ -1,0 +1,78 @@
+{
+  "title": "Ux tips for grocery delivery apps",
+  "slug": "ux-tips-for-grocery-delivery-apps",
+  "publishedAt": "2020-04-12T13:19:17.000Z",
+  "excerpt": "1.  If a certain products are unavailable, try your best  not  to show them. If a user is looking for a specific product that they can’t find, they will search for it. When they do,  then  you can sho",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "1.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " If a certain products are unavailable, try your best ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to show them. If a user is looking for a specific product that they can’t find, they will search for it. When they do, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "then",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you can show them an appropriate product page with a notification that tells them it’s currently unavailable (kind of like when they go to customer service when they can’t find an item in the store). In case it’s not self-evident: showcasing an item on your digital storefront and then saying it’s not really available after a user clicks on it is a phenomenal way to frustrate them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "2.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " If you give the option to ‘favorite’ items for easy access later…actually make finding those favorites easy to find. Instacart, for example, includes this feature but I have yet to find where ‘my favorites’ are in the app.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "3.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " Since most people buy the same things every week, it’s best to at least provide a readily-accessible way of adding previously purchased items to your shopping cart. Even better, apps should enable users to create recurring shopping carts that automatically ship after a predetermined time frame. That way they won’t have to search for milk, eggs, and paper towels every two weeks (even if they already are in their purchase history).",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

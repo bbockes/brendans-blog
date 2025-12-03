@@ -1,0 +1,105 @@
+{
+  "title": "148863414.it Is What It Is",
+  "slug": "148863414it-is-what-it-is",
+  "publishedAt": "2025-11-30T19:30:01.702Z",
+  "excerpt": "There are actually two ways to say it.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There are actually two ways to say it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One, as you may have guessed, is to say it as it is. To throw your circumstances up in the air and accept where they land.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To merely receive your fate. And in doing so, to do little to change it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The second way is equal parts acceptance and hope. Accepting the inevitable—what is, what’s transpired, what you couldn’t have done better if you tried.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And hope. Hope in a better future. Hope that you’ll get through this. Hope that you’ll learn from your mistakes and find a way to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "do more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Serenity, of course, is a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "virtue",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". But it matters what you mean by it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Serenity_Prayer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "School vs self taught",
+  "slug": "school-vs-self-taught",
+  "publishedAt": "2020-05-06T05:48:40.000Z",
+  "excerpt": "One of the best reasons to take a course to learn something (as opposed to teaching yourself) is that the content is curated. It’s sequential, and you don’t have to do much searching to find what you ",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of the best reasons to take a course to learn something (as opposed to teaching yourself) is that the content is curated. It’s sequential, and you don’t have to do much searching to find what you need to know.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Teaching yourself has its merits too. It’s cheaper. And it often gives you the opportunity to learn and explore more than you otherwise would. It’s takes more time to find what you’re looking for, but for some, the freedom to learn on your own and at your own pace is worth the downside.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The trick, I think, is to find a program that’s comprehensive and chronological, while also being flexible (and time-sensitive) enough that it doesn’t hold you back from the opportunity to teach yourself along the way.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Project-based assignments and a robust curriculum are good things to have, but not when they're so demanding that you have no time to learn on your own, or when you're so burnt out from learning that you're unwilling to.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After all, it's one thing to be a passive recipient of an education. Another to be an active agent in acquiring one.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Behind the news",
+  "slug": "behind-the-news",
+  "publishedAt": "2020-05-10T05:01:54.000Z",
+  "excerpt": "The slogan for  Feedly , the popular minimalist RSS reader, is  \"stay ahead of the curve.\"",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The slogan for ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Feedly",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", the popular minimalist RSS reader, is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\"stay ahead of the curve.\"",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://feedly.com/i/welcome"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thing is, I used to have Feedly on my phone and Mac for years, and I can assure you this is not the case.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's because being reminded daily of the mass of media that you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "haven't",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " yet consumed is a surefire way to be less productive.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the truth is, unless you're subscribed to just a few feeds, you'll never catch up to the curve. Inbox zero is one thing, but staying up to date, or rather, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ahead",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of the latest tweet, blog, vlog or email, is near impossible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better (for your sanity, and productivity) to tuck the feed away instead. To acknowledge you'll always be behind the news, and that's okay. Better to hide it from sight and from mind than be constantly reminded and distracted by what you've missed.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This isn't to say you shouldn't subscribe to your favorite content creators (you should), or that RSS aggregators are a waste (they're not). It means that if you want to be productive, it's better to default to creating before you consume, and better to hide these tools from view until you feel like you deserve it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

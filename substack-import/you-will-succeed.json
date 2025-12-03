@@ -1,0 +1,74 @@
+{
+  "title": "You will succeed",
+  "slug": "you-will-succeed",
+  "publishedAt": "2021-04-09T07:00:00.000Z",
+  "excerpt": "Nothing is more powerful than the gift of confidence.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nothing is more powerful than the gift of confidence.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not the confidence of arrogance, of “I will have the outcome I want ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everytime",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But the confidence of assurance, that if you ‘try, try, and try again’—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "if you put in the work",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—you’ll almost always get the outcome you seek.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "True confidence is earned. But it can also be given.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

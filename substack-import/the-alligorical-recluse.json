@@ -1,0 +1,43 @@
+{
+  "title": "The alligorical recluse",
+  "slug": "the-alligorical-recluse",
+  "publishedAt": "2019-05-24T04:51:00.000Z",
+  "excerpt": "If you're not careful, you can create a whole life around avoiding the things that you don't want to feel.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you're not careful, you can create a whole life around avoiding the things that you don't want to feel.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which would ordinarily be fine, with one exception.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Living in a figurative box is often just as restrictive and monotonous as living in a real one.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "title": "148863105.agency Life",
+  "slug": "148863105agency-life",
+  "publishedAt": "2025-11-30T19:29:56.333Z",
+  "excerpt": "I recently came across a job description that listed,",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently came across a job description that listed,",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“there will be times when this role will require you to work late hours and occasionally on the weekends. Agency life!”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As if working for over 40 hours week (and by extension, not having a life) is somehow a badge of honor.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thing is, from sleep researchers to performance psychologist to the team at",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Basecamp",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", there is an abundance of research that confirms this thinking is just plain wrong.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/gp/product/0062874780/ref=dbs_a_def_rwt_bibl_vppi_i1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The reality is that working over 40 hours is a detriment not only to our health and happiness, but also to our work and productivity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, working overtime isn’t simply a matter of finishing what you need to for the day. It’s far more nuanced and insidious than that: it’s a matter of assuming that the problem is that you don’t have enough time to begin with. Because it’s far more likely that your job and your boss and the culture where you work have brainwashed you into thinking that making sacrifices with your time and with your life is necessary for you to have the life you want.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if you can’t find a way to be happy and satisfied and productive on 40 hours, it stands to reason that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "no",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "amount of extra work is going to give you enough time to have those things.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

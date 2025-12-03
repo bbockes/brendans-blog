@@ -1,0 +1,105 @@
+{
+  "title": "Maximum extraction",
+  "slug": "maximum-extraction",
+  "publishedAt": "2021-01-03T05:43:06.000Z",
+  "excerpt": "This  post  (which I love) makes a good point.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "post",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (which I love) makes a good point.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2013/09/your-alphabet/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We all have something. We all know someone. And we all have the abilities and skills to create something new.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s possible that you need to go find a better tool, or to befriend someone who can give you more leverage.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But it’s just as likely that you need ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "less",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". That you need to focus less and getting more stuff and exercise your surplus of time in the pursuit of something else.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because we all have resources. We all have tools. And we all have connections.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What matters is what we do with them.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Strange alchemy",
+  "slug": "strange-alchemy",
+  "publishedAt": "2022-08-19T07:00:00.000Z",
+  "excerpt": "When making Avengers Infinity War, the Russo brothers came up with a word to describe the convergence of characters from different franchises, noting how the cross-pollination of contrasting or compli",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When making Avengers Infinity War, the Russo brothers came up with a word to describe the convergence of characters from different franchises, noting how the cross-pollination of contrasting or complimentary characters made for a better crossover. That’s true.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Similarly, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Morgan Housel",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " argues that you can learn more about your industry from studying ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "other",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " industries, than by attempting to learn everything you can about it in a vacuum. Also, probably, true.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.collaborativefund.com/blog/authors/morgan/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps proactively facilitating “strange alchemy” in our projects, in our education, and even in our organizations is one fine way to nurture creativity and not stifle it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

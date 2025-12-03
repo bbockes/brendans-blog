@@ -1,0 +1,95 @@
+{
+  "title": "Isolating the habit",
+  "slug": "isolating-the-habit",
+  "publishedAt": "2020-07-13T05:25:00.000Z",
+  "excerpt": "Habits are tiny routines. An automated response to a situational cue.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Habits are tiny routines. An automated response to a situational cue.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you do the same action everday (same time, same prompt, same place) it’ll likely become a habit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thing is, doing an action consistently is what makes it a habit. What action(s) you choose, whether you do it well, or for how long—is not.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that if you’re trying to create a habit, it doesn’t help to conflate the action with the routine.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Going to the gym everyday is not the same as breaking a sweat. And being mindful is not the same as sitting on the floor.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Isolating the habit from the action—making it as ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "tiny",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and inconsequential as you need it to be—is the first step to sticking with a habit that lasts.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Tiny-Habits-Changes-Change-Everything/dp/0358003326/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1556049243&sr=1-3"
+        }
+      ]
+    }
+  ]
+}

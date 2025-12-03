@@ -1,0 +1,219 @@
+{
+  "title": "172095190.time And Death",
+  "slug": "172095190time-and-death",
+  "publishedAt": "2025-11-30T19:30:19.081Z",
+  "excerpt": "I recently celebrated my 35th birthday.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently celebrated my 35th birthday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I also watched",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Roadrunner",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—Morgan Neville’s masterful bio-doc of Anthony Bourdain—just a few days earlier.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Roadrunner:_A_Film_About_Anthony_Bourdain"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It got me thinking about life and death and the strange way we measure time: in birthdays, in milestones, in the passing of people we admire. So I decided to pick up Seneca’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "On the Shortness of Life",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", a book that stares straight at the fact that our days are numbered.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://dn790008.ca.archive.org/0/items/SenecaOnTheShortnessOfLife/Seneca%20on%20the%20Shortness%20of%20Life.pdf"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Reading it after watching Bourdain felt fitting—two different voices, two thousand years apart, both pressing the same point: life is long enough if you know how to use it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’m 35, and having a blog, it seems only natural to write a post about what I’ve learned, to catalog a list of life lessons. But I don’t have all the answers. And I’ve certainly not used",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "of my previous 12,775 days wisely.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So, I thought I’d do something different: I asked ChatGPT to rewrite a few of my favorite of Seneca’s hard-won truths in Bourdain’s restless, unapologetic voice.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The passages below aren’t a roadmap—but they are provocations that can hit hard if you let them. Notions to aspire to, wrestle with, and maybe actually live by.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Life isn’t too short. We just blow most of it away—hours lost staring at screens, waiting in airports, keeping up appearances at jobs we hate. Then one day we look up and wonder where all the days went.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The days feel endless when you’re alive in them. Slurping noodles at midnight, laughing until your ribs hurt with friends, saying yes when every instinct says no. You can stretch a life into something big and unforgettable, but only if you show up and live it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We panic about death, about sickness, about getting old — but then live like we’ve got a million tomorrows to burn. We order another round, skip the hard conversation, put off the thing we claim we want most. It’s absurd. Time doesn’t care about your plans.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Someday is a scam. Someday is where dreams go to die. You want to travel, to write, to tell someone you love them? Do it. Otherwise, you’ll just keep scrolling, waiting, watching life pass you by.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We hold our money close but toss our time around like it’s worthless. Endless meetings, pointless conversations, obligations we never signed up for. Meanwhile, the things that actually matter get whatever time is left.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We’re hooked on the next thing. The next trip. The next project. The next weekend. Meanwhile, tonight’s meal goes cold on the table. The moment you’re in — this sip, this laugh, this taste — is all there is. Stop looking past it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The past is carved in stone, the future’s a big cosmic joke, and the present? That’s the sliver we’ve got to work with. It’s messy, it’s loud, it’s unpredictable, but it’s real. You either live here — now — or you don’t live at all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

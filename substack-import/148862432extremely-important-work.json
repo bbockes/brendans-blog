@@ -1,0 +1,56 @@
+{
+  "title": "148862432.extremely Important Work",
+  "slug": "148862432extremely-important-work",
+  "publishedAt": "2025-11-30T19:29:45.972Z",
+  "excerpt": "Two insights:",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two insights:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Each of us has a choice about what we create and contribute to. Thus, we alone are responsible for the quality of our work. It can be vitally important to our culture, scarce even, but that starts with the intention (and the persistence) to make it so.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Getting people to recognize that what you bring to the table is the work of a professional probably starts with acting like one. You do that by changing your posture — taking it seriously, making deadlines, and meeting spec.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Expectations set the standard for your performance and the story you tell about it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

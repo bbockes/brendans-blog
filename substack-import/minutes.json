@@ -1,0 +1,109 @@
+{
+  "title": "Minutes",
+  "slug": "minutes",
+  "publishedAt": "2018-04-06T06:02:00.000Z",
+  "excerpt": "That’s a ten minute commitment, once a day for ten days.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s a ten minute commitment, once a day for ten days.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A little more than an hour and a half.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Enough time to learn just enough. The basics.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To skim the Wikipedia entry and look at a few videos. Or attend an info session and a class. Or run a metaphorical mile.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Far from intermediacy. Not even close. Just enough to know if you’re interested enough to continue.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I wonder we’re we’d be if we gave ourselves the luxury.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The choice to discover something new. To do something we’ve never done before.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s just ten minutes. You have the time. And you can quit after a hundred if it’s not your thing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What will you experience?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

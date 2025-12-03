@@ -1,0 +1,114 @@
+{
+  "title": "148862626.courses That Count Vs Those That Dont",
+  "slug": "148862626courses-that-count-vs-those-that-dont",
+  "publishedAt": "2025-11-30T19:29:48.367Z",
+  "excerpt": "It’s easy to show up for (and finish) a class that “counts” toward a valued metric. Where there’s a cohort of people…classmates, parents, teachers…coaxing and cajoling and pressing you on.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easy to show up for (and finish) a class that “counts” toward a valued metric. Where there’s a cohort of people…classmates, parents, teachers…coaxing and cajoling and pressing you on.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, of course, with the right combination of peer pressure and shame, standardized benchmarking and expectations—matched with the constant fear of missing out if you fall short—you can convince yourself to do practically anything.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s far harder to complete a course because you want to. Because you value the learning, the content, or the skill(s) you might acquire.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why MOOC completion rates are so",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "abysmal",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Or why so few people read (for pleasure) after college.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.edsurge.com/news/2017-02-22-the-flip-side-of-abysmal-mooc-completion-rates-discovering-the-most-tenacious-learners"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not because there are outliers. It’s not because it’s “too difficult.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s merely because most people aren’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "thirsty",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "enough (and a few people are).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2009/11/thirsty/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Feedback direction and encouragement",
+  "slug": "feedback-direction-and-encouragement",
+  "publishedAt": "2021-04-04T07:07:00.000Z",
+  "excerpt": "When people seek out mentors of all kinds, that’s often just what their looking for.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When people seek out mentors of all kinds, that’s often just what their looking for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Feedback, so that you know what you’re doing right, what you’re doing wrong, and what you need to do to improve.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Direction, so that you have a roadmap—so that you know the steps you need to take to go from where you are, to where you’d like to be.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Encouragement, because doing things on your own is hard, because confidence is a priceless gift, and because even the best of us feel like imposters, sometimes.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

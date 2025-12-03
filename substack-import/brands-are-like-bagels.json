@@ -1,0 +1,54 @@
+{
+  "title": "Brands are like bagels",
+  "slug": "brands-are-like-bagels",
+  "publishedAt": "2019-09-08T09:28:47.000Z",
+  "excerpt": "Not many would deny that a freshly-toasted supreme bagel, made right, with care, and delivered at the right time (a surprise treat from your co-worker, for example) is well worth a caloric splurge, an",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not many would deny that a freshly-toasted supreme bagel, made right, with care, and delivered at the right time (a surprise treat from your co-worker, for example) is well worth a caloric splurge, and can even be worth an Instagram pic. Heck, you might even talk about how good it is with your peers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Contrast that with a stale, ordinary bagel you picked up from the store while racing to work. It's hard to see how it's even worth the effort of eating it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many brands are like bagels. They're fungible. Except when they're not.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The question is, if you're in such a crowded industry, why would you choose to be anything less than extraordinary?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

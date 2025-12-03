@@ -1,0 +1,203 @@
+{
+  "title": "148862961.what Money Can Buy",
+  "slug": "148862961what-money-can-buy",
+  "publishedAt": "2025-11-30T19:29:53.742Z",
+  "excerpt": "Four hundred dollars is still four hundred dollars, no matter how wealthy you are.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Four hundred dollars is still four hundred dollars, no matter how wealthy you are.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that with the same amount, you can buy:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "An Oculus Quest.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This purse.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A new jacket. (Or a new wardrobe.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Dinner and a movie (for two) and a nice night in an Airbnb.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two dozen (mind-blowing) books. Maybe more.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two years worth of world-class learning, or a mere fraction of a college-loan.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Website hosting for about 2 years.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Enough to change a life, indefinitely. Or to fund a pretty decent lemonade stand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A little less than 400 chocolate bars to share with your friends.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Four hundred dollars saved. ($800 earned).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Acknowledging that you can split your 400 not just one way, but",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "multiple",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "ways, that you can get more (or less) relative value with the same absolute amount…that’s what it means to understand ‘the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "value",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "of money.’",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.investopedia.com/terms/o/opportunitycost.asp"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It takes a bit of effort to see what’s it worth, but it’s perhaps the best way to ensure you end up getting it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Vertical horizontal kanban",
+  "slug": "vertical-horizontal-kanban",
+  "publishedAt": "2019-08-06T07:21:00.000Z",
+  "excerpt": "Having worked in food retail for some time, and having now been exposed to a project-based service setting, I’ve developed a somewhat unique perspective on project management.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having worked in food retail for some time, and having now been exposed to a project-based service setting, I’ve developed a somewhat unique perspective on project management.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many project-based firms (IT/web/app development/marketing businesses) are familiar with ‘horizontal ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "kanban",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",’ a scheduling system of using cards for tasks/projects that move from left to right based on priority and completion.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.atlassian.com/agile/kanban"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, many food retail and other organizations (like ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "surgeons",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") rely on a form of ‘vertical kanban’ (otherwise known as a checklist), to accomplish more or less the same thing.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve found that it helps to use both frameworks for different types of assignments.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Horizontal kanban is great for keeping people (and teams) accountable for high-level projects (made up of multiple tasks) as they move from backlog to active to QA to completion. Vertical kanban is good for visualizing those specific tasks (so that a single person knows what they need to focus on in a given day) as well as for for completing recurring tasks.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most kanban-based software tools (Asana, Trello, etc.) have different displays for both these views. But I think it's important to keep in mind that certain things are better for different axis's: projects (not-including the subtasks that comprise them) are easy to keep track of horizontally, whereas tasks are easier to prioritize and thus complete by ranking them vertically.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Just my 2 cents of PM wisdom.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

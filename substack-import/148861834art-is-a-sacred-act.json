@@ -1,0 +1,132 @@
+{
+  "title": "148861834.art Is A Sacred Act",
+  "slug": "148861834art-is-a-sacred-act",
+  "publishedAt": "2025-11-30T19:29:38.562Z",
+  "excerpt": "Your dog doesn't understand a story. He can’t see the difference between a painting and everything else. And he certainly doesn’t experience music the same way you do.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Your dog doesn't understand a story. He can’t see the difference between a painting and everything else. And he certainly doesn’t experience music the same way you do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Formal art (painting, writing, music, dance, etc.) has been a key part of our culture and our history as long as fire and tools and the wheel. Always changing forms, always reflecting what is happening within our culture, art is a lens at seeing the world as it once was, and as it is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To experience art (even if we don’t understand it’s intention), then, is to experience something that is uniquely human. Art (no matter how different it is from our understanding of what art is)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "innately human.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As the brother of a talented (albeit aberrant) musician I’ve often found myself in the back of a concert hall, listening to wildly avant-garde musical",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "performances",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", asking “what is this?…is this music?” The answer I undoubtedly arrive at is “yes.” Yes, it’s abstract stuff. Yes, most people aren’t going to understand it or enjoy it. But yes, it’s uniquely human. No animal or machine could have created it. It has",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "wabi-sabi",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". And it reflects (albeit to an odd degree) the human condition. This is, in many ways, the new. You don’t have to like it. But that doesn’t mean you shouldn’t experience it. See what it's trying to convey. About our world, about yourself? You might learn something; see the world differently.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=ebIN_4Q6GjU"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Wabi-sabi"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Art (even the abstract)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "human. It pushes our culture forward. Challenging technology and society to keep up. And so it should be valued with the same sort of respect and reverence as any other sort of profession.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed, art is a sacred act.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

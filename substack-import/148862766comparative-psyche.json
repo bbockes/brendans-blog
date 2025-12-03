@@ -1,0 +1,95 @@
+{
+  "title": "148862766.comparative Psyche",
+  "slug": "148862766comparative-psyche",
+  "publishedAt": "2025-11-30T19:29:49.801Z",
+  "excerpt": "If you want to reliably compare yourself to others, there’s never been a better time.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you want to reliably compare yourself to others, there’s never been a better time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Luxury Estate",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", a site that showcases the world’s most luxurious real estate, and a great way to convince yourself you’re (probably) in the wrong line of work.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.luxuryestate.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or peruse the celeb magazines while you're in line at the grocery store. Dozens of people living supposedly better lives than you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or browse social media for an hour, with its constant feed of vacations and fun-filled happenings most of which you're likely not invited to, celebrated by friends and colleagues alike.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If seeking out FOMO by way of social comparison makes you more competitive, have at it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if you find that it just makes you feel miserable, don't expect indulging in more of it to be the cure.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

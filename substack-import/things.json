@@ -1,0 +1,109 @@
+{
+  "title": "Things",
+  "slug": "things",
+  "publishedAt": "2022-05-20T05:15:00.000Z",
+  "excerpt": "McKinley Valentine (writer of  The Whippet ) once made a list of literally every single item she owns. Preparing for a recent move, I decided to come up one myself.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "McKinley Valentine (writer of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "The Whippet",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") once made a list of literally every single item she owns. Preparing for a recent move, I decided to come up one myself.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://thewhippet.org/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s what I learned:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I own a lot more that I’d like to admit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’d be happier if I had less than I do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Cutting it down to 200 things might help a lot.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’m guessing 200 things is enough for me to be both equipped and content.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Your mileage, of course, may vary.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

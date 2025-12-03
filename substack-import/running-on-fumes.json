@@ -1,0 +1,43 @@
+{
+  "title": "Running on fumes",
+  "slug": "running-on-fumes",
+  "publishedAt": "2019-10-31T05:29:35.000Z",
+  "excerpt": "It’s really hard to focus on craft when you’re burnt out or struggling to meet a deadline.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s really hard to focus on craft when you’re burnt out or struggling to meet a deadline.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why it’s so often better to work on projects well before they're due (to minimize the chance of both).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Working for a few minutes everyday sure beats sprinting at the end.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

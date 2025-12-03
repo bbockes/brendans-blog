@@ -1,0 +1,156 @@
+{
+  "title": "Time wasted for good reason",
+  "slug": "time-wasted-for-good-reason",
+  "publishedAt": "2021-07-07T07:05:00.000Z",
+  "excerpt": "I’ve written about  yak-shaving  before, the pattern of doing useless activities to solve difficulties that appear to be in the way of whatever you’re trying to accomplish, when a more direct approach",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve written about ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "yak-shaving",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " before, the pattern of doing useless activities to solve difficulties that appear to be in the way of whatever you’re trying to accomplish, when a more direct approach exists.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/ride-sharing-is-more-fun-in-the-long-run/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I picked up on recently is that there’s a fine line between yak-shaving and the most direct way to an outcome that merely appears to contain lots of extraneous (and unneccessary) steps.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider a recent experience I had while trying to open an Excel doc on my Mac.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because Apple is so strict with their security measures (and so adamant about getting everyone to update their devices to their latest operating system, the moment they’re released), my system keeps “verifying the security” of all my third-party apps. Even though, a) I already told my Mac that they were safe to open and b) I ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "already",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " downloaded them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, Apple is forcing me to update my Mac, so that I can open Excel to make a simple change in an Excel file. Of course, what that really means is that I need to backup my Mac, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "then",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " update it, and then try to open my Excel file. Which means that I should probably go ahead and download all my iPhone photos to my Mac (so I can include those images in the backup), which is, again, another superfluous step.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, what was once a simple task (opening an Excel file) is now a 4-step process. That doesn’t mean it ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "isn’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the most direct way to accomplish my goal—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "it is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—or that I shouldn’t do it now because it won’t make things easier for me down the road—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "it will",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It simply means that it’s a terribly ineffecient and time-consuming ordeal, but still the most efficient means I have of accomplishing my goal.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

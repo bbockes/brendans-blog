@@ -1,0 +1,65 @@
+{
+  "title": "Yes and no",
+  "slug": "yes-and-no",
+  "publishedAt": "2021-01-12T06:00:00.000Z",
+  "excerpt": "In our careers and lives, it's okay--encouraged even--to say 'no' to a few things.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In our careers and lives, it's okay--encouraged even--to say 'no' to a few things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The person we're not right for, the job that isn't a good fit, the opportunity that doesn't align with our values.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Saying 'no' is a signal that lets us (and other people) know who we are and what we're about. It clarifies the unknowns, and makes us all the better for it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, saying 'no' to everyone or everything is a surefire way to avoid progress.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because you have to say 'yes' to some things, especially when our options are imperfect, uncertain, or few and far between.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

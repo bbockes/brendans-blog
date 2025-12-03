@@ -1,0 +1,74 @@
+{
+  "title": "Only temporary",
+  "slug": "only-temporary",
+  "publishedAt": "2020-10-10T06:30:00.000Z",
+  "excerpt": "Most of the things we fear and fret about are just that,  only temporary .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of the things we fear and fret about are just that, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "only temporary",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that, if you give yourself the space to sit with it long enough, those feelings will surely subside.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One day, not far from now, you’ll find yourself on a figurative beach…feeling better. And you’ll be better for it, because you endured the upset.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(Better to let those feelings pass ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "now",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " than later.)",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

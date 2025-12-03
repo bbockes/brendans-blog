@@ -1,0 +1,43 @@
+{
+  "title": "How did you do that 2",
+  "slug": "how-did-you-do-that-2",
+  "publishedAt": "2023-07-14T05:00:00.000Z",
+  "excerpt": "It’s a teeny, tiny question with big implications.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a teeny, tiny question with big implications.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because once you know how someone is able to do a thing, you can do too.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead of assuming you don’t have what it takes to be that someone.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

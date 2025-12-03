@@ -1,0 +1,62 @@
+{
+  "title": "148861820.on Creating A Backwards Thesaurus A Useful Tool For Expanding Your Vocubulary",
+  "slug": "148861820on-creating-a-backwards-thesaurus-a-useful-tool-for-expanding-your-vocubulary",
+  "publishedAt": "2025-11-30T19:29:38.280Z",
+  "excerpt": "Yesterday, while browsing my local Barnes and Noble, I came upon some smart advice for learning new words from an equally resourceful book: The Well-Spoken Thesaurus by: Tom Heehler .",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yesterday, while browsing my local Barnes and Noble, I came upon some smart advice for learning new words from an equally resourceful book:",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "The Well-Spoken Thesaurus by: Tom Heehler",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Well-Spoken-Thesaurus-Powerful-Everyday-Phrases/dp/1402243057"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In it, Heehler explains how while completing his education, he would (as we all do) come across words he neglected to know the meaning of. So, in an attempt to invent a way to learn new words he adopted this simple habit: every time he came upon a word he didn’t know, he’d write it down in a journal and pair it with what he would have said prior to knowing the word. It’s sort of like creating a thesaurus backwards, you write down the word you don’t know, and after learning it’s meaning, write down it’s corresponding synonyms, or at very least, how you would have explained the same concept previously.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you do this every time you come across a new word, you’ll not only learn new words but you’ll create connections between them and words you already know, thereby making it easier to memorize your new words and use them in everyday speech and/or writing. Furthermore, because you’ll understand the small discrepancies between related words (like the difference between abstain and abnegate), you’ll be able to use the more contextually appropriate word more often, making your writing (and thinking) twice as coherent. In time, you might even have a thesaurus of your own similar to Heehler’s.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

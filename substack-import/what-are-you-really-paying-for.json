@@ -1,0 +1,270 @@
+{
+  "title": "What are you really paying for",
+  "slug": "what-are-you-really-paying-for",
+  "publishedAt": "2018-02-08T12:07:19.000Z",
+  "excerpt": "After speaking with the  Times  about the $500 million price tag for the new World Bank Stadium, R. T. Rybak, the mayor of Minnesota, said, \"I would not have done a deal just for the football  stadium",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After speaking with the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Times",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " about the $500 million price tag for the new World Bank Stadium, R. T. Rybak, the mayor of Minnesota, said, \"I would not have done a deal just for the football ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "stadium",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "...you don’t build a stadium for the Super Bowl.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://mobile.nytimes.com/2018/01/29/sports/football/super-bowl-lii-minnesota.html?referer="
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=e22yH5hUQ_A"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Really? Where's the money going then?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s been 4 days since the big game. The financial bonanza is over. All the nearby restaurants and hotels and local businesses, having exceeded their net occupancy for a few days, now have a surplus of cash. Yet most of that money will go towards paying down overhead, which means that it isn’t going to the waitstaff or the bellhop, it’s going to the property owners. And then what? They’ll either save it (in which case the money will be locked up in a bank somewhere) or spend it/invest it (on things that probably don’t help Minnesota in any tangible way).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I could be wrong, but I feel like given the inevitable needs for improvements in other areas in most cities and states, and the opportunity cost of $5 million (written $500,000,000), that money could be better spent elsewhere. Some examples:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "health care",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "K-12 education",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "higher-level education",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "environmental sustainability",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "transportation infrastructure",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "homelessness",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "the coming baby boomer bust (and thus declining labor force)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "the broadband gap",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All of these are societal challenges that if addressed with innovative solutions could boost jobs, real estate demand, and tourism, alike. Comparatively, it’s a small long term investment in a huge financial premium, far greater than the economic activity gained by spending it on a new football stadium and a week of partying downtown. It can be a virtuous experience as well. You’re spending the money on fixing societal needs, after all, not on the wants of a few wealthy business owners or investors.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas, this isn’t an anomaly. Well meaning authority figures, from mayors to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "school boards",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " do this all the time. When you buy a football stadium you get a football stadium, and a boost in all nearby economic activity for a week or so. It’s easy to see where the money goes. It’s immediate, like winning the lottery. Using the money to invest in infrastructure or innovation or social initiatives, is, by it’s nature, a long-term strategy. It’s far more complex and the payoff’s are harder to measure.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://brendanbockes.typepad.com/blog/2016/05/whats-the-piano-for.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This isn’t a post about hating on Minnesota (or it’s mayor) for buying a new stadium when they could have spent $500 million elsewhere. It’s about recognizing that it’s far easier to rationalize an immediate purchase with an equally immediate (and visible) payoff, than it is consider the opportunity cost of what you’re actually paying for. It’s easy to think the visible shortcut is your only (best) option. It’s far more difficult to have the confidence and the resilience necessary to invest your money in long-term, complex and not easily measurable outcomes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Maybe Minnesota really did craft a great deal for their new stadium. Maybe it was one of the best long-term stadium bets on record. Of course, that’s not the point. It’s that, when it comes to analyzing these types of decisions (and when making them) it’s important to ask yourself, “where’s the money going?” What are you paying for, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not about whether it’s on sale or if you can negotiate a great deal. It’s about considering if buying this thing you think you want is really worth paying for to begin with.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

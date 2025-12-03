@@ -1,0 +1,151 @@
+{
+  "title": "Every page is not a landing page",
+  "slug": "every-page-is-not-a-landing-page",
+  "publishedAt": "2022-09-30T07:00:00.000Z",
+  "excerpt": "Something many CMO’s have a tough time wrapping their heads around is the fact that not every page on a site inherently needs to be a landing page.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something many CMO’s have a tough time wrapping their heads around is the fact that not every page on a site inherently needs to be a landing page.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That some pages—most of them in fact—can simply be about informing your users the best you can. And, acknowledging, at least in part, that good things tend to come around.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That if you provide the content your users are looking when they need it, your conversion rate and sales figures will take care of themselves.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider but one example.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Setapp.com",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a subscription service for multiple apps.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://setapp.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It has a page for each app (like this one: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "https://setapp.com/apps/cleanshot",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") mean’t to ostensibly explain what each of them do.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://setapp.com/apps/cleanshot"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if the purpose of the content is to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "inform",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the reader about the apps themselves, why does it have three HUGE content blocks that would better left on a landing page?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It seems to me that if they really want their users to consider the value of using their service, they should spend just as much time showcasing what’s really on offer as opposed to the the big picture ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this is how it works and what it costs",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " part of the sale.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

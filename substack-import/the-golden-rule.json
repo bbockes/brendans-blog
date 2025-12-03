@@ -1,0 +1,87 @@
+{
+  "title": "The golden rule",
+  "slug": "the-golden-rule",
+  "publishedAt": "2019-04-02T07:03:00.000Z",
+  "excerpt": "Would you read this?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Would you read this?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Would you listen in?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Would you subscribe? Willingly buy? Or pay attention?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Too often when people provide a service (be it making an ad, writing an email, or creating a product) they do a sloppy job.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because they compromise on quality, (often) hoping their customers or viewers won’t notice.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if you wouldn’t eagerly want to read your content, listen to yourself speak, or buy your products, how can you possibly expect other people will either?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The golden rule isn’t just a nice thing to do, it’s the most important metric for any service or business seeking to sustain itself.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

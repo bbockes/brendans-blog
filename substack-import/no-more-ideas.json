@@ -1,0 +1,65 @@
+{
+  "title": "No more ideas",
+  "slug": "no-more-ideas",
+  "publishedAt": "2019-11-17T16:38:29.000Z",
+  "excerpt": "It's all too easy (and common) to convince yourself that you don't have anything (left) to contribute.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's all too easy (and common) to convince yourself that you don't have anything (left) to contribute.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nothing more to write about. Nothing else to say.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's far more likely, though, that you're simply out of good ideas. That the quality of the stuff you have to share doesn't quite align with the quality of the stuff you'd like to think you're capable of.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's not that you have nothing left to say. It's that you're uncomfortable raising your hand and getting it wrong.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There's nothing you can do to escape that feeling. But acknowledging that it's a feeling—not a fact—is a great way to lean into the idea that you have plenty more to share.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

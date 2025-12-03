@@ -1,0 +1,154 @@
+{
+  "title": "Wealth is a ratio",
+  "slug": "wealth-is-a-ratio",
+  "publishedAt": "2020-12-27T05:58:41.000Z",
+  "excerpt": "Derek Sivers  defines wealth as ‘having more than you need.’",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Derek Sivers",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " defines wealth as ‘having more than you need.’",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.stitcher.com/show/derek-sivers/episode/inspired-money-69865529"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The natural corollary being that ‘not needing much’ is the best way to accrue wealth.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because: if ‘wealth’ is having excess, then wealth is merely a ratio between a person’s net value (not their income*) and their expenses.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Take your net value and divide it by your monthly cost of living. That’s how many months you can afford to live on without going broke.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "($50,000/$2,000 is two years of ‘wealth.’ $90K is two times as much.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it works both ways. By cutting your cost of living you can more than double your wealth, as well.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "($50,000/$1,000 will give you about 4 years. So can $100K/$2,000)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And there lies the secret to generating wealth long-term...one you can live by, indefinitely. Because if you spend less than you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", and save more than you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "need to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", you can stockpile wealth for quite some time without adjusting your income.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*Being ‘rich’ can also be defined as a ratio—that being your income divided by your expenses (the value of which is entirely subjective). Of course, based on these definitions, you can be rich without being wealthy (less preferable) or wealthy without being rich (more preferable). Better to be both if you can.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

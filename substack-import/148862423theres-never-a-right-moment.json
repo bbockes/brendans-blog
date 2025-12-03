@@ -1,0 +1,54 @@
+{
+  "title": "148862423.theres Never A Right Moment",
+  "slug": "148862423theres-never-a-right-moment",
+  "publishedAt": "2025-11-30T19:29:45.871Z",
+  "excerpt": "You'll always have something on the agenda.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You'll always have something on the agenda.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the weather is never perfect.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Today is merely an another day in a long line of imperfect days. Tomorrow will be too.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Giving up your best excuse is the easiest way to go about starting.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

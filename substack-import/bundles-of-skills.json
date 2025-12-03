@@ -1,0 +1,119 @@
+{
+  "title": "Bundles of skills",
+  "slug": "bundles-of-skills",
+  "publishedAt": "2020-11-23T05:00:00.000Z",
+  "excerpt": "In  The First 20 Hours ,  Josh Kaufman makes the case you can learn a new skill (and be sufficiently good at it) with about 20 hours of deliberate practice.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "The First 20 Hours",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Josh Kaufman makes the case you can learn a new skill (and be sufficiently good at it) with about 20 hours of deliberate practice.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://The First 20 Hours: How to Learn Anything . . . Fast! https://www.amazon.com/dp/1591846943/ref=cm_sw_r_cp_api_fabt1_gaYUFb1D19313"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If that holds true, that means that given 90-minutes of daily practice, you can pick up a new skill in as little as two weeks.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, since we know that jobs are mostly bundles of skills, it would appear that getting a new job, or pivoting into a new field, isn’t nearly as hard as it appears.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because while there ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " a bit of domain knowledge involved, once you’ve done the reading, once you know the best practices, the theory, and the tools of the trade, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "acquiring",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the skills you need is merely as matter of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "practice",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Picking them up is merely a matter of putting in the time.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

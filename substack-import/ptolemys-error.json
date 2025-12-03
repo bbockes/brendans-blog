@@ -1,0 +1,95 @@
+{
+  "title": "Ptolemys error",
+  "slug": "ptolemys-error",
+  "publishedAt": "2019-10-12T09:34:08.000Z",
+  "excerpt": "Ptolemy wrote a whole  book  explaining his geocentric model, the idea that the sun and planets move in perfectly circular orbits around the earth.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ptolemy wrote a whole ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "book",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " explaining his geocentric model, the idea that the sun and planets move in perfectly circular orbits around the earth.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Almagest-Introduction-Mathematics-Heavens/dp/1888009438/ref=as_li_ss_tl?keywords=Claudius+Ptolemy&qid=1570101645&sr=8-4&linkCode=ll1&tag=offsitoftimfe-20&linkId=6fa4dc30843c6f287b0f6d7fc8f93269&language=en_US"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The reason that’s worth remembering isn’t because he was wrong, but because he was wrong for an interesting reason.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence the significance of the phrase ‘Ptolemy’s error.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because if you’re going to be wrong, you might as well be wrong in a way that opens up new doors: ways of thinking that shed light on dormant paradigms. You can be skeptical of the prevailing science, for example, and still end up with the wrong conclusions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Contrast that with the ignorance of science. Being wrong because you’re obstinate in your beliefs, biases or worldview, and too proud to seek out contradictory evidence.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out there are two ways to be wrong. You can be wrong for the right reasons, and that’s fine. Being wrong for the wrong reasons, however, helps no one.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

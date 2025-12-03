@@ -1,0 +1,188 @@
+{
+  "title": "Research research research",
+  "slug": "research-research-research",
+  "publishedAt": "2020-07-07T05:20:00.000Z",
+  "excerpt": "Samsung recently updated the software on the SmartTV I have in my living room. Long overdue, the user interface now shows a rotating selection of previously used apps as a precursory screen, with the ",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Samsung recently updated the software on the SmartTV I have in my living room. Long overdue, the user interface now shows a rotating selection of previously used apps as a precursory screen, with the option of expanding the menu to see all my apps.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thing is, nowhere in the 5 years that I've had this model has Samsung ever once updated the UI. It’s never bothered to make it easier to download apps from their confusing app store, let alone done any work to make their limited selection of apps any larger. (It’s quite possibly the stupidest Smart-TV I’ve ever seen.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I don’t care to have an easier way to get to my most used apps. And I’m guessing most other users don’t either. But that won’t change the fact that Samsung chose to make this a priority at the expense of a dozen other things they could have done instead.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If they had taken the time to invest in researching their users—learning what we really valued—they might have scrapped the precursory screen in favor of something more useful (and I wouldn’t be writing this post).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider another, real-world, example: all those summer camps starting this week and next, with next to no attendees. Many won’t have enough campers to make a profit, but that’s not going to stop them from investing in staff and resources.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If all these organizations had done was send out a simple ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "survey",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to their customer base, prior to marketing their services, they could have saved thousands of dollars.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.typeform.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In a world where data abounds (and where investigative tools are ubiquitous and cheap), it doesn’t make any sense to make decisions without at least some reference point.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No, you won’t make perfect choices. And no, the data won’t be defect-free. But knowing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "something",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is better than nothing, in the same way that making evidence-based decisions based on ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "some",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " information is far better than making arbitrary choices without it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Side-note: The team at BaseCamp released ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "HEY",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (email) recently. I’ve read it’s as game-changing as one might expect. It’s also a perfect example of what can happen when you research your users ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "before",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you ideate, iterate, or ship.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://hey.com/"
+        }
+      ]
+    }
+  ]
+}

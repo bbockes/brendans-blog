@@ -1,0 +1,65 @@
+{
+  "title": "Different things for different people",
+  "slug": "different-things-for-different-people",
+  "publishedAt": "2019-05-13T05:50:00.000Z",
+  "excerpt": "Some people want a venti, others prefer a tall.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Some people want a venti, others prefer a tall.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Some people call a party a crowded amphitheatre. Others want one with one or two close friends. And still others want a cozy, intimate encounter with a handful of friends and strangers alike.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Someone wants a fast car, a sleek car, or both. Others prefer fuel efficiency, or the on-board tech, or the way it makes them feel.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s no question that different people prefer different things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The question is, as someone who makes things (objects or experiences) for a living, who are you catering to? And why?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

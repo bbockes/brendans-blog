@@ -1,0 +1,194 @@
+{
+  "title": "Listen to the journalists",
+  "slug": "listen-to-the-journalists",
+  "publishedAt": "2020-06-26T05:53:53.000Z",
+  "excerpt": "Something I’ve noticed that’s slightly controversial: investigative journalists almost always have the best ideas and the most objective answers.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I’ve noticed that’s slightly controversial: investigative journalists almost always have the best ideas and the most objective answers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Maybe it’s because scientists and researchers tend to focus on one question at the exclusion of all others, for years and years, oblivious to what’s going on outside their area of expertise.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And because the general public, while good-intentioned, generally tend to congregate around their biases and preconceptions, or to what’s been tossed around as immutable fact. Too often, we tend to hold tightly to what we think is true, and seek evidence to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "confirm",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " our conclusions (rather than defend our contradictions).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.verywellmind.com/what-is-a-confirmation-bias-2795024"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the proposed experts? The people we seek advice from? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "They",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " went to business school. Or med school. Or law school. They read about it in a book twenty years ago, and haven’t done much in the regard of genuine research or original thought since.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Journalists—as opposed to scientists and analysts and experts—have a lot more to say. They’ve got a lot more ground to cover—historical research, anecdotes, interviews and the like—and are sometimes apt to make grandiose claims.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But at the same time, the best ones are also more impartial, more informed*, and yes, more willing to fan the flames of verity, no matter how ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "radical",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "controversial",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " the objective truth appears to be.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=EWaPXzTDEDw"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=M6vpFV6Wkl4"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And when it comes to forming our own opinions, endorsing reality, and choosing who’s opinions to subscribe to (because we can’t follow everyone), ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " might be all we need hope for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*As a former professor of mine once said of Malcolm Gladwell’s work, “I don’t agree with everything he says, but he’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "wicked smart",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".”",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

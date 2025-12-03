@@ -1,0 +1,74 @@
+{
+  "title": "For a limited time",
+  "slug": "for-a-limited-time",
+  "publishedAt": "2022-07-18T07:00:00.000Z",
+  "excerpt": "When a business offers a discount for today only, it doesn’t mean they can’t afford to offer you a discount tomorrow.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When a business offers a discount for today only, it doesn’t mean they can’t afford to offer you a discount tomorrow.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It merely means that by creating an artificial sense of urgency, they’ve found a way to encourage ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "some people",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to take advantage of what’s seemingly available right now.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That doesn’t mean it’s a good bargain. Or that you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " ask for it again tomorrow.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What it means is that people will respond to the fear of missing out. Even when it’s forced. Or when they actually won’t miss out on much.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

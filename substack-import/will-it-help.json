@@ -1,0 +1,209 @@
+{
+  "title": "Will it help",
+  "slug": "will-it-help",
+  "publishedAt": "2021-02-20T07:00:00.000Z",
+  "excerpt": "Through a long string of coincidences, I heard this past week about how everything from  UX  to  Big Data  to  Algorithms  to  SEO  is somehow ruining something, spreading lies, reinforcing intoleranc",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Through a long string of coincidences, I heard this past week about how everything from ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "UX",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Big Data",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Algorithms",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "SEO",
+          "marks": [
+            "link-3"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is somehow ruining something, spreading lies, reinforcing intolerance, and making the world worse, not better.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://creativegood.com/blog/21/losing-faith-in-ux.html"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.amazon.com/dp/0553418831?tag=geniuspermission-20&th=1&psc=1&geniuslink=true"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=UXuJ8yQf6dI"
+        },
+        {
+          "_key": "link-3",
+          "_type": "link",
+          "href": "https://www.currentaffairs.org/2020/12/how-seo-is-gentrifying-the-internet?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-125"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And I don’t have to search very far to find out how ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "education",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " can take a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "turn",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " for the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "worst",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.brazen.com/blog/archive/college/the-real-reasons-college-is-a-bad-investment"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://feeds.feedblitz.com/~/584364776/0/sethsblog/posts~False-limits/"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://www.currentaffairs.org/2021/02/elite-universities-should-be-eliminated"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The thing is, all these things have promised to make the world better. And all of them can.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But just as with anything, that doesn’t mean they ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " better. In every case.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Good things can be used poorly, incorrectly, for the worst. Just like nuclear fission, chemistry, or gasoline, any ‘invention’ can hurt as much as it helps.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The question, then, isn’t to ask what ‘thing’ is worth investing your time doing. The question to ask is ‘Is the thing that I’m doing going to help?’",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

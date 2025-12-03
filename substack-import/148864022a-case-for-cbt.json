@@ -1,0 +1,103 @@
+{
+  "title": "148864022.a Case For Cbt",
+  "slug": "148864022a-case-for-cbt",
+  "publishedAt": "2025-11-30T19:30:11.768Z",
+  "excerpt": "For those who don’t know, Aaron Beck passed away last week.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For those who don’t know,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Aaron Beck",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "passed away last week.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.m.wikipedia.org/wiki/Aaron_Beck"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Aaron Beck was known for a great many things. One of them is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "cognitive behavioral therapy",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—a method he invented that’s changed (and possibly saved) thousands of lives.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.nhs.uk/mental-health/talking-therapies-medicine-treatments/talking-therapies-and-counselling/cognitive-behavioural-therapy-cbt/how-it-works/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The gist of it is this: problems appear less complicated (and intimidating) when they're broken down into parts than when they are seen as an undivided whole.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can overcome almost anything by breaking it down into manageable bits, and then focusing on amending the latter to overcome or improve the former.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Changing the way you act and feel by embracing new moods, mindsets, and habits.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "148864446.short Sentences Short Words",
+  "slug": "148864446short-sentences-short-words",
+  "publishedAt": "2025-11-30T19:30:16.105Z",
+  "excerpt": "Long sentences filled long words are often less legible that short sentences made using short words.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Long sentences filled long words are often less legible that short sentences made using short words.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They're also harder to comprehend.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

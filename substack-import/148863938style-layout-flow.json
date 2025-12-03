@@ -1,0 +1,76 @@
+{
+  "title": "148863938.style Layout Flow",
+  "slug": "148863938style-layout-flow",
+  "publishedAt": "2025-11-30T19:30:10.398Z",
+  "excerpt": "When it comes to publishing content, content managers (and teams) generally prioritize some things over others.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When it comes to publishing content, content managers (and teams) generally prioritize some things over others.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many want content to be consistent—both in terms of what's’ being written and who it’s being written for—so that what is actually written is about the same across pages or platforms.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Others prefer that the content visually look the same—with the same word counts in the same sections, and, obviously, the same formatting for headers, lists, graphics, etc.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, still, others prefer that the content read well and flow fluidly. This is what takes skill—the craft of writing (or editing) something so it sounds as good as it looks.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s hard to do all three at once. (Which is why so few content providers do so.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s also an relatively easy framework to adopt to avoid many of the conflicts that come up when working on a content team. Since most managers are going to prioritize some aspects of your workflow over others, it pays to know which ones they care about the most (and those they don't) so that you can do the same.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

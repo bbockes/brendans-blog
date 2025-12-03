@@ -1,0 +1,106 @@
+{
+  "title": "How much news do you need today",
+  "slug": "how-much-news-do-you-need-today",
+  "publishedAt": "2019-02-27T05:40:00.000Z",
+  "excerpt": "It’s not a silly question.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not a silly question.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’m all in favor of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "checking",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to see if you need to wear a jacket (or an umbrella) while you’re out.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.popularmechanics.com/technology/apps/g25804798/best-weather-apps/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or to see if school, work or society is in session.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But everything else…the latest celebrity drama, traffic accident, or knowing who won last night’s awards…it’s hard to see how being made of aware of those things is going to help you be a better equipped person today.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You’ll inevitably hear about it in passing. Or you wont.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is a reliable indicator that it probably wasn’t worth your attention to begin with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By being intentional about what you consume, you can focus your time and energy and morning and evening on something that is.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

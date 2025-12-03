@@ -1,0 +1,82 @@
+{
+  "title": "A recipe for sea change",
+  "slug": "a-recipe-for-sea-change",
+  "publishedAt": "2020-02-19T05:11:32.000Z",
+  "excerpt": "90 days of step-by-step progress. \n 60 cumulative minutes of anxiousness. \n 30 seconds of by-the-book courage.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "90 days of step-by-step progress.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "60 cumulative minutes of anxiousness.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "30 seconds of by-the-book courage.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's astonishing what one can accomplish when we're willing to push ourselves ever slowly toward our ambitions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To put in the work, bit by bit. To lean into ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "anticipation",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". And to run into fear, just once.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2012/11/anticipation-vs-anxiety/"
+        }
+      ]
+    }
+  ]
+}

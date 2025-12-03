@@ -1,0 +1,61 @@
+{
+  "title": "148863051.stories Matter",
+  "slug": "148863051stories-matter",
+  "publishedAt": "2025-11-30T19:29:55.408Z",
+  "excerpt": "A well-crafted, expertly-told story will always be more memorable (and go further) than a list of facts and figures.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A well-crafted, expertly-told",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "story",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "will always be more memorable (and go further) than a list of facts and figures.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://medium.com/solomonkingsnorth/the-extraordinary-case-of-mr-yamazaki-18739ebb4980"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure the data matters. But if you're not willing to weave it into a clear and cogent story--one that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "resonates",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "with your audience--your monologue will be as good as an inaudible message spoken on incurious ears.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

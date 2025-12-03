@@ -1,0 +1,92 @@
+{
+  "title": "148864068.checks And Balances",
+  "slug": "148864068checks-and-balances",
+  "publishedAt": "2025-11-30T19:30:12.245Z",
+  "excerpt": "Checks and balances are an effective way to slow down (and overturn) the impact of any one far-reaching decision—a great way to prevent misguided behavior (and mistakes) in politics.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Checks and balances are an",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "effective way",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "to slow down (and overturn) the impact of any one far-reaching decision—a great way to prevent misguided behavior (and mistakes) in politics.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.investopedia.com/terms/c/checks-and-balances.asp"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Workplace initiative? Not so much.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because when something needs doing—when taking the lead and calling the shots can produce better than average outcomes—layers of bureaucracy often hurts more it helps.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed, increased vigilance and regulated-agency tend to stifle",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "creativity",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", innovation, and initiative. A bad call for any organization that hopes to save time, pivot fast, or disrupt much of anything at all.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/creativity-is-plentiful/"
+        }
+      ]
+    }
+  ]
+}

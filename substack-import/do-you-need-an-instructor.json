@@ -1,0 +1,158 @@
+{
+  "title": "Do you need an instructor",
+  "slug": "do-you-need-an-instructor",
+  "publishedAt": "2020-01-30T05:43:40.000Z",
+  "excerpt": "It’s not uncommon for web and software developers to make nearly over 5 figure salaries within 5-9 years of starting their careers.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not uncommon for web and software developers to make nearly over 5 figure salaries within 5-9 years of starting their careers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That said, there’s also no other profession (to the best of my knowledge) that promises both that level of income and that is also virtually free to learn online. Because everything—literally ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you need to learn—is already on the web.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In fact, the sheer volume of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "free",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " online ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "courses",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "resources",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " dedicated to this space is astounding. For less than a tenth of the cost of a traditional college degree and a quarter of the time, anyone could realistically teach themselves the skills needed to excel in this field (and easily land a high-paying job).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://internetingishard.com"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://launchschool.com"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://frontendmasters.com/books/front-end-handbook/2019/#3.1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So what’s the catch?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Industrialized ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "education",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " has brainwashed a generation of otherwise fully-capable digital natives that the only way to learn anything is with rote-instruction, matched with the personal accountability that comes from working with a dedicated instructor, in a classroom of ‘students’ who may or may not be on the same level as you.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.huffpost.com/entry/industrial-age-education-_b_2974297"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, these aren’t prerequisites for learning any more than tests, team projects or textbooks. But they sure do work. Or do they?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

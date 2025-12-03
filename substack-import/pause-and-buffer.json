@@ -1,0 +1,254 @@
+{
+  "title": "Pause and buffer",
+  "slug": "pause-and-buffer",
+  "publishedAt": "2019-05-10T05:43:00.000Z",
+  "excerpt": "Many times when we have a conversation with someone, we’re so focused on what we’re going to say next that we forget to focus on listening to what’s being said.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many times when we have a conversation with someone, we’re so focused on what we’re going to say next that we forget to focus on listening to what’s being said.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yet wouldn’t it be better to simply say what comes to mind? Free, spontaneous, unassuming, thought?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What if you defaulted to using a buffer instead?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A go-to phrase, perhaps, so you have ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "something",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "  to say, but not enough that it takes your mind off of listening to the person doing the talking.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In no particular order, here are some things you might say instead:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "really(?)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "certainly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "true",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "right",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "absolutely",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "seriously?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is that right?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "exactly!",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "definitely",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "yeah",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "gotcha",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "See? That’s not too difficult. (And it’s easy to remember a few).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All it is is a way to simply say, “that’s interesting” or “I’m listening” or “tell me more,” and in doing so, enabling you to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "listen",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "as opposed to thinking about what to next say.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out that taking your mind off mindlessly talking (and thinking about talking) is a great way to get back to listening intently, and saying something impactful, instead.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "[HT to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Nick Sparks]",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=XoJa5jUE8t0"
+        }
+      ]
+    }
+  ]
+}

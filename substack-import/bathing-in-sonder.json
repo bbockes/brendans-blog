@@ -1,0 +1,106 @@
+{
+  "title": "Bathing in sonder",
+  "slug": "bathing-in-sonder",
+  "publishedAt": "2019-04-19T07:03:00.000Z",
+  "excerpt": "Here’s a useful exercise. Go to your nearest transfer station (the subway is best, but trains, airports or bus stops work too). Find a spot to stand or sit. Put your phone away.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a useful exercise. Go to your nearest transfer station (the subway is best, but trains, airports or bus stops work too). Find a spot to stand or sit. Put your phone away.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Just watch the people around you. The constant influx and outflux, and the sheer vastness of diversity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In my case (the DC metro center during rush hour), about 300 different strangers enter and then leave, every 5 minutes. And then the two platforms slowly fill back up again with entirely new people. It's a recurring cycle, for hours.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you sit there long enough, I’ve found, you might get the opportunity to experience something magical. A rare glimpse of the truth that each person around you is experiencing their own world, independent of your own, in real time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Realizing that the history and the always-on story of the someone standing nearest you might be both completely different and yet also similar to yours, has an effect in and of itself. Magnify that experience by every person you see and you encourage the kind of paradigm shift that’s so profound we have a word for it: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "sonder",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=AkoML0_FiV4"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s an incredible exercise in empathy, something like a condensed version of taking a weeklong meditation retreat. You might call it binge-watching the human condition.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What you might discover is that the constant hum of thoughts you have recycling in your head are so small, compared to the noise of everyone else, it's almost negligible. That doesn't mean your views aren't invaluable, or important to express—they are. It just means that expecting to drown out the views of others by encouraging them to embrace your own is futile, indeed. Certainly not how you change the world.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

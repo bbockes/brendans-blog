@@ -1,0 +1,72 @@
+{
+  "title": "148864235.two Easy Wins For Websites",
+  "slug": "148864235two-easy-wins-for-websites",
+  "publishedAt": "2025-11-30T19:30:14.097Z",
+  "excerpt": "Clean code is easier for search crawlers to read, which makes it better for SEO.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Clean code is easier for search crawlers to read, which makes it better for SEO.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Same goes for code that conforms to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "WCAG guidelines",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.w3.org/standards/webdesign/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They’re better for rankings",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "for users—yet too few websites comply, despite them being a win for their business and their customers alike.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

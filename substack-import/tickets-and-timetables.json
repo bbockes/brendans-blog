@@ -1,0 +1,128 @@
+{
+  "title": "Tickets and timetables",
+  "slug": "tickets-and-timetables",
+  "publishedAt": "2019-08-11T04:37:00.000Z",
+  "excerpt": "In my experience, I've found that plans (particularly plans with stringent by-the-minute schedules) rarely survive a collision with reality.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In my experience, I've found that plans (particularly plans with stringent by-the-minute schedules) rarely survive a collision with reality.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's often because you can't plan for everything all at once and expect it all to go without a hitch. That's life.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A better alternative is to build ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "slack",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " into your schedule.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2019/06/investing-in-slack/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Leave 30-60 minutes before you have to. Or better yet, don't make concrete plans at all.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not tying everything down to \"we have to be here and do xyz at these set times\" gives you room to relax, to explore, and to act on spontaneity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It also helps to avoid the temptation of micro-managing people (your team, your friends, your kids) when they don't have the same agenda that you do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No one likes a busy-body time keeper any more than an anxiety-inducing project manager.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So do yourself a favor and plan less. Or at very least make room for idle time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Life doesn't have to be so grounded.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

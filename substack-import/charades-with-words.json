@@ -1,0 +1,95 @@
+{
+  "title": "Charades with words",
+  "slug": "charades-with-words",
+  "publishedAt": "2019-05-17T05:11:00.000Z",
+  "excerpt": "I’ve referenced it before, but in case you missed it,  Everything is Alive  is an absolutely fantastic podcast (especially if you’re currently shy to podcast listening).",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve referenced it before, but in case you missed it, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Everything is Alive",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is an absolutely fantastic podcast (especially if you’re currently shy to podcast listening).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.everythingisalive.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As I listened to Ian interview 3 russian dolls this morning it got me thinking how the same concept could make a potentially great game.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So here it is: Charades with words (not acting).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pick an random object. Give it human feelings. Talk as if you see the world through their eyes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Have a conversation with someone. Every two minutes, have them try to guess what you are.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Great for all those long summer car rides. (Your mileage may vary.)",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

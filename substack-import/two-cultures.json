@@ -1,0 +1,54 @@
+{
+  "title": "Two cultures",
+  "slug": "two-cultures",
+  "publishedAt": "2018-08-18T10:55:18.000Z",
+  "excerpt": "One choice is to tear down the people around you so you can feel powerful. To build walls so they don't get too close. To use authority and force to get people to do what you want from them.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One choice is to tear down the people around you so you can feel powerful. To build walls so they don't get too close. To use authority and force to get people to do what you want from them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The other choice is to be someone people actually enjoy being around. To create an environment where people are happy to be there, and where other people are eager to join.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Both take effort. Both take time. Both cost you something.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But only one creates a future worth investing in.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Informed is not the same as ready",
+  "slug": "informed-is-not-the-same-as-ready",
+  "publishedAt": "2019-04-10T07:01:00.000Z",
+  "excerpt": "It’s quite likely that you know that credit cards (and negative cash flow) lead to debt.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s quite likely that you know that credit cards (and negative cash flow) lead to debt.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That being overweight can jeopardize your health.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That climate change is real.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That the skills gap applies to you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "now",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is the time to leave town.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.newyorker.com/magazine/2015/07/20/the-really-big-one"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Humans are really good at speculating negative outcomes, really bad at preventing them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if you’re not willing to work through the discomfort of averting dire circumstances, there’s no point in entertaining them to begin with.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

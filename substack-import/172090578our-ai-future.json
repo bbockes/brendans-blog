@@ -1,0 +1,213 @@
+{
+  "title": "172090578.our Ai Future",
+  "slug": "172090578our-ai-future",
+  "publishedAt": "2025-11-30T19:30:19.020Z",
+  "excerpt": "I consider myself an early adopter when it comes to AI tools.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I consider myself an early adopter when it comes to AI tools.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I started using ChatGPT in early 2023. And Claude not long after.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This year, I’ve discovered a range of new tools:",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "NotebookLM",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Manus",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Magic Patterns",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Bolt",
+          "marks": [
+            "link-3"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Windsurf",
+          "marks": [
+            "link-4"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Cursor",
+          "marks": [
+            "link-5"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and more.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://notebooklm.google/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "http://Manus"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://www.magicpatterns.com/"
+        },
+        {
+          "_key": "link-3",
+          "_type": "link",
+          "href": "https://bolt.new/"
+        },
+        {
+          "_key": "link-4",
+          "_type": "link",
+          "href": "https://windsurf.com/"
+        },
+        {
+          "_key": "link-5",
+          "_type": "link",
+          "href": "https://cursor.com/en"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s incredible to see what you can create today–and mind boggling to think where we’re headed.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s true that AI will be able to perform almost any white-collar job in the near future. But it’s also true it will unlock entirely new kinds of work that don’t yet exist.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Just as the internet gave rise to social media, eCommerce, and AI itself, AI will reshape the landscape in ways we can scarcely imagine.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This much is true: the challenge—and the opportunity—isn’t just in asking what jobs will be replaced, but in asking what new forms of value, creativity, and collaboration will emerge.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The people who thrive won’t be the ones competing with AI, but the ones learning how to build with it. To pivot fast, to ignore sunk costs, and to adapt as the tools evolve.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The real differentiator won’t be access to the technology (that’s becoming democratized), but the creativity, judgment, and speed with which we apply it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

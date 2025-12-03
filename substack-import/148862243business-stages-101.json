@@ -1,0 +1,122 @@
+{
+  "title": "148862243.business Stages 101",
+  "slug": "148862243business-stages-101",
+  "publishedAt": "2025-11-30T19:29:44.496Z",
+  "excerpt": "Existence: A time spent making a name for yourself, finding customers and delivering a minimum viable product.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Existence: A time spent making a name for yourself, finding customers and delivering a minimum viable product.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Survival: Clients are willing to pay, now it’s all about getting the word out, making promises (and keeping them) and, of course, staying profitable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Success: Managing expenses while expanding features, services, clients, employees and operations and promises. Remaining bankable and reliable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Take-Off: Achieving rapid growth (and financing that growth) become priority numero uno. Alas, what usually happens here is a company goes public or sells to the highest bidder. In which case, the founder loses control and management becomes decentralized in exchange for some heavy moolah.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Maturity: With a steady supply of money from investors, we reach critical mass, whereby the company hunkers down, gets strategic about where and how it invests it’s vast resources, and optimizes for maximum return on investment long-term.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Often neglected from most business theory is the fact that stages 4 and 5 are optional. That instead of achieving growth in as little time as possible, by whatever means possible, you can actually remain in the success stage, successful as it were, indefinitely.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That instead of focusing on making more money, or seeking out investors to supplant you with more leverage, you can invest your effort and revenue and resources in actually making a difference.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, you’ll never be as",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "profitable",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "as Apple (or most uber successful enterprises in your space). But you’ll get the chance to stand for something. In fact, you just might make the dent that we’ve been looking for.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2018/09/profitable-difficult-or-important/"
+        }
+      ]
+    }
+  ]
+}

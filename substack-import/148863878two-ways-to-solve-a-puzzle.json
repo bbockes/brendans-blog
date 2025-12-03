@@ -1,0 +1,63 @@
+{
+  "title": "148863878.two Ways To Solve A Puzzle",
+  "slug": "148863878two-ways-to-solve-a-puzzle",
+  "publishedAt": "2025-11-30T19:30:09.472Z",
+  "excerpt": "One way is to scan all your pieces for the one piece you need for the shape you’re intent to fill.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One way is to scan all your pieces for the one piece you need for the shape you’re intent to fill.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The other way is to remove from sight",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the pieces that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "aren’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the one you’re looking for, until you’re left with the one that is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "An apt metaphor for many things that have nothing to do with games.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

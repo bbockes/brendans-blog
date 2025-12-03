@@ -1,0 +1,73 @@
+{
+  "title": "Two types of copywriting",
+  "slug": "two-types-of-copywriting",
+  "publishedAt": "2022-10-03T07:00:00.000Z",
+  "excerpt": "One type of copywriting is the copywriting of sitting in a room and thinking of the best way to turn a phrase. Of coming up with ten different ways to say the same thing.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One type of copywriting is the copywriting of sitting in a room and thinking of the best way to turn a phrase. Of coming up with ten different ways to say the same thing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then there’s the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "copywriting",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " of breaking down objections and actually selling the value of a thing. And of the decreasing mental and emotional labor required to get someone to buy it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.julian.com/guide/startup/landing-pages"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One is arguably a surface level difference. Another is about strategy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas, it’s helpful to agree on which one you’re talking about so that you, your boss, your clients, and team are all on the same page.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

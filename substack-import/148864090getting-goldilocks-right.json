@@ -1,0 +1,105 @@
+{
+  "title": "148864090.getting Goldilocks Right",
+  "slug": "148864090getting-goldilocks-right",
+  "publishedAt": "2025-11-30T19:30:12.625Z",
+  "excerpt": "People tend to get the moral of the story of Goldilocks and the Three Bears all wrong.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People tend to get the moral of the story of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Goldilocks and the Three Bears",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "all wrong.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://artfelt.net/warehouse/VIEW%20AND%20PRINT%20Goldilocks%20and%20the%20Three%20Bears%20story.pdf"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many assume the story is about discovering what’s “just right.” Not too much, not too little…but just enough.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Others assume it’s a fable about the risks of wandering off and exploring the unknown, and the upside of staying ‘safe’ at home and ’sheltered’ from what’s outside.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I think it’s simpler than that.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Goldilocks is a story about how there",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "much better things",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to do with your curiosity than breaking into your neighbors home to discover what they eat and where they sleep.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Curiosity can be your superpower if you let it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

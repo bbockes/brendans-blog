@@ -1,0 +1,144 @@
+{
+  "title": "Brand recognition is a better kpi",
+  "slug": "brand-recognition-is-a-better-kpi",
+  "publishedAt": "2019-04-03T06:18:00.000Z",
+  "excerpt": "“I want to sell 30,000 copies of my next book (and get on the New York Times best-seller list.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“I want to sell 30,000 copies of my next book (and get on the New York Times best-seller list.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“I want to do 1,000 live shows next year (and get on the radio).”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“I want to raise our profit margin, click-through rate, or retention-rate by 300% (and get broadcasting from a major news network).”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "These are just a few of the ways people (authors, musicians, entrepreneurs) define success.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thing is, while traditional business metrics might be good for stakeholders, their a lousy way to measure impact.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Brand awareness",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", the extent to which customers are able to readily recall your brand, is a far better measure of your overall influence (and reputation). The more people who know about you and freely talk about you, the more your project is going to be heard about, searched, and spread. And the more of a cultural impact you’ll likely accrue.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Brand_awareness"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“Among the top 5 business books I’ve ever read.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“Best afrobeat band I’ve heard live this year.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“You ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "have",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to check out the stir-fried ice cream joint downtown! It’s amazing!!!”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Brand recognition ironically gets less recognition than most key performance indicators, but that doesn’t mean it’s not less important.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

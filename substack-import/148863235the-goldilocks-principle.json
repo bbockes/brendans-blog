@@ -1,0 +1,95 @@
+{
+  "title": "148863235.the Goldilocks Principle",
+  "slug": "148863235the-goldilocks-principle",
+  "publishedAt": "2025-11-30T19:29:59.034Z",
+  "excerpt": "Mass accepted products are generally characterized by mass, that is, by appealing to many groups of people instead of just one.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Mass accepted products are generally characterized by mass, that is, by appealing to many groups of people instead of just one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, the risk of doing this is that by attempting to appeal to a mass audience, product owners tend to make things that are so bloated and averaged-out, they appeal to almost no one, least of which their core audience.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence the benefit of designing things that strike a balance. Not a balance of compromising on the things that matter, but by making things that appeal to the same core audience but that are applicable in different contexts. You could call it, ‘the goldilocks principle,' designing things for a primary group so it's not banal, but adding just enough leg-room for it to appeal to a wider audience.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Adidas’s Samba shoes, for example, have stuck around for",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "so long",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(over 65 years) not only because they were great to wear on the pitch, but—because of their ‘low profile and and white-on-black contrast—cool enough to wear off it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.adweek.com/brand-marketing/why-adidass-samba-design-still-kicking-it-after-65-years-167460/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The shoes struck a balance between between being so specific that they were just another great soccer shoe, and being so casual that it was just another sneaker. By hitting on a sweet spot, the shoe, or rather the design, appealed to players as much as their fans.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure it's far more likely that the things you make will apply first to a small group of people—a core group of fans—and then gradually catch on from there. But if you don't even consider how it might apply to a wider context (or simulate striking a balance) you'll never know where it could lead you.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

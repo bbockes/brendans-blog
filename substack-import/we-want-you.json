@@ -1,0 +1,147 @@
+{
+  "title": "We want you",
+  "slug": "we-want-you",
+  "publishedAt": "2021-10-27T05:07:00.000Z",
+  "excerpt": "I had an encounter the other day that highlights what I think might be wrong with the modern recruiter.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I had an encounter the other day that highlights what I think might be wrong with the modern recruiter.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Someone emailed me saying that I was uniquely qualified for a job at a high-growth startup that was uber-successful for xyz reasons.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Acknowledging that this was clearly copied from elsewhere, I sent back a slightly sarcastic response, declining the offer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Long story short: the recruiter accused ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "me",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of being unprofessional, stating how if I didn't want the job, I should have just ignored him.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Since when was ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ignoring someone",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " a sign of professionalism?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/ghost-busters/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If I had spent the time to craft an original message, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "I'd",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " be upset if the recipient didn't respond to me.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Furthermore, if I get spammed from a recruiter who clearly doesn't care enough to write a personalized email, how am I at fault for being sardonic?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you're not going to treat me with respect (and it ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " a matter of respect), why would you expect me to treat you any different?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "I type at 81 words per minute",
+  "slug": "i-type-at-81-words-per-minute",
+  "publishedAt": "2019-11-20T09:20:54.000Z",
+  "excerpt": "Does how fast you type relate to how good a writer you are?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does how fast you type relate to how good a writer you are?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How about how fast you learn? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Does it make you a better learner? Or more productive team player?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider how many mistakes you make starting out? Is this a good way to determine how well you’ll perform in 6 months or 6 years?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s fine to measure something if it’s an honest indicator (or predictor) of your performance.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But too often, it’s merely a false front.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

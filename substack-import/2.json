@@ -1,0 +1,97 @@
+{
+  "title": "2",
+  "slug": "2",
+  "publishedAt": "2022-04-21T06:00:00.000Z",
+  "excerpt": "Here’s an interesting phenomenon that might occur at your organization:",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s an interesting phenomenon that might occur at your organization:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Someone makes an ambiguous request.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You assume you know what they want.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They become upset when what they get isn't what they wanted.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Clarifying questions are a great way to avoid the conflict that comes when you miss the mark by relying on an inaccurate map.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In fact, compared to the turmoil of creating something only to go back and redo it, asking questions ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "just to be clear",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is infinitely worth more than ‘inconveniencing someone.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They’re also free.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

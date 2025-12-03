@@ -1,0 +1,65 @@
+{
+  "title": "What you cant see",
+  "slug": "what-you-cant-see",
+  "publishedAt": "2020-12-26T07:00:00.000Z",
+  "excerpt": "Some of the most powerful forces are those we can't see.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Some of the most powerful forces are those we can't see.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The subjective beliefs we have about ourselves and our peers and the world at large. About why things happen the way they do, how people will think or react to our actions, and especially what's possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn't matter if we're right or we're wrong about our beliefs, just that we acknowledge that they're there. That many of the things we do and don't do are decided for reasons we've never tested. And there lies the crux of it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because while we can't see or experience everything (and so can't help but have some false beliefs), we can test most of the beliefs we have. We can acknowledge when we're making decisions based on what we know (based on immutable fact), and based on what we merely think will happen.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In other words, we can take a risk on disproving the things we think aren't possible, just as well as we can test the things we think are true. By testing it, proving it, we can perhaps not only disprove some of our previously held beliefs--giving us a more clear view of the world--but also make room for new ones, enabling new possibilities and the rewards that may come with them.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

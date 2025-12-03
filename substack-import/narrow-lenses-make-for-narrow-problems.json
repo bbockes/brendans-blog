@@ -1,0 +1,43 @@
+{
+  "title": "Narrow lenses make for narrow problems",
+  "slug": "narrow-lenses-make-for-narrow-problems",
+  "publishedAt": "2020-03-10T05:01:44.000Z",
+  "excerpt": "Which is why if you have a problem, it helps to take a step back.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why if you have a problem, it helps to take a step back.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To widen your borders. To see what’s missing. To come back with a fresh point of view.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes getting out of the box you’re in is all it takes.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

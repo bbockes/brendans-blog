@@ -1,0 +1,84 @@
+{
+  "title": "148863057.80 Certainty Or Better",
+  "slug": "14886305780-certainty-or-better",
+  "publishedAt": "2025-11-30T19:29:55.526Z",
+  "excerpt": "Compound interest is a process that you can be fairly confident in. Given a long-enough time frame (and the wherewithal to let it sit and wait), you can be confident you’ll get a return on your invest",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Compound interest is a process that you can be fairly confident in. Given a long-enough time frame (and the wherewithal to let it sit and wait), you can be confident you’ll get a return on your investment in the distant-but not too distant-future.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And for those looking to get fit, dieting (correctly) and working out (consistently) follow a similar trajectory. It might take you longer than others, but you can be fairly certain that doing these things will give you results.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Compare this to time spent gambling in a casino. The time you’re there (and the amount you spend) isn't at all correlated with how much you'll have when you exit the building. There's a high margin of error with your odds of success being constantly reset for every game you play.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider a liberal arts degree. Sure, it might help you become the next David Foster Wallace, but can you be at least 80% sure it will land you job that justifies the cost of tuition? Not likely.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There comes a time where we all have to take risks (financial, emotional, or otherwise) to get what we want in life. Which means that, going along with",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "hedging",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "one’s bets, it makes a lot of sense to try to invest in pursuits where you can be sufficiently confident in the process. I.e., 80% certain or better.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/margin-of-safety/"
+        }
+      ]
+    }
+  ]
+}

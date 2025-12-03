@@ -1,0 +1,114 @@
+{
+  "title": "148862680.greasing The Grove",
+  "slug": "148862680greasing-the-grove",
+  "publishedAt": "2025-11-30T19:29:48.718Z",
+  "excerpt": "It turns out that you can make substantial gains in strength just by incorporating random bouts of reps throughout the week.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out that you can make",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "substantial gains",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "in strength just by incorporating random bouts of reps throughout the week.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.artofmanliness.com/articles/get-stronger-by-greasing-the-groove/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The same could be said for a host of skills.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If, for example, you want to learn to write better, try writing down your thoughts as they come to you, and revising them so they make sense for someone reading them. In other words, using writing as an irregular tool to cement and distill your thinking (that's all this blog really is).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the case of learning to cook. Opting to ‘whip something up’ when you’re hungry, tasting it as you go, and being creative about it, more often than not, can significantly improve your ability to do just that, over time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider a host of skills you can pick up while your bored in line or talking on the phone. Learning to juggle, yo-yo, or dribble? Learning to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "code",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "? Balancing on one foot? All possible.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.sololearn.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The key insight is that for some things (preferably things you don't care to be world class at), you don't have to make 'practicing' a concrete, recurring calendar event. If you simply want to improve your game, random reps (combined with substantial sets) is sufficient.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "148862330.reading Vs Studying",
+  "slug": "148862330reading-vs-studying",
+  "publishedAt": "2025-11-30T19:29:44.836Z",
+  "excerpt": "Drew Houston makes an important distinction between reading (a book) and studying.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Drew Houston",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "makes an important distinction between reading (a book) and studying.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://tim.blog/2018/08/27/drew-houston/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Reading passively is a great route to accumulate knowledge and heuristics and ways of seeing the world, as well as to generally enjoy yourself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Studying (a book) is active. It’s engaging with material that is immediately applicable to your present situation, problem or circumstances. Taking notes, making connections, (possibly) reaching out to the author, and most vital, promptly applying what you’ve learned. It's adopting a posture of urgency in your reading: voracious to understand, committed to use.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Reading is a hobby. Studying is a skill.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

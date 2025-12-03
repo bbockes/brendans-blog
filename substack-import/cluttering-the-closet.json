@@ -1,0 +1,90 @@
+{
+  "title": "Cluttering the closet",
+  "slug": "cluttering-the-closet",
+  "publishedAt": "2023-06-30T07:00:00.000Z",
+  "excerpt": "Many people wonder (I know I have) how websites tend to get overcrowded with multiple pages serving multiple ends.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many people wonder (I know I have) how websites tend to get overcrowded with multiple pages serving multiple ends.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a simple explanation: it’s easier to push for more content than it is to decide to cut anything out that might have repercussions later.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So you build a new page around a topic that has negligible search volume as opposed to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "removing pages",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that could be holding you back from acquiring dozens more leads. Or you continue to write blogs instead of doing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "an audit",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to refresh or eliminate old ones.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.semrush.com/blog/keyword-cannibalization-guide/#how-to-fix-keyword-cannibalization"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.viget.com/articles/all-you-need-is-c-r-u-d/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As with a messy closet, it’s more tempting to add more instead of decluttering, even when doing so makes the task of finding what to wear much more difficult.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

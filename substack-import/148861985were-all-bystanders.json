@@ -1,0 +1,232 @@
+{
+  "title": "148861985.were All Bystanders",
+  "slug": "148861985were-all-bystanders",
+  "publishedAt": "2025-11-30T19:29:41.379Z",
+  "excerpt": "Buying factory-farmed meat because it’s cheaper.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Buying factory-farmed meat because it’s cheaper.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Driving a gas-guzzler because it's cooler.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Walking past the homeless because who has the time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Buying plastic bottles because it’s convenient.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Going to the local football game because it’s fun.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everyday, we allow these things to happen. Things that contribute to the damaging of our environment or our health or our society or the lives of those we care about.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, we’re all bystanders in some way. From factory-farming to global warming to premature death by speeding, smoking, or",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "CTE",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://concussionfoundation.org/CTE-resources/what-is-CTE"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not a matter of how ignorant we choose to be (we’re all smart people).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Unfortunately, it’s not even a matter of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "proof",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=EWaPXzTDEDw#t=8m31s"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a matter of culture.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We don’t need more numbers, or protests, or proof to change the world. What we need are pockets of people to come together, and over time, incrementally and intentionally curb our everyday yearnings, change our well-worn habits, and insist on something better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We need (more)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "movements",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", not merely ad campaigns and the latest rally, but groups of people that other people want to be a part of. Groups that share a story that resonates. That empower people to adopt new routines and new appetites and new ways of doing things, because being a part of group that shares our values makes us feel good.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://metoomvmt.org"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So that over time, the word spreads. So that over-time, you choose to buy an EV because your friends are. Or advocate flag-football at your school, not merely because it’s safer, but because you’ve convinced yourself it’s actually more fun to watch. Or to buy organic, or give money to the homeless, or to install solar panels on your roof, or invest in salt-propellant firearms, not because it's cheaper or more convenient, but because it’s an opportunity to be a part of a movement that you want to be apart of.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To actively change our world buy embracing the lifestyle of a group of people that shares our worldview.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s how we change our culture and that’s how we change our world, for better or worse.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

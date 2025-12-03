@@ -1,0 +1,73 @@
+{
+  "title": "148862981.libraries And Design Thinking",
+  "slug": "148862981libraries-and-design-thinking",
+  "publishedAt": "2025-11-30T19:29:54.378Z",
+  "excerpt": "The library by my house has a child’s play area with an open floor plan. The apparent idea is that their parents can walk around the library scavenging for books while still being able to readily spot",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "library",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "by my house has a child’s play area with an open floor plan. The apparent idea is that their parents can walk around the library scavenging for books while still being able to readily spot their child.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/design-flaws-at-the-library/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, parents rarely leave their child alone to begin with…so it defeats the purpose. And since every other patron is forced to hear the commotion of a half dozen four-year olds playing and clattering about, no one can really enjoy themselves (or a good book) in the library, let alone get anything done.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson: open floor plans sure seem like a good design…they’re inviting, spacious, and safer…but not when they take away from the core function of a building.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Being able to see the limits of your good ideas (weighting the pros, the cons, the opportunity costs and the sunk costs) is what design thinking is all about. It’s also how you make a library a library (for your users), not a playground for their kids.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

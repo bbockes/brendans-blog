@@ -1,0 +1,153 @@
+{
+  "title": "Defining problems and other synonymous words",
+  "slug": "defining-problems-and-other-synonymous-words",
+  "publishedAt": "2019-03-16T07:08:00.000Z",
+  "excerpt": "An  error  is being incorrect in judgement. The  inevitable  by-product of our own cultural or self-taught bias. Of which we’re mostly unaware of anyway.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "An ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "error",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is being incorrect in judgement. The ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "inevitable",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " by-product of our own cultural or self-taught bias. Of which we’re mostly unaware of anyway.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/hypocrite/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "mistake",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " (and a failure) is choosing the wrong method for achieving your objective. It’s something you can learn from and avoid next time by trying a different approach.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "slip",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is an unintentional misstep in carrying out an intended method. You took the wrong key (or forgot it). You said something other than what you meant to. Or you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "misheard",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " your spouse.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://soundcloud.com/onbeing/unedited-daniel-kahneman-with-krista-tippett-jan2019#t=1:19:42"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "problem",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " has a solution. Otherwise, it’s not a problem, it’s a fact of life. Merely a “bad” situation you’re forced to work around.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And an ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "unsolvable problem",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is, as Einstein would say, a “poorly stated problem” that needs to be seen through a different lens. After all, you can’t solve a significant problem at “the same level of thinking” that created it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

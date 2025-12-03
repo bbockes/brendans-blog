@@ -1,0 +1,95 @@
+{
+  "title": "148864265.actions Feelings",
+  "slug": "148864265actions-feelings",
+  "publishedAt": "2025-11-30T19:30:14.755Z",
+  "excerpt": "Feelings are rarely a good indicator of what we really, truly want.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Feelings are rarely a good indicator of what we really, truly want.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes they’re helpful. Like when we fall in love. Or when we’re buoyed by excitement. But not always.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, they’re often a bad incidator of the actions we’d like to take (or should take.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because feelings are fleeting. And, because, more often than not, they’re easily inspired by habits and patterns and people, that don’t serve a version of you that you’d like to become.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It pays to acknowledge that feelings, while tangible, are easily swayed. Both by your circumstances, and the actions you take.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And that choosing to confront feelings with",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "language and motion",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is often the best route up and out of a rut, and on toward a place where you’d rather be.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://howwefeel.org/"
+        }
+      ]
+    }
+  ]
+}

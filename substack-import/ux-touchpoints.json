@@ -1,0 +1,214 @@
+{
+  "title": "Ux touchpoints",
+  "slug": "ux-touchpoints",
+  "publishedAt": "2020-03-29T07:08:22.000Z",
+  "excerpt": "In sales, a  touchpoint  is any 'point of contact' between a customer and your brand that reinforces the interaction.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In sales, a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "touchpoint",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is any 'point of contact' between a customer and your brand that reinforces the interaction.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Touchpoint"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It could anything, a newsletter, a friendly-phone call, a handshake...anything that keeps the relationship intact.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I realized recently that many brands do more or less the same thing when they put customer-facing copy on what we might call \"brand artifacts,\" or, 'any physical object a customer uses when interacting a brand.'",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider, for example, the copy that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Sweetgreen",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Chipotle",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " put on their napkins and cups. Even if it's just to tell you that it's disposable, it's an experience that tells a story and that reinforces the customer-brand relationship.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://imgur.com/6QGn98U"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.brandchannel.com/2015/02/02/food-for-thought-chipotle-expands-literary-packaging-series/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider this ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "sign",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " I found pasted to the door window outside the famous ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Red Truck Bakery",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". A friendly touchpoint that informs as much as delights, and that, while short, creates an playful experience nonetheless.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://imgur.com/XzxCXwv"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.redtruckbakery.com/home"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Brands (particularly in the real world) would do well to not only use creative copy to convey who and what they are, but use it to communicate how their users can best interact with them and through them. Using copy (and design) to not only sell a product, but craft a series of brand-centric experiences that are thoughtfully unique.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bonus! One last example: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "look",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " at what I found inside the bathrooms of the famous DC restaurant, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Roses Luxury",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Love it!",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://imgur.com/DmdcfTq"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.rosesluxurydc.com/"
+        }
+      ]
+    }
+  ]
+}

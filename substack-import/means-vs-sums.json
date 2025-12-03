@@ -1,0 +1,112 @@
+{
+  "title": "Means vs sums",
+  "slug": "means-vs-sums",
+  "publishedAt": "2022-01-13T05:33:00.000Z",
+  "excerpt": "Nate Silver, of  FiveThirtyEight  fame,  argues  that it’s better to look at the number of reviews a restaurant gets on Foursquare than to look at their average star rating.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nate Silver, of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "FiveThirtyEight",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " fame, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "argues",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that it’s better to look at the number of reviews a restaurant gets on Foursquare than to look at their average star rating.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://fivethirtyeight.com/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://conversationswithtyler.com/episodes/nate-silver/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The reason?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Given a long enough time frame, almost every restaurant will gravitate to an average rating. That’s because most restaurants are, by definition, mostly average. And because, often, their reviews can be easily swayed by picky eaters who simply might not like a particular cuisine.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By comparing the number of reviews and not the average, foodies can tell when a restaurant has been consistently favored by the community—without a partial minority swaying the results.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This might be a useful strategy for considering other purchases, as well. Books, electronics, and apartments, for example, tend to bear a similar status—one where the folks who leave a review are either those who have had an extremely poor or exceptionally delightful experience. The net result being that most average reviews are far from stellar, making it hard to compare your options.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By looking at the sheer number at reviews, you can discern between the one’s that have somehow stayed profitable (likely via word-of-mouth) despite their negative claims, and those that have segued to a state of obscurity (likely because they weren’t worth mentioning to begin with).",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

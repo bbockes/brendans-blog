@@ -1,0 +1,54 @@
+{
+  "title": "Im not afraid anymore",
+  "slug": "im-not-afraid-anymore",
+  "publishedAt": "2021-02-05T05:00:00.000Z",
+  "excerpt": "Sometimes it’s worth saying even when you’re not.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes it’s worth saying even when you’re not.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because if you say it enough, you might soon start to believe it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And believing, it turns out, is the first step.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Believing turns into doing, and then to having.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

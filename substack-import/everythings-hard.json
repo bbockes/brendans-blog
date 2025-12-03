@@ -1,0 +1,53 @@
+{
+  "title": "Everythings hard",
+  "slug": "everythings-hard",
+  "publishedAt": "2020-10-27T05:05:00.000Z",
+  "excerpt": "…except for the things that come easy.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…except for the things that come easy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The question to ask, then, isn’t what’s the most convenient thing I can do to have the things I want?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But rather, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "what’s worth doing",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " even though it’s hard, effortful, and arduous?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

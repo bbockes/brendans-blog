@@ -1,0 +1,95 @@
+{
+  "title": "148864444.negligible",
+  "slug": "148864444negligible",
+  "publishedAt": "2025-11-30T19:30:16.080Z",
+  "excerpt": "Seth Godin has a great line: \" Perfect is the enemy of good .” It’s an idea applies just as much to marketing and design as it does to a myraid of other professions.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Seth Godin has a great line: \"",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Perfect is the enemy of good",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".” It’s an idea applies just as much to marketing and design as it does to a myraid of other professions.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2019/11/perfect-is-the-enemy-of-good/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Too often, we worry too much about the details that don’t really matter—be the perfect slug in a url or the exact words in a sentence.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s fine if you're a copy-editor, where “perfect” is the goal, but in most jobs in most industries, it’s not. What’s important is delivering results.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When I think about all the small things that well-intentioned people comment on or critique, I can't help but think about where we're spending our time and energy and focus. Because small things can keep us from working on what really matters. The 20% that creates the 80% of results. The big, overarching, things that actually make a difference.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it’s too small to really matter, or so trivial that it's okay to leave it as is, the smart thing to do isn't to work to make it perfect, it's to move on. To accept that it's neglible and to focus on the bigger picture.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's not to say that we should settle for shoddy or sloppy work. But that we should prioritize the areas where we can make the most impact and let go of the minor details that only serve to slow us down.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

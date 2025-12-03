@@ -1,0 +1,105 @@
+{
+  "title": "148862979.content Vs Copy",
+  "slug": "148862979content-vs-copy",
+  "publishedAt": "2025-11-30T19:29:54.217Z",
+  "excerpt": "In her book, Marketing: A Love Story , Bernadette Jiwa notes the difference between content writing and copy-writing.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In her book,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Marketing: A Love Story",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", Bernadette Jiwa notes the difference between content writing and copy-writing.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Marketing-Love-Story-Matter-Customers-ebook/dp/B00O3597M0"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Content writing is used describe the features and benefits of a product or service. That’s how you end up with listicles like “the top…” or ‘the benefits of…” or blogs describing “what does this product or service do?”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Copy, on the other hand, is writing that sells, and (more importantly) that makes people feel something. It should be less to do with talking about your services themselves and more to do with what",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "your readers",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can do with them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People often use the terms interchangeably, but it’s an important distinction when it comes to marketing your brand. Content is clearly explaining what your products or services are and what they do. Copy is painting a story of how those things relate to the people you've made them for and the journey they're on.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if all you're going to do is outsource the work of writing your content or your copy to a (amateur) marketer on a time-crunch--inevitably chalking up a rehash of your competitor's collateral--don't expect to get talked about or differentiate your brand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bland or boring copy won't do you any favors. But material that's unique and authentic to you and your story, that clearly articulates what's on offer, and that has word-of-mouth baked in, that's the stuff worth working overtime to fill. Or at least paying extra to have a pro do it for you.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

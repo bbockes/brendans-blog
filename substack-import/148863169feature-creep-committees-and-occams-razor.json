@@ -1,0 +1,197 @@
+{
+  "title": "148863169.feature Creep Committees And Occams Razor",
+  "slug": "148863169feature-creep-committees-and-occams-razor",
+  "publishedAt": "2025-11-30T19:29:57.895Z",
+  "excerpt": "Feature creep is defined as “the excessive expansion or addition of new features to a product that cause it to surpass its basic function.\" This often results in bloated, overly complex products and s",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Feature creep",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is defined as “the excessive expansion or addition of new features to a product that cause it to surpass its basic function.\" This often results in bloated, overly complex products and services, rather than those with simple, elegant design.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Feature_creep"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the most common cause of feature creep?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Committees.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In fact, it turns out that the amount of proposed features to a product increases exponentially by how many stakeholders are invited to any meeting made for producing them. Because the more people there are, the more ideas get passed around, and more that those ideas generally get support.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Any why not?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Everyone on the team wants to make a useful and desirable and remarkable product. One that not only exceeds consumer expectations and achieves sales quotas, but does everything their users hoped it might and more.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so people—ordinary, intelligent people—make conflated, convoluted, and just plain bad products and services all the time. All in an effort to add features to things that some users might need, but most users won’t. (Often by incorrectly assuming that all of their customers are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "just like them",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and therefore want the same things they do.)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/false-consensus/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. Here’s a no-nonsense solution I thought up:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "1) Think",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "twice",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "as hard about who gets to make decisions about your product and its features as you do dreaming up and deciding on what those features will be. (Don’t invite people who don’t absolutely need to be there.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "2) Keep your products simple, sure. But better yet,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "define your users",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". Make a thing for them (not your team, not your board-members, not your best-friend’s cousin). Don’t add fluff or gimmicks or non-essential weight. And above all, when all is said and done—when what you have on the table is what you set out to design—resist the temptation to add more to it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As with most things, great products of all kinds generally follow a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "simple rule",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ": the least complicated solutions are almost always the best.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Occam%27s_razor"
+        }
+      ]
+    }
+  ]
+}

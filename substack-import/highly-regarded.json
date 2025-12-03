@@ -1,0 +1,87 @@
+{
+  "title": "Highly regarded",
+  "slug": "highly-regarded",
+  "publishedAt": "2022-02-03T06:40:01.000Z",
+  "excerpt": "What’s it mean to go to a top school? Or a private one?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s it mean to go to a top school? Or a private one?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s it for?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does it inherently make someone smarter or more able?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or is it a gimmick? A false pretense? Or, an arbitrary qualifier?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re willing to give them a chance, you’ll find that people from less than stellar backgrounds are often just as, if not more, capable than those who are.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A diploma from an elite school is a vanity metric. One that’s often not entirely based on merit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s mainly a signal of status, privilege, and luck.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

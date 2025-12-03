@@ -1,0 +1,123 @@
+{
+  "title": "148863948.the Top 0 1",
+  "slug": "148863948the-top-0-1",
+  "publishedAt": "2025-11-30T19:30:10.577Z",
+  "excerpt": "Persona Talent’s schtick is that they only hire the top 0.1% of all applicants for their “extremely-vetted” personal-assistant recruiting process.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Persona Talent’s schtick is that they only hire the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "top 0.1%",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "of all applicants for their “extremely-vetted” personal-assistant recruiting process.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.personatalent.com/top-talent"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Leaving out the fact that this is incredibly biased—a fantastic way to nurture workforce inequity rather than displace it, it’s also a tad inane.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There are hundreds of thousands of people who would make great personal assistants who never went to an Ivy league school, scored a 1400 on their SAT, or could hope to pass Persona’s battery of tests.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does that mean that 99.9% of the applicants who don’t pass Persona’s process are unqualified or unfit for the role?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Hardly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". Many of them are. By a large margin.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What it means is that these proposedly “smart” recruitment solutions (and Persona’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not the only one",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") aren’t nearly as sharp as they’d like you to believe. They’ll likely get you results (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how couldn’t they?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "), but that doesn’t mean those results will be fair, impartial, or well-founded.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/whats-it-testing/"
+        }
+      ]
+    }
+  ]
+}

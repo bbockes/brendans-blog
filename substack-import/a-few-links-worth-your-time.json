@@ -1,0 +1,289 @@
+{
+  "title": "A few links worth your time",
+  "slug": "a-few-links-worth-your-time",
+  "publishedAt": "2020-08-16T06:19:54.000Z",
+  "excerpt": "Interview with  Stu Card  (inventor of the mouse)",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Interview with ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Stu Card",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (inventor of the mouse)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.notion.so/tools-and-craft/02-stu-card"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Rethinking Capitalism",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " by: Anand Giridharadas",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.bbc.co.uk/sounds/play/p08j4ct0"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How to Make a Pizza Oven from Bricks",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " by: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ChefSteps",
+          "marks": [
+            "link-1"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=tHMQ_QQJtbY"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.chefsteps.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Julian Shapiro’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Handbooks of Knowledge",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.julian.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Analogue Pocket",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "…Amazing! (if you’re a millenial)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.analogue.co/pocket"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How to be successful",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " written by: Sam Altman",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://samaltman.webflow.io/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Good Books",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " designed by: Jordan Hughes",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.goodbooks.io/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instant Pot Course",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " by: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Milk Street",
+          "marks": [
+            "link-1"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://discover.teachable.com/course/milk-street-instant-pot"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.177milkstreet.com/about"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Brandon Stanton’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "new book",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Humans-Brandon-Stanton/dp/1250114292"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "An Introduction to Egg Boxing",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " by: Peter Attia",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.facebook.com/watch/?v=1408902169187065"
+        }
+      ]
+    }
+  ]
+}

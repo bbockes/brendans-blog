@@ -1,0 +1,67 @@
+{
+  "title": "A conspiracy of excellence",
+  "slug": "a-conspiracy-of-excellence",
+  "publishedAt": "2023-01-29T05:00:00.000Z",
+  "excerpt": "George Leonard  recalls how he once trained cadets to go above and beyond the call of duty, by setting aviation standards impossibly high, and then instructing them to meet them  consistently , even w",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "George Leonard",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " recalls how he once trained cadets to go above and beyond the call of duty, by setting aviation standards impossibly high, and then instructing them to meet them ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "consistently",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", even when no one was watching.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Raise the bar. Then keep it that way.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That seems to be an incredibly straightforward way to attain a higher level of excellence and a deeper sense of fulfillment in almost anything you could hope to aspire to.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

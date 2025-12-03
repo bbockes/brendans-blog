@@ -1,0 +1,126 @@
+{
+  "title": "148864139.content Real Estate And Why It Matters",
+  "slug": "148864139content-real-estate-and-why-it-matters",
+  "publishedAt": "2025-11-30T19:30:13.436Z",
+  "excerpt": "First, a couple assertions:",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "First, a couple assertions:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A business can’t effectively rank for keywords that aren’t on their site.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If a page doesn’t have a content block that’s already available for new keywords, content strategists have to enlist the help of designers and developers to redesign the page. This takes hours of work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, if you don’t make space, you can’t possibly rank for the keywords you want to, because there’s nowhere to put them on the page. At least not without removing other keywords the site could already be ranking for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is why content first design matters—not only for users—but for marketing teams as well. If you don’t design with the content and keywords in mind, it’s easy to fall into the trap of creating a aesthetically pleasing page, but not an effective one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the difference between",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this page",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this page",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". They both ostensibly want to rank for the same keywords, but the latter can do so more easily because it has more “real estate” for the words they intend to target. In fact, if you count all the words on each page, you see that the latter has 100 more mentions of their primary keyword—their core product.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.prolighting.com/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.warehouse-lighting.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This makes it easier for them to both rank for the right keywords, as well as direct users from point A to point B—effectively converting more people more often by efficiently employing more space.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

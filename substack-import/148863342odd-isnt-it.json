@@ -1,0 +1,95 @@
+{
+  "title": "148863342.odd Isnt It",
+  "slug": "148863342odd-isnt-it",
+  "publishedAt": "2025-11-30T19:30:01.007Z",
+  "excerpt": "Brokers talk a good game about your savings and stocks accumulating interest.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Brokers talk a good game about your savings and stocks accumulating interest.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But we generally don't think about business ventures and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "side projects",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "much the same way.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://jmduke.com/2020/06/26/atypical-success?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-95"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And medical experts are often too quick to advise us on our physical health.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But they generally don't talk nearly as much about maintaining our mental and emotional wellbeing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And of course, just about everyone is talking about the importance of diversity and inclusion these days. (Both good things.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But it's rare that we talk at all about variance of inputs, or divergence of thought.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "148862835.this Might Help",
+  "slug": "148862835this-might-help",
+  "publishedAt": "2025-11-30T19:29:50.956Z",
+  "excerpt": "'Here's an article I found that might help you.'",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "'Here's an article I found that might help you.'",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "'Here's a solution that might solve your problem.'",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "'Here's a shortcut that might make your life easier.'",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "'Might' is an easy, free way to create possibility in someone's life (without appearing condescending).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes, 'might' is all it takes.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

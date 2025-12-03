@@ -1,0 +1,43 @@
+{
+  "title": "148862204.flyers Beat Binders",
+  "slug": "148862204flyers-beat-binders",
+  "publishedAt": "2025-11-30T19:29:43.799Z",
+  "excerpt": "When was the last time a tome of notes helped you choose to act?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When was the last time a tome of notes helped you choose to act?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "More facts and figures won't help you make a decision, remind you what's important, or engage in forward motion.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When given the option, make it shorter, make it count.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

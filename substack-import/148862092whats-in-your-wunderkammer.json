@@ -1,0 +1,100 @@
+{
+  "title": "148862092.whats In Your Wunderkammer",
+  "slug": "148862092whats-in-your-wunderkammer",
+  "publishedAt": "2025-11-30T19:29:42.710Z",
+  "excerpt": "Created by Ferdinand II of Austria in the 16th century to showcase his prominent collection of art, curiosity cabinets (or wonder-rooms) began as showrooms where the noble class of Europe could put it",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Created by Ferdinand II of Austria in the 16th century to showcase his prominent collection of art,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "curiosity cabinets",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(or wonder-rooms) began as showrooms where the noble class of Europe could put items on display to signify status and promote the arts and sciences. Curiosity cabinets were thus a way for kings and emperors to show off their (apparent) scientific-knowledge, artistic sensibilities and refined cultural taste, within the medium of what we might consider a small museum.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Cabinet_of_curiosities"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, owning a chamber large enough to display all such possessions (and afford them to begin with) was no inexpensive endeavor. Which is why the few that existed in Renaissance Europe were all from the rich nobility.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Today",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", however, the internet enables everyone to have their own cabinet. Somewhere to share their interests and knowledge and curiosities with everyone, for free. Unlimited shelf-space. Limitless potential for curated exploration. Infinite opportunities to “show and tell” your unique values, theories, relics and peculiarities.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, you can upload pictures of (insert animal of choice here). Or work hard to make it appear like you never have a bad day (or a bad photo) on social media.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or, you can create an arc of content that tells a story. That informs and surprises and delights. That inspires curiosity and makes people think. That changes some small community of people — the few who keep coming back for more.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Seems to me like a worthy use of an exceptionally privileged asset.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

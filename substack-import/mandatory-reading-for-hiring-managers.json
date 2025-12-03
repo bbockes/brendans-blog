@@ -1,0 +1,147 @@
+{
+  "title": "Mandatory reading for hiring managers",
+  "slug": "mandatory-reading-for-hiring-managers",
+  "publishedAt": "2020-02-05T06:20:26.000Z",
+  "excerpt": "Forewarning: this will likely sound really pretentious, because",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Forewarning: this will likely sound really pretentious, because",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "a) I’m not, nor have I ever been, a hiring manager, and b) it’s the truth that many people wouldn’t like to hear.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We live in a society that would lead us to believe is a meritocracy, one where people get hired at great companies because they have scarce skills and are better at their jobs than everyone else.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, this is the furthest thing from the truth. Because most hiring managers have likely never taken a psychology course in their lives, and hire instead based on arbitrary performance signifiers like where people went to school, who knows who, and what they wore to the interview.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that many of the people who work with you at your job likely aren’t any better at their job than the vast majority of people who applied for them. In fact, they might be even worse. The fact that they now hold those jobs while (potentially) more skilled, articulate, or competent people ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "don’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is testament to that fact that many hiring managers don’t care about who you are on paper, and only care about arbitrary signals that actually ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "don’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " correlate that well with the ability to do a specific job well.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, as I’ve recently discovered, hiring managers don’t like generalists. Which means that if you say you want experience in many parts of the organization’s ecosystem, they’ll automatically trash your hopes and dreams of ever working there. Why? Because their primary job is to fit you into a slot, and the easiest way to do that is to look seek out straightforwardness. People who say ‘I’m good at this, not that. I’m interested in working in this department, not that.’ (You get the idea.) Of course, this hiring tactic completely dismisses a whole bunch of people who (for one reason or another) don’t have a clue what they want to do professionally (and are looking for experience in a whole bunch of things to find out what that is).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One last thought on this: As ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Don Moore",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " points out, interviews don’t work nearly as well as many people think they do. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "We know this",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". And yet we still do it. Because it’s easier to talk to someone for 30 mintues on the phone than to read through a dozen five-hundred word cover letters. Or (better yet) to actually test people on the tasks and skills they’ll be using on the job.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=ax1S2ZdEyaA"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "/rant",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "148863640.is It A Priority",
+  "slug": "148863640is-it-a-priority",
+  "publishedAt": "2025-11-30T19:30:04.590Z",
+  "excerpt": "Asking whether something is urgent is a great way to assess whether you need to prioritize it.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Asking whether something is urgent is a great way to assess whether you need to prioritize it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, of course, if it’s not urgent, it can probably wait. Better to do what you need done now than to sacrifice your time doing something you don’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not all things need to happen today, so while ‘whatever must happen ultimately should happen as soon as possible,’ it’s best to first focus on what’s urgent at the expense of what isn’t.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

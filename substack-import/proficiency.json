@@ -1,0 +1,132 @@
+{
+  "title": "Proficiency",
+  "slug": "proficiency",
+  "publishedAt": "2020-07-27T05:05:08.000Z",
+  "excerpt": "The  Pareto Principle  tells us that 80% of the outcomes are the result of 20% of the effort.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Pareto Principle",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " tells us that 80% of the outcomes are the result of 20% of the effort.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Pareto_principle"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This explains why ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "5-person usability tests",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " are statistically viable, and why focusing on optimizing the simplest of web analytics metrics can often result in above-average conversions.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/user-testing-made-easy/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s interesting how we don’t often use this principle when it comes to skills—even though we know it’s just as applicable. 10,000 words, after all, is all you need to be fluent. And ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "20 hours",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is all you need to be useful.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/learn-anything/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In many areas, knowing what slice of the figurative pie comprises the topmost percent isn’t so straightforward. But I think with rare exception, skillfulness is relatively easy to acquire.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Mastering the specs is one thing. But picking up skills, executing on them, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "acquiring the ability you need to be valuable",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—that’s truly a piece of cake.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

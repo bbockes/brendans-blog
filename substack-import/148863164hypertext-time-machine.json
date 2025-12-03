@@ -1,0 +1,129 @@
+{
+  "title": "148863164.hypertext Time Machine",
+  "slug": "148863164hypertext-time-machine",
+  "publishedAt": "2025-11-30T19:29:57.729Z",
+  "excerpt": "Engineers at SpaceX, Apple and CERN got together last week to dream up a comprehensive solution to the pending crisis: time travel done right.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Engineers at SpaceX, Apple and CERN got together last week to dream up a comprehensive solution to the pending crisis: time travel done right.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No more flying through 80's-inspired motor cars, or jumping into glitchy phone booths. Turns out it's as simple as clicking a new type of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "link",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "on an empty stomach.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://duckduckgo.com/?q=time+machine"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And while going far into the future is a lot trickier than science-fiction would lead you to believe, going",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "back",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "in time isn't only feasible, it's doable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And high time! Because if you and I and a few of your smart friends fly back to 2006, we can avert pending cataclysms on a mass scale.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Global warming? Pandemics? Bad leaders? Fake news?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "All gone with a few simple alterations (Magic Treehouse style!)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Interested?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Subscribe",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "to our weekly newsletter to get by-the-minute updates. Thanks!",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/#secondary"
+        }
+      ]
+    }
+  ]
+}

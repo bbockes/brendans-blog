@@ -1,0 +1,54 @@
+{
+  "title": "148863193.dead Weight",
+  "slug": "148863193dead-weight",
+  "publishedAt": "2025-11-30T19:29:58.769Z",
+  "excerpt": "An unused book isn’t very useful. Neither is an unused couch.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "An unused book isn’t very useful. Neither is an unused couch.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn’t matter how much you paid for it, how many years it’s been in the family, or how ‘valuable’ it apparently is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "An unused object is still a useless one. Kind of like a tree in an uninhabited forest.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it’s useful, use it. If not, don’t. Just don’t trick yourself into believing your junk is anything other than what it is.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

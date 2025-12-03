@@ -1,0 +1,197 @@
+{
+  "title": "148864126.communicating Latency",
+  "slug": "148864126communicating-latency",
+  "publishedAt": "2025-11-30T19:30:13.126Z",
+  "excerpt": "I recently toyed around with Wave.video the other day, in a vain effort to edit a video for a project.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently toyed around with",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Wave.video",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "the other day, in a vain effort to edit a video for a project.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://wave.video/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Frustrated with their poor user experience, I promptly reminded myself that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Canva",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "offers their own video editing tools.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.canva.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s where I discovered this fun animation—which shows up during the process of uploading media (images, videos) to your project.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "//s.imgur.com/min/embed.js",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "//s.imgur.com/min/embed.js"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I couldn’t help but notice the sharp contrast between this “affordance,” and the one used by Wave to indicate the status of videos being rendered. (Hint: it just shows a percentage.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it’s not the animation itself that makes it effective. What makes it effective is that it’s a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "reliable",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "indicator of the system status.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it were constantly run for several minutes, it wouldn’t be effective. It would be annoying.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it plummeted from 89% back to 62%, it would be frustrating.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, you can’t merely communicate that the user is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "almost there.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "You have to take steps to ensure they’re actually waiting",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "for",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "something.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Otherwise, you’re just wasting their time.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

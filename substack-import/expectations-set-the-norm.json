@@ -1,0 +1,64 @@
+{
+  "title": "Expectations set the norm",
+  "slug": "expectations-set-the-norm",
+  "publishedAt": "2023-06-01T07:00:00.000Z",
+  "excerpt": "If you could see a doctor or a dentist the moment it was scheduled, you'd rarely have  any  appointment that wasn't on time.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you could see a doctor or a dentist the moment it was scheduled, you'd rarely have ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "any",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " appointment that wasn't on time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's because people would rave mad if they had to wait for only a few minutes longer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In order to compete, everyone would change their ways to conform to the new standard, with our expectations for “what’s acceptable” reinforcing the norm.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why dentists and doctors hire marketers in addition to placing ads in the local paper. And why ai bots are displacing other people’s jobs as we speak. Because once everyone’s doing it—once are expectations are reset—you don’t have a choice but to embrace it if you want to keep up.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

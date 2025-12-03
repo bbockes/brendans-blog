@@ -1,0 +1,126 @@
+{
+  "title": "False consensus",
+  "slug": "false-consensus",
+  "publishedAt": "2020-02-24T05:33:02.000Z",
+  "excerpt": "People have a  tendency  to assume that others share their beliefs and will behave the same way they do in a given situation.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People have a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "tendency",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to assume that others share their beliefs and will behave the same way they do in a given situation.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/False%5C_consensus%5C_effect"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which causes many of us to do or say or make things with ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ourselves",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " in mind—assuming that most people are just like us, and that ostensibly ‘normal people’ will process and respond to things the same way we do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, this only gets us into trouble.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because no one knows everything you know. And the stuff they know—stuff they might think is common sense—may not seem so common sensical to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to all.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s true. You—and everyone around you—likely overestimate the amount of people who share your choices, your values, your judgments and your worldview.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You are not like them in every way. And they are not like you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Good news, too. Because it turns out you really are a unique snowflake, after all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

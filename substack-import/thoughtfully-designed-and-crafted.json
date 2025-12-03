@@ -1,0 +1,147 @@
+{
+  "title": "Thoughtfully designed and crafted",
+  "slug": "thoughtfully-designed-and-crafted",
+  "publishedAt": "2022-06-25T05:00:00.000Z",
+  "excerpt": "You can go a long a way by taking a simple everyday thing and making it functionally and aesthetically better.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can go a long a way by taking a simple everyday thing and making it functionally and aesthetically better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "From ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "computers and phones",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "bed-frames",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "sofas",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "vacuums",
+          "marks": [
+            "link-3"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "headphones",
+          "marks": [
+            "link-4"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "kettles",
+          "marks": [
+            "link-5"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", just about everything can be remade better.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.apple.com/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.thuma.co/products/the-bed?variant=7550696456220"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://burrow.com/living-room/seating/sofas"
+        },
+        {
+          "_key": "link-3",
+          "_type": "link",
+          "href": "https://www.dyson.com/en"
+        },
+        {
+          "_key": "link-4",
+          "_type": "link",
+          "href": "https://gradolabs.com/headphones"
+        },
+        {
+          "_key": "link-5",
+          "_type": "link",
+          "href": "https://fellowproducts.com/products/stagg/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How’s that for a business idea that works?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "161994746.its Like Magic But With A Lot Of",
+  "slug": "161994746its-like-magic-but-with-a-lot-of",
+  "publishedAt": "2025-11-30T19:30:17.143Z",
+  "excerpt": "I spent last week perusing Mozilla’s MDN Web Docs learning about how the web actually works.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I spent last week perusing",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Mozilla’s MDN Web Docs",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "learning about how the web actually works.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In case you were wondering, the technology that powers this blog, that enables anyone to seamlessly send and receive email, and that delivers all the content you interact with online every day is nothing short of amazing. And yet many people don't have a clue how any of it works behind the scenes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Paul Graham, avid blogger and founder of Y Combinator, says that people seeking breakthrough startup ideas should go to the edge of a domain or industry, live in the future, and bring it back to the present.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because it turns out that reusable rockets, large language models, and even the web share something in common: they all rely on complex, innovative systems that seem like magic until you break them down.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When you dig into how it really works, you begin to see the intricate web of engineering and design that makes it all possible. And when you can do that, you’ll be much more likely to spot the next breakthrough.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Understanding the systems that power technology can give you a glimpse into the future—and into the innovations that are just on the horizon.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

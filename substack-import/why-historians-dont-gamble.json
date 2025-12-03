@@ -1,0 +1,124 @@
+{
+  "title": "Why historians dont gamble",
+  "slug": "why-historians-dont-gamble",
+  "publishedAt": "2020-04-25T05:04:26.000Z",
+  "excerpt": "In  The Black Swan , Nassim Nicholas Taleb makes a convincing argument that how we retell events after they've occurred isn't often anything like how we explain them as their unfolding.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "The Black Swan",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", Nassim Nicholas Taleb makes a convincing argument that how we retell events after they've occurred isn't often anything like how we explain them as their unfolding.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/dp/081297381X?tag=duckduckgo-d-20&linkCode=osi&th=1&psc=1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is to say, given the context that present now gives us, history seems perfectly consequential. But ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "out of the context of what we don't know we don't know",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", as events are unfolding in the present, almost everything that happens in our lives is unpredictable.*",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the recent pandemic. Right now, more than a month or two into this, the idea of what we're experiencing and have experienced seems perfectly plausible. (Scientists, after all, have been telling us this would happen for years.) But if someone were to tell you ten months ago this would happen and that you should prepare, you'd think they were crazy. (Which is, in part, why our country was and is so unprepared.) Of course, the notion that this might last far longer than we anticipate, that it might get worse, (or that it might change the very fabric of our culture moving forward) doesn't seem nearly as obvious as it will when we look back on these 'events' in the future.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's a sobering yet enlightening truth: because while no one, including you, can accurately predict the future, you (or rather, the narrative you hold onto about who you are and what you've done and why you did the things you've done) is at least a partial fiction. The fact that you have regrets--things in your life you wish you had done differently--is testament to the fact that the person you are now is not at all the person who made those choices.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People change. And given the context the future gives us (the ability to look at things through the backward lens of causality), people look at the world a whole lot differently.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*As a fun experiment to demonstrate this fact, try this twist on Suleika Jaouad’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Isolation Journals",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "…start journaling what's going on in your head and heart for the next month, make some predictions about how things will turn out (both for you, and society), as well the rationale behind many of your current predilections, choices and decisions. Then, a year from now, look back at your notes. You might be surprised by what your future self has to say.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://tim.blog/2020/04/08/a-dialogue-with-yoursel/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+timferriss+%28The+Blog+of+Author+Tim+Ferriss%29"
+        }
+      ]
+    }
+  ]
+}

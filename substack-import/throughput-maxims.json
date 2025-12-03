@@ -1,0 +1,65 @@
+{
+  "title": "Throughput maxims",
+  "slug": "throughput-maxims",
+  "publishedAt": "2019-10-20T05:24:36.000Z",
+  "excerpt": "What must happen ultimately, should happen as soon as possible.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What must happen ultimately, should happen as soon as possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That which you expect will be done poorly, shouldn’t be done at all.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Quit often; say ‘no’ to more projects and tasks than you say ‘yes.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Finish on time. Leave on time. Ship on time. Don’t be late.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Invest in slack. Give yourself more time than you have work to do. And certainly more time than you think you need.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

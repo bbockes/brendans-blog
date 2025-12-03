@@ -1,0 +1,65 @@
+{
+  "title": "Afraid to be wrong",
+  "slug": "afraid-to-be-wrong",
+  "publishedAt": "2020-04-29T06:06:24.000Z",
+  "excerpt": "I’ve written something like 300 posts in the past 12 months (a new personal record)…some of which (considering they’re op-eds) are likely wrong.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve written something like 300 posts in the past 12 months (a new personal record)…some of which (considering they’re op-eds) are likely wrong.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And I read recently that most scientific findings are inaccurate too. Mainly because of sample size or selection bias.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And it’s likely that there will be hundreds of attempts in the next 24 months to make a vaccine for Covid. Many of which (perhaps, all but one) won’t work as intended, let alone be safe for distribution.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So...does that mean I should stop writing? Or that we should stop testing, exploring or experimenting? Does it mean we, as a culture, should give up trying to be right for fear of the possibility of being wrong?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I should hope not. Because it turns out dead ends inform as much as they surprise. And it's hard to be truly confident you're right when you haven't done the work of discovering all the ways you're not.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "title": "New news vs old news",
+  "slug": "new-news-vs-old-news",
+  "publishedAt": "2021-06-06T06:28:57.000Z",
+  "excerpt": "I don't often watch the news, and I rarely read it either.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I don't often watch the news, and I rarely read it either.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's not to say I don't pay attention or that I'm ignorant of being informed. I'm not.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's just that I've realized that, in a world where all news is breaking, being aware of every little thing as soon as it happens often costs more time than it's worth.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, I ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "do",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " save articles for reading on my Kindle, days after they're published, only to read them ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "weeks",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " (sometimes months) after I've saved them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I've discovered is this: most news isn't breaking. In fact, most of it is hardly worth your time. Things we fear and fret about in the moment rarely come to pass. And even when they do, they're rarely as catastrophic as we've assumed (the most recent calamity being a prime example). Furthermore, trivial things like the weather, the new restaurant in town, or the best blockbuster of the week you'll surely hear about in passing. Or you won't. But you'll be perfectly fine, either way.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "My advice: give up watching the news. Maybe even stop reading it too. Try it for a week and sew how you feel. Switch to reading a good old-fashioned book (or slightly dated online article), instead.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You might, unlike me, find yourself in a limbo: caught between not knowing what's going on and unable to find out.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or you might discover that breaking news isn't as urgent, and seemingly old news isn't so useless, after all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

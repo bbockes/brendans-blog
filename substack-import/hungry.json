@@ -1,0 +1,180 @@
+{
+  "title": "Hungry",
+  "slug": "hungry",
+  "publishedAt": "2018-07-19T12:57:43.000Z",
+  "excerpt": "Seth describes someone who's \" thirsty \" as someone who’s eager to learn as much as they can, as fast as they can, on their way to leveling up.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Seth describes someone who's \"",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "thirsty",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "\" as someone who’s eager to learn as much as they can, as fast as they can, on their way to leveling up.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2009/11/thirsty/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Similarly, “hungry” might be an apt word for the person eager to share their art or their insight. To learn and grow and be vulnerable on their way to becoming a professional.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Someone obsessed with leveraging their resources to do the work and do more of it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "From the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "illustrator",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " who posts a daily drawing everyday.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.chrispiascik.com/daily-drawings/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "roboticist",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " who makes defective bots for the masses.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "musician",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "writer",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " simply eager to get their art out into the world.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://soundcloud.com/charts/new?genre=all-music&country=US"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.elizabethgilbert.com/thoughts-on-writing/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thirsty for knowledge, hungry for action.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

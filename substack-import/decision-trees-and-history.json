@@ -1,0 +1,54 @@
+{
+  "title": "Decision trees and history",
+  "slug": "decision-trees-and-history",
+  "publishedAt": "2021-07-17T07:07:00.000Z",
+  "excerpt": "People are not very good at remembering things.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People are not very good at remembering things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's as true for remembering what you had for dinner last week as it is for recalling why you made a particular decision at work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As we get older, it often gets even harder to remember the rhymes and reasons for why things have become the way they are. The cruft of all the choices and decisions we've made; what we knew or were thinking back when.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence the benefit of writing things down. Of recording things. Not after the fact--but as events and decisions unfold. Sequentially, and in the moment.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Always fortunate",
+  "slug": "always-fortunate",
+  "publishedAt": "2020-11-26T07:00:00.000Z",
+  "excerpt": "Ralph Waldo Emerson advised \"...give thanks continuously. And because all things have contributed to your advancement...include all things in your gratitude.\"",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ralph Waldo Emerson advised \"...give thanks continuously. And because all things have contributed to your advancement...include all things in your gratitude.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's a good idea.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because today and everyday we all have something to be thankful for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Some reason to be happy or to find hope. Even in the smallest of things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Life's not perfect, hardly. But by regularly acknowledging (and appreciating) what makes it great, we can at least learn to see the upside amidst all that's down.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

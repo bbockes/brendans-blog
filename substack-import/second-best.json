@@ -1,0 +1,86 @@
+{
+  "title": "Second best",
+  "slug": "second-best",
+  "publishedAt": "2023-06-02T06:00:00.000Z",
+  "excerpt": "You can get a lot of mileage out of striving for the next best thing.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can get a lot of mileage out of striving for the next best thing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider: the next best thing from dating a movie star is to be someone who they’d wish they could spend more time with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the next best thing from being a child’s parent is for ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "them",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to be your pupil.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Similarly, a homemade meal, made with care, is often just as good as anything you eat from a celebrity chef.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And an imperfect solution that lasts is often more preferable to a “perfect one” that isn’t sustainable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes it pays to settle for second best.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

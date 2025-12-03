@@ -1,0 +1,103 @@
+{
+  "title": "Document your hunches",
+  "slug": "document-your-hunches",
+  "publishedAt": "2019-09-01T08:51:00.000Z",
+  "excerpt": "Leaders (and everyday people) make assumptions all the time.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Leaders (and everyday people) make assumptions all the time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What does the client really want? How should we interpret this data or this email? What metrics really matter? What’s the best way to deal with this person or this situation? How should it taste, look or feel? Will this benefit us over time?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It goes without saying that if you make an assumption and you get it wrong, it affects not just the end-users, but also the people working on the project.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And if don’t look for feedback, you (and your team) are never going to know if you were right. Which can lead you to continue to make false assumptions based on inaccurate, unknowable data.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easy to see how this can create problems, both externally (with clients) and internally (with and among teammates).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A better alternative? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Write down your assumptions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you think this is the case—if this solution is the way to go—document and verify it. Compare it to what your teammates think. Make it a game to test and confirm the facts.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Science works because it’s social, business premonitions (of all kinds) should be too.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

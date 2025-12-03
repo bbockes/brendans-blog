@@ -1,0 +1,144 @@
+{
+  "title": "Language and modern magic",
+  "slug": "language-and-modern-magic",
+  "publishedAt": "2015-07-27T13:26:46.000Z",
+  "excerpt": "The language we use to describe ourselves and our world create the worlds we live in.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The language we use to describe ourselves and our world create the worlds we live in.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not just how we think that shapes our beliefs and our actions, it’s the terminology we use and the associations we make of those ideas that ultimately shapes our thinking.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In her inspiring TED ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "talk",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", Aimee Mullins shows how the word “disable,” even in modern day lexicography, is so very self-limiting, even though there are countless individuals, like herself, that are exceptions to the rule.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=dTwXeZ4GkzI&list=PLJg3JOwVo8O9viAdY9tU2J8WM4S08uZpI&index=1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s even more perverse, however, might not be a negative or self-limiting word by itself, but how we as a culture might treat a person who’s been labeled by those words. How might a parent or teacher or peer consciously or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "unconsciously",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " treat an individual who’s been classified as someone with a handicap or an abnormality or a disorder? Or someone’s who’s already been told they’re a “D student” or “shy” or “socially-awkward” or “a freak.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Golem_effect"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now compare that to enabling words like “capable” or “extraordinarily gifted.” See the difference? They’re empowering by default. Isn’t that the kind of language we should be telling ourselves and our kids? Not language that creates self-limiting beliefs, but words and ideas that inculcate mindsets that encourage us to be the exception to the rule. Language that allows people, as Mullins says, “to keep hope, to see beauty in themselves and others, (and) to be curious and imaginative…when a spirit has those qualities, we are able to create new realities and new ways of being.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Language is a tool we invented to better enable us to adapt, to learn and to grow. If it doesn’t allow us to do those three things, better, then the terminology we use needs to change.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A very wise ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "wizard",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " once said, “Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it.” Fictional characters aside, he’s right. It’s not magic that creates the worlds we inhabit, it’s the language we use to describe our world, and ourselves. Might as well make the best use of it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.imdb.com/title/tt1201607/quotes?item=qt1520915"
+        }
+      ]
+    }
+  ]
+}

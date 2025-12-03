@@ -1,0 +1,125 @@
+{
+  "title": "148864083.weddings And Anniversaries",
+  "slug": "148864083weddings-and-anniversaries",
+  "publishedAt": "2025-11-30T19:30:12.487Z",
+  "excerpt": "I’ve never really understood the concept of marriage, much less the idea of a wedding.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve never really understood the concept of marriage, much less the idea of a wedding.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I mean, I get it conceptually. One person to hold from this day forward, forever. But I’m not convinced the construct of marriage is the best way to assure that commitment.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For example: Does taking your vows in front of others make people take those vows more seriously?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Our",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "recent divorce rate",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "suggests otherwise.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.cdc.gov/nchs/fastats/marriage-divorce.htm"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But are people who take their vows seriously more likely to stay together? Probably.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, maybe, we should honor the process and not the inauguration. Make weddings",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "simple and fast and cheap and private",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—and celebrate the big wins, the dramatic milestones, and the job well done instead.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.washingtonpost.com/lifestyle/2019/06/27/super-easy-couples-can-officiate-their-own-wedding-dc/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, marriage ain’t no movie. It takes time.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

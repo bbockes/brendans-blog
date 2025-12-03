@@ -1,0 +1,198 @@
+{
+  "title": "Handmade cards are underrated on creating things for you and why it matters",
+  "slug": "handmade-cards-are-underrated-on-creating-things-for-you-and-why-it-matters",
+  "publishedAt": "2017-06-19T12:12:57.000Z",
+  "excerpt": "Something I’ve noticed as more people mention they like reading my blog is that there are certain disadvantages to writing for an audience.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I’ve noticed as more people mention they like reading my blog is that there are certain disadvantages to writing for an audience.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If I write a post for myself (thinking that I’m the only one who’s going to be reading it), writing is easy. I can articulate what I want to say without much of a filter, and so naturally I write how I think and how I talk. It’s easy because, as Seth has pointed out, there’s no such thing as ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "talker’s block",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://sethgodin.typepad.com/seths_blog/2011/09/talkers-block.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, if I write for an audience of readers (no matter how small), it’s difficult. I’m thinking about how people will respond, what they’ll say, if this will resonate, and so I filter what I write. I think, to an extent, ironically, this takes away something from my writing. It’s disingenuous, filtered, and, in some respects, dispassionate.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I think it’s only natural to want to appear more normal to appear more popular. To filter our work, to standardize and to plagiarize (even if it’s not unethical). Artists of all kinds do this everyday to simply appeal to the masses, which is why we have everything from ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "fashion copycats",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Millennial Whoop",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Restaurants do this too, which is why most of them in your hometown (unless your in a city) all seem the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "same",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://fashioncopycats.com"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://qz.com/767812/millennial-whoop/"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "/sameness-pervades/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Likewise, it's far easier (and cheaper) for a business to scale when it's normalized, which is why all Five Guys are the same.  Companies want you to have the same interaction with their brand no matter where you are. To most people (and marketers), this seems perfectly reasonable. Starbucks, for example, wants you to have the same experience every time you walk into one of their thousands of locations. Yet, if you talk to most people about where they hang out or what they purchase, they’ll say it’s because this thing is either the best thing in that category (usually when purchasing commodity items), or it’s because the folks here treat different people differently. That is to say, they’re so unlike anything else available you can’t help but be compelled to engage with them. Starbucks was this option for a long time, but now they're ubiquitous, and therefore boring. Different people want different things; I want a hardcore craft ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "coffee-bar",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", you might want to put ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "anything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " in your frappe.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://bluebottlecoffee.com/our-story"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Obviously, I think this lesson can be applied just about anywhere. Unless you’re creating something solely for someone (like a nonprofit or charity), be a little selfish with your work. Write like no one else will read it. Make something solely for your own benefit. Otherwise you run the risk of appearing normal, of homogenizing your work, and by extension never creating anything original. Despite what you might think, if you’re a creator, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is what we pay you for (with our attention or our medium of financial exchange). It’s not for you to copy and paste and be just like everyone else. It’s to create something new, to do something in a way that no one else has done before. To create something on your terms, for you, and to share that unfiltered, vulnerable-inducing gift with a few people who might be changed by it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not for everyone, it doesn’t even have to resonate with anyone, just you. And maybe the few who engage with it, who get the joke, who stick around, and who would miss it if it were gone.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

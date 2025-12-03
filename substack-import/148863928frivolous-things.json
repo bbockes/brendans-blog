@@ -1,0 +1,43 @@
+{
+  "title": "148863928.frivolous Things",
+  "slug": "148863928frivolous-things",
+  "publishedAt": "2025-11-30T19:30:10.178Z",
+  "excerpt": "People who spend all their money on frivolous things rarely have money to spend on things they actually value.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People who spend all their money on frivolous things rarely have money to spend on things they actually value.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And people who spend all their time on frivolous tasks rarely have enough time to focus on what's really important to them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That seems obvious when you say it. But it's surprising how many people complain they don't have the time or money for the things they want or care about, precisely because they're too busy spending it on frivolous things.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

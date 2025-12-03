@@ -1,0 +1,54 @@
+{
+  "title": "148862238.that Wont Work",
+  "slug": "148862238that-wont-work",
+  "publishedAt": "2025-11-30T19:29:44.440Z",
+  "excerpt": "...versus, \"we can make it happen.\"",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...versus, \"we can make it happen.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two postures.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two very different outcomes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to focus on working around problems than to nullify solutions.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

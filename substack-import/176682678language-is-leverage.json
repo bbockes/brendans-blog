@@ -1,0 +1,108 @@
+{
+  "title": "176682678.language Is Leverage",
+  "slug": "176682678language-is-leverage",
+  "publishedAt": "2025-11-30T19:30:19.174Z",
+  "excerpt": "Everyone knows that ChatGPT communicates in natural language.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everyone knows that ChatGPT communicates in natural language.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why we can ask just about anything in plain English and get an answer back.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But here’s something I’ve learned recently: using language effectively is just as important when asking an AI to do other tasks—like writing code or generating video—as it is when asking it to write a well-crafted paragraph.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“Vibe coding” is taking the web by storm. It’s exciting to tell an AI to “make me a to-do app” and watch it generate working code. But using AI to speak code is only half the battle.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The other half is knowing enough about coding to speak",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "its",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "language—well enough to guide your pair programmer into building exactly what you want.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can’t do that successfully without knowing the basics—what the code’s doing, what the AI is building, and how to tweak or debug it when things go horribly wrong.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Language is leverage. Whether you’re writing a blog, talking to a group, or prompting an AI, your ability to express ideas clearly shapes the outcome.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The better you are with words, the more precisely you can think, build, and influence—whether your audience is human or machine.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

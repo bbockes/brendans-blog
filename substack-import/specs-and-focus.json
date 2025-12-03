@@ -1,0 +1,127 @@
+{
+  "title": "Specs and focus",
+  "slug": "specs-and-focus",
+  "publishedAt": "2020-07-15T05:15:00.000Z",
+  "excerpt": "Something I’ve noticed while job hunting: even in linear career fields where what you need to know to do your job is well defined, there’s  still  so much to know and learn. Which means it can be real",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I’ve noticed while job hunting: even in linear career fields where what you need to know to do your job is well defined, there’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "still",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " so much to know and learn. Which means it can be really hard to know what skills to focus on honing if your goal is to put yourself in the best position to land a job.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How to best navigate this conundrum? One solution I picked up is to document all the skills listed for the top 5-10 jobs I’d like to have for a specific role.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ll choose a role I’d like to fill, and search for similar jobs at companies I’d like to work for. Once I have a list of all possible skills from 5-10 jobs, I’ll go back and look for commonalities. If I find a skill that’s listed 5 times or more, I can be pretty confident it’s something I need to know and I keep it. If, on the other hand, it’s an outlier—such as, in the case of content design, knowing how to edit videos in Adobe Premiere, or how to use Kubernetes—I flag it in a miscellaneous section.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "While the job titles themselves may differ slightly, aggregating the skills you need to have to land the average of the jobs you’d like will put you in the best position to land a similar job in the future.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, by focusing only on what you need to know to excel at a specific role, you can avoid wasting effort nurturing needless skills while making yourself more appealing by doubling-down on the skills most valuable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Aside: It would be really(!) cool to see something like this in a future job board. Perhaps a feature that would allow hiring managers to post jobs made up of nothing but a list of skills to a database, combined with software that would then aggregate the skills for specific job titles. Candidates could then create a profile and take tests to prove competence in each skill—and if their repertoire matched that of a job posted—they could automatically apply.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(I realize this is not far from what Linkedin already does. But I think that by focusing on skills alone—as opposed to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "job titles or roles",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—candidates would be better able to focus on acquiring what they need to know, and hiring managers would find it easier to source the talent they need).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.blog.brendanbockes.com/what-we-say-vs-what-we-mean/"
+        }
+      ]
+    }
+  ]
+}

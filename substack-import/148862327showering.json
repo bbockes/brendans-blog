@@ -1,0 +1,84 @@
+{
+  "title": "148862327.showering",
+  "slug": "148862327showering",
+  "publishedAt": "2025-11-30T19:29:44.786Z",
+  "excerpt": "Cory Doctorow makes a good case that if you write for just 20 minutes a day, you can write a novel in a year.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Cory Doctorow makes a good",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "case",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "that if you write for just 20 minutes a day, you can write a novel in a year.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.locusmag.com/Features/2009/01/cory-doctorow-writing-in-age-of.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it doesn’t have to be a novel. It can be anything. A more leaner or stronger version of you. A degree, certificate, side-hustle, or job. A more composed state of mind. Better relationships with your (new) friends, family or significant other. A body of knowledge in a topic you’re interested in, or mastery of a skill.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Is it really any wonder how some people manage to accomplish extraordinary things, or become consummate in what they do best. There’s no secret formula.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They’ve merely figured out how to carve out a small fraction of time out of their busy lives to routinely do a thing that most people will never do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Losing thirty pounds or writing a thousand posts isn’t any more difficult than practicing regular hygiene. The difficult part is making the time, everyday, and continuing to continue.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

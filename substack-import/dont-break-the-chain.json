@@ -1,0 +1,68 @@
+{
+  "title": "Dont break the chain",
+  "slug": "dont-break-the-chain",
+  "publishedAt": "2018-09-23T16:51:00.000Z",
+  "excerpt": "Jerry  said it best. Once you’re juggling, don’t stop.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Jerry",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " said it best. Once you’re juggling, don’t stop.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://lifehacker.com/281626/jerry-seinfelds-productivity-secret"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s the single most effective way to continue to continue.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Keep track of your streak. Go long. Don’t quit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Far harder to start again than it is to work through a momentary blip of inertia.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

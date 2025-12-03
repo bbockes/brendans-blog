@@ -1,0 +1,54 @@
+{
+  "title": "How do your customers find your services",
+  "slug": "how-do-your-customers-find-your-services",
+  "publishedAt": "2023-01-24T05:00:00.000Z",
+  "excerpt": "That’s the essential question.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s the essential question.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whether you’re a freelancer, entertainer, broker or consultant, figuring out how your people find you is how you can create content, and craft an experience, that engages them at every touchpoint.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So that they not only find you, but choose you and your services.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Helping your customers find you begins when you find them.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

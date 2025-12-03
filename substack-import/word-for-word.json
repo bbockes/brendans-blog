@@ -1,0 +1,86 @@
+{
+  "title": "Word for word",
+  "slug": "word-for-word",
+  "publishedAt": "2020-12-07T07:00:00.000Z",
+  "excerpt": "I recently attempted to copy an excerpt from an article I found on the web. After pressing ‘Command-C,’ a pop-up message appeared stating that ‘the content was copyright protected,’ and I discovered t",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently attempted to copy an excerpt from an article I found on the web. After pressing ‘Command-C,’ a pop-up message appeared stating that ‘the content was copyright protected,’ and I discovered that I couldn’t copy and paste the text.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s the thing: copyright protection doesn’t solve the problem of plagiarism. It merely curtails it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If they really wanted to, anyone could just as well type up the copy on their own. And, as long as they didn’t profit from it, it wouldn’t make much of a difference.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, because we live in a culture of ideas, where everything that can be known has been written a hundred times before, the value of any one idea from any one source is nearly negligible. It doesn’t help to restrict your content when finding an alternative source is merely a search or a swipe away.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In a world where I can just as easily find the same ideas and answers elsewhere, where copyright only prevents me from using your words (not the ideas themselves), enforcing limits on what I can copy from your site only deters me from ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "engaging with you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " at all.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better, in my opinion, to get really clear about what's worth safeguarding and what isn't, and to think long and hard about the intention of your content before you choose to copyright it at all. You might find that the benefits of openly spreading and sharing your ideas outweigh the costs.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

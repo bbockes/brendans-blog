@@ -1,0 +1,81 @@
+{
+  "title": "The faq problem",
+  "slug": "the-faq-problem",
+  "publishedAt": "2022-11-03T07:00:00.000Z",
+  "excerpt": "If you look at the stats, there are 8,000 separate questions about “herniated discs” that are searched for on Google every month.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you look at the stats, there are 8,000 separate questions about “herniated discs” that are searched for on Google every month.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Almost none of them you could hope to answer with a single page, and many of them with more competition (keyword difficulty) than your medical practice could ever hope to rank for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What can you do instead?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Rather than adjust the content on your page around the queries that are asked most often (or the least), consider this alternative: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Why not give 100 of your customers a list of 100 questions, and ask them to choose the dozen that they’d prefer you answered, instead?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can tally the one’s with the most ‘volume,’ and then order them chronologically, in a way that respects the natural progression of questions that a typical patient might ask.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Beats choosing FAQs based on arbitrary measures and chance.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

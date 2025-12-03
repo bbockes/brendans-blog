@@ -1,0 +1,84 @@
+{
+  "title": "148862621.the 70000 Drive",
+  "slug": "148862621the-70000-drive",
+  "publishedAt": "2025-11-30T19:29:48.047Z",
+  "excerpt": "If you’re half a century old and you buy a 718 Boxster S , that’s seventy-thousand dollars not financing your retirement.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re half a century old and you buy a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "718 Boxster S",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", that’s seventy-thousand dollars not financing your retirement.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.porsche.com/usa/models/718/718-boxster-models/718-boxster-s/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It might even contribute to you not being able to retire when you want. Forcing you to continue to go to work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And let’s not forget about all the things $70K can get you (other than a nice car). That’s more than enough to probably visit all the places left on your bucket list, give your kids a decent learning experience, or pay the ten-year rent on a modest condo.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I mean, if you have the money, it’s a no-brainer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But bankrupting a better future on a faster sleeker drive is a waste.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

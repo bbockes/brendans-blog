@@ -1,0 +1,96 @@
+{
+  "title": "148862448.shakshouka And Strapatsada",
+  "slug": "148862448shakshouka-and-strapatsada",
+  "publishedAt": "2025-11-30T19:29:46.238Z",
+  "excerpt": "Here are two fantastic, low cost, egg-based dished you’ve likely never eaten.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "two",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "fantastic, low cost, egg-based dished you’ve likely never eaten.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://cookieandkate.com/foolproof-shakshuka-recipe/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "http://www.thegreekglutton.com/strapatsada-greek-scrambled-eggs/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yet if you go to any given restaurant, you’d be hard pressed to find them on the menu (even at Eggspectations).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not because they’re harder to make than scrambled eggs.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s because it’s difficult to be curious enough and audacious enough to try something new.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, leaning into finding (and trying) new ways to eat your eggs might be the greatest skill of all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

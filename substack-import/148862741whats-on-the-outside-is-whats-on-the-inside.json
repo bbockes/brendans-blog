@@ -1,0 +1,32 @@
+{
+  "title": "148862741.whats On The Outside Is Whats On The Inside",
+  "slug": "148862741whats-on-the-outside-is-whats-on-the-inside",
+  "publishedAt": "2025-11-30T19:29:49.426Z",
+  "excerpt": "That's the best definition of transparency I've ever heard.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's the best definition of transparency I've ever heard.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's also an excellent brand promise.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

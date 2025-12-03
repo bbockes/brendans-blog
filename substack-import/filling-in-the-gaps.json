@@ -1,0 +1,83 @@
+{
+  "title": "Filling in the gaps",
+  "slug": "filling-in-the-gaps",
+  "publishedAt": "2023-11-30T07:00:00.000Z",
+  "excerpt": "Topical mapping  is a fairly new idea when it comes to content strategy and SEO, but the concept is fairly straightforward.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Topical mapping",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a fairly new idea when it comes to content strategy and SEO, but the concept is fairly straightforward.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://nissarahamed.com/blog/topical-authority/topical-map/in-seo/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Rather than targeting keywords per se, topical mapping is about targeting topics and subtopics related to the keywords you want to be known for. Often, clients write blogs that don't cover a topic fully. For example, they discuss the benefits of a product but leave out other aspects like its types, how to choose it or use it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Topical mapping aims to fill these gaps. By covering many related topics, you can communicate—both to users and search engines—that you're an expert on a subject. This can improve your keyword rankings and help your users find the answers they need.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easy to make it complicated. But it’s essentially asking “Does your content leave anything unanswered?” and then filling in the gaps.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Not a bad question to ask if you ask me.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

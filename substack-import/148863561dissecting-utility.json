@@ -1,0 +1,108 @@
+{
+  "title": "148863561.dissecting Utility",
+  "slug": "148863561dissecting-utility",
+  "publishedAt": "2025-11-30T19:30:03.477Z",
+  "excerpt": "If something does what it supposed to do, it's effective .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If something does what it supposed to do, it's",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "effective",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it's effective with minimal effort, it's considered",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "efficient",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And if it's easy and enjoyable to use, we call it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "delightful",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two notes on that last one:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Delightful things are one’s that people talk about, comment on, and share.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Since they're easier to use, they often make people more productive…which is enough to justify their premium price.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Comics and computers",
+  "slug": "comics-and-computers",
+  "publishedAt": "2019-08-01T05:31:00.000Z",
+  "excerpt": "That's what librarians will tell you is the ‘most popular activity among kids at the library.'",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's what librarians will tell you is the ‘most popular activity among kids at the library.'",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So it's not surprising that most kids would ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "prefer",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to be a Youtuber than a Mars-colonizing, world-inspiring, astronaut.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://arstechnica.com/science/2019/07/american-kids-would-much-rather-be-youtubers-than-astronauts/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And it's not just kids, either. High school and college students spend an exorbitant amount of free time and class time glued to screens, taking in the latest mental junk.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "While millions of adults drive to work each day, attuned to silence or the latest mind-numbing riff-raff. Hours committed to slogging through traffic, immune to the mere concept of getting an anything out of the spoken word.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "These habits (and yes, they are habits) teach us a lot about what we value as a culture, and even more about what we unknowingly inculcate at school.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So it's no surprise that most people avoid books or complex math problems, free(!) yet challenging online courses, or even podcasts, or documentary tv.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's not because they're not able or because they don't have access. It's because 'learning' reminds them of something they don't want to remember.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

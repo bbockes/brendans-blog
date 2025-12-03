@@ -1,0 +1,54 @@
+{
+  "title": "Having succinct thoughts",
+  "slug": "having-succinct-thoughts",
+  "publishedAt": "2020-04-23T05:00:14.000Z",
+  "excerpt": "…is a great skill to have if you’re a writer, a teacher or an (aspiring) leader.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…is a great skill to have if you’re a writer, a teacher or an (aspiring) leader.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s what we ought to focus on when hiring anyone for any kind of job that requires the utilization of knowledge over pure labor.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And it’s exactly what you should practice doing today.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Notice something. Communicate it. Repeat.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

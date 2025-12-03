@@ -1,0 +1,75 @@
+{
+  "title": "Design flaws at the library",
+  "slug": "design-flaws-at-the-library",
+  "publishedAt": "2018-10-31T07:54:00.000Z",
+  "excerpt": "The library by my house has everything you need. Ample space. Office chairs that recline. Desks with 120v and usb charging outlets. An expanse of tables, couches and windows. Good lighting. A libraria",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The library by my house has everything you need. Ample space. Office chairs that recline. Desks with 120v and usb charging outlets. An expanse of tables, couches and windows. Good lighting. A librarian always on hand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then there’s the wifi. Weak signal. Probably not robust enough for all the people using it. Having to log on and click the “terms of use” agreement every hour you’re connected.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s the children’s area, in the corner of the north-east side, open and audible to parents and silence-seekers alike. So what would otherwise be noiseless room sounds more like a distorted episode of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Barney and Friends",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". Instead, they could (and should) easily move it to one of the often vacant “quiet study” rooms.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, of course, there’s the high-schoolers. 2:30, every weekday. They like to socialize, go figure. Hence the commotion, the drama, the random bouts of laughter. My solution? Make a room specificly for teenage therapy sessions and after-school group projects. A room for occasional talking, and a room for mute. Done and done.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most inefficiences are often the result of a lack of well thought out design choices. Relative quick fixes if you’re willing to get creative and take initiative.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

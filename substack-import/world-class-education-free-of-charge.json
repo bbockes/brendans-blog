@@ -1,0 +1,217 @@
+{
+  "title": "World class education free of charge",
+  "slug": "world-class-education-free-of-charge",
+  "publishedAt": "2020-03-30T04:52:19.000Z",
+  "excerpt": "In light of recent events,  Udacity  is giving people free access to their entire catalog of courses for the next 30 days. That's free, 24/7 access to first-rate courses on the most in-demand skills o",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In light of recent events, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Udacity",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is giving people free access to their entire catalog of courses for the next 30 days. That's free, 24/7 access to first-rate courses on the most in-demand skills obtainable, available to anyone with a computer and an internet connection.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.udacity.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Blinkist",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (I’m told) is giving away their library of ‘blinks,’ 15-minute book-summaries on some of the best non-fiction books available. Free for the next 4 weeks for anyone who will sign-up.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.blinkist.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I got to thinking about how we might soon live in a world where access to top-tier education was ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "always",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " free, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "always",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " on, and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "always",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " accessible, to everyone.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Where the only obstacle to leveling up, to acquiring high-demand skills, or becoming a sought-after job candidate was time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Where everyone—of the nearly 8 billion people on spaceship Earth—had the same chance as anyone to get a job making well over 100K.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or how—given the new surplus of people able to acquire these roles, matched with their limited availability—the job market would be even ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " competitive than it already is. Add in remote working tools, outsourcing, and lower standards of living and it’s even ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " aggressive.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How would ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " respond to this? How would you go about spending your time? Would your change our posture, reorganize your hour's, make more time for learning and doing, and less time for not?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Would we use this newfound access to fulfill our topmost potential—as individuals and collective members of society? Or would we squander it…enabling whole swaths of people (or nations) to inevitably take our place?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The future (of education, of jobs, of civilization as we know it) is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "almost",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " upon us. It’s up to us to decide what we’ll do when it hits.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

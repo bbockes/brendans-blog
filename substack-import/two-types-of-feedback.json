@@ -1,0 +1,107 @@
+{
+  "title": "Two types of feedback",
+  "slug": "two-types-of-feedback",
+  "publishedAt": "2023-07-28T07:00:00.000Z",
+  "excerpt": "I’ve found that feedback tends to fall into two categories. One that’s helpful. One that isn’t.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve found that feedback tends to fall into two categories. One that’s helpful. One that isn’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One is based on what you've done, the other is someone's ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "opinion",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " about what they would do differently.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For instance, if I write sales copy that effectively markets a product and you don't like it, your feedback could be about my work ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "or",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " about how you'd approach it instead.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You might choose to write about what sets this product apart or simply claim it's better than others without solid proof.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You could list the benefits or sum up everything in one paragraph. Or, you may choose to articulate the thinking behind why someone might want to buy this product, or encourage readers to take a survey that matches the product with their goals.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, there are dozens of ways you could approach the problem differently, but because they’re opinions and I can’t predict what those are, your feedback can’t help me improve much of anything.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In fact, if your feedback is just your viewpoint on how you would do something, no one can learn from it, because your opinion is no more relevant than mine.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "title": "148862907.when You Need To Have A Meeting",
+  "slug": "148862907when-you-need-to-have-a-meeting",
+  "publishedAt": "2025-11-30T19:29:53.164Z",
+  "excerpt": "I’ve written a lot about why you should consider avoiding meetings. But what about when you need to have one (with a client)?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve written a lot about why you should",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "consider",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "avoiding meetings. But what about when you need to have one (with a client)?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/the-3-minute-meeting-rule/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You could have a meeting with every person who will ever work on this project.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or two.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One person for doing the talking. One for typing up a well-crafted memo to share with everyone else.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That way…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "X people that don’t have to be in the meeting.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "X people can focus on doing uninterrupted work, &",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "X cumulative work-hours can be saved (saving you money and productivity).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All meetings come with a cost. The trick is to assess those costs beforehand to decide if a) having the meeting, and b) inviting everyone to it, are worth it to begin with.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

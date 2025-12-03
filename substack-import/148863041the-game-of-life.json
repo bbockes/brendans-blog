@@ -1,0 +1,73 @@
+{
+  "title": "148863041.the Game Of Life",
+  "slug": "148863041the-game-of-life",
+  "publishedAt": "2025-11-30T19:29:55.190Z",
+  "excerpt": "Chess is a finite game. It has rules and clear boundaries. If your opponent wins, you lose.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Chess is a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "finite",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "game. It has rules and clear boundaries. If your opponent wins, you lose.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Writing a book or flying a kite or, arguably, playing chess against yourself, is an infinite game. You can't win, but you also can't lose.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Much of how we experience the world is shaped by the posture we bring to it. If your constantly comparing yourself against the latest benchmark, metric, or status symbol (in a world of scarcity) it's hard to see how you’ll ever be satisfied with where you are.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which begs the question: if playing a finite game is causing you more stress than its worth, why not play a different game instead?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

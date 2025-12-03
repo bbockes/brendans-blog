@@ -1,0 +1,144 @@
+{
+  "title": "149937076.ai Skills",
+  "slug": "149937076ai-skills",
+  "publishedAt": "2025-11-30T19:30:16.496Z",
+  "excerpt": "I recently read how a program in Ireland is equipping people in rural areas with essential “AI skills.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently read how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "a program in Ireland",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is equipping people in rural areas with essential “AI skills.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://news.microsoft.com/source/emea/features/leaving-no-one-behind-ireland-ai-tools-innkeepers-weavers-florists/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To say nothing of the program itself, I'm not sure \"skills\" is the right word. Perhaps \"literacy\" might be more fitting?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Understanding",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how it works",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is certainly worth the investment. As many folks aren’t using AI because they’re afraid of what it might do or become, when it’s more than perfectly benign.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2024/10/yes-but-how-does-it-work/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And knowing the tools—both the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "myriad of applications available",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and how to leverage them to enhance everyday tasks—can significantly empower people from all walks of life.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://theresanaiforthat.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "From automating mundane chores to perfecting a blog like this one, familiarity can open doors not previously possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But skills? No, we don’t need skills. We need people who are engaged and enrolled on the journey of exploration.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Who are curious enough to try a new tool, even when they're not \"good\" at it yet, to figure out how they can use it to solve their problem.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

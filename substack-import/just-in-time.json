@@ -1,0 +1,141 @@
+{
+  "title": "Just in time",
+  "slug": "just-in-time",
+  "publishedAt": "2021-02-23T07:10:30.000Z",
+  "excerpt": "I recently learned about the  difference  between “just-in-case learning”—the idea that you should spend your time learning new skills “just in case” you need them—versus a “just-in-time” model of lea",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently learned about the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "difference",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " between “just-in-case learning”—the idea that you should spend your time learning new skills “just in case” you need them—versus a “just-in-time” model of learning—the idea that it’s more efficient to simply learn the skills you need for your ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "next",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " job/task/project.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=Kq1d2kISsNw"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It occurred to me that you can just as well apply this concept to many other things. Consider that for a long time (the past 7 years to be exact) I’ve saved interesting courses, videos, apps, and websites that I intend to use in a database in ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Pocket",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (or, more recently, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Raindrop",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "). This not only consumes a tremendous amount of time sorting and organizing and tagging everything, but is also inefficient—since 90% of the things I’ve saved I never get around to using.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://getpocket.com"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://raindrop.io"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why not instead: ditch the database entirely and only search for apps/tools when I need them, watch interesting videos when I find them, or catalogue courses exactly when I intend to take them?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The same applies to projects of all kinds: why would you buy materials when you don’t actually have the time to use them? Better to wait until you’re available, if you ask me.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider learning in itself. If you’re trying to solve a specific problem, you don’t need to read all the books you can on the topic—you just need to skim a single book or watch a single video (or ask a friend, colleague or stranger), to find the answer you need.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consuming, using, and doing things when you need to will always be more efficient than acquiring, stockpiling, or holding on to things you might think you need, but don’t.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Mixed responses",
+  "slug": "mixed-responses",
+  "publishedAt": "2021-08-06T06:00:00.000Z",
+  "excerpt": "The fact that you can send the same request to ten people from the same company and get mixed responses is testament to the fact that everyone has different views about if and why they should interact",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The fact that you can send the same request to ten people from the same company and get mixed responses is testament to the fact that everyone has different views about if and why they should interact with a stranger.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn't always mean that your pitch wasn't perfect or that there was anything you could have said or done differently.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It simply means that a person's opinions, beliefs, feelings, or worldview aren't entirely based on where they work, where they live, or what they do.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

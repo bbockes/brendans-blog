@@ -1,0 +1,73 @@
+{
+  "title": "Beautiful tables",
+  "slug": "beautiful-tables",
+  "publishedAt": "2018-10-28T09:49:20.000Z",
+  "excerpt": "It turns out the reason most restaurants use white table cloths is because the tables themselves are generally really poorly made.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out the reason most restaurants use white table cloths is because the tables themselves are generally really poorly made.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, investing in durable tables might save you a few thousand dollars that would otherwise go towards daily dry cleaning, and all the effort it entails.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson: investing in quality pays off. It can be tempting to save your money buying ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "cheap",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", but if that makes for a mediocre experience, or worse, forces you to spend more down the road, it’s not really worth it, is it?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brendanbockes.typepad.com/blog/2018/02/you-dont-get-to-remarkable-by-being-cheap.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everything comes at a cost. The question to ask is, are you investing in a quality experience that will last and get talked about? Or are you trying to save a buck at the expense of value?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

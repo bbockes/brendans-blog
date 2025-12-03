@@ -1,0 +1,99 @@
+{
+  "title": "148862503.are You Hollywood Or Are You Netflix",
+  "slug": "148862503are-you-hollywood-or-are-you-netflix",
+  "publishedAt": "2025-11-30T19:29:46.638Z",
+  "excerpt": "One reliable option (whether you’re a business, artist or film producer) is doing what’s worked before. To squeeze the value out of something so much that it’s almost cliche. To do more of what’s work",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One reliable option (whether you’re a business, artist or film producer) is doing what’s worked before. To squeeze the value out of something so much that it’s almost cliche. To do more of what’s worked in the past, only slightly different. This is the temptation of sequels and remakes and of rehashing the same old thing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Another option is to bet on something no one has done before. To take an uncomfortable risk and try something different. To make something for a few people (not everyone), and embrace the fact that it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "might not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "work",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One option gets you The Lion King and Aladdin remakes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The other gets you Okja and Roma and Tallulah.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And of course, it applies to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "distribution",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "as much as to content.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://theconversation.com/the-unique-strategy-netflix-deployed-to-reach-90-million-worldwide-subscribers-74885"
+        }
+      ]
+    }
+  ]
+}

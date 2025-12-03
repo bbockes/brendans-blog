@@ -1,0 +1,120 @@
+{
+  "title": "148863032.more With Less",
+  "slug": "148863032more-with-less",
+  "publishedAt": "2025-11-30T19:29:54.923Z",
+  "excerpt": "As one can imagine, I'm a big fan of books about living thrifty and embracing adequate-ism . Most of them are chock full of insights on how to get by with less, embrace what you have, and invest your ",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As one can imagine, I'm a big fan of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "books",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "about living thrifty and embracing",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "adequate-ism",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Most of them are chock full of insights on how to get by with less, embrace what you have, and invest your time, money and attention more wisely.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.chelseagreen.com/product/the-art-of-frugal-hedonism/?sscid=c1k3_pee5w"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "/adequate-ism/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When it comes down to it, though, all you really need to know is this: you only need as much as you consume.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that if you can find a way to consume less (and be happy with less), you can escape the need to work more than you need to live above your means.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It also means you can save your surplus of cash and time for other things that bring you (more) happiness, like time spent with friends or at the gym, or cooking at home or reading books, or simply sightseeing and soaking up",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "sonder",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/bathing-in-sonder/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That you can get by, or rather live more fully, with less stuff, and more joy, is a unique and extraordinary opportunity. One that's available to each of us, if we're only willing to give up the desire for more in exchange for the satisfaction that comes from embracing less.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "title": "As can be expected",
+  "slug": "as-can-be-expected",
+  "publishedAt": "2020-12-28T10:04:39.000Z",
+  "excerpt": "I used to be amazed that with as smart and sophisticated as our federal government appears to be, they never seem to agree on anything (and therefore get anything done).",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I used to be amazed that with as smart and sophisticated as our federal government appears to be, they never seem to agree on anything (and therefore get anything done).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Fast-forward to the tail end of 2020, and that feeling has been replaced.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now I realize the joke’s on us. Because as obstinate as our government is, somehow it manages to get things done.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the arguing, the bureaucracy, the layers upon layers of regulation and recalcitrance? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "That’s all that can be expected.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "/rant",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

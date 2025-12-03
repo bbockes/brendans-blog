@@ -1,0 +1,43 @@
+{
+  "title": "148863695.another Year Another Moment",
+  "slug": "148863695another-year-another-moment",
+  "publishedAt": "2025-11-30T19:30:04.942Z",
+  "excerpt": "New Years is a vastly overrated holiday. Because, of course, the 'first of the year' is mostly made-up.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "New Years is a vastly overrated holiday. Because, of course, the 'first of the year' is mostly made-up.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you really want to change, or try something new, today's not the only day to do it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But if it today makes you feel that you've somehow been given a fresh start, it most certainly is a good enough reason to do so.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "title": "148864352.word Choice Is Not A Typo",
+  "slug": "148864352word-choice-is-not-a-typo",
+  "publishedAt": "2025-11-30T19:30:15.293Z",
+  "excerpt": "Not using an acronym isn’t one either.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not using an",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "acronym",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "isn’t one either.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/why-acronyms/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nor is using a simplier term instead of a technical one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not the same as misspellings and grammatical mistakes; it's an opinion, and one that should never be considered \"correct.\"",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

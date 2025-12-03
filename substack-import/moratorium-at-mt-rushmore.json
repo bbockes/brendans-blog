@@ -1,0 +1,171 @@
+{
+  "title": "Moratorium at mt rushmore",
+  "slug": "moratorium-at-mt-rushmore",
+  "publishedAt": "2020-07-01T06:23:57.000Z",
+  "excerpt": "As of today, people with electric vehicles have to pay an  additional fee  (currently $88.20) to offset the cost they would normally pay in taxes with a gas-guzzler.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As of today, people with electric vehicles have to pay an ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "additional fee",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (currently $88.20) to offset the cost they would normally pay in taxes with a gas-guzzler.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.dmv.virginia.gov/vehicles/#HighwayUse_fee.asp"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Meanwhile, this ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "bozo",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is spending millions of dollars in taxpayer funds for pyrotechnics (despite himself being a multi-billionaire).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://nymag.com/intelligencer/2020/06/trumps-july-4-salute-to-america-event-what-we-know.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a conspiracy theory up for grabs: Perhaps the proximity of these two events is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " mere coincidence.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That would certainly be ironic. In the same dubious and roundabout way that corrupt politicians are notorious for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, these events ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " linked (however indirectly). $88 of my money is going into the same account as the $14 million or so being withdrawn from it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This post was originally going to be about how we can’t make the world greener, better, or more hospitable if we penalize the people who care enough to make a difference. But I realize now the joke’s on us.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We will ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "never",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " make our world greener, better, or more hospitable unless we take a collective and proactive stand against the injustice, irrationality, and sheer ignorance that consumes this country.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Driving an EV, being informed, voting with our dollars and cents—these are great choices to make. But all total, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "they just won’t cut it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

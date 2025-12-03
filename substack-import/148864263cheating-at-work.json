@@ -1,0 +1,90 @@
+{
+  "title": "148864263.cheating At Work",
+  "slug": "148864263cheating-at-work",
+  "publishedAt": "2025-11-30T19:30:14.728Z",
+  "excerpt": "It’s interesting that the things we often reward at work are the very things we penalize in the classroom.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s interesting that the things we often reward at work are the very things we penalize in the classroom.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider cheating.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you cheat at work—by using",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "tools",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "procesess",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "that speed up your workflow—are you cheating?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://trankynam.com/atext/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://fortelabs.com/blog/mise-en-place-for-knowledge-workers/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or are you merely coming up with a better or faster way of doing something?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Acronyms are a pretty poor way to communicate",
+  "slug": "acronyms-are-a-pretty-poor-way-to-communicate",
+  "publishedAt": "2022-07-28T07:00:00.000Z",
+  "excerpt": "Sometimes they work. DNA is a great example. But that’s because it’s almost shorthand for the real thing.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes they work. DNA is a great example. But that’s because it’s almost shorthand for the real thing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, in situations where not everyone knows what one means, acronyms tend to delay the transmission of information, not expedite it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a simple rule to follow to ensure you don’t slow anyone down: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "don’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " use an acronym unless ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everyone of your readers’",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " knows what it means.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Even then, if it comes down to matter of a few extra keystrokes, just type it out. No one wants to spend an extra second or minute or hour decoding reductions.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

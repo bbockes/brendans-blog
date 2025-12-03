@@ -1,0 +1,105 @@
+{
+  "title": "148863562.the Process Is Not The Differentiating Factor",
+  "slug": "148863562the-process-is-not-the-differentiating-factor",
+  "publishedAt": "2025-11-30T19:30:03.500Z",
+  "excerpt": "Anyone can follow a recipe. But not everyone can cook.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Anyone can follow a recipe. But not everyone can cook.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because the difference between a novice cook and a pro isn’t knowing how to follow a recipe.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And designers of all kinds have a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "process",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", too. A system of steps that guides their thinking and their choices.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What differentiates a poor design from a great one isn’t how precise the designer followed each step, but what they did in between.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s actually pretty easy to learn the process. Just look it up.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But the stuff in the gaps—the seeing, discerning, ideating, making, facilitating and communicating,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the real skills of the trade",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—that takes a lifetime to master.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

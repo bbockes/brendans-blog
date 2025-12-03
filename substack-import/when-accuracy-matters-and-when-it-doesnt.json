@@ -1,0 +1,140 @@
+{
+  "title": "When accuracy matters and when it doesnt",
+  "slug": "when-accuracy-matters-and-when-it-doesnt",
+  "publishedAt": "2020-01-01T05:45:09.000Z",
+  "excerpt": "The order you put ornaments on a Christmas tree is rarely a good predictor of how well it’s going to look once everything—lights, ornaments, tinsel—is up there on it.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The order you put ornaments on a Christmas tree is rarely a good predictor of how well it’s going to look once everything—lights, ornaments, tinsel—is up there on it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And how you go about crafting a blog post (or a term paper)—whether you start with the title and work your way down, or compose sentence after sentence in un-chronological/random fashion, or write up an outline and fill in the gaps—matters very little in how it turns out.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider cooking. If you’re following a recipe for say, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Tournedos Rossini",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and want it to turn out ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "exactly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the way JC did it, then ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "of course",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " following it to the letter is essential. But if you simply want a decent meal that tastes good, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "cooking like a chef",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and not a cook (i.e. throwing ingredients together and using taste as your guide) will give you favorable results 90% of the time.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://web.archive.org/web/20021120233540/http://blogs.salon.com/0001399/2002/10/28.html"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, if you’re engineering something—a car, a skyscraper, a rocket ship, etc.—six sigma level precision is vital. But for most things—how you plan a wedding, bake a cake, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "make a career",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", etc.—following a plan verbatim is merely an exercise in overwhelm and (probably) self-torment.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/how-to-get-job-experience-when-you-have-none/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it will likely turn out okay anyway, don’t stress over exactness. Save your reserve of focus and energy for merely doing it the best way you know how.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

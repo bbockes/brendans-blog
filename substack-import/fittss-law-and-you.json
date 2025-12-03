@@ -1,0 +1,149 @@
+{
+  "title": "Fittss law and you",
+  "slug": "fittss-law-and-you",
+  "publishedAt": "2020-11-14T05:58:57.000Z",
+  "excerpt": "Fitts’s Law  states that the amount of time taken to move to and select a target is a function of the distance to and size of the target.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Fitts’s Law",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " states that the amount of time taken to move to and select a target is a function of the distance to and size of the target.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Fitts%27s_law"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Meaning: If you want to make something more easily approachable/selectable, move it closer and make it bigger to your user.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is in partly why the knob to turn your fog lights on in your car is closer than the one to adjust the AC. And it’s why the apps in the dock on your phone are on the bottom of the screen and not the top (because it’s easier to reach).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Fitts’s Law is also responsible for the oft cited idea that ‘what is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "easily accessible",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is what gets used,’ as well as ‘what gets written, gets done.’ It’s easier to interact with apps on your computer (or phone) that are ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "already",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " on the home-screen, as opposed to those in a far-flung folder on your hard-drive. And items on your to-do list are easier to accomplish than items in the back of your mind.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/first-things-first/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson: if you want to use it, do it, or get it done, move it closer, make it bigger, and hide the junk.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Semi-related: It’s easier to register nouns before verbs. As ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Scott Adams",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " points out, the sentence “the boy hit the ball” is easier to comprehend than “the ball was hit by the boy.” They both mean the same, but it’s easier to imagine the latter versus the former, because it’s closer in our minds eye.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html"
+        }
+      ]
+    }
+  ]
+}

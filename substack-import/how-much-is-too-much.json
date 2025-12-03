@@ -1,0 +1,65 @@
+{
+  "title": "How much is too much",
+  "slug": "how-much-is-too-much",
+  "publishedAt": "2021-07-25T07:06:00.000Z",
+  "excerpt": "Nearly anything you could want comes with a limit.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nearly anything you could want comes with a limit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A point of diminishing returns or one where consuming anymore is detrimental.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whether it's harmful for your health or your happiness, your finances, or your relationships, is largely irrelevant. What matters is acknowledging there is a limit and that limit is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A limit can either be self-imposed (\"once and I'm done\") or inflicted by an external force. But either way, there's a limit you have to comply with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, in most cases, the former is often the merrier.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

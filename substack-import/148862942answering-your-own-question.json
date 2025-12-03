@@ -1,0 +1,53 @@
+{
+  "title": "148862942.answering Your Own Question",
+  "slug": "148862942answering-your-own-question",
+  "publishedAt": "2025-11-30T19:29:53.390Z",
+  "excerpt": "I've found that many people in conversation will often pose a question, then liftoff into a monologue where they effectively answer it themselves.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I've found that many people in conversation will often pose a question, then liftoff into a monologue where they effectively answer it themselves.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thing is, it doesn't help you or anyone really to answer your questions with your own conclusions. If they really are questions you care to know the answer to, it's probably worth listening to an \"expert\" who might give you a more informative answer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn't matter if you know the answer to every one of your questions. What matters is if you're curious enough to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "discover",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the answer on your way to asking better ones.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

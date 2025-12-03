@@ -1,0 +1,84 @@
+{
+  "title": "Dont be boring",
+  "slug": "dont-be-boring",
+  "publishedAt": "2022-11-16T05:00:00.000Z",
+  "excerpt": "One of the best ways to position a business for success is to find ways to make it less boring.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of the best ways to position a business for success is to find ways to make it less boring.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not because no one buys from boring brands, but because almost no one sides with boring.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why brands with personality are often more preferable to faceless ones, and why services that manufacture what’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "interesting",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " tend to come out ahead.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.mashed.com/480984/popular-jenis-ice-cream-flavors-ranked-worst-to-best/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, when it comes down to buying something that’s not a commodity, picking one over another is like choosing sides.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How it makes you feel to buy a thing and use it matters must as much, if not more, than the specs.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

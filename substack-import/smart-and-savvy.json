@@ -1,0 +1,117 @@
+{
+  "title": "Smart and savvy",
+  "slug": "smart-and-savvy",
+  "publishedAt": "2023-12-13T05:00:00.000Z",
+  "excerpt": "It turns out that if you assume that your customers are as smart as you are, you’ll sell more, faster, with less effort.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out that if you assume that your customers are as smart as you are, you’ll sell more, faster, with less effort.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The converse is also true: if you assume your customers are ignorant or don't know what's up, you'll spend all your time marketing things that frustrate them and that de-value your brand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Paramount Plus has a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "trove of negative reviews",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " because their app sucks, regardless of the platform you're using. That’s because they assumed their customers wouldn’t mind if they left it the way their developers had made it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.google.com/search?q=paramount+plus+is+so+bad&oq=paramount+plus+is+so+bad&gs_lcrp=EgZjaHJvbWUyBggAEEUYQDIGCAEQRRg50gEIMzIxMWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now they have to grapple with the fact that hundreds of people know that they don't care as much as their competitors, at least when it comes to making a quality product that’s a joy to use and easy to understand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the note I got a week ago from the head of marketing at an undisclosed agency. He wanted to see if I was interested in their “professional link-building services” so I checked out their site.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "None of the links to their case studies actually worked.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If someone bothered to assume that the people who were interested in their services were smart enough to do their homework, they might have an easier time convincing their prospects that their services are worth the investment.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Customers are often smarter than you think. They know what they're looking for and (usually) how to find it. It doesn't pay to assume they know less than you do, or to underestimate their ability to notice when you’re not delivering as much value as you should.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

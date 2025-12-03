@@ -1,0 +1,126 @@
+{
+  "title": "148863958.wheres The Money Go",
+  "slug": "148863958wheres-the-money-go",
+  "publishedAt": "2025-11-30T19:30:10.862Z",
+  "excerpt": "The hotel I stayed in on a recent weekend road trip left a note in my room kindly asking me (and presumably all its guests) to tip their housekeeper.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The hotel I stayed in on a recent weekend road trip left a note in my room kindly asking me (and presumably all its guests) to tip their housekeeper.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I'm not opposed to the idea of compensating someone for a job well done, particularly for a job that's essential. But it seems to me that hotels like this one would do better to include the cost of tipping their housekeepers in the cost of room service.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most guests don't mind paying a little more when the markup is high already, but I think many like myself find it odd (and slightly dubious) that a multimillion-dollar business would ask me to pay them on top of what I already paid.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Further,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "what happens if I don't pay?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Or, what happens if only 20% of their customers tip their housekeepers for their service? Does that mean the business",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "won’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "compensate their housekeepers fairly? And, if so few pay up, will their housekeepers be sufficiently incentivized to do their job well and not slack off?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’m not so sure.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, baking everything you need to cover in the price is a far better alternative than jeopardizing your brand by doing what’s right for the business, by both cutting corners and trying to position yourself as a bargain.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You’re either",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "solving a problem",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "for the customer or you’re solving a problem for the business. Solve the former first, and profits tend to follow. Solve for the latter first, and it’s an uphill slog to make a profit while you slowly expend your customers’ trust.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2021/08/which-problem-are-we-solving/"
+        }
+      ]
+    }
+  ]
+}

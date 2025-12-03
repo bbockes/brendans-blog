@@ -1,0 +1,52 @@
+{
+  "title": "Words per minute",
+  "slug": "words-per-minute",
+  "publishedAt": "2019-08-25T05:44:00.000Z",
+  "excerpt": "Spouting words as fast as possible might make you a great auctioneer. But it certainly doesn’t make you a good communicator (and it doesn't make you sound smart, either).",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Spouting words as fast as possible might make you a great auctioneer. But it certainly doesn’t make you a good communicator (and it doesn't make you sound smart, either).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you have something to say, please say it slowly, with intention. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Slow enough that I can assimilate it. Clear enough that I can comprehend it.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

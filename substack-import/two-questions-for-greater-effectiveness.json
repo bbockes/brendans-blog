@@ -1,0 +1,53 @@
+{
+  "title": "Two questions for greater effectiveness",
+  "slug": "two-questions-for-greater-effectiveness",
+  "publishedAt": "2022-07-20T06:00:00.000Z",
+  "excerpt": "Of the hundreds of things you  can do , what will deliver the greatest results?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of the hundreds of things you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can do",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", what will deliver the greatest results?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s the ratio of things that you’ve done to results delivered?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can save countless hours if you only ask these two questions, or waste countless hours until you do.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

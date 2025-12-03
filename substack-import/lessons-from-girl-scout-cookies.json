@@ -1,0 +1,129 @@
+{
+  "title": "Lessons from girl scout cookies",
+  "slug": "lessons-from-girl-scout-cookies",
+  "publishedAt": "2022-03-06T07:00:00.000Z",
+  "excerpt": "You can learn a lot from girl scout cookies.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can learn a lot from girl scout cookies.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One lesson is that parents can sometimes forget what selling those cookies is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "for",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—which implies that a) people aren’t perfect, and b) even well-meaning parents can make mistakes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Another is that sugar is an highly-addictive, heavily-marketed substance that sells far more than healthy alternatives, despite that fact that most parents would rather their kids make healthy, wise-minded choices when they grow up.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And a third?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " That monopolies thrive in a closed market—where organizations can set the price and expect little, if any, competition. That’s why GSUSA is a tax-exempt non-profit that makes ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "$800 million a year",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " on glorified bake sales (while each troop earns just 80 cents per box of cookies sold).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://marketrealist.com/p/how-much-do-girl-scouts-make-on-cookie-sales/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if it’s not about the cookies any more than the sales numbers, why don’t parents encourage their kids to bake and sell their own snacks and treats instead?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(Hint: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "it’s not about the cookies",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2014/03/girl-scout-cookies/"
+        }
+      ]
+    }
+  ]
+}

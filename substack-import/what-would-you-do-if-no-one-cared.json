@@ -1,0 +1,106 @@
+{
+  "title": "What would you do if no one cared",
+  "slug": "what-would-you-do-if-no-one-cared",
+  "publishedAt": "2019-11-22T06:08:26.000Z",
+  "excerpt": "Almost 5 years into blogging and my subscriber list is still almost negligible compared to influencers in the same space, like say, this  guy .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Almost 5 years into blogging and my subscriber list is still almost negligible compared to influencers in the same space, like say, this ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "guy",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/user/blackboxfilmcompany/featured"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Maybe it's the medium. Maybe it's hustle. Maybe it's luck.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All I know if that for whatever reason, I felt like giving up. Or at very least switching creative gears and maybe trying my hand at something else.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then something occurred to me: that if, for whatever reason, I stopped writing, I'd forever be miserable, because I'd wake up almost everyday wondering how far along I'd be if I didn't quit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All another way to say that I'd probably continue to do this even if no one read it. And that metrics (in the short run, and probably the long run too) don't matter nearly as much we we give them credit for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I think that's probably true for many world class performers (be they artists or authors or athletes).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's not the followers and the likes that make it worth doing. It's the joy of waking up everyday to do it all again.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

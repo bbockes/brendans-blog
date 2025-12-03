@@ -1,0 +1,127 @@
+{
+  "title": "148864349.the Guessing Game",
+  "slug": "148864349the-guessing-game",
+  "publishedAt": "2025-11-30T19:30:15.231Z",
+  "excerpt": "Someone I know has a business with a sister company. They send the same newsletter to both audiences, assuming there’s no overlap in subscriber-ship. Never once has there ever been a test done to conf",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Someone I know has a business with a sister company. They send the same newsletter to both audiences, assuming there’s no overlap in subscriber-ship. Never once has there ever been a test done to confirm this assumption.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Meanwhile, there are literally thousands of businesses who have never",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "tested",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "their website’s landing pages—despite spending thousands of dollars to drive paid traffic to them, betting that anyone who clicks on their links will convert.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.julian.com/guide/startup/landing-pages#:~:text=Getting%20feedback%20on%20your%20page"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As marketers, it's surprising how much we don't know, even with our advanced research and testing tools, and quantitative data-centric approach.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We often miss opportunities to test and verify the touch-points we spend considerable time creating, due to a lack of time or effort or ignorance.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, not knowing what we don't know and not finding ways to validate these unknowns can be a significant waste of potential and time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a mindset that always leaves us always on the receiving end; we send newsletters or write sales copy only to discover if it worked, without understanding",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "it did or didn’t. Because we're not actually speaking with people or testing our strategies—everything becomes a guessing game.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This highlights an opportunity for user testing—particularly when it comes to messaging and experience—but it goes much deeper. It’s about acknowledging what you know and what you don’t, and uncovering what can’t be found via quantitative methods alone.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The more you learn to see and test the unknowns, the better chance you’ll have at creating experiences that will be readily embraced and valued.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

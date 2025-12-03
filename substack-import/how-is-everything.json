@@ -1,0 +1,106 @@
+{
+  "title": "How is everything",
+  "slug": "how-is-everything",
+  "publishedAt": "2019-04-21T07:11:00.000Z",
+  "excerpt": "As  Danny  points out, that’s a really bad question.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Danny",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " points out, that’s a really bad question.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.stitcher.com/podcast/slate/the-moment-with-brian-koppelman/e/52454376?autoplay=true"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most people are going to default to “great” or “bad” or “alright” habitually.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And because the question itself doesn’t have any constraints, it’s hard to know (or articulate) what to say.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a better alternative: What are three things we can improve?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Almost everyone can tell you a few ways they’d improve your product, service or experience.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And because you’re not asking them to gauge how they feel, you’ll actually get feedback you can use and implement straightaway.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Explicit questions are how you avoid vague (meaningless) answers.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

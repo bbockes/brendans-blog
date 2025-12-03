@@ -1,0 +1,54 @@
+{
+  "title": "A note for political marketers",
+  "slug": "a-note-for-political-marketers",
+  "publishedAt": "2018-11-04T07:44:00.000Z",
+  "excerpt": "The people you can count on to vote for your delegate of choice are already in your tribe. They know who they're going to vote for, so they don't need reminding.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The people you can count on to vote for your delegate of choice are already in your tribe. They know who they're going to vote for, so they don't need reminding.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the people who you can't count on don't care.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Spending all your energy and money on ads and boards and pamphlets hoping to convert the the latter at the tail end is a really bad strategy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What works is the opposite: consistently investing in the former group—the one's who care enough to tell their friends—from the start.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

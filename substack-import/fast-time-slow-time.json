@@ -1,0 +1,95 @@
+{
+  "title": "Fast time slow time",
+  "slug": "fast-time-slow-time",
+  "publishedAt": "2019-09-19T06:16:44.000Z",
+  "excerpt": "I’ve written before about how our perception of time (and age) is somewhat  relative . Lately I’ve started to realize that our experience of time is also quite subjective.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve written before about how our perception of time (and age) is somewhat ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "relative",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Lately I’ve started to realize that our experience of time is also quite subjective.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/time-travel-relative-age-and-expectations/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the person who jumps out of bed 15 minutes before they need to leave for work. Who speeds and swerves through traffic at breakneck speeds. And who generally finds themselves rushed, whenever and where-ever they go.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now compare that person to someone who leaves with ample time to spare. Who perhaps gets up an hour or two before they need to. Who drives the limit in the slow lane. Who enjoys the process of driving to work (listening to a podcast, perhaps), rather than viewing it as chore they have to hurry through.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, the first person might save a little time racing to work. But they certainly won’t feel like they have time on their hands. In fact, they’ll feel like they have less time to spare than the person who took their time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Scientific management would have you believe that time is fungible, in the sense that saved time not doing one task gives you more time to experience another. Turn’s out it’s not.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because time is subjective. If you tell yourself you have no time (and your actions reinforce those beliefs) you’re going to feel like you have less time than you do. The converse is also true: the more time you give yourself (to sit with, and in time), the more time it’s going to feel like you have.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

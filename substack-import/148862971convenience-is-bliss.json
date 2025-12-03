@@ -1,0 +1,114 @@
+{
+  "title": "148862971.convenience Is Bliss",
+  "slug": "148862971convenience-is-bliss",
+  "publishedAt": "2025-11-30T19:29:53.941Z",
+  "excerpt": "...and also a crutch.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...and also a crutch.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the case of helicopter parents, mom's and dad's who stop at nothing to make life as easy as possible for their kids. Sure, that behavior might help their kid make the team, but it might also make them ill equipped for the inevitable stresses of actually being on one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider breakfast. It sure easy to eat a fructose-laden bowl of cereal every morning, but is it a sustainable go-to meal for quality health? Cooking something up from scratch is a little more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "intimidating",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(and expensive) but it pays for itself long-term.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/scared-of-cooking/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Convenience can also make you naive, because if everything is handed to you from the time you were ten--access to resources, leverage and assets--you'll never learn how to do it yourself (and never see it when others take advantage of that arrangement*).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, convenience in excess is generally a good thing to have. But if you’re not careful, it can also be a burden that often hurts as much as it helps.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*For those interested, Bong Joon Ho paints a poignant, comical and extreme example of this in the first hour of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Parasite",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(well worth a watch).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=isOGD_7hNIY"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "148862508.regular Empowerment",
+  "slug": "148862508regular-empowerment",
+  "publishedAt": "2025-11-30T19:29:46.720Z",
+  "excerpt": "If you’re like most people, you’ll lose your sense of purpose from 10am to 3pm, never mind how you feel over the course of a week, month or year.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re like most people, you’ll lose your sense of purpose from 10am to 3pm, never mind how you feel over the course of a week, month or year.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All the more reason to regularly seek out and contribute to something that consistently gives you meaning.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Impetus to continue growing, pushing and learning.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "[Hat tip to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Ishita Gupta",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "]",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://unmistakablecreative.com/podcast/culture-clash-identity-unlimited-potential-part-1-ishita-gupta/"
+        }
+      ]
+    }
+  ]
+}

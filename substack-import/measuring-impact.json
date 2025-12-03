@@ -1,0 +1,138 @@
+{
+  "title": "Measuring impact",
+  "slug": "measuring-impact",
+  "publishedAt": "2025-08-14T09:41:21.281Z",
+  "excerpt": "Steve Jobs and Tony Fadell built a product that over a billion people use every day.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Steve Jobs and Tony Fadell built a product that over a billion people use every day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sergey Brin and Larry Page print money with a platform that millions rely on daily.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And Sam Altman, Dario Amodei, and Aravind Srinivas (among others) aren't far behind.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Building projects that are used so widely is an outstanding way to spend one's days and leave a mark on the world. But just because your project isn’t as big or ambitious doesn’t mean it isn’t worth pursuing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Even a small project can change lives—be it an app, a blog, a personal hobby, a small ‘unsuccessful’ nonprofit, or even a job that feels like it’s just paying the bills.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easy to measure activity—what with users and downloads and queries and clicks.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's much harder to measure impact.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Impact is ephemeral. It unfolds quietly, beyond what any dashboard can track, while subtly shaping thoughts, habits, and decisions in ways you may never see.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Don’t feel bad because your project’s small, super niche, or unprofitable. Often, the work that seems invisible or overlooked is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "exactly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " what the world most needs, but simply isn’t yet ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "prepared",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to appreciate. ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://chatgpt.com/share/689c9f64-4fb8-8001-a49d-7395197200cf"
+        }
+      ]
+    }
+  ]
+}

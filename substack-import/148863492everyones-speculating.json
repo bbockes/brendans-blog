@@ -1,0 +1,134 @@
+{
+  "title": "148863492.everyones Speculating",
+  "slug": "148863492everyones-speculating",
+  "publishedAt": "2025-11-30T19:30:02.595Z",
+  "excerpt": "“Knowing” is a spectrum of probabilities based on data.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“Knowing” is a spectrum of probabilities based on data.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can’t know anything with 100% certainty. That’s impossible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "At best, we’re gambling. Betting intelligently, based on what we know now.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But to make claims you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can’t test",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "know",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "things you can’t prove, or predict how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "will turn out, is merely a bad (albeit delusional) joke.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2020/09/dancing-with-belief/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thanks to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Tim",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "for sorting this out for me.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://tim.blog/2020/02/14/some-thoughts-on-coronaviruses-and-seatbelts/"
+        }
+      ]
+    }
+  ]
+}

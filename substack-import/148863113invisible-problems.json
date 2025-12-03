@@ -1,0 +1,84 @@
+{
+  "title": "148863113.invisible Problems",
+  "slug": "148863113invisible-problems",
+  "publishedAt": "2025-11-30T19:29:56.469Z",
+  "excerpt": "If you don't know what ‘invisibles’ are in your text editor, it can be quite difficult to find out how to hide them.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you don't know what ‘invisibles’ are in your text editor, it can be quite difficult to find out how to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "hide",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "them.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://discussions.apple.com/thread/2025359"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because if you don't know what the problem is, let alone how to describe it, you're not going to find it easy to find a solution.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most problems are like that. It's not that answers don't exist, it's that you don't know how to define the problem in a way that makes the solution obvious.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The alternative is to know what things exist before you have an issue with them. To actively seek out the elements that have been hidden from you all along.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Either that, or get really good at accurately describing your problems.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

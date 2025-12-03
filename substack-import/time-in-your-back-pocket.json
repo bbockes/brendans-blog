@@ -1,0 +1,65 @@
+{
+  "title": "Time in your back pocket",
+  "slug": "time-in-your-back-pocket",
+  "publishedAt": "2020-12-20T07:00:00.000Z",
+  "excerpt": "...that's success isn't it?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...that's success isn't it?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not the success of fame or fortune. Or power or passion or pride.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But freedom. Independence. Leverage.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The ability to take a break from work when you need to. To pursue the things you value when you want to. Or to make the time to do the things you'd like.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's hard to have time for anything when you're indebted to something else.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "148863400.inspecting Bad Experiences",
+  "slug": "148863400inspecting-bad-experiences",
+  "publishedAt": "2025-11-30T19:30:01.397Z",
+  "excerpt": "When we have a bad experience, it’s all too easy to conflate the experience itself with whatever bad event we encountered.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When we have a bad experience, it’s all too easy to conflate the experience itself with whatever bad event we encountered.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We have a bad date (or a unrequited relationship), so we tell ourselves we’ll never find true love.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or, perhaps, we had a bad boss. But we convince ourselves we don’t like the job.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s takes a tremendous amount of perception (and an awareness of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "synecdoche",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") to discern the bad from the good. To dissect the real, factual details of an experience, from the story we’ve told ourselves since.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/synecdoche-and-my-lovehate-relationship-with-apple/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But the hard work of true discernment is essential to genuine understanding and advancement.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, after all, a bad experience will forever be a burden until you can accurately assess what went wrong.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

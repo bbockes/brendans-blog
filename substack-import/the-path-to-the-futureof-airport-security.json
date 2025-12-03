@@ -1,0 +1,111 @@
+{
+  "title": "The path to the futureof airport security",
+  "slug": "the-path-to-the-futureof-airport-security",
+  "publishedAt": "2019-10-10T05:52:31.000Z",
+  "excerpt": "CLEAR  is a super-convenient, user-friendly service that allows you to skip airport security.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "CLEAR",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a super-convenient, user-friendly service that allows you to skip airport security.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.clearme.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Clearly, the TSA has decided this is a safe, reliable way to assess the risk people pose as security threats. And it doesn't take a user flow professional to see that it's a more efficient way to move people from arrival to checking in at your gate.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So why can't we simply scale this up to all passengers taking a flight today?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You might argue that Clear is a premium service (it is), but it's probably a lot cheaper to implement and maintain than employing a team of quality-trained TSA agents. Moreover it's a system that can improve over time (unlike our current model) as advances are made in digital identity, biometrics and IoT devices. It might just take a simple software update, and maybe a few hardware upgrades, as the years progress.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I have little doubt that the TSA plans to implement something like this in the not super distant future. But it seems to me that we’d all be a lot better off—more productive, more efficient, and yes, safer—if we were actively taking steps to implement these solutions now, not later.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a fitting metaphor for the (once in a lifetime) opportunity all of us have in the modern economy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The technology is here. The future is now. All that’s essential—what we need more of—is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "action",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

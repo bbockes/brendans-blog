@@ -1,0 +1,90 @@
+{
+  "title": "Ride sharing is more fun in the long run",
+  "slug": "ride-sharing-is-more-fun-in-the-long-run",
+  "publishedAt": "2018-11-24T11:15:59.000Z",
+  "excerpt": "If you need a ride to get from point A to point B, buying a Bugatti is a huge expense that costs more than it’s worth.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you need a ride to get from point A to point B, buying a Bugatti is a huge expense that costs more than it’s worth.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As is taking on a 60 hour a week job to pay for it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or spending your weekend (time you could be getting those groceries with your spouse) working because you have so much on your plate.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or losing sleep over it, creating stress, habituating insomnia, and compensating for it through any number of vices.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yak shaving",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " sounds ridiculous when you think about it, and yet we all engage in it, some way or another.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wiktionary.org/wiki/yak_shaving"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas, recognizing it is the first step in acknowledging how it might be easier to take the figurative Uber instead.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

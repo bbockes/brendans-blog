@@ -1,0 +1,160 @@
+{
+  "title": "148862229.channel Surfing Netflix",
+  "slug": "148862229channel-surfing-netflix",
+  "publishedAt": "2025-11-30T19:29:44.283Z",
+  "excerpt": "Something I’ve noticed is that the more stuff I add to my Netflix queue, the harder it is to choose what to next watch.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I’ve noticed is that the more stuff I add to my Netflix queue, the harder it is to choose what to next watch.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Call it the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "paradox",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "of too many good options.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice?language=en"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s interesting, because with traditional broadcast tv I almost never have that problem. Everything is always playing, and if you have your favorite channels already set, it’s easy to choose out of ten live shows which one you most want to watch.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Maybe it has more to do with that it’s always on. You turn on your television and shows are playing. More often than not, you’re part of the way through it. There’s less of a decison because you’re not committing to watching this movie or show from start to finish. Instead, there’s less deciding and more watching.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It would be interesting to see how people interact with an always-on Netflix. If all the movies and shows available were playing on a recurring schedule, like tv. Sure, you could start it from the beginning, or rewind, or fast forward. But finding what to watch (and making the decision to watch it) would be an entirely different experience.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By changing the dynamics of browsing, people would discover all sorts of content they never knew existed. By replacing the static icon or page with a “play now” option and a rating, and instead just having it all play 24/7, it would feel less like a decision to commit to watching and more like actual perusing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Furthermore, Netflix could categorize similar shows (bollywood movies, food documentaries, pure sci-fi, etc.) into seperate channels (just like broadcast television) and then have it’s algorithms play shows it most thinks you’ll enjoy. It could even set the first ten or twenty channels to your individual “most watched” show categories, to make it more likely you’ll find something interesting to watch from the start.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You would obviously still be able to browse and search the database like you can now. But changing the landing page to a curated selection of always on media could bypass the decision-making process and make for both an easy and incredibly engaging browsing experience.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s ironic how old media is actually better optimized for browsing. There’s not a silent menu screen from which to choose what’s playing on the radio. It’s audible once you turn it on, from there it’s just a matter of choosing from what’s already playing. The same can be said for television.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Certainly there’s better content on Spotify or Netflix, and there are algorithms now that can curate and better predict what you’d most like to watch. But without leaving room for serendipity, without the always-on landing page of yesteryear, it’s actually",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "difficult to make a choice about what to engage with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Striking a balance between the two, curated content plus old school channel surfing is the internets next frontier. The questions are obvious, but not simple: How do you decide what from an infinite pool of content to broadcast? How do you curate it for individual viewers, based on their interests or history? And how does the UX function to minimize decision paralysis and maximize discovery and engagement?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

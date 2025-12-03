@@ -1,0 +1,65 @@
+{
+  "title": "Too busy for better",
+  "slug": "too-busy-for-better",
+  "publishedAt": "2020-08-24T05:55:00.000Z",
+  "excerpt": "Are you too busy?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Are you too busy?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Too busy to stop, to rest, or catch a breath?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Too busy to learn a new tool or technique that might save you time, or stress?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To busy to assess your progress against your goals? Or perhaps to try a different approach?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hard to know if there's a better way if you're too busy to find it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

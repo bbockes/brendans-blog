@@ -1,0 +1,114 @@
+{
+  "title": "Imperfect opportunities",
+  "slug": "imperfect-opportunities",
+  "publishedAt": "2020-11-13T06:07:00.000Z",
+  "excerpt": "…are the  only kind  there are.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…are the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "only kind",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " there are.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Insisting that the world provide you with ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "better opportunities",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is a way to hide. A way to hide from your feelings of disappointment and inadequacy, from your fear of uncertainty, and from your aversion to imperfection.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s also largely a crutch, because every time you pass up a ‘faulty’ opportunity for a potentially better one that hasn’t shown up yet, you can avoid the internal conflict of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "choosing wrong",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/but-what-if-i-choose-wrong/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It takes guts to choose from what’s available. To stop waiting for a better, more explicit option. But it’s also the only way to ever move forward, because perfect will never come.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Waiting to find a faultless opportunity is a delusion, and a self-sustaining one. It’s up to us to lean in and make the imperfect ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "better",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—to make the best out of what comes up.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

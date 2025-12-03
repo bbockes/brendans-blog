@@ -1,0 +1,76 @@
+{
+  "title": "Missing out on something",
+  "slug": "missing-out-on-something",
+  "publishedAt": "2020-06-27T06:42:23.000Z",
+  "excerpt": "You almost surely are.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You almost surely are.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something you could be consuming, seeing, or doing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Somewhere you could be, that aren’t. Experiencing something that you never have, but would like to.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "FOMO is here to stay. It’s perpetual. Not much you can do about that.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One choice is to sink in sallow. To let the anxiousness consume you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The other, as you might have guessed, is to realize that while you certainly are missing out on something, you can still make the choice to make something out of doing what you’re doing now.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

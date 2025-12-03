@@ -1,0 +1,65 @@
+{
+  "title": "Default to shorthand",
+  "slug": "default-to-shorthand",
+  "publishedAt": "2019-08-12T05:51:00.000Z",
+  "excerpt": "This blog is testiment to the fact that I use contractions with reckless abandon.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This blog is testiment to the fact that I use contractions with reckless abandon.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I like to think it also shows a healthy respect for concision.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People use shorthand all the time when they're talking, so why wouldn't you use it in your writing?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn't make any sense to me that we should make sentences longer (or less readable) for the sake of 'spelling it out' for the few who prefer it that way.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Defaulting to shorthand is a great way to keep things simple. Keeping things simple is a great way to keep things clear.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

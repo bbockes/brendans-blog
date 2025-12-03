@@ -1,0 +1,65 @@
+{
+  "title": "No ideas",
+  "slug": "no-ideas",
+  "publishedAt": "2021-01-08T05:29:45.000Z",
+  "excerpt": "One excuse people often have for not contributing (to meetings, to brainstorms, to conversations of all kinds) is that they don’t have any ideas.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One excuse people often have for not contributing (to meetings, to brainstorms, to conversations of all kinds) is that they don’t have any ideas.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it’s not that they’ve run out of ideas. It’s that they feel that the ones they have aren’t very good.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And there lies the solution: because not every idea can be a good one. (That’s what makes them so unique.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so the way to find a good one isn’t to pray on it happening. Or hope by some measure it’ll strike you in a flash.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No, the way to have a good idea is to have no shortage of bad ones. And to recognize when you’ve got a good one when you do.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Mental real estate",
+  "slug": "mental-real-estate",
+  "publishedAt": "2020-01-22T05:31:17.000Z",
+  "excerpt": "Joe Rogan  brings up a good point: 92% of what goes on in Washington today won’t affect you…today, or really any day. So why waste any time marinating in it?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Joe Rogan",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " brings up a good point: 92% of what goes on in Washington today won’t affect you…today, or really any day. So why waste any time marinating in it?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/d5XTDmm0KUQ?t=942"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it doesn't help you on the journey your on, much less affect you, why not spend your attention elsewhere? Focused on things that do matter. Or on making things better for those that care.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To paraphrase Alan Rickman, \"The more we’re governed by idiots (who) have no control over our destines, the more we need to tell stories to each other about who we are...and what might be possible.”",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "title": "Ice cream and cigarettes",
+  "slug": "ice-cream-and-cigarettes",
+  "publishedAt": "2021-06-15T05:47:22.000Z",
+  "excerpt": "I went out for ice cream with my girlfriend yesterday.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I went out for ice cream with my girlfriend yesterday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Jeni’s Splendid Ice Creams, in fact. And boy, was it a treat.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The whole place smelled like waffles and vanilla. There were colors and flavors galore, and dozens of smiling faces.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not far away, along the nearby street, I saw many people smoking cigarettes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "None of them were smiling. In fact, many of them were hunched over, grimacing while they did it, as if performing some chore.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Almost everyone was alone.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a curious irony that something that starts from a desire for ever more human connection can cause such alienation. After all, people rarely start smoking because they ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "actually",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " enjoy it. It’s more about the social cohesion it creates.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I wonder how many nicotine-addicts wish they’d simply gone out for ice cream with their friends, instead. What might have been.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In any case, the world could use a little more ice cream. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Don’t you think?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

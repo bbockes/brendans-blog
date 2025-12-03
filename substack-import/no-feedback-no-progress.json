@@ -1,0 +1,76 @@
+{
+  "title": "No feedback no progress",
+  "slug": "no-feedback-no-progress",
+  "publishedAt": "2022-07-29T07:00:00.000Z",
+  "excerpt": "Sometime ago, I applied to rent a condo using a well known real-estate marketplace.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometime ago, I applied to rent a condo using a well known real-estate marketplace.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Unfortunately, I was turned down and I have no way to find out why.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What if, instead, the site had created a simple feedback form embedded in their dashboard that would let landlords not only screen potential tenants, but rate them on select criteria, which could then be shared to help applicants improve their approach?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider a job board that let hiring managers easily share feedback—openly and honestly—about how and in what ways each candidate could improve?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Feedback matters. For many people, it's the best route available to go from where they are to where they want to be.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which begs the question, what are we doing as designers of products and platforms to make feedback easier to share and supply?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

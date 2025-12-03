@@ -1,0 +1,95 @@
+{
+  "title": "Rules vs scripts",
+  "slug": "rules-vs-scripts",
+  "publishedAt": "2019-11-23T08:49:38.000Z",
+  "excerpt": "It turns out there’s a pretty significant  correlation  between how much discretion you give an employee on the job and how engaged, productive and efficacious they’ll be.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out there’s a pretty significant ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "correlation",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " between how much discretion you give an employee on the job and how engaged, productive and efficacious they’ll be.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.ted.com/talks/barry_schwartz_the_way_we_think_about_work_is_broken"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because making them follow a script, in every interaction, in every situation, becomes monotonous real quick. Monotony leads to lethargy which leads to drudgery. Creating an environment where people work for pay (or to meet arbitrary performance metrics) rather than to create meaning or fulfill a calling.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So it’s no surprise that teachers that are forced to follow stringent curriculums, where their performance is measured by their students SOL scores, end up feeling depleted, exhausted, and income-focused.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or why people in customer facing jobs behave they way the often do. Because if their employers expect them to act like automatons—and they’re compensated as such—it’s unrealistic for them to care about the quality of their interactions, let alone the quality of their output.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The inverse is to give people the benefit of the doubt when it comes to how they do their work. To give them a set of rules--clear expectations and guidelines to follow, sure--but to otherwise give them the freedom to choose how they go about their work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Scripts are a recipe for disengagement. Transforming otherwise passionate and capable individuals into mindless cogs. Rules are liberating, giving us both direction--a set of standards to direct our behavior--and freedom, allowing us to act as free agents in the formation of our work and our relationships.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

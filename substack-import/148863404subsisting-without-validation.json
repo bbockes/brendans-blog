@@ -1,0 +1,64 @@
+{
+  "title": "148863404.subsisting Without Validation",
+  "slug": "148863404subsisting-without-validation",
+  "publishedAt": "2025-11-30T19:30:01.468Z",
+  "excerpt": "When you're in a conversation and someone says something you don't like, what do you?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When you're in a conversation and someone says something you don't like, what do you?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Do you argue? Do you shout? Do you let it phase you?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or do you let it be? Acknowledging the inevitability of its passing. That even if they don't get the joke or embrace your worldview,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "will be fine, and your problems will likely solve themselves, either way.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In a quarrelsome world, silence is the best respite.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

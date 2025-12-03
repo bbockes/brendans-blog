@@ -1,0 +1,75 @@
+{
+  "title": "How to avoid feature creep",
+  "slug": "how-to-avoid-feature-creep",
+  "publishedAt": "2023-11-28T06:00:00.000Z",
+  "excerpt": "Feature creep and scope creep, as I understand them, are a real problem for many teams and organizations.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Feature creep and scope creep, as I understand them, are a real problem for many teams and organizations.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a simple way to avoid it: when someone has an idea for a feature, don’t add it to your list of things to do or add to the product.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, ask: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " Why do they want that feature? What can it do for them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then catalog the motivations behind the request and get back to plan.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Feature requests should be explored and understood, and eventually researched and validated, not executed straight away.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "title": "Naive cynicism",
+  "slug": "naive-cynicism",
+  "publishedAt": "2020-07-05T06:39:33.000Z",
+  "excerpt": "We’re all guilty of it.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We’re all guilty of it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Convincing ourselves that our failure—as a culture, as a nation, as a genus—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the be all end all.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That we’re done for, and there’s nothing much more we can do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To act like we know more than most. To strike a pose. To make up more reasons for giving up than trying.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, pragmatism has its pros. We need to acknowledge the worse-case scenarios to know what’s worth fighting for. But optimism, faith in the human spirit, hope in a better outcome, and the conviction that collectively—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "we can change this",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—this stuff matters more.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can’t reach for a better scenario unless you can imagine one. And you can’t realize a better future unless you sacrifice something ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "now",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to make it possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I think we all need to be realistic. But convincing yourself that change is impossible or that the status quo is inevitable is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " practical or objective. Giving up on the world is a perversion. And it doesn’t help anyone, including you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better, in my opinion, to put your faith in antiquity and tribes and facts. To recognize that change is not normally distributed, it starts ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "small",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and, over time, it ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "swells",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and catches on, infecting the rest of the group. Change is hard, but it’s not impossible, or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "improbable",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.brainyquote.com/quotes/margaret_mead_100502"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://tinyurl.com/ydxdqvkp"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We owe it to ourselves and our kids and theirs’ to make the best of our time on this planet. Or, at the very least, make the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "absolute best",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of the way things turn out.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hat tip to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Rebecca Solnit",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://lithub.com/letter-to-a-young-climate-activist-on-the-first-day-of-the-new-decade/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "title": "148862771.glorified Drivel",
+  "slug": "148862771glorified-drivel",
+  "publishedAt": "2025-11-30T19:29:49.857Z",
+  "excerpt": "That’s what most business-to-business copy is, with it’s obtuse, technical sounding jargon and abstract verbiage. Same goes for all those irrelevant mission statements .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s what most business-to-business copy is, with it’s obtuse, technical sounding jargon and abstract verbiage. Same goes for all those irrelevant",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "mission statements",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.fastcompany.com/1404951/how-write-mission-statement-doesnt-suck-video"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I used to think it was the byproduct of antiquated corporate culture (and it partially is), but I realize now that even modern (intelligent) organizations are prone to using fancy language.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Turns out they do it on purpose",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". Because the denser it sounds, the more it feels like they’re offering a comprehensive package. The more they can hide behind the fact that they offer very little compared to what’s being said.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A key insight for any thoughtful business person: If you can’t understand it (or if you can’t explain it to a ten year old), why would you pay for it? Better yet, if",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "they",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can’t articulate their services in a way that make sense to you, dear reader, why would you do business with them?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It takes guts to use clear and common language. Because instead of allowing you to hide behind big words, it forces you to use simple language to communicate what you offer and what you think.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

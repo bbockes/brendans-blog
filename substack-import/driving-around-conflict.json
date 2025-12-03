@@ -1,0 +1,65 @@
+{
+  "title": "Driving around conflict",
+  "slug": "driving-around-conflict",
+  "publishedAt": "2023-11-20T21:39:58.000Z",
+  "excerpt": "I used to live in a pretty congested suburb.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I used to live in a pretty congested suburb.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If I wanted to get on the highway, there was a 4 in 5 chance that someone would inevitably ride my bumper from the time I entered to the time I exited the on-ramp.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently learned that if I flip on my blinker just 10 seconds too early, I can reduce those odds by half.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As is often the case, many people are simply operating on a different time horizon than you. It could be shorter or longer, faster or slower. It doesn’t help to expect them to change their worldview in the time it takes to hop on the freeway.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What does is adjusting your timing and your expectations to accommodate for the fact that people's experiences and opinions are different from your own.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

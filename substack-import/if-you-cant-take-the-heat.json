@@ -1,0 +1,112 @@
+{
+  "title": "If you cant take the heat",
+  "slug": "if-you-cant-take-the-heat",
+  "publishedAt": "2020-05-31T05:19:29.000Z",
+  "excerpt": "That important decision you just made, the one the newscasters and journalists gobbled up, the one this group or that can’t stop condemning...should you take it down, or should leave it up?",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That important decision you just made, the one the newscasters and journalists gobbled up, the one this group or that can’t stop condemning...should you take it down, or should leave it up?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you can’t take the heat for having made a difficult decision, you shouldn’t have made that decision in the first place.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Brands get to choose what’s worth fighting for and what they believe in. Part of that comes from having the resilience to stare down the folks who don’t see eye to eye with you, who don’t get the joke, or who frankly just don’t care as much as you do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Making the choice to do what you believe in—even when it’s unpopular, even when the vitriol is real—that’s the price you pay for being a brand and not some generic wannabe.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why Apple ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "applauds",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " LGBTQ, and why Nike still ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "supports",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " Colin Kaepernick. They don’t have to endorse these causes, but they do. Because taking a stand is worth something.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.wired.com/2015/07/apple-equality-act/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.theatlantic.com/business/archive/2018/09/nike-kaepernick/569371/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, it can be scary to defend your point of view. But then again, so is injustice. So is encouraging something that you don’t believe in. Or letting things ‘just happen’ (to you and around you), by way of sitting down, precisely when you should have stood up.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

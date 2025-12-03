@@ -1,0 +1,172 @@
+{
+  "title": "148863236.the Attention Retention Trap",
+  "slug": "148863236the-attention-retention-trap",
+  "publishedAt": "2025-11-30T19:29:59.052Z",
+  "excerpt": "Robinhood and Wallethub keep sending me emails, no matter how many times I unsubscribe.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Robinhood",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Wallethub",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "keep sending me emails, no matter how many times I unsubscribe.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://robinhood.com/us/en/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://wallethub.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Amica",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "continues to send me snail mail every quarter…prompting me to routinely throw it in the trash (wasting paper), because, frankly, I’m not at all interested.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amica.com/en.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the few spammers who have stolen my email and won’t let go, incessantly sending me garbage each week?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Same story",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "…I’ll",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "never",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "click their links.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Marketers (some of them, anyway) have somehow convinced themselves that my attention is so conformable (and invaluable) that—if they just continue to poke and prod—eventually I’ll let up. I’ll use their service, buy their product, make those years of incessant goading inevitably pay off.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not likely.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Attention is far too scarce a resource than to ceaselessly waste it. In fact, the more you do, the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "less",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "most people are going to want do business with you,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not more.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Swindling will get you nowhere fast.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

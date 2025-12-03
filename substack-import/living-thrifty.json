@@ -1,0 +1,165 @@
+{
+  "title": "Living thrifty",
+  "slug": "living-thrifty",
+  "publishedAt": "2018-12-10T07:48:00.000Z",
+  "excerpt": "There's the thrify of not buying the thing you think you want now, so you can afford something you might need (or want) later.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There's the thrify of not buying the thing you think you want now, so you can afford something you might need (or want) later.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is the idea of saving up, sending money to your future self, often with interest.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, thrift can extend to any situation where you give up something today in favor of a better tomorrow.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Junk food is an expensive luxury in that (if eaten regularly) the surplus of calories might make you overweight. This not only costs you your health, but (often) makes for more and more costly medical bills later.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the cost of investing in cheap design. You might save money by getting by with poorly made ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "tables",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " or a tacky storefront, but it might cost you more resources moving forward than if you invest in durability from the start.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brendanbockes.typepad.com/blog/2018/10/beautiful-tables.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thus an important distinction: Whole-foods or well-made things (be they physical or digital) are often more expensive than their cheap alternatives. Yet because you’re sacrificing things now in favor of your future self, you’re ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "still",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " being economical.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thrift is learning to get by with sufficiency. Going without extraneous things you want now, so that you can safeguard for your future. That might mean spending less on entertainment, but more on quality tools. Or more on ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "simple",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", wholesome food, but less on junk food.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Art-Simple-Food-Delicious-Revolution/dp/0307336794"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What matters isn’t whether or not you're spending more or less, but whether you’re paying it forward by embracing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "simplicity",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " in the present.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brendanbockes.typepad.com/blog/2018/09/less-is-more-if-you-want-it-to-be.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "title": "Should the web tolerate inequality",
+  "slug": "should-the-web-tolerate-inequality",
+  "publishedAt": "2015-08-09T13:25:44.000Z",
+  "excerpt": "Corporations and companies have values. Those values are reflected in their products, their services, their staff and their company culture.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Corporations and companies have values. Those values are reflected in their products, their services, their staff and their company culture.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Apple, for example, cares greatly about equality and diversity, and they aren’t afraid to let that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "show",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Tim Cook has even gone so far as to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "write",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " for news organizations arguing in favor of non-discrimination in the workplace. ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=SMUNO8Onoi4"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "http://allthingsd.com/20131103/workplace-equality-is-good-for-business/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That said, the internet allows ideas to spread and tribes to assemble around shared values, interests and ideals. But don’t internet providers like Google have values too?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If Google supports equality and diversity as much as Apple does, should it allow websites to promote ideas that they are opposed of? Should they allow racists and homophobic’s a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "url",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to continue the spread of their discriminate ideas, and in a way, remain anchored in the thoughts and lives of those who, given their upbringing or demographics, might be predisposed, in a way, to adopt these attitudes as well?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://americansfortruth.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And what about social networks? If Facebook’s #1 value is to “",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "focus on impact",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",” wouldn’t deleting any and all pages and groups supporting inequality have a huge impact on our society? If the people who hold these beliefs can’t promote their ideas over the internet, and can’t congregate using the internet, then it makes it a lot harder on them to keep their ideologies alive. Over time, these isolated ideas begin to fade away, just like now endangered languages and other systems of belief.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.cbsnews.com/news/ceo-zuckerberg-facebooks-5-core-values/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What would our world be like if the dogma’s of racism and anti-gay equality and male superiority were just as languid in our societal consciousness as concepts like Nazism and the Nyawaygi language?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ideas are created by people, and the more people who support an idea the stronger it grows. If the people who control the web can somehow block the spread of the ideologies that support and tolerate inequality and social injustice, we can suffocate the presence and flow of these ideas, and in time, put an end to their abuse.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Seems like a worthwhile goal to me.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

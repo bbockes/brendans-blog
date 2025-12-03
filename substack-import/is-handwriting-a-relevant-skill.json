@@ -1,0 +1,95 @@
+{
+  "title": "Is handwriting a relevant skill",
+  "slug": "is-handwriting-a-relevant-skill",
+  "publishedAt": "2018-10-26T16:02:55.000Z",
+  "excerpt": "It depends. If it’s appropriate to your line of work, or an  honest  indicator of your competence or abilility to pay attention to detail, then it’s certainly something we ought to spend more time mas",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It depends. If it’s appropriate to your line of work, or an ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "honest",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " indicator of your competence or abilility to pay attention to detail, then it’s certainly something we ought to spend more time mastering.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://art19.com/shows/akimbo/episodes/d36cbe9f-6d73-4604-a771-66704477f30d"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, if you’re doing it because you’re convinced people will judge you harshly on how you guide a pen on paper, it’s not worth it. Because the only thing it’s really indicating is your ability to follow the rules of style and do what’s been instructed of you since you were five.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Relevance, of course, is subjective. If you aspire to reclaim the lost art of handwritten notes, to be an illustrator, or to be a pre-1439 novelist, then sure, good handwriting is a worthy endeavor.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But if you’re merely doing it because the authorities that be might judge you for it, in a time and place where you can go without, when you can develop (other) more useful skills, it’s just not worth the effort. The opportunity cost is too high.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The question to ask is: What's it for? What does handwriting communicate, outside of what’s written? Is it an indicator of craft, or artistry, or dexterity? Or is it merely an elaborate attempt to deceive: to show your smart, or high-status, or tactful?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Transparent signal, or deceitful masquerade?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

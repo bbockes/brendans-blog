@@ -1,0 +1,79 @@
+{
+  "title": "Imminent planning",
+  "slug": "imminent-planning",
+  "publishedAt": "2019-01-28T07:18:00.000Z",
+  "excerpt": "Research  has shown that people are more likely to make decisions that support their long-term goals when they’re mindful of their future self to begin with.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Research",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " has shown that people are more likely to make decisions that support their long-term goals when they’re mindful of their future self to begin with.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://hbr.org/2013/06/you-make-better-decisions-if-you-see-your-senior-self"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And something I’ve noticed is that I have absolutely no problem adhering to my diet of choice when I pack my lunch. It’s only when faced with the opportunity to snack out of an open fridge (or when presented with a bag of chips)—in the moment—that I tend to fumble.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a lot easier to make decisons that support your future best interests when your actually making decisions for that future self.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, it’s more difficult to make good choices if you’re making most of them in the moment, when confronted with pervasive temptation.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson: If you want to do more of something, plan for it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

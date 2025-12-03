@@ -1,0 +1,65 @@
+{
+  "title": "What makes it better",
+  "slug": "what-makes-it-better",
+  "publishedAt": "2018-09-15T07:43:00.000Z",
+  "excerpt": "It’s easy to confuse the metrics we’re using to describe better with better.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easy to confuse the metrics we’re using to describe better with better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That faster or firmer or brighter or sleeker or stronger is inherently better than what it replaces.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But of course, the only thing that is really better is what’s better subjectively, based on your values.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Maybe you don’t need a faster horse, just one that meets your specs.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Maybe you don’t need a horse at all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

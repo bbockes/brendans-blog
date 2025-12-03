@@ -1,0 +1,86 @@
+{
+  "title": "Fortune favors hustle",
+  "slug": "fortune-favors-hustle",
+  "publishedAt": "2020-09-30T07:00:00.000Z",
+  "excerpt": "Whoever said ‘life is a river,’ was probably on to something.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whoever said ‘life is a river,’ was probably on to something.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, if you’re lazy or you’re aimless, you’ll often find yourself being pulled downstream.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not because the world is vehemently out to get you. Or because life is inherently tough. But because there’s so many moving parts—so much competition, so much activity you can’t control—that fighting against the current is the only way to not get pulled back.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you're not actively swimming, it's inevitable that you'll be jostled backward. Only to be shocked and humbled by a few too many years of solitude or unwitting stagnation.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It sucks to be there: to wake up and discover you're downstream. (And it's even harder to work your way back up it.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All the more reason to start before you’re ready, and to decide/commit/push forward (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "especially",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ") when it feels like you can just wade on.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "title": "Cryptocurrency and the game of thrones",
+  "slug": "cryptocurrency-and-the-game-of-thrones",
+  "publishedAt": "2021-09-19T05:15:49.000Z",
+  "excerpt": "Lots of friends have encouraged me to watch  Game of Thrones , and my response is always the same.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lots of friends have encouraged me to watch ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Game of Thrones",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and my response is always the same.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.hbo.com/game-of-thrones"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I know it’s a glorious, fantastic, and amazing show. I’ve read the reviews.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s also 60 hours(!) long. And I can think of about a dozen other ways I’d rather spend the time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Recently, I’ve been getting the same sort of ‘encouragement’ from friends who advocate learning about (and investing in) cryptocurrency.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not that I don’t find it interesting, or potentially lucrative. But the opportunity cost of learning all the ins and outs of the trade, paired with reading about the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "countless options",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and assessing—almost daily—what’s up and what’s down, is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "so",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " large it doesn’t seem worth the trouble.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://coinmarketcap.com/all/views/all/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure. Someone is going to come out the other end a millionaire. But that doesn’t make it worth obsessing over, let alone spending any amount of your non-refundable time pursuing.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

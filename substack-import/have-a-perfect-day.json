@@ -1,0 +1,114 @@
+{
+  "title": "Have a perfect day",
+  "slug": "have-a-perfect-day",
+  "publishedAt": "2020-12-05T05:10:00.000Z",
+  "excerpt": "Try this: open a new document in your text-editor of choice, and write down, in clearest detail, your version of the perfect day.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Try this: open a new document in your text-editor of choice, and write down, in clearest detail, your version of the perfect day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn’t have to be grandiose. It could just be a morning talking to friends, and an afternoon spent ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "spreading joy",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://vimeo.com/389544914"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, once you have it—once you know what your perfect day looks like and feels like and tastes like—you’ll be in much better position to live it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To do the things that bring you joy. (Not money, not status…but ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "joy",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "…things of little fiscal value that make you uniquely happy).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After all, if all you have to do to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "have",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " a happy life is live enough days that feel like your perfect one, well, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you’ve just discovered the secret to renewable happiness",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Metaphors",
+  "slug": "metaphors",
+  "publishedAt": "2020-08-23T05:47:55.000Z",
+  "excerpt": "To paraphrase Ann Lamott:",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To paraphrase Ann Lamott:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "'Metaphors work by framing the unknown in terms of the known.'",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To use whatever resonates. Whatever works.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not that these comparisons are literal or real. (They’re certainly not.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s that we are bred to understand with story. To feel through images. And to see through patterns.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

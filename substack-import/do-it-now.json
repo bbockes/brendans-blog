@@ -1,0 +1,96 @@
+{
+  "title": "Do it now",
+  "slug": "do-it-now",
+  "publishedAt": "2021-01-24T05:39:17.000Z",
+  "excerpt": "Things that are urgent are rarely urgent all the time.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Things that are urgent are rarely urgent all the time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The fire alarm only goes off when there’s a fire in the oven.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the deadline to do your taxes only arrives once a year.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, many of the things that may become urgent are often worth addressing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "before",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " they are.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, of course, there’s very little upside in waiting. And there’s almost no downside in doing it ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "now",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, stalling until something becomes urgent carries the risk that it might not all work out.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "148863333.doggedness",
+  "slug": "148863333doggedness",
+  "publishedAt": "2025-11-30T19:30:00.751Z",
+  "excerpt": "There’s an element of creative recklessness that goes with true perseverance. Which is what discerns it from mere endurance.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s an element of creative recklessness that goes with true perseverance. Which is what discerns it from mere endurance.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why grit is a virtue, whereas ‘a concentrated effort,’ while noble, is not.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps that’s why the most successful are the one’s who go above or below or around their problems, but never think to give up.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

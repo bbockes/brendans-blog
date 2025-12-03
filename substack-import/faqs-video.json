@@ -1,0 +1,97 @@
+{
+  "title": "Faqs video",
+  "slug": "faqs-video",
+  "publishedAt": "2023-08-03T07:00:00.000Z",
+  "excerpt": "FAQs are a good thing to have, and almost all B2C websites have them.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "FAQs are a good thing to have, and almost all B2C websites have them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The problem with FAQs is that they’re often hidden in accordions and filled with plain text, which can be difficult to find and boring to read.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence, an ingenious hack: why not replace it with a single video with bookmarks for ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the questions?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not only does video make for more engaging experience, but it allows you to explain solutions visually. So that whether you’re explaining how to troubleshoot software or where to find your business, you can show them how.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Meanwhile, users then get their questions answered while passively watching instead of poking and prodding and reading large blocks of text—no doubt increasing their “time spent on page” in the process.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "My hunch is it’s a novel concept now, but a trend soon to come.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Update: A colleague of mind mentioned that videos also extinguish the possibility of consuming content ‘at your own pace,' and can be disruptively loud (particularly for those who find themselves in quiet places.) So maybe it’s not the next best form factor for FAQ's but merely another avenue worthy of exploring.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Commit to what",
+  "slug": "commit-to-what",
+  "publishedAt": "2021-10-12T05:02:00.000Z",
+  "excerpt": "Commitment is a made-up word that doesn’t mean anything.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Commitment is a made-up word that doesn’t mean anything.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, it might mean ‘being dedicated to a cause’ or a ‘non-fungible obligation,’ but those things don’t ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "mean",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " anything either.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can’t commit to anything on words alone—which is why saying you’re committed to anything is nonsensical.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not something you can claim with your words. It’s something you do.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

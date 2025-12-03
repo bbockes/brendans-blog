@@ -1,0 +1,146 @@
+{
+  "title": "Why not try the opposite",
+  "slug": "why-not-try-the-opposite",
+  "publishedAt": "2019-11-02T08:07:06.000Z",
+  "excerpt": "If the car in front of you is driving well below the speed limit,  why not  not tailgate him?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If the car in front of you is driving well below the speed limit, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " not tailgate him?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If everyone is shouting at you (your boss, your kids, your clients), ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " respond calmly?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And if it seems like everyone in your industry is trying to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "steal",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " attention (rather than earn it), ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " consider adopting a different strategy?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/if-ogilvy-shrugged/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn’t cost you any more to change your posture (or point of view), so why not try it and see what happens? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Why not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " try the opposite?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Running towards a gorilla that’s escaped from the zoo (as opposed to evading it) isn’t a helpful way to be a contrarian. That’s not what I’m talking about. But finding an alternative exit (as opposed to be trampled by the mob of escapes) might be.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "My point is, doing the unpopular thing (and being smart about it) often has its benefits.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In situations where it doesn’t serve you to reciprocate in kind, to adopt the posture of tit-for-tat, or to follow the crowd—or the habitual thing—it helps tremendously to at least acknowledge you have a choice about how you respond, and what you choose to initiate.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

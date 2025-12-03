@@ -1,0 +1,131 @@
+{
+  "title": "Post digital retail",
+  "slug": "post-digital-retail",
+  "publishedAt": "2020-07-10T05:56:06.000Z",
+  "excerpt": "The convenience of E-commerce is certainly impacting how we do business in the real world, making 'shopping at the store' a thing of the past. But what would happen if we brought the tangible aspect o",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The convenience of E-commerce is certainly impacting how we do business in the real world, making 'shopping at the store' a thing of the past. But what would happen if we brought the tangible aspect of retail into the home as well?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s is an ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "interesting idea",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". And a paradigm that—if you think about it hard enough—has the potential to change everything about how we do business and how we shop.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=ymQwOZ1_DTA"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To merge the digital with the physical, and to bring the physical into the intimate.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "written",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " about how Amazon is focusing on the former. And now ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Enjoy",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (led by Ron Johnson, former head of Apple Retail) is spearheading the latter.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/did-you-buy-it-on-your-phone-or-at-the-register/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.enjoy.com/en-us"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pretty soon, every store you know will try to bring the store too you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(Better hope your’s isn’t the last.)",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

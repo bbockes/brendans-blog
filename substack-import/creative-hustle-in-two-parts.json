@@ -1,0 +1,133 @@
+{
+  "title": "Creative hustle in two parts",
+  "slug": "creative-hustle-in-two-parts",
+  "publishedAt": "2019-11-19T05:44:03.000Z",
+  "excerpt": "Jiro Uno  makes  sushi.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Jiro Uno ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "makes",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " sushi.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.netflix.com/Title/70181716"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Elen Lane ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "makes",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " clothes herself.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/channel/UCk6qj85eRGJfr-slOQ8o4uA"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And Mike Winkelmann ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "makes",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " digital artwork.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.beeple-crap.com/everydays"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Making something--anything--is (actually) the easiest part of creative hustle.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Doing it long enough--to get to the point where you're recognized for your work and for your craft--that's the hard part. (And the part that matters).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas, showing up (everyday) is 90% of the battle.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

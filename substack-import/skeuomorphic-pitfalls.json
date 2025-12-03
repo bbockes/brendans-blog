@@ -1,0 +1,167 @@
+{
+  "title": "Skeuomorphic pitfalls",
+  "slug": "skeuomorphic-pitfalls",
+  "publishedAt": "2020-04-22T06:57:36.000Z",
+  "excerpt": "Digital interfaces haven’t been around for long. In fact, in less than 50 years we’ve gone from the Xerox Star (the first commercial pc with a graphical user interface) to the GUI you habitually use a",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Digital interfaces haven’t been around for long. In fact, in less than 50 years we’ve gone from the Xerox Star (the first commercial pc with a graphical user interface) to the GUI you habitually use and interact with on your phone.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Suffice to say, the transition (from real-world to digital) hasn’t always been easy or straightforward, for users or designers. Hence the need to make it so.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is why designers, smart as they were, created skeuomorphism: taking elements from the real-world and bringing them into the digital landscape. Or rather, designing interfaces that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "looked and acted like",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " their real-world counterparts.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is why the Notes app on iOS looks like a leather-bound moleskin, or why the books in iBooks ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "still",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "behave",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " the way they do. It’s also why many of the features on your phone look and sound like they would in real-life.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=jcY4Ee1jUw8"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Within the confines of an operating system, generally skeuomorphism is just fine. Sometimes it adds complexity to things that could be simpler, but the aesthetic value of having, I dunno, a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "digital synthesizer",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that looks like a real one is generally seen as worth the cost.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.blessthisstuff.com/stuff/technology/apps/moog-model-15-app/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Where skeuomorphism gets us into trouble is when we try to force it on digital services or experiences that don’t need or necessitate it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider virtual meetings. Does your meeting over Zoom really need to look and act like the one you have in the conference room? I mean, if we're meeting online, does it even have to be synchronous? Would a memo or a Slack channel or a conversation suffice?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider school (over the web). Does a virtual classroom have to look and feel like a classroom? In a world where you can upload videos and watch them anytime, manage assignments with ease, communicate asynchronously, and empower students to initiate projects (and complete them) without micromanaging them, do you really need to do half the things you'd otherwise do? Why does getting an education online have to be like getting an education at school at all?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There are dozens more examples of this, but I'll leave it at this: digital equivalents of real world things are great things to have, except when their \"real world\" design gets in the way of delivering what they were made for to begin with. Leading with the question, \"what's it for?\" is a great way to bridge that gap and avoid it's pitfalls: to make digital tools and experiences that serve real-world purposes, but that make them better for it, not a hindrance.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

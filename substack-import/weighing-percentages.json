@@ -1,0 +1,201 @@
+{
+  "title": "Weighing percentages",
+  "slug": "weighing-percentages",
+  "publishedAt": "2021-04-30T06:22:53.000Z",
+  "excerpt": "A friend was debating on getting a vaccine, and asked me what I thought she should do or consider.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A friend was debating on getting a vaccine, and asked me what I thought she should do or consider.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s my (non-expert) advice:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you don't get a vaccine, there's an X% chance that you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "might",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " get hospitalized.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "do",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " get a vaccine (regardless of brand), there's a X% chance you might ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "still",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " get sick (but still a X% chance you’ll be hospitalized).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, if you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " vaccinated, there’s a X% chance you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "might",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " have adverse side-effects.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Finding out what those numbers are depends on where you live, how you get your news, and who you trust. But, either way, it’s a math problem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, it doesn’t ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "feel",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " that way. But so long as you trust science (and you really ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "should",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "), it is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s hard to make these types of decisions, because most of us aren’t statisticians. And, even if we know how it works and why it’s important, we tend to neglect it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, of course, math is hard. And, because, more often, we’re out of practice. How often do we make rational decisions based on cold-hard numbers and credible, citation-filled facts?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s hard to make decisions with numbers. Harder still, to do your homework, to know what those numbers are and what they really mean.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But it’s also the best alternative we have against making decisions based solely on our feelings. Or worse, being deceived by the latest pseudo-science swindler or fake-news commentator of the day.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

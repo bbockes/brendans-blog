@@ -1,0 +1,140 @@
+{
+  "title": "Maker mindset",
+  "slug": "maker-mindset",
+  "publishedAt": "2021-01-29T06:00:00.000Z",
+  "excerpt": "For a long time, I’ve struggled to choose a career because I have so many interests.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For a long time, I’ve struggled to choose a career because I have so many interests.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Call me indecisive. Call me a generalist. I think it’s something more.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Choosing one thing means I can’t do another. And so it feels like a loss with every choice.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I realized recently that all of this is based on the dogmatic assumption that I ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "have to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " choose one thing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because I’m stuck in the paradigm that a career is one thing and one thing only: undeviating and lasting for a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "long",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " period of time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which, of course, is itself an assumption. A choice that many people take. But not the only one available.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The alternative is to acknowledge that your career can arc. That you try many different things and have many different starts. That you can pivot. That you can make things and build things and ship a series of projects.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Find a problem. Solve it. Find a new problem. Solve that. Find another. Repeat.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Call it “maker mindset.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Problem solved.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

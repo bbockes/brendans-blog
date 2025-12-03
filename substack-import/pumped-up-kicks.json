@@ -1,0 +1,114 @@
+{
+  "title": "Pumped up kicks",
+  "slug": "pumped-up-kicks",
+  "publishedAt": "2019-02-16T05:43:00.000Z",
+  "excerpt": "What we wear is a  costume  that communicates something to the people we surround ourselves with as much as to ourselves.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What we wear is a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "costume",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that communicates something to the people we surround ourselves with as much as to ourselves.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Lawyer#/media/File:WE_Bok_CHM_VA0908.jpg"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Christina Tosi, for example, wears ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "red chucks",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " everyday because it reminds her that creativity is a childish, amateurish, playful endeavor. Encouraging both her and her peers to never take themselves too seriously.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://player.fm/series/series-1776933/christina-tosi"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And maybe your boss wears a full suit everyday to work to appear like an authority figure. Or maybe you have an expensive watch that tells you the same time your phone does, but reminds you of something else.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And we all know the teacher who wears the same casual garb as his students, conveying that he’s down to earth and (possibily) more in tune with the culture.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed, how we express ourselves is a tool. A cue that can stimulate (and habituate) a posture, a way of carrying ourselves and of navigating our world.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Might as well dress for success.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

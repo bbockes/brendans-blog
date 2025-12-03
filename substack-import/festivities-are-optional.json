@@ -1,0 +1,81 @@
+{
+  "title": "Festivities are optional",
+  "slug": "festivities-are-optional",
+  "publishedAt": "2019-11-29T09:04:08.000Z",
+  "excerpt": "If it pays to take part in the culture of your tribe then by all means, follow the pack. Do what everyone else is doing.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it pays to take part in the culture of your tribe then by all means, follow the pack. Do what everyone else is doing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But if the cost is too great (literally and figuratively), if it's exhausting, or if it literally stresses you out, it helps to acknowledge that you don't have to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "participate",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". If your involvement in modern conventions doesn't help you or serve you or make you better--if it doesn't contribute to your greater peace of mind--it doesn't make sense at all for you to cooperate.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.akimbo.link/blog/s-5-e-16-cohesion-and-commerce"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Observing holidays is a choice. So is how you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "celebrate",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " them. Alas, if they're not helping (you, your health, or your relationships), it's okay to opt out (or at very least, loosen up).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/rebranding-holidays/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "title": "Friendly interoperability",
+  "slug": "friendly-interoperability",
+  "publishedAt": "2020-05-18T06:54:27.000Z",
+  "excerpt": "Interoperability, for those who don’t know, is loosely-defined as the ‘ability of computer systems and software to work with other systems and other software.’",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Interoperability, for those who don’t know, is loosely-defined as the ‘ability of computer systems and software to work with other systems and other software.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is how and where we get things like APIs and all those cool workflows in ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Zapier",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". It’s also how, to an extent, I can make a keynote in Google Slides using photos from Unsplash and components from Figma, and then export it to Keynote or Pages.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://zapier.com/home"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Where this all breaks down is when things that are available using one device or app are not available in another. Consider the fact that I can use the font’s ITC Clearface and San Fransisco in Apple’s suite of products, but I can’t use them in Google docs.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider that Siri works in conjunction with all of Apple’s default iOS apps, but it’s (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "still",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ") not available for third-party developers to make use of in ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "their",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " apps. (Not the least bit ironic.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And then there's my magic mouse, which works just fine on my Mac in pretty much every application. Except in Google Sheets, where it's so sensitive I'm forced to use my trackpad, and so innervating it prompted me to write this post. Why can't these products work seamlessly together?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I find it odd that we (designers & product owners) spend so much time empathizing with users, trying to solve their needs, attempting to, at the very least, make interfaces as smooth and useful as possible, and yet we spend (almost) no time at all thinking about interoperability.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Starting from, “how can we make things so that they are easily shared?” might be a good start. But I think simply asking, “how can the things we make ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "play nicely",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " with others?” might be a better one.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

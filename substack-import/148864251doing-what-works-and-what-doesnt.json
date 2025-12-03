@@ -1,0 +1,144 @@
+{
+  "title": "148864251.doing What Works And What Doesnt",
+  "slug": "148864251doing-what-works-and-what-doesnt",
+  "publishedAt": "2025-11-30T19:30:14.481Z",
+  "excerpt": "The folks at stuffthatworks.health have a problem.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The folks at",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "stuffthatworks.health",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "have a problem.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.stuffthatworks.health/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The navigation structure for their site is a mess. It doesn’t work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because instead of relying on a tried and true approach to navigate each condition, they decided it would be much cooler to create a visual map.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To make matters worse, if you land on a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "page",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "via search, there’s no reliable way to make it back to the homepage, to find out what this project is and who it’s for.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.stuffthatworks.health/ankylosing-spondylitis/treatments?tab=MostEffective&section=undefined"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider that they have custom-coded popups without an exit button.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "a great idea",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Poorly executed.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.stuffthatworks.health/about"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better, I think, to focus on what works when it comes to things that will make or break your site, and to innovate on the part where doing so actually makes a difference.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

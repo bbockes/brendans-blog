@@ -1,0 +1,32 @@
+{
+  "title": "Whatever happens",
+  "slug": "whatever-happens",
+  "publishedAt": "2021-02-21T06:00:00.000Z",
+  "excerpt": "“I’ll handle it.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“I’ll handle it.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s amazing how reassuring repeating that statement can be.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "If you dont have a process you cant repeat it",
+  "slug": "if-you-dont-have-a-process-you-cant-repeat-it",
+  "publishedAt": "2023-01-07T05:00:00.000Z",
+  "excerpt": "It’s one thing to say, if you do this, X will happen.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s one thing to say, if you do this, X will happen.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Entirely another to explain how to do it well, so that X is guaranteed.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

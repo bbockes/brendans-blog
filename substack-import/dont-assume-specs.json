@@ -1,0 +1,53 @@
+{
+  "title": "Dont assume specs",
+  "slug": "dont-assume-specs",
+  "publishedAt": "2021-12-02T07:02:00.000Z",
+  "excerpt": "One way to be bad at your job is to complete tasks the wrong way. Or, at least, not in the way your boss/colleagues/clients  need  you to.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One way to be bad at your job is to complete tasks the wrong way. Or, at least, not in the way your boss/colleagues/clients ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "need",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you to.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And one easy way to do that is to assume you know the specs—even when you don’t—even when clarity is usually a question away.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Assuming the specs won’t win you any favors. Unless you enjoy doing more work and causing more headache in the long-run.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

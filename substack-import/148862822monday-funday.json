@@ -1,0 +1,378 @@
+{
+  "title": "148862822.monday Funday",
+  "slug": "148862822monday-funday",
+  "publishedAt": "2025-11-30T19:29:50.737Z",
+  "excerpt": "Thurgood Marshall said that “if the first amendment means anything, it means that the state has no business telling a man (or woman), sitting alone in his own house, what books he may read, or what fi",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thurgood Marshall said that “if the first amendment means anything, it means that the state has no business telling a man (or woman), sitting alone in his own house, what books he may read, or what films he may watch.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed. People often forget that the first right we have is to self-educate, using just about any medium available.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The best way, of course,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "reading (with film perhaps a close second). And reading",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "widely",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is perhaps the best way to get an education that means something.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. As the summer comes to a close, (and I find myself yet another year older) here are some truly great reads you may have missed:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "My father's fashion tips",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(not mine personally).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.gq.com/story/fashion-generation-tips-national-magazine-award"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A great read about",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "reading",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". And an even better one about the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "future of reading",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(and more reading).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.theparisreview.org/blog/2019/02/08/reading-in-the-age-of-constant-distraction/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As a teetotaler,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "doesn't really apply to me, however, I really enjoy Dan's style of writing.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://medium.com/s/story/the-unifying-theory-of-alcohol-f9bf083b847e"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The psychology of money",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(might be the single best thing I've read all year).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.collaborativefund.com/blog/the-psychology-of-money/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The psychology of presence",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(and just about anything else Maria or Alan have written).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.brainpickings.org/2014/01/06/alan-watts-wisdom-of-insecurity-1/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "While not necessary an article,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Dense Discovery",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is my new favorite newsletter!",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.densediscovery.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Finally, a poem I wrote at work:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "pending rain",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "dark clouds wade",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "lightning mounts the diving board",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "droplets prep, trees totter",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "grumbles",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "a pause…",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "then, crack",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "downpour",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bonus! Here's an amazing",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "documentary",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "about bookstores and reading that made me tear up.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://vimeo.com/331908835"
+        }
+      ]
+    }
+  ]
+}

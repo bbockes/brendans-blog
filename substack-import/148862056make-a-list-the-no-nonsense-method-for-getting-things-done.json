@@ -1,0 +1,267 @@
+{
+  "title": "148862056.make A List The No Nonsense Method For Getting Things Done",
+  "slug": "148862056make-a-list-the-no-nonsense-method-for-getting-things-done",
+  "publishedAt": "2025-11-30T19:29:42.299Z",
+  "excerpt": "It’s easy to think you can do all the things you need to do in a day.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easy to think you can do all the things you need to do in a day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And some days, maybe you can.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But most days, our to-do’s lists are far larger than we have hours in a day to complete.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence the importance of priorities.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you sit down every morning and decide on the top 6 things you need to get done (not 7, not 13, but 6), in order of importance, and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "write them down",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you’ll spend a lot more of your time being productive than if you don’t. I guarantee it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When you make a list, a short one, when you say to yourself “these are the six things I need to do today to have a productive day”, you’ll commit to focusing on those six things, in that order.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You’ll start to become the type of person who gets things done, because you’re not spending your week juggling between hundreds of urgent (but potentially unimportant) tasks. You’ve decided (ahead of time) what’s important today.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s no need to reconsider. Or multitask. No need to spend any time at all throughout your day mulling over how you should be spending your time. You already decided once. You've got the rest of the day to commit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pro tip: Tim Urban has written a brilliant (and hilarious)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "post",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "on why so many of us manage to waste our time not getting anything done. Take some to digest it and get back to me. I’ve got time.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://waitbutwhy.com/2015/03/procrastination-matrix.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Okay. So something I’ve found useful, when thinking about priorities from the Eisenhower Matrix point of view, is to write down, every two weeks, or four, a list of “urgent-but not important” tasks. A few examples from last month:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Laundry",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Return all unwanted Christmas gifts",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Finish the book I’m reading",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Get your car washed",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Buy more moleskin notebooks",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Complete my “Intro to Investing” mooc",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Download new audiobooks onto my phone",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Get a library card",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After you have a sizable list, you can now incorporate one or two of them into your daily list of priorities. The top four slots can be for “urgent & important” errands (like taking a course), as well as “important-but not urgent” tasks (like exercise). That’ll ensure you’re actually making something of yourself with your time. Once you’ve got those completed, you can then spend your remaining time (when appropriate) completing one or two of your preset “urgent-but not important” assignments. That way, you’ll get your urgent tasks finished (within a reasonable time frame) without sacrificing your more important priorities to them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it helps you can also make a list for the other three quadrants in the productivity matrix as well. One for important & urgent, one for just important (but not urgent), and one for neither. The reason I don’t (yet) do so is because most tasks that get you far in life are in the important (but not urgent) category, like taking a class or going to the gym. These are generally consistent, meaning you’ll do them more than once in a week or month, so there’s not much need to make a list. The tasks that are urgent and important (like doing your taxes, or getting your kid to school when she missed the bus) often occur in the moment, so it’s not much use to make a predetermined list either. Everything in the “neither (important or urgent)” category like watching the latest episode of Black Mirror, aren’t much priorities, are they? Best to keep them few and far between.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

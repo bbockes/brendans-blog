@@ -1,0 +1,105 @@
+{
+  "title": "Restricted content",
+  "slug": "restricted-content",
+  "publishedAt": "2023-11-27T06:12:56.000Z",
+  "excerpt": "Real Estate Webmasters has a  support page . ",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Real Estate Webmasters has a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "support page",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://support.realestatewebmasters.com/hc/en-us"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "requires",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " users to login to search their knowledge base.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And that restricts access to those who aren’t authorized to read certain pages.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easy to poke fun at something so trivial, but it serves as an important lesson.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When it comes to helping users get the help they need, it doesn't help (and it doesn't pay) to make them jump through hoops.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whatever one can hope to gain from limited access, one loses by imposing extra, time-consuming steps.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

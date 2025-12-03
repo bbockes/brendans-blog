@@ -1,0 +1,64 @@
+{
+  "title": "Opportunity management",
+  "slug": "opportunity-management",
+  "publishedAt": "2019-12-13T05:53:13.000Z",
+  "excerpt": "If you act like you have unlimited opportunities, you might give the impression that you have a lot of options.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you act like you have unlimited opportunities, you might give the impression that you have a lot of options.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But taking that posture can quickly cause you to squander many of the opportunities that you are given. Because hey, you have so many.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The inverse is to see opportunities for what they are: once in a lifetime occurrences that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "might not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " happen again.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because nothing lasts forever, and all you have is this moment to experience all that you ever will.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

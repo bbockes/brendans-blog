@@ -1,0 +1,221 @@
+{
+  "title": "148864248.ai Writing Tools",
+  "slug": "148864248ai-writing-tools",
+  "publishedAt": "2025-11-30T19:30:14.419Z",
+  "excerpt": "Having worked at a marketing agency for some time now, I’ve had the pleasure to tinker with a wide assortment of ai writing tools.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having worked at a marketing agency for some time now, I’ve had the pleasure to tinker with a wide assortment of ai writing tools.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of them aren’t very good. A few of them (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Jasper",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "comes to mind) are decent.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.jasper.ai/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For many tools, you have to select what kind of content you want, as well as feed it with data (content) about that content. This can be time-consuming, and, because there are so many options, it makes it especially difficult to choose.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "OpenAI’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "GPT-3",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", fortunately, doesn’t have this problem. Instead, the interface is clean and uncluttered, because the AI is smart enough to create the content you want by adhering to your prompt.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://openai.com/api/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s more, while the mechanics of prompt design can be tricky for some queries, it’s generally not so for text generation. This makes the tool a boon for anyone who considers themselves a writer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s also a great example of how different types of the same technology can impose constraints on the design. And, it underscores a notable point: sometimes, pouring millions into a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "better way",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "of doing things is worth it.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Especially",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "if your solution can make your competition obsolete overnight.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I won’t be using this tool for everything. 1 in 8 listicals contain the wrong facts. But it certainly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the future. The future of many industries and a full stop for many more—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "nonsense writing",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "probably being one of them.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/glorified-drivel/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For anyone struggling to make sense of the OpenAI Playground, ChatGPT or GPT-3—let alone how to use these tools effectively—I recently published a beginner’s guide on Medium (my first post on the platform.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can read it here:",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "https://tinyurl.com/bbgpt3",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://tinyurl.com/bbgpt3"
+        }
+      ]
+    }
+  ]
+}

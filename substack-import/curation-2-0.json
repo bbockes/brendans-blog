@@ -1,0 +1,105 @@
+{
+  "title": "Curation 2 0",
+  "slug": "curation-2-0",
+  "publishedAt": "2021-05-14T05:04:00.000Z",
+  "excerpt": "I recently heard a podcast episode where a listener asked the host if—given the abundance of content online—there was any value in categorizing and curating her content.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently heard a podcast episode where a listener asked the host if—given the abundance of content online—there was any value in categorizing and curating her content.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, what, I think, is that, given the abundance of content I’ve bookmarked and categorized and wrote about and shared—short of creating new content, of consistently sharing your unique point of view, and, of course, iterating on it across time and space—that answer is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "yes",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Making it easier for your audience to find what they’re looking for is a great harmless past-time. Another way to add value to your corner, both online and off it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because the net effect is real. Because links (to ideas and tools and resources and community) benefit everyone when they’re shared. And because opening new doors for others is something of a virtue.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For my fellow content creators: Raindrop’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "new public access",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " feature can help a lot with this.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.raindrop.io/new-public-page-and-embeds-fab7bcb56b4f"
+        }
+      ]
+    }
+  ]
+}

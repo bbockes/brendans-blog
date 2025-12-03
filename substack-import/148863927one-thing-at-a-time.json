@@ -1,0 +1,99 @@
+{
+  "title": "148863927.one Thing At A Time",
+  "slug": "148863927one-thing-at-a-time",
+  "publishedAt": "2025-11-30T19:30:10.141Z",
+  "excerpt": "Gary Keller and Jay Papsan have written a brilliant book about priorities.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Gary Keller and Jay Papsan have written a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "brilliant book",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "about priorities.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "About doing the one thing that you can do today to make your life easier tomorrow.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What I like about this approach is that it’s so accessible. You’re not tasked with thinking about the hundred or so things you need to do to accomplish your goals—just one thing. The most important thing. The one thing you can do",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "right now",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how you create forward momentum. Not by doing anything and everything all at once. But by figuring out the options you have, and then exhausting those options (or automating them) before you move on to the next thing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s a hundred ways to clean your garage. But the best way is to get rid of one thing at a time. Which is to say, one thing today, one thing tomorrow—sold, shared, or discarded.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

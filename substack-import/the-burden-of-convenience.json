@@ -1,0 +1,111 @@
+{
+  "title": "The burden of convenience",
+  "slug": "the-burden-of-convenience",
+  "publishedAt": "2020-02-09T05:31:48.000Z",
+  "excerpt": "Combustion engines, plastic straws, paper towels.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Combustion engines, plastic straws, paper towels.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "These are things that are easy to replace. And, as opposed to their more sustainable alternatives, actually cheaper to neglect.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So, why do we continue to use them?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For your ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "added convenience",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", of course.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sustainability, it turns out, is a design challenge. Not just of making ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "things",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that people will want to embrace, but of finding ways to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "encourage",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " them to let go of many of the things they find difficult to ignore.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.cnet.com/news/best-eco-friendly-green-products-in-2020/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://seths.blog/2016/08/demand-guardrails/"
+        }
+      ]
+    }
+  ]
+}

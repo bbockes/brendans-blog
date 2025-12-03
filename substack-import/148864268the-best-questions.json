@@ -1,0 +1,72 @@
+{
+  "title": "148864268.the Best Questions",
+  "slug": "148864268the-best-questions",
+  "publishedAt": "2025-11-30T19:30:14.855Z",
+  "excerpt": "…are often the ones we haven’t thought to ask.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…are often the ones we haven’t thought to ask.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, of course, that’s the only way you’ll ever break new ground.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "[Pro tip for ux pro's and marketers: upload your project briefs to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "chatpdf",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and give it a prompt like “what does this document",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "address?” Then rewrite the responses as questions for your next kickoff call.]",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "#"
+        }
+      ]
+    }
+  ]
+}

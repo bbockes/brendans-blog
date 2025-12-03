@@ -1,0 +1,72 @@
+{
+  "title": "148863648.whats Enough",
+  "slug": "148863648whats-enough",
+  "publishedAt": "2025-11-30T19:30:04.747Z",
+  "excerpt": "I've written about the benefits of having enough , and thinking about what that means for you.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I've written about the benefits of having",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "enough",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and thinking about what that means for you.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/enough-is-enough/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But I realized recently that defining it--",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "literally, writing it down",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "--might be a best practice to adopt.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After all, if you don't know what you're enough is you'll never know when you have it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

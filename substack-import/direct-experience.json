@@ -1,0 +1,53 @@
+{
+  "title": "Direct experience",
+  "slug": "direct-experience",
+  "publishedAt": "2021-02-25T05:19:45.000Z",
+  "excerpt": "Experience is not an absolute measure of competence. Because if it were, tenure would be the golden standard for all hiring decisions.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Experience is not an absolute measure of competence. Because if it were, tenure would be the golden standard for all hiring decisions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And yet, plainly having ‘two years of direct experience’ is apparently worth more to most people than two years of doing anything related, delivering an outcome, and having the results to prove your worth.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, exposure must account for something. But I’m not so sure whether the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "direct part",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is what matters most.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

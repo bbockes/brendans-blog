@@ -1,0 +1,125 @@
+{
+  "title": "148863240.dining Out In A Digital World",
+  "slug": "148863240dining-out-in-a-digital-world",
+  "publishedAt": "2025-11-30T19:29:59.168Z",
+  "excerpt": "Ghost kitchens , virtual restaurants, cloud eateries…if they’re not already in your town…are coming.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ghost kitchens",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", virtual restaurants, cloud eateries…if they’re not already in your town…are coming.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=eC-gTV52NUI"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, as with most things, the ability to sell it, to pull it off, to make it last, and (even) to compete in this new market, will come down and back to design.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How can we make it easy? Streamlined? Accessible? Not just for millenials, but for anyone stranded at home, concerned about what to eat for lunch?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For those looking for a particularly great example, I encourage you to check out Panera Bread’s new(?)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ordering app",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". I tried it out for myself last week and I must confess, I feel bad for any criticism I may have made of the brand in the past.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://apps.apple.com/us/app/panera-bread/id692365393"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The user experience is simply terrific, between the crisp copy, the smart and streamlined UI, and the top-down photos of everything from sandwiches to soups. I particularly love the menu icons and the \"you pick two feature\" (quite clever).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How we choose to shape the world—physical and digital, what me make, and what products and services and habits catch on will inevitably be by a byproduct of the how we design and iterate on these solutions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Design is not dead (nor has it ever been).",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "It’s our future.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

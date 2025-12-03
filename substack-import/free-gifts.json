@@ -1,0 +1,81 @@
+{
+  "title": "Free gifts",
+  "slug": "free-gifts",
+  "publishedAt": "2021-11-04T05:07:00.000Z",
+  "excerpt": "Say your neighbor has a beautiful display of flowers right outside their house. Or perhaps a local park has a gorgeously well-pruned tree.  That’s a free gift.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Say your neighbor has a beautiful display of flowers right outside their house. Or perhaps a local park has a gorgeously well-pruned tree. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "That’s a free gift.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn’t cost you anything to enjoy it. And just because someone else’ bought it or owns it, doesn’t mean you can’t delight in it as well.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the smell of freshly roasted coffee at your local roastery (if you have one). That’s a free gift as well. Same goes for the free samples they might provide at a home-town grocer or hotel.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or, finally, reflect on the infinite sampling of goods you can try on or savor at your shopping mall of choice. It doesn’t cost you anything to try on a jacket you know you’d look good in, or run your fingers through a coat made of fleece.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You won’t find ‘free gifts’ in your local store-bought catalog, or even under the’ services provided’ by your HOA. That doesn’t mean they don’t exist—it just means they aren’t bankable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. We’ all do better to learn to discover and appreciate those gifts that are inherently good for the psyche. And, also, those that are economically free.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

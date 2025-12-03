@@ -1,0 +1,73 @@
+{
+  "title": "Whats the most important thing a lesson in essentialism",
+  "slug": "whats-the-most-important-thing-a-lesson-in-essentialism",
+  "publishedAt": "2017-01-02T11:09:18.000Z",
+  "excerpt": "Each moment of every day we make choices. Generally speaking, the more tasks we have on our \"to do list\" the harder it is to decide what to do next. Alas, the paradox of choice. The more available cho",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Each moment of every day we make choices. Generally speaking, the more tasks we have on our \"to do list\" the harder it is to decide what to do next. Alas, the paradox of choice. The more available choices, the harder is to pick just one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A lesson in priority management: keep those choices down to the absolute most essential and do only what's most important. Sure, you can spend your morning watching tv, checking facebook, drinking coffee, cleaning your room and try to squeeze in a workout. Or you could spend a half hour committed to building and maintaining sustainable habits that improve your life over time, say a ten minute mindfulness practice followed by a quick workout and maybe even some journaling.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You constantly want to be asking yourself \"what's the most important thing I can be doing right now?\" and making a literal or mental list of those things that you absolutely need to do to create the best possible outcomes. \"Less but better\" is your motto and simplicity of action is your goal.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As Greg McKeown writes in ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Essentialism: The Disciplined Pursuit of Less",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", “Essentialism is not about how to get more things done; it’s about how to get the right things done. It doesn’t mean just doing less for the sake of less either. It is about making the wisest possible investment of your time and energy in order to operate at our highest point of contribution by doing only what is essential.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382"
+        }
+      ]
+    }
+  ]
+}

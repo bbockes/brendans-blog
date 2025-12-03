@@ -1,0 +1,84 @@
+{
+  "title": "Crosbys digital sanitizer",
+  "slug": "crosbys-digital-sanitizer",
+  "publishedAt": "2020-03-20T05:51:58.000Z",
+  "excerpt": "\"Clean hands without the mess.\"",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "\"Clean hands without the mess.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lift'em them up, palms up. There! You see it?! It's there! Now, rub your hands together...keep 'em going, and wallah! Clean as clear and sterile as soap! Hands look sharp, kid. Boom-badda-bing, what a wonderful thing!",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Words are great tools. They rhyme. They ring. They play tricks.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They fill the stuff of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "promises",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", even (especially) empty ones.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/promises-delivered/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thing is, words with no real, honest, dynamic effect are just words.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Art isnt perfect",
+  "slug": "art-isnt-perfect",
+  "publishedAt": "2018-11-03T21:44:14.000Z",
+  "excerpt": "Using a Keurig isn't the same as crafting a pour-over.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Using a Keurig isn't the same as crafting a pour-over.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bringing a store-bought cake isn't the same as baking one ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "yourself",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brendanbockes.typepad.com/blog/2017/04/index.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, if you’re told what and how to write, it's data entry, not writing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Art is risky because art is messy because art is human.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s valuable precisely because of all the things it's not.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

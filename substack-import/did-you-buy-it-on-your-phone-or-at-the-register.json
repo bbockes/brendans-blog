@@ -1,0 +1,159 @@
+{
+  "title": "Did you buy it on your phone or at the register",
+  "slug": "did-you-buy-it-on-your-phone-or-at-the-register",
+  "publishedAt": "2018-08-09T13:12:13.000Z",
+  "excerpt": "Yesterday, I saw the future of retail, and it’s amazing.",
+  "image": "",
+  "readTime": "5 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yesterday, I saw the future of retail, and it’s amazing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Tucked away next to a booming four-story Nike Outlet on M street in Georgetown, is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Amazon Books",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", Amazon’s most recent brick and mortar bookstore.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.washingtonpost.com/news/business/wp/2018/03/12/amazons-first-washington-area-bookstore-opens-tuesday/?noredirect=on&utm%5C_term=.0c9e5de554e0]&utm_term=.c593227927f0"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In it, is the future of retail, not just for bookstores, but for nearly any category of store you might find in the busy, high-end shopping symposium that is M street. From European, urban, 90’s-throwback wear to custom-suits to tech stores to speciality food and beyond.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "At first sight, it looks like any other bookstore. Bookcases lined with books abound, patrons strolling through, wandering, scanning and perusing. Then you notice something—the books, everyone of them, is facing outward. Amazon isn’t utilizing shelf-space to fit maximum occupancy, like most bookstores. No, it’s showcasing books. Meaning that Amazon is being creative about which books to stock, because it can't possibly stock all of them. Which means that this bookstore isn’t a warehouse of books, like nearly every other bookstore, but a carefully curated selection of books—the “best” of Amazon. And not merely the “best” as decided by a random team of readers at the company, either, but by actual readers, outsiders, customers, people in the world, eager or generous enough about this thing to write a positive review.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So everything in the store (not just books) has at least a 4-star review. And instead of displaying the price, Amazon has a small tag below each product with a written review by an actual customer. The tag also has the product’s unique barcode, which can then be scanned via the Amazon app for a streamlined purchase to your front-door.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The fact that everything in the store has at least a four-star rating means that even if you make a spontaneous purchase at the register, you’re more than likely going to like what you bought. But, as you might have guessed, it’s just as easy, if not more, to make a purchase on your phone as is to check it out in the store. Which solves a bunch of problems: less people making purchases in the store means virtually zero potential for ever having to wait in line, which means less people employed to man the registers (I saw only one) and less disgruntled customers. Furthermore, because all of their inventory is on the shelves, because most shoppers will simply buy online, and because of the ease of shipping just a few books each day, there’s no back-stock or need to employ to team of stockers. Indeed it’s not a depot, it’s a small, clean, uncluttered bookstore. So that customers can focus on finding their next favorite book, and the few folks who work there can spend all their time on helping those customers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What's more, because it's so clean and organized and you can see all the books, it's easy to want to buy. Because it's so easy to find the product on your phone, it's easy to make a purchase. In fact, it's probably easier than any store on Earth. Why? Because there are no barriers. They are encouraging you to use your phone, to take pictures, to search, to check prices, to post to social media, and to buy online. Indeed, their encouraging you to use Amazon. The store itself is merely a hook.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This highlights an important fact: retail isn’t going away. Far from it. We still want to see and touch and get a sense for what we're buying. We still want to window shop. We (some of us anyway) still enjoy going to the mall. But purchasing, shipping and all the logistics of mass-distribution will be inevitably off-shored to the web. When that happens, stores will have to become as interactive and experiential as the items they display.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Customers will ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "shop",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " in-store, and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "buy",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " online. Indeed, stores will be interactive advertisements. Places to discover products, to make a shopping list, to take pictures, and to upload your excitement for all your friends to see. Shopping, in and of itself, will come to be an experience, an opportunity for a retailer to sell you on a product worth putting on display and (maybe) for you to do their marketing for them. It’s a paradigm shift: the website and mobile app are no longer an extension of the physical store, in fact, it's just the opposite.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence the demand for and reliance on accurate and reliable data. Retailers will want to know what customers actually think about their products, what sells, and why. It'll be vital to highlight the reviews, to curate and decide what goes on display. Most important, to design retail environments, applications, and ecosystems that work fluidly together. Systems that enable and empower customers to discover and experience products in-store, use their devices to make purchases online, and to switch between those activities in the most streamlined and accessible way possible.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

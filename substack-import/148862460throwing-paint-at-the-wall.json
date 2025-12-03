@@ -1,0 +1,95 @@
+{
+  "title": "148862460.throwing Paint At The Wall",
+  "slug": "148862460throwing-paint-at-the-wall",
+  "publishedAt": "2025-11-30T19:29:46.479Z",
+  "excerpt": "That's what it takes to overcome inertia .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's what it takes to overcome",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "inertia",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brendanbockes.typepad.com/blog/2019/03/the-resistance-thrives-on-inertia.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To bypass the logjam.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To get through the first draft.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The sooner you can embrace the fact that the wall doesn't have to be perfect the first time, the sooner you can finish the first coat.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And then the second. And the third. And then (maybe) the fourth.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Waiting for it to be perfect the first time isn't only naive, it's stalling.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

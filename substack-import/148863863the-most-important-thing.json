@@ -1,0 +1,109 @@
+{
+  "title": "148863863.the Most Important Thing",
+  "slug": "148863863the-most-important-thing",
+  "publishedAt": "2025-11-30T19:30:09.030Z",
+  "excerpt": "Gary Keller says that ‘doing the most important thing is always the most important thing.’",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Gary Keller",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "says that ‘doing the most important thing is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "always",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the most important thing.’",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.the1thing.com/about/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I would have to fervently agree. It",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the most important thing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And it highlights a very important truth.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Knowing",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to choose the most important thing to do, at every moment, for every task, for every goal, is absolutely essential if we hope to accomplish much of anything.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It might be the most important skill of all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

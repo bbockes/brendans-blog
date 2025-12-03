@@ -1,0 +1,97 @@
+{
+  "title": "The best in the world",
+  "slug": "the-best-in-the-world",
+  "publishedAt": "2019-05-05T05:46:00.000Z",
+  "excerpt": "…is a delusion. It’s also rather trite.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…is a delusion. It’s also rather trite.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So is being “the best in the industry” or “the best in the country.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because how can you possibly measure your impact? What metric accounts for ‘better than all others?’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How about ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "merely better",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " instead.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better than the guys downtown. Better than what’s on display. Better than your friends.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You don’t have to be best in all categories to stand out.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Just better than what's available.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

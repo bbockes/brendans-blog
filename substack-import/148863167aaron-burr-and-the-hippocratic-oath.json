@@ -1,0 +1,136 @@
+{
+  "title": "148863167.aaron Burr And The Hippocratic Oath",
+  "slug": "148863167aaron-burr-and-the-hippocratic-oath",
+  "publishedAt": "2025-11-30T19:29:57.859Z",
+  "excerpt": "In 1799, amid a New York City crisis (Manhattan’s fresh water supply was apparently so insufficient there wasn’t enough water to put out local house fires) Aaron Burr solicited support from Alexander ",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In 1799, amid a New York City crisis (Manhattan’s fresh water supply was apparently so insufficient there wasn’t enough water to put out local house fires)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Aaron Burr",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "solicited support from Alexander Hamilton (whom he later shot) and other Federalist to construct a brand new waterworks for the city.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Aaron_Burr"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then, at the last minute, Burr changed the application to include the ability to invest surplus funds from the project to any cause that didn’t violate state law. He then raised $2 million ($40 million in today’s dollars) from investors.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Want to know where the money went?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Burr put a little less than $200K in the plant, and used the rest the establish the ‘Bank of the Manhattan Company,’ which he then used to promote his political party by giving loans to supporters. That’s, in part, how he became the 3rd Vice President of the United States (under Jefferson) in 1800.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Meanwhile, the water project was delayed another 50 years, contributing to cholera outbreaks in 1832 and '49. Thousands died.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Compare this to the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Hippocratic Oath",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", the oath taken by physicians who swear to uphold modern ethical standards like ‘medical confidentiality’, ‘non-maleficence’, and I dunno, ‘respecting hard-won scientific gains.’",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Hippocratic_Oath"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The oath is a rule that physicians know not to break. Medical malpractice, after all, can get them into trouble, with punishments ranging from fines, legal action, jail time, even civil penalties.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Suffice to say, I find it terribly odd (and disconcerting) that we don’t subject politicians, board-members, CEO's and leaders to the same set of standards. Maybe it’s time we should.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

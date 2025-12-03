@@ -1,0 +1,277 @@
+{
+  "title": "148863405.10x Ing Your Output",
+  "slug": "14886340510x-ing-your-output",
+  "publishedAt": "2025-11-30T19:30:01.481Z",
+  "excerpt": "(A case for using the right tools.)",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(A case for using the right tools.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moore’s Law",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "says that technological growth (hardware) is exponential. But I recently realized it applies as much to software—or rather, the programs that leverage that hardware and actually do the work. And so, not only are micro-chips getting denser and transistors getting smaller, but the tools we use to enhance our output are becoming increasing easier to use, and more effective at what they do over time.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Moore%27s_Law_Transistor_Count_1971-2018.png"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider a few recent examples:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently updated the design of my resume, mainly to add more content, but also to trim it down to just one page. Frustrated with the difficulty of doing this seemingly simple task in a standard text-editor, it occurred to me I could just as easily do it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Figma",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.figma.com/resources/learn-design/cv/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This turned out to be the best choice I could have ever made. The ability to put text exactly where I wanted it, align blocks (‘frames’) of text automatically, and adjust the margins exactly, proved to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "highly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "efficient. What would have taken me 4 hours in Pages or Word (2 hours of learning, plus 2 hours of working) took just one hour in Figma. Talk about fast and powerful.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Webflow",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", which I only just discovered. Short of knowing how to code several languages, to have",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "total control",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "of the design of website is practically impossible. Moreover, traditional web editors either lack functionality, customization, or are so bloated with heavy-code they slow down your site.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://webflow.com/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.nateliason.com/blog/webflow-vs-wordpress"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Webflow eliminates all of these issues. By providing a simple drag and drop editor, plus an elements panel (just like in Figma), nav panel, custom CMS, and build-in hosting (plus dozens of other features), almost anyone can make a top-quality site in half the time it would take a pro developer. Sure, it has a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "learning curve",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "…but it’s far shorter than just about any other alternative.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://university.webflow.com/courses/ultimate-web-design-course"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One last example:",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Clearscope",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is a (pricey) tool that allows strategists to run a report on a target keyword (a topic) to see all the relevant keywords (other topics) that are associated with it. Instead of spending hours(!) reverse engineering this process*—as so many content marketers often do—you can see all of the topics you need to include (based on what’s ranking on Google) in an article to make it more relevant. Not only does this save countless hours of time—but it allows writers to make their content",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "effective, which non-coincidentally makes it more accessible, more useful, and easier to find online.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.clearscope.io/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s true, software is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "eating the world",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". But it’s also making us all the better for it. Saving time and therefore money, and exponentially enhancing our results.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://a16z.com/2011/08/20/why-software-is-eating-the-world/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*Worth noting for any content marketers or writers: you can also apply this technique to any article. So if you’re trying to find out how to make an article better than it already is, you can paste it into Clearscope text-editor and see what topics are missing. Not only does this tell you how comprehensive your article is, but it puts you on a path to make it better.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

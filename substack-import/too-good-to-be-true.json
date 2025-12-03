@@ -1,0 +1,120 @@
+{
+  "title": "Too good to be true",
+  "slug": "too-good-to-be-true",
+  "publishedAt": "2020-10-31T06:10:55.000Z",
+  "excerpt": "It's a curious irony that things that market themselves as ‘to be too good to be true’ often aren't true. And things that aren't obviously so, often are.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's a curious irony that things that market themselves as ‘to be too good to be true’ often aren't true. And things that aren't obviously so, often are.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider, for example, the perfect anything--the perfect job, the perfect car, the perfect vacation or television or mattress. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "These",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " are modern fallacies. You'll never find one that covers ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the bases—the expectation is just too high.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then think about how--even amidst a global pandemic--I can reliably order a OREO® Dream Extreme Cheesecake from The Cheesecake Factory and have it delivered to my home (still fresh, still cold) in as little as an hour. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "That's a miracle.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider copy & paste. Or your ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "smart phone",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Or air conditioning. Or indoor plumbing. Or Netflix. Or email. Or books.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/pixels-laced-in-pixie-dust/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All too good to be true. All true.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out that miracles aren't nearly as rare if you know where to look.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

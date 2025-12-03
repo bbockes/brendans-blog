@@ -1,0 +1,101 @@
+{
+  "title": "148863765.upkeep Gumption",
+  "slug": "148863765upkeep-gumption",
+  "publishedAt": "2025-11-30T19:30:07.865Z",
+  "excerpt": "I helped my girlfriend buy a used car recently. The former owner was a smoker, and the car stank of it. We got it on the precondition that the seller gave us a discount to get it cleaned, thinking tha",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I helped my girlfriend buy a used car recently. The former owner was a smoker, and the car stank of it. We got it on the precondition that the seller gave us a discount to get it cleaned, thinking that getting the smell out would be an easy fix.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Turns out it was. All we had to do change the filter and air it out. But I can’t help but wonder if the former owner had known that. What might have been.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, just yesterday, while cruising down my street, I saw a BMW fly by. It was burning oil, smoke was billowing out the engine, and I’m not even sure the driver noticed. (He drove right pass an AutoZone.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Robert Pirsig",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "would have had a field day.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lots of folks avoid maintenance because it feels like work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, to some extent, it is. But knowing how to fix what’s broken—or more exactly, keeping it from breaking entirely—is a boon.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Like any good investment, it gives more than it costs. And, it’s often cheaper too.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

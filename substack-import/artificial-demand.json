@@ -1,0 +1,126 @@
+{
+  "title": "Artificial demand",
+  "slug": "artificial-demand",
+  "publishedAt": "2020-04-09T05:37:04.000Z",
+  "excerpt": "Turns out there's lots of cheap easy ways to manufacture hype.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Turns out there's lots of cheap easy ways to manufacture hype.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the restaurant downtown that makes only 300 covers per day. The fact that it's limited to just 300 people makes \"making it in\" more valuable. And so more people are willing to wait in line in hopes of reserving a spot.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the musician who hosts a spontaneous concert at a random venue in a random city. One tweet is all it takes to create a surge; throngs of fans in the right place at the right time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or, even, consider SEO and social media hacks. There happens to be lots of ways to game Google into giving you more eyeballs, impressions, and clicks than you deserve. And if you have enough money, you can even ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "buy your way",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " into internet stardom.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.hubspot.com/marketing/buy-twitter-followers"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "These techniques work, but they’re not without prerequisites.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because while fabricating scarcity can certainly make you appear valuable (in the short-term), it can only last as long as you have something ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "valuable",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to offer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No goods. No value. And ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "then",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " scarcity only hurts you.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

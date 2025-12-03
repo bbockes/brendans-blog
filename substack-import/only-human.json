@@ -1,0 +1,106 @@
+{
+  "title": "Only human",
+  "slug": "only-human",
+  "publishedAt": "2018-07-24T11:50:50.000Z",
+  "excerpt": "I think a significant part of what it means to cultivate wisdom is to accept that, as smart and sophisticated as we think we are, we all have our shortcomings.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I think a significant part of what it means to cultivate wisdom is to accept that, as smart and sophisticated as we think we are, we all have our shortcomings.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That maybe, we’re not as strong-willed as we hope.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That our lizard brain, what makes us more animal than cyborg—that’s been around far longer than our ability to think and act in a consistently logical or efficient basis.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, it’s not a matter of if you will fall short (in your hopes, dreams or aspirations). It’s what to do when you inevitably slip up.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can quickly undermine your progress by blaming yourself and magnifying the event.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or you can merely read a book or take a nap. Embrace your lapses as an inevitable actuality of life and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "continue",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://brendanbockes.typepad.com/blog/2018/07/what-are-you-doing-thats-seemingly-impossible.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You’re only human, after all. No sense beating yourself up over it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

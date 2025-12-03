@@ -1,0 +1,107 @@
+{
+  "title": "Small and unsustainable",
+  "slug": "small-and-unsustainable",
+  "publishedAt": "2024-10-30T09:08:33.667Z",
+  "excerpt": "Brian Chesky often recounts how the idea for Airbnb came about when he and his co-founder Joe Gebbia decided to rent out air mattresses in their apartment during a design conference in San Francisco.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Brian Chesky often recounts how the idea for Airbnb came about when he and his co-founder Joe Gebbia decided to rent out air mattresses in their apartment during a design conference in San Francisco.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They created a simple website to advertise the space, and to their surprise, it attracted guests.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It worked ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "because",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " it was small and unsustainable. They didn’t have the resources, money, or time to scale their operations, so they focused on providing a personalized experience for a few people.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s what enabled them to engage directly with their earliest adopters–and (arguably) what allowed them to succeed later–because they were then able to get real-world on-the-ground feedback directly from their guests.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This hands-on, grassroots approach to testing ideas is what founders mean when they say “do things that don’t scale.” Because by creating a viable product that works for a small number of people, you can learn what works and what doesn’t almost immediately. And then, you can make iterative improvements on top of that to not only make it work for ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " people, but create a stronger value proposition than you would if you tried to scale too quickly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The method isn’t sustainable in the long run, but it’s not supposed to be. What it is is a crucial moment of discovery where you can deeply understand your core customers’ pain points and preferences, and design a solution that addresses them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Design is but a reflection of our understanding of the needs of our users, and having a ritual for doing just that–with the smallest possible investment of resources for the smallest viable audience–can yield profound insights.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

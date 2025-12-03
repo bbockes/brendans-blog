@@ -1,0 +1,70 @@
+{
+  "title": "Hard tasks small tasks",
+  "slug": "hard-tasks-small-tasks",
+  "publishedAt": "2023-12-08T07:00:00.000Z",
+  "excerpt": "I recently realized that I can do tasks that seem difficult only because I’ve learned and practiced small parts of them over time.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently realized that I can do tasks that seem difficult only because I’ve learned and practiced small parts of them over time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a useful lesson for anyone mastering a new skill.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When people do challenging things like programming, writing, or using software, it's because they not only know the basics, but have acquired layers upon layers of small skills. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When they put all of them together, it looks fluid—as if they learned it all in one go. But really, they’ve merely practiced a lot, and picked up all of these seemingly minor tasks over time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's helpful to remember that learning something effectively is not about going from zero to a hundred as fast as possible. It's about learning what you need to know to do the thing you’re attempting, breaking it down into sizable chunks, and discovering, learning, and practicing all the steps until you can do everything smoothly.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

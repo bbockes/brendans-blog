@@ -1,0 +1,95 @@
+{
+  "title": "148864080.its Friday",
+  "slug": "148864080its-friday",
+  "publishedAt": "2025-11-30T19:30:12.430Z",
+  "excerpt": "Years ago I wrote a post about how strange it felt to work out on a Friday .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Years ago I wrote a post about how strange it felt to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "work out on a Friday",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/on-doing-the-work-despite-weekend-fomo/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And I realize now something I may have overlooked.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People who are in good shape tend to work out often. Many even work out every day of the week.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that working out on Friday isn’t so strange for them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They don’t often have to convince themselves to work out on a Friday because it’s good for them. Or because they want to get in shape, or lose weight.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They work out because it’s Friday.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

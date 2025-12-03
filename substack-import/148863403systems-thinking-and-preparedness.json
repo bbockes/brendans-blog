@@ -1,0 +1,105 @@
+{
+  "title": "148863403.systems Thinking And Preparedness",
+  "slug": "148863403systems-thinking-and-preparedness",
+  "publishedAt": "2025-11-30T19:30:01.458Z",
+  "excerpt": "Everything we do (and don’t do) has ripples.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everything we do (and don’t do) has ripples.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Some come back to haunt us. Others make us all the better for it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Creating a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "system",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "that creates more problems (down the line) than solutions is bound to stir up conflict. Just like doing something you’ll later regret.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://medium.com/@brendanbockes/ceremonial-bill-signing-and-the-tyranny-of-bad-planning-22585ad80695?source=friends_link&sk=80bd97e3a47e7d7df1b1ba5952485c37"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The alternative, of course, is to plan ahead.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To do your research. To anticipate the effects. To avoid the consequences of poor action by way of elimination or mitigation. To make things",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "better",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "for everyone involved—your stakeholders, your people, posterity too.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Things tend to suck when we don’t prepare. Thinking about the potential repercussions is how we avoid them.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

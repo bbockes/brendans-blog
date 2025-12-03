@@ -1,0 +1,136 @@
+{
+  "title": "148862634.developing Familiarity",
+  "slug": "148862634developing-familiarity",
+  "publishedAt": "2025-11-30T19:29:48.533Z",
+  "excerpt": "Often when we say we “know how to do something”, whether it be to code an app or bake a cake, what we mean is that we’re familiar enough with what we’re doing to do it without a lot of error.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Often when we say we “know how to do something”, whether it be to code an app or bake a cake, what we mean is that we’re familiar enough with what we’re doing to do it without a lot of error.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That doesn’t mean you have to know everything there is to know about it. And it certaintly doesn’t mean you have to learn everything all at once.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, competence (as opposed to proficiency) is simply becoming familiar enough with a task or a skill or a body of knowledge that we can “do it” without a lot of help.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You don’t have to go to culinary school to learn how to cook, or at very least follow a recipe. And you don’t have to know every aspect of html/css/javascript to make a decent website. (Most front-end developers, for example, can get by without understanding SVG graphics).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It also means that for education, we would do better to emphasize a kind of “",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "minimum viable competence",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "curriculum,” that cares less about memorizing useless details (learning everything there is to know) and more concerned with developing just enough familiarity to do a skill or think or write about a topic effectively.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brendanbockes.typepad.com/blog/2018/06/minimum-viable-competence.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You don’t need to know the meaning of every word in the dictionary in order to write at an 8th grade level. Or have a photographic memory to do algebra.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And you don’t have to memorize every line of every nonfiction book you’ve ever read to make it useful. You merely have to familiarize yourself with their contents so that you know where to look in the future.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ultimately, developing familiarity is what allows us to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "connect dots",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(not merely collect them).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2014/04/connecting-dots-or-collecting-dots/"
+        }
+      ]
+    }
+  ]
+}

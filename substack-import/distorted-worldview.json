@@ -1,0 +1,54 @@
+{
+  "title": "Distorted worldview",
+  "slug": "distorted-worldview",
+  "publishedAt": "2020-03-01T06:16:15.000Z",
+  "excerpt": "Most of the challenges we create for ourselves are the result of what we don't or can't see.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of the challenges we create for ourselves are the result of what we don't or can't see.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The opportunities we missed. The failures we didn't anticipate. The stuff in the periphery of our lives so often overlooked.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's not because we’re stupid. But it is because we’re biased. Shaped by a whirlwind of experiences hitherto unseen.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Suffice to say, learning to see more of what we don't know we can't see is an invaluable skill, indeed.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

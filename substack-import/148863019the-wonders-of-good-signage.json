@@ -1,0 +1,84 @@
+{
+  "title": "148863019.the Wonders Of Good Signage",
+  "slug": "148863019the-wonders-of-good-signage",
+  "publishedAt": "2025-11-30T19:29:54.466Z",
+  "excerpt": "After frequenting IKEA the past few days (their cafe makes an excellent co-working space) I've started to notice their use of explicit signage.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After frequenting IKEA the past few days (their cafe makes an excellent co-working space) I've started to notice their use of explicit signage.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The first thing you'll see is, it's everywhere. Literally. On doors, floors, and elevators. Above products, and on their packaging.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everywhere you might need more information, or some direction. As if they knew what you might be thinking as you are thinking it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There's a lot to be said about the design of a space or a thing--having an intuitive sense of how things work and how to use them. But good signage matched with clear and minimal copy makes up for a lot of what can't be communicated otherwise.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All the more reason to first,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "let go of the words",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and then, after, work overtime to fill in what's left with the right copy, communicated it the right context, and said in the right way.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Letting-Go-Words-Interactive-Technologies/dp/0123859301"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "148863049.ambiguity Compounds Exponentially",
+  "slug": "148863049ambiguity-compounds-exponentially",
+  "publishedAt": "2025-11-30T19:29:55.378Z",
+  "excerpt": "…if not addressed linearly.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…if not addressed linearly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That, in just one sentence, is the key to making learning stick indefinitely.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it’s far easier to say than to do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because learning to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "mastery",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—addressing ambiguity before moving on to the next lesson—is inherently boring. It’s far harder to stick with what you’re stuck on than to simply move on to the next thing.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Mastery-Keys-Success-Long-Term-Fulfillment/dp/0452267560/ref=sr_1_2?keywords=mastery&qid=1578965552&s=books&sr=1-2"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s also lengthy. Because learning for retention takes far more time than a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "traditional program",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "would lead you to believe. With means it requires more tenacity than most of us are comfortable expending.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/you-cant-time-box-education/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps that's why mastery, proficiency, the stuff of legend--is reserved for a select few. Not because the collective we can't aspire to it, but because most of us actually don't want to.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

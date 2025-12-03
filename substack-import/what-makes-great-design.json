@@ -1,0 +1,110 @@
+{
+  "title": "What makes great design",
+  "slug": "what-makes-great-design",
+  "publishedAt": "2020-02-18T05:42:43.000Z",
+  "excerpt": "Lots of people confuse design with beauty or good taste (in other words, how the something looks, or how it makes us feel).",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lots of people confuse design with beauty or good taste (in other words, how the something looks, or how it makes us feel).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thing is, while those things are subjective—‘in the eye of the beholder’—great design actually isn't.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Design",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is the ‘purpose, planning and intention that exists behind an action, fact or material object.’ In other words, ‘something made with intent.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Design, then, is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "anything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " made for a purpose. And great design is simply the ability to make a thing that’s both delightfully usable and functionally useful in doing what it was made to do. (Far from being subjective.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is why we can come up ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "general rules",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " for how to make things that are well designed. Not because following these rules will make the things you make more visually appealing—but because things that both useful and usable for the very people they are designed for generally follow the same principles.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Make it convenient, practical, worth it, easy to use. Show us you care. We'll notice.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

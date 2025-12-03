@@ -1,0 +1,65 @@
+{
+  "title": "We live in extraordinary times",
+  "slug": "we-live-in-extraordinary-times",
+  "publishedAt": "2021-05-13T17:07:00.000Z",
+  "excerpt": "Electric cars. Reusable rockets. A supercomputer in your pocket.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Electric cars. Reusable rockets. A supercomputer in your pocket.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s never been a moment in our history as good as this. Nor a moment that warrants as much consternation.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pandemics. Wars. Atmospheric Cancer. The next economic meltdown.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For sure, extraordinary times call for extraordinary measures.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But that doesn’t mean they’re any less extraordinary.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

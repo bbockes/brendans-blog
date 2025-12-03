@@ -1,0 +1,117 @@
+{
+  "title": "148862620.improving Kaisers Ux",
+  "slug": "148862620improving-kaisers-ux",
+  "publishedAt": "2025-11-30T19:29:48.015Z",
+  "excerpt": "I recently took a trip my local Kaiser Permanente and noticed some things that could be better.",
+  "image": "https://blog.brendanbockes.com/wp-content/uploads/2019/04/6a01a73dc1cc30970d0240a4999b9c200b.jpg",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently took a trip my local Kaiser Permanente and noticed some things that could be better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the font size of these Consumer Report pages on the left wall of urgent care check-in counter: far to small for any one of the people who will likely try to read it. What if they copied the information and made it larger, using a more accessible medium?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or these faucets: certainly the turn by turn method is a far less sanitary. I’m no doctor, but it seems like replacing them with automatic faucets would significantly reduce the spread of germs (and maybe the waste of water).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And of course, there’s the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "website",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". A mess of menus and options and FAQ and phone numbers pointing to who knows where.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://healthy.kaiserpermanente.org/maryland-virginia-washington-dc/doctors-locations#/search-form"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What if they made a “child” site for each location that’s readily accessible from the main “parent” site? Then, you could ensure that you were getting the correct information based on what location you selected. Moreover, they could put a reliable custom search bar right at the top and center, so people would default to searching for what information they needed instead of “peering around” the site.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One last point: in the pharmacy pick-up area they have music playing, and a tv (on mute), and more than two dozen signs (medication tips for adults 65 years or older, notices to members, etc.). I get the attitude they you should cater to everyone, but do really think between the tv and people’s phones that members will really pay attention to the signs?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it’s important enough to read, Kaiser should take active steps to encourage people to read it (and discourage them from not reading it). Ditch the tv’s (in all your locations) and you’ll have enough money to pay for a magazine. Yes, a real physical magazine written by actual content writers (or doctors) and paid for by medicine ads. Then you update it quarterly and plaster them all around the waiting rooms. People will inevitably see it in a context where they’re already thinking about their health, read it because they’re bored, and maybe actually use the information (because they’ll take it home with them). All of which leads to more sales, more conversions (or conversations), and more change.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Without a doubt, small changes to the experience can make for significant (positive) changes to the outcome. For a company that seems so focused on providing comprehensive affordable health care, that seems like a worthy pursuit.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Work life balance built in",
+  "slug": "work-life-balance-built-in",
+  "publishedAt": "2020-10-09T07:00:00.000Z",
+  "excerpt": "Many people struggle with maintaining a work-life balance. That’s because without clear boundaries, work often follows them wherever they go.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many people struggle with maintaining a work-life balance. That’s because without clear boundaries, work often follows them wherever they go.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now that we’re clearly in the age of working from home, this is quickly becoming even more ubiquitous.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In light of this, I thought I’d share a few tips to get back to a healthy equilibrium:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If at all possible, keep your workplace separate from home. This might mean working in an office, but it could also mean ‘working’ at a local café, having a ‘home office,’ (or simply a room in your house where you don’t do anything but work), or, maybe, working in an actual studio—one that requires you to ‘leave home for work.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Similarly, it may help to have a separate computer for work and another for play, (or to use a laptop strictly for work, and a tablet for play). That way you’re not tempted to play while you work, and vice-versa.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When you are working, take breaks. Go outside. Take a walk. Enjoy your lunch. (This can help you avoid tunnel vision.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Try to stick to a consistent schedule. If you work from 9 to 5, work from 9 to 5. No sooner, no later.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Don’t work on weekends. (This includes taking work-related calls and checking email.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Similarly, pick a day every week (i.e. Sundays) where you intentionally avoid using your computer/tablet/smartphone. This can help you detox from electronic media and reinvigorate your enthusiasm for work when come back to it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Take vacations, regularly. And enjoy them, optimally.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

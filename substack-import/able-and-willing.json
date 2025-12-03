@@ -1,0 +1,87 @@
+{
+  "title": "Able and willing",
+  "slug": "able-and-willing",
+  "publishedAt": "2017-07-01T11:31:25.000Z",
+  "excerpt": "You can learn almost anything if you’re willing and able to put in the work.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can learn almost anything if you’re willing and able to put in the work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can own almost anything if you’re willing and able to go into a little debt.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can do almost anything if you’re willing and able to persevere through it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re reading this, I have no doubt that you’re able. What matters is your intention and your posture.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What an incredible opportunity this is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What an astonishing privilege.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What an obligation we have to the world we were born into.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

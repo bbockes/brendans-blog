@@ -1,0 +1,88 @@
+{
+  "title": "148863046.mindset Psychology",
+  "slug": "148863046mindset-psychology",
+  "publishedAt": "2025-11-30T19:29:55.353Z",
+  "excerpt": "Science shows that you can learn (and therefore do) nearly anything with repeated and consistent practice.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Science",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "shows that you can learn (and therefore do) nearly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "anything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "with repeated and consistent practice.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s how you teach yourself how to cook or how to code, how to drive or fly a plane. Or (even) how become an artist, an entrepreneur, or a scientist.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In short, it’s the only way you’ll ever go from here (where you are now) to where you want to be.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Fortunate too, because it turns out that consistently",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "believing you can",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is about 86% of the journey.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "title": "The benefits of a reusable food storage",
+  "slug": "the-benefits-of-a-reusable-food-storage",
+  "publishedAt": "2019-08-07T05:36:00.000Z",
+  "excerpt": "- Less waste means you're safeguarding the environment.  \n - They're cheaper* long term than consistently buying ordinary bags. \n - You get the added benefit of knowing your doing those two things.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "- Less waste means you're safeguarding the environment. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "- They're cheaper* long term than consistently buying ordinary bags.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "- You get the added benefit of knowing your doing those two things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There's nothing to lose, and so much to gain. So why do we still buy flimsy plastic bags?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Turns out, most of the changes that benefit us long term have only upside.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The challenge is simply escaping the temptation to default to the 'regular kind.'",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Re-zip",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " claims their bags replace up to 300(!) disposable alternatives. ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://rezip.com/"
+        }
+      ]
+    }
+  ]
+}

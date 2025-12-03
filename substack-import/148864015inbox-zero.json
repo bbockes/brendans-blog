@@ -1,0 +1,65 @@
+{
+  "title": "148864015.inbox Zero",
+  "slug": "148864015inbox-zero",
+  "publishedAt": "2025-11-30T19:30:11.588Z",
+  "excerpt": "It can be hard to initiate something new when it feels like your always responding.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It can be hard to initiate something new when it feels like your always responding.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Responding to incoming. Putting out fires. Building a backlog of stuff you’d like to get to later. Perusing through the cruft of what’s already there.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes it helps to simply hit reset. To terminate stale projects. To let go of things you missed. To move one, one step slightly towards a better future, with less regret.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, maybe, a clean slate is all you need.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After all, you can’t focus much on something if you’re responding to something else.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

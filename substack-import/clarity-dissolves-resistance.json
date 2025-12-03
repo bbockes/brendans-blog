@@ -1,0 +1,176 @@
+{
+  "title": "Clarity dissolves resistance",
+  "slug": "clarity-dissolves-resistance",
+  "publishedAt": "2021-09-04T05:04:00.000Z",
+  "excerpt": "In  How to Be Yourself , Ellen Hendriksen describes an ingenious strategy for quieting your inner critic just enough to do anything that holds you back, be it leading a meeting, conversing with strang",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "How to Be Yourself",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", Ellen Hendriksen describes an ingenious strategy for quieting your inner critic just enough to do anything that holds you back, be it leading a meeting, conversing with strangers, or doing something that feels like a risk.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/How-Be-Yourself-Critic-Anxiety/dp/1250161703"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The gist of it is this:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Replace your doom and gloom thoughts with ones that are more realistic.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Embrace your thoughts by being a little more empathetic with yourself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The former involves decatastrophizing, a technique borrowed from cognitive therapy, where you confront the worst-case scenario of a feared event, using reason to suppress your exaggerated feelings. For those interested: this is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "exactly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the same idea as ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "fear setting",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", the technique popularized by Tim Ferris for defining and overcoming your fears.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://fearsettingguide.carrd.co"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The latter technique involves embracing your feelings, but to a point. By ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "empathizing",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " with yourself—the same way you would a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "close friend",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—you can better acknowledge ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you feel the way you do (and what you can do about it), rather than convince yourself you’re incompetent or a wuss because you have feelings you don’t admire.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/what-would-you-tell-a-friend/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On their own, these are two great techniques for objectively identifying our terrors, concerns, and apprehensions, enough to paint a realistic picture of what’s going on beneath the surface of your fear. Together, they pack a precise sucker-punch that might pack enough clarity for you power through it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

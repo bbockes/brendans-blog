@@ -1,0 +1,83 @@
+{
+  "title": "148863239.buffer Time",
+  "slug": "148863239buffer-time",
+  "publishedAt": "2025-11-30T19:29:59.138Z",
+  "excerpt": "Jeff Weiner makes a valid point .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Jeff Weiner makes a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "valid point",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.linkedin.com/posts/jeffweiner08_for-those-fortunate-enough-to-have-the-opportunity-activity-6659505767818805248-k210?src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.10078_plc.Skimbit%20Ltd._pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.10078_plc.Skimbit%20Ltd._pcrid.449670_learning&clickid=1ocwapUuYxyOWUPwUx0Mo38WUki2Yc3mNwqyU80&irgwc=1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If free time is increasingly spent on casual, but no less demanding tasks, you’ll increasingly have",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "less",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "time to spend on self-sustainment, at your detriment.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Carving time out for “sharpening the saw” (as Stephen Covey would say), is the single greatest investment of time we can make.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because without replenishment, almost everything else is impossible.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

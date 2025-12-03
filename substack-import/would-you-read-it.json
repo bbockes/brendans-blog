@@ -1,0 +1,106 @@
+{
+  "title": "Would you read it",
+  "slug": "would-you-read-it",
+  "publishedAt": "2021-12-21T07:05:00.000Z",
+  "excerpt": "Many people like to fill their websites with content. Because content—ostensibly—is what a website is  for .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many people like to fill their websites with content. Because content—ostensibly—is what a website is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "for",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, when it comes to reading the content on other peoples’ sites, it’s easy to rationalize why it’s so often ignored.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn’t help me solve my problem. It simply gets in the way.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I don’t have the time or patience. It’s too long to read.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The fact that stakeholders’ don’t typically read all of what’s written on other (similar) sites is reason enough to question writing more than what’s needed.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And why the question, “Would you read it?” (if it ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "wasn’t your site)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " might be worth asking at the start. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Before",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you hire someone to write content that someone like you won’t care to read or even notice.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

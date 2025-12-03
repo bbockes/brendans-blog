@@ -1,0 +1,104 @@
+{
+  "title": "It hasnt happened yet",
+  "slug": "it-hasnt-happened-yet",
+  "publishedAt": "2020-04-03T06:26:45.000Z",
+  "excerpt": "...so turn it off.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...so turn it off.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Anxiety is a natural reaction to stress. Feelings of dread or apprehension about what ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "might",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " happen next.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes those feelings help, but not often. Especially not when we marinate in them all day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which begs the question...if it hasn't happened yet, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "and it's not helping",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", why contract it? Why regurgitate the fear?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Give up the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "trigger",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and the response will cease to exist.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/is-your-phone-a-spigot/"
+        }
+      ]
+    }
+  ]
+}

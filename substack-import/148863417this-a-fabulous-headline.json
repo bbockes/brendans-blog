@@ -1,0 +1,113 @@
+{
+  "title": "148863417.this A Fabulous Headline",
+  "slug": "148863417this-a-fabulous-headline",
+  "publishedAt": "2025-11-30T19:30:01.769Z",
+  "excerpt": "A myth among content professionals is that a crappy blog title sets the stage for a crappy blog post (or at least one no one will want to read). Which why content writers go to such lengths to craft h",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A myth among content professionals is that a crappy blog title sets the stage for a crappy blog post (or at least one no one will want to read). Which why content writers go to such lengths to craft",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "headlines",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "that will encourage people to want to read them.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://docs.google.com/document/d/18uQBYXd7MN9a3Sk_WmHgB_O3K_0j5O-4vReJSZkXc4U/edit"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "real",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "reason content writers need to to write better than average headlines is because people are fickle, hyper-stimulated, and desensitized. People really do judge books (and movies, and products, and people) by nanosecond impressions, even though they know they shouldn’t, and even when the act of doing so makes them more boring and more tasteless.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if you're",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "writing for",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "those",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "people--for the people who will only read what's shiny or who's only care is finding easy answers to what they need--then spending time writing great headlines isn't so important.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In having a tribe of fans committed to reading what you're writing and hearing what you have to say, you can ditch the antics and get back to investing on what",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

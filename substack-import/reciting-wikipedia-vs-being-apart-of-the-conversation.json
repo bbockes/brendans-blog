@@ -1,0 +1,56 @@
+{
+  "title": "Reciting wikipedia vs being apart of the conversation",
+  "slug": "reciting-wikipedia-vs-being-apart-of-the-conversation",
+  "publishedAt": "2016-09-15T11:02:25.000Z",
+  "excerpt": "Two ways to teach a concept:",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two ways to teach a concept:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Give an assignment whereby you ask the same question that will inevitably be on the test and ask your students to go out using the internet and the textbook and find the answers. Doesn’t matter if they copy and paste, just as long as they know where to look and can provide the definition for each concept. Obviously, their grade will be a reflection of the quality of each response, and your job as a teacher is to, at the end of the day, take home those assignments and grade them with clipboard and red pen in hand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Tell your students that tomorrow you’ll be having have a conversation on a specific chapter or overarching topic. Tell them their “grade” will be based on their participation in the conversation. If you don’t know what a purple cow is, how can you be apart of the our conversation on purple cows? This allows your students to go out and find the “answers” on their own, using any means necessary, take notes, ask questions if they don’t understand a concept, and opine their thoughts. Your job as a teacher, then, is to direct the conversation. Keep it on topic, lead it to where it needs to go. But also allow time for anecdotes and examples and videos and create a space and a culture where letting your students imaginations run wild is ok and were speaking up and being a member of the conversation is expected and encouraged.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The real purpose of education isn’t to memorize and regurgitate information, it’s to understand concepts and craft one’s own opinion or perspective about those things. Having ones own unique point of view is a lot different than memorizing a string of facts, figures and vocabulary. And it requires a different style of teaching and learning. One where being a part of the conversation is the goal, rather than an optional extension of one’s education.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

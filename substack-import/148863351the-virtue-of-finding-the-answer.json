@@ -1,0 +1,125 @@
+{
+  "title": "148863351.the Virtue Of Finding The Answer",
+  "slug": "148863351the-virtue-of-finding-the-answer",
+  "publishedAt": "2025-11-30T19:30:01.230Z",
+  "excerpt": "It turns out most programmers don’t become great at what they do by memorizing everything they need to know to code a website or app from scratch.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out most programmers don’t become great at what they do by memorizing",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everything",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "they need to know to code a website or app from scratch.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.quora.com/Is-it-necessary-to-memorize-all-codes-in-programming?share=1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, what they",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "good at is knowing that a solution to their problem",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "exists",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", and then finding an answer to it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Fortunately, since developers are already on the web, the answer usually isn’t too hard to find.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, once they’ve done this a few times, they’ll typically",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "remember",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "what they learned, ensuring they’ll never have to look it up next time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s an apt metaphor. Because, after all, no one is perfect. And now, more than ever, no one has all the answers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But knowing their’s a solution, a workaround, something that’s worked before—and having the willingness, the skill, and the eye to find it—that’s a quality worth investing in.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

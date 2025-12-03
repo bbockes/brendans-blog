@@ -1,0 +1,207 @@
+{
+  "title": "148862107.curation Is The Next Frontier Of The Web Part 2",
+  "slug": "148862107curation-is-the-next-frontier-of-the-web-part-2",
+  "publishedAt": "2025-11-30T19:29:43.053Z",
+  "excerpt": "As I wrote yesterday, Hyper , my favorite human-selected video app was discontinued back in May. Hyper was, in my opinion, by far the best video app ever made. It’s quality-first approach made it my g",
+  "image": "",
+  "readTime": "5 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As I wrote yesterday,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Hyper",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", my favorite human-selected video app was discontinued back in May. Hyper was, in my opinion, by far the best video app ever made. It’s quality-first approach made it my go-to app for news, learning, inspiration and entertainment. And the public consensus didn’t disagree; in 2015 alone, Hyper was the most popular video app on the App Store with a straight 5-star user rating, based on hundreds of reviews.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.watchhyper.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“Our mission was simple”",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "wrote",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "cofounder Markus Gilles, “everyday, more videos are uploaded to the internet than each of us can consume in our entire lifetime. How could you ever find those gems worthy of your time? The truly meaningful videos that make you happy, that stick in your memory — as opposed to the clickbait, the quick and cheap productions that algorithms favor way too often in your social feeds. Hyper was built to separate the signal from the noise: with proprietary scouting technology and, more importantly, a dedicated team of human curators.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://medium.com/@markusgilles/the-story-of-hyper-dcd6780fb2f"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Unfortunately, Hyper shut down 3 months ago, mainly because it couldn’t compete for mindshare and retention with the likes of Facebook, Buzzfeed, and Youtube, who have data-driven content delivery algorithms that suck you into dopamine-inducing clickbait wormholes, all within their own immersive app ecosystems.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What this teaches us is that for companies like Hyper (or any of the apps, websites, or blogs like those I mentioned in",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "part 1",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") to stay true to their mission, focusing on quality, not clickbait, they have to find ways to compete in a market saturated with users who already have a go-to app they already regularly use due to previously engrained habits. As Markus Gilles pointed out, “You can only grow by stealing away users from your competition. This means you need to change your users’ daily routines.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://brendanbockes.typepad.com/blog/2017/09/curation-is-the-next-frontier-of-the-web-part-1.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Furthermore, because Facebook and Youtube will always be bigger and more widely-known, human-curated content apps will always be the under-dog, competing for attention and retention against companies with bigger marketing budgets, better content-delivery algorithms and more immersive domains. That many of you haven’t heard of either Hyper or",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Hype Machine",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "before reading this (but have mindlessly consumed media on Youtube, Facebook or Spotify) only confirms this fact.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://hypem.com/about"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What this means is that for really great curated content apps to stay available, they need a steady income stream just as you and I do. Curation takes a lot of time and effort; you’re not just using a computer algorithm to find new stuff but instead sifting through a lot of content and deciding on the very best. In addition, coding and debugging the site takes additional time, and the developers who do it need to be compensated as well.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas, we have a responsibility, if we favor curated content over the mass of junk found online, to support the creators and curators that make this stuff possible. Just as both the organic/natural food industry is able to maintain a steady growth thanks to it’s loyal and affluent consumers who can essentially “vote” with their wallets, so too must we, support and subscribe to those that make curated access to content accessible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Recently I signed up to pay $3.00 a month to make Hype Machine sustainable, and I only wish Hyper would have considered a subscription model too. I think if they had simply asked its dedicated users to donate a small amount each month or year (as in the way Wikipedia does), many people wouldn’t hesitate to pay for what is essentially a daily, free top-10 video blog that’s been consciously selected and created by a team of thoughtful curators. The key insight of course being that people won’t pay for free videos (or free music or free blog posts), but rather the human component that sifts through the clutter to find the most engaging and memorable content available online.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Furthermore, while I’m not going to say that every person who shares something online deserves to be paid for it, I am asserting that we need to be conscious as consumers of this stuff that there are people on the other side of these apps and sites and blogs. People who put in the time and energy and attention and late nights (or early mornings) to make this stuff available. Maybe you could donate to your top 3, if only to pay for their blogging or email delivery service, or the camera or computer they use. Don’t do it because I told you to, do it because you’d miss them if they were gone, because you value the stuff they work so hard to curate and put out into the world.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yes, curation is the next frontier of the web. But the very best of curators are not algorithms. Even systems like Hype Machine or Yummily or Discovr that are more like systems that do the curation via computer programs and filters are not created and maintained by machines. At least for now, people create the niche. AI can’t compete with the thoughtful deliberate selection of a real connoisseur of knowledge and eclectic taste. They might be able to beat you at Go, but they can’t yet appreciate subtleties or create art or publish an arc of content that’s as engaging and unique as it is broad and diverse.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sommeliers (of any sort) have yet to be machines. So best to treat these resources with respect, to tip the artist or the metaphorical librarian, to make their voices heard, and to pave the way for a more curated, artistic and conscientious future.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

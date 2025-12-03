@@ -1,0 +1,116 @@
+{
+  "title": "This is my thousandth post",
+  "slug": "this-is-my-thousandth-post",
+  "publishedAt": "2021-03-03T05:08:00.000Z",
+  "excerpt": "A few things I've learned so far:",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A few things I've learned so far:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Streaks work. Your tenth post in a streak of 9 is significantly easier to write than starting from zero.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So does practice. If you do something consistently, you'll almost certainly get better with time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perfectionism is a trap best to be avoided. I never would have gotten to post 1,000 (let alone 100) if every post before it had to be perfect.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The first 1,000 really are the hardest. It's all downhill from here.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A daily writing habit is a gift. A free form of therapy, and--in turbulent times--about the best way I know to stay sane.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having an option is a good thing to have. Sharing it is a great thing to do. But, best of all is inviting others to join the conversation...openly, honestly, and respectfully. (You can't change things in a vacuum.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That anyone is willing to spend a few minutes to read what you wrote (when there's so much to read, see, or do) is a tremendous privilege. Not to be taken lightly, for sure.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thanks for reading!",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

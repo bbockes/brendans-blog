@@ -1,0 +1,174 @@
+{
+  "title": "Business blueprints",
+  "slug": "business-blueprints",
+  "publishedAt": "2022-06-28T05:18:56.000Z",
+  "excerpt": "One way to build a profitable business is to offer a service that people are willing to pay for.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One way to build a profitable business is to offer a service that people are willing to pay for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of those services that many entrepreneurs are discovering people are willing to buy is the service of explaining ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How do I do ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "X",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=_ewOsgoGQL4"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How can I build a business doing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Y",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://info.asphaltkingdom.com/start-your-business"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How can I get into ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Z",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.coursera.org/articles/how-to-get-a-job-in-it"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The interesting thing is, whether have or haven’t started a business before, almost ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everyone",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " has the experience of doing or building ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "something",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", or of getting so good at a skill you got picked.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The gap between a person who’s done it and someone who charges a fee to teach it is slim indeed.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

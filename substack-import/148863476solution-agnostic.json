@@ -1,0 +1,74 @@
+{
+  "title": "148863476.solution Agnostic",
+  "slug": "148863476solution-agnostic",
+  "publishedAt": "2025-11-30T19:30:02.298Z",
+  "excerpt": "The best solution to a problem is often whatever works .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The best solution to a problem is often",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "whatever works",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not necessarily the one you’ve paid for or one you’ve bought into. And certainly not the one that takes the most time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Being mindful that your solution might come from anywhere—back of mind, perhaps, or in a crevice, or some previously unknown source—is a great way to discover all sorts of workarounds that might work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, at the same time, to avoid the trouble that comes from assuming that any one solution is the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "only one",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "that will.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

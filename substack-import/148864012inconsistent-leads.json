@@ -1,0 +1,64 @@
+{
+  "title": "148864012.inconsistent Leads",
+  "slug": "148864012inconsistent-leads",
+  "publishedAt": "2025-11-30T19:30:11.493Z",
+  "excerpt": "That’s the number one complaint most agencies get from their clients.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s the number one complaint most agencies get from their clients.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most clients are fine (relatively) with slow progress or less than stellar performance. But large",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "fluctuations",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "in site traffic (or foot traffic) is what creates angst.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not knowing why something’s not working the way we expect (or hope) causes both frustration and confusion.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All the more reason to have a reason at the ready for things that can't be easily explained.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "title": "Merely write",
+  "slug": "merely-write",
+  "publishedAt": "2019-05-28T21:14:00.000Z",
+  "excerpt": "Not ‘merely’ as in, sacrificing quality for quantity.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not ‘merely’ as in, sacrificing quality for quantity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not ‘merely’ as in just winging it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But merely as in simply do it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As in the only way around the inertia of ‘that’s no good, I’m stuck’ is to simply do it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To take it one (bad) sentence at a time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To merely show your work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because the only way to learn to write well is to continue to write (poorly) until you learn to write better.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

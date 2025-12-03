@@ -1,0 +1,128 @@
+{
+  "title": "Quantifying productivity",
+  "slug": "quantifying-productivity",
+  "publishedAt": "2021-05-10T06:04:00.000Z",
+  "excerpt": "Question: how long does it take for you to ‘save time’ by implementing a ‘productivity hack’ or more efficient way of doing things?",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Question: how long does it take for you to ‘save time’ by implementing a ‘productivity hack’ or more efficient way of doing things?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The short answer is: however long it took you to ‘set up’ your shortcut.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If, for example, you spend 20 minutes creating a folder of shortcuts in your browser for each specific workflow you do each week, at work, you’ll have to accumulate 20 minutes of ‘time saved’ before your new ‘system’ is technically ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " efficient than the old one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So, if it normally takes you 30 seconds to open each of the 6 URLs you use to do a specific task each day, and it now takes you only a second to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "open them all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " with your shortcut, spending the 20 minutes to create them will start to ‘save you time’ after you complete your workflow 40 times.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The point being that doing things that save time ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "take time",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to implement. But if the time it takes is less than the time you save, in the long run, it’s usually worth investing in.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or, put another way: there’s a short term cost (to being more productive). But the long term benefits often far outweigh them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*Worth noting that a productivity hack is a very broad term. It can be anything from an automation in Zapier to better onboarding or training, or more clear communication. Anything that saves you time in the long term at the expense of a little upfront work.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

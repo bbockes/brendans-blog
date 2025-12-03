@@ -1,0 +1,54 @@
+{
+  "title": "In summary",
+  "slug": "in-summary",
+  "publishedAt": "2019-08-31T06:14:00.000Z",
+  "excerpt": "It amazes me how most hour-long meetings, discussions, and presentations can be summarized in just a few short, concise sentences.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It amazes me how most hour-long meetings, discussions, and presentations can be summarized in just a few short, concise sentences.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is what the problem is, this is the solution.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is what the goal is, and this is how we’re going to get there.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How much time could you save today if you simply sent out a well-crafted memo instead?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

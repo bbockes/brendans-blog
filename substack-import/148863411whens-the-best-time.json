@@ -1,0 +1,171 @@
+{
+  "title": "148863411.whens The Best Time",
+  "slug": "148863411whens-the-best-time",
+  "publishedAt": "2025-11-30T19:30:01.597Z",
+  "excerpt": "…to learn about finance ?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…to learn about",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "finance",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.linkedin.com/feed/update/urn:li:lyndaCourse:777379/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "economics",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "? Or",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "investing",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://mru.org/learn"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.amazon.com/Only-Investment-Guide-Youll-Ever/dp/0544781937"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When’s the best time to capitalize on your financial future? To literally or figuratively invest and grow and to save?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The short answer is,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "before you need to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because waiting—for an opportune time or a carefree moment—is probably far too late.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Debts (small or otherwise) tend to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "compound",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "exponentially. (Fortunately, the opposite is just as true.)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2019/06/the-tyranny-of-small-debts-compounded/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to start before you’re late.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

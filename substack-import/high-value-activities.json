@@ -1,0 +1,65 @@
+{
+  "title": "High value activities",
+  "slug": "high-value-activities",
+  "publishedAt": "2020-12-09T05:11:00.000Z",
+  "excerpt": "I have an app that asks me 'what's the most important thing you need to do today?', everyday.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I have an app that asks me 'what's the most important thing you need to do today?', everyday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I seldom give the right answer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not because I can't bring to mind the action(s) I can take that'll give me the highest return.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But because doing the tertiary things--the things that are as easy to do as they are to think of--is what I choose to get done.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. Doing what's difficult is valuable. Which is precisely why hard-to-do activities are worth prioritizing from the start.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "A simplified version",
+  "slug": "a-simplified-version",
+  "publishedAt": "2024-10-17T11:03:37.893Z",
+  "excerpt": "Humans are notoriously bad at communicating things in plain language, in a manner that’s easy to read and comprehend.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Humans are notoriously bad at communicating things in plain language, in a manner that’s easy to read and comprehend.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We’re so bad at it, in fact, that’s it’s all but guaranteed that most AIs can do it better and faster than any of us.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why if you want to get someone to do something, asking an LLM to give you a simplified version of your original is almost always a better play.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "ChatGPT, for example, can churn out a “less overwhelming and easier to comprehend” version of your original, so that everything you write–be it an email, record, or report–comes across clearly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easier than waiting to find out if your message was well received or was tainted with confusion.  And it's faster than having to clarify what you wrote after you sent it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

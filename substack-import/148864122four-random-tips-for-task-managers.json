@@ -1,0 +1,58 @@
+{
+  "title": "148864122.four Random Tips For Task Managers",
+  "slug": "148864122four-random-tips-for-task-managers",
+  "publishedAt": "2025-11-30T19:30:13.037Z",
+  "excerpt": "If your going to assign a task to find a problem, be prepared to devote just as much time, if not more, to fix that problem.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If your going to assign a task to find a problem, be prepared to devote just as much time, if not more, to fix that problem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The number of people who have to approve a change, project, or tweak will determine the time it takes to achieve it. Less people creates more effeciency, more people creates less. That’s why committees rarely get things done.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For every task, give people (a little) more time than they need. When things take longer than they should (as they tend to do) slack is what gives you enough time to complete tasks on time. Similarly, it’s always better to have a surplus of time than a shortage of it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If someone has so many tasks that it’s hard to tell what to prioritize, it’s either a sign that they don’t know how to prioritize tasks (an opportunity for training) or, often, a sign they’ve been assigned too many tasks at once.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

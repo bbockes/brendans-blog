@@ -1,0 +1,87 @@
+{
+  "title": "Field of view",
+  "slug": "field-of-view",
+  "publishedAt": "2020-02-13T05:55:14.000Z",
+  "excerpt": "Fitt's law  argues that focus is as much a function of proximity as it is of attention. In other words, it's easier to interact with things that are closer to you than those that are farther out.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Fitt's law",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " argues that focus is as much a function of proximity as it is of attention. In other words, it's easier to interact with things that are closer to you than those that are farther out.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Fitts's_law"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That sound's obvious enough. And yet, so few of us take advantage of that phenomenon.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson is simple: If you want to be productive, move your priorities closer--the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "buttons",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " you want to press, the commitments you want to keep, the lessons you want to absorb--and push everything else away.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/what-tech-diet-are-you-on/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It could save your life.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

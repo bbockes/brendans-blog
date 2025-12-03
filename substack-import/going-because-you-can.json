@@ -1,0 +1,101 @@
+{
+  "title": "Going because you can",
+  "slug": "going-because-you-can",
+  "publishedAt": "2018-09-10T18:43:00.000Z",
+  "excerpt": "It’s one thing to go to the library because you have to study for the exam you have tomorrow. Or because you have homework due. Or because you have a paper to finish.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s one thing to go to the library because you have to study for the exam you have tomorrow. Or because you have homework due. Or because you have a paper to finish.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Going to the library because you can is an entirely different endeavor.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You’re not being forced by external pressures. You’re going because it’s just about the best (free) place available to work on a project or learn a skill or read or research in silence.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You’re there because you’re ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "famished",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://brendanbockes.typepad.com/blog/2018/07/hungry.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s entirely possible to bypass a $500+ per credit education and take a few courses on your own. To learn at your own pace. To go to the library for a few hours every weekend and learn something new.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Challenging. Far more challenging than being given a road map or a stack of standardized tests.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But possible. Cheaper. And (probably) more rewarding.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

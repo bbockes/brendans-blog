@@ -1,0 +1,86 @@
+{
+  "title": "The strategy that works",
+  "slug": "the-strategy-that-works",
+  "publishedAt": "2020-06-04T06:33:17.000Z",
+  "excerpt": "Committing to a bad strategy is costly.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Committing to a bad strategy is costly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not simply because doing what doesn't work isn't only ineffective, but because acknowledging when you're wrong is often more difficult than it seems.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Changing course, after all, is fraught with risk. Because if you switch gears and later find out you're wrong, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "then",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you'll miss out on the potential upside of having stuck to your original plan.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, while looking at the metrics, finding out what's not working, and reassessing your return on investment isn't hard to do, it's also not easy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's easier to commit to a strategy that's worked for others than take a risk on doing something original that might work out better for you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, blindly sticking to a strategy that's clearly not effective--no matter how ubiquitous it appears--is just as, if not more, expensive.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

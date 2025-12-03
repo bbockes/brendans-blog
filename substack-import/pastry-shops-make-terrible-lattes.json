@@ -1,0 +1,76 @@
+{
+  "title": "Pastry shops make terrible lattes",
+  "slug": "pastry-shops-make-terrible-lattes",
+  "publishedAt": "2022-07-12T07:00:00.000Z",
+  "excerpt": "Not many businesses are great at more than one thing.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not many businesses are great at more than one thing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps because it's really hard to do one thing really well.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "More than one only makes it harder.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson is two-fold: given the option, it's better to overdeliver on one thing than to provide multiple options that fall short.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, if you're on the receiving end and you have to choose, go with what a business is known for, and what they're good at.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Avoid almost everything else.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

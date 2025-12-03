@@ -1,0 +1,169 @@
+{
+  "title": "Youre almost always a latecomer",
+  "slug": "youre-almost-always-a-latecomer",
+  "publishedAt": "2018-02-14T10:33:39.000Z",
+  "excerpt": "I’ve been trying (rather unsuccessfully) to update my email client for this blog.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve been trying (rather unsuccessfully) to update my email client for this blog.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yesterday, I spent 3 hours reading “RSS to Email” tutorials that were written 7 years ago back when I should have/wish I'd been learning this stuff.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then I spent an hour watching videos on Youtube, where it seems like everyday I find a new channel run by a teenager or twenty-something, often far younger than me, with a following well into the millions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Somehow these folks got a head start. Somehow they learned the skills I needed to learn years ago. They started early. Or they had a parent or a teacher or a boss encourage and guide them enough to help them do it. And now they’re far a head of the curve.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They’re the people who just graduated with a Ph.D. in the field you just started taking courses in. Or your friends who already experienced the internships or jobs you won’t think to apply to for another 5 years. Or the guy you know who, in just twelfth-grade, already knew at least a half dozen programming languages. Or the young entrepreneurs, from ten-year old’s selling water at the beach at huge profit margins, to the twenty-something starting a pizza-delivery service out of his freshman dorm. Or the countless blogs, vlogs, or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "businesses",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " created and maintained by kids who have yet to go to college, work a cubicle job, or buy a house.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://fortune.com/2016/09/15/18-entrepreneurs-under-18-teen-business/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In almost every profession, hobby or skill, in every corner of the world, there will be people far ahead of you. Which means that in every case, you’ll almost always be late. Far behind many people who are more capable, competent and qualified than you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One choice, of course, is to give up on those pursuits entirely. To devote your life to doing something that is so far on the edges, so specialized and isolated, that almost 9 billion people haven’t yet capitalized on it. Of course, something so foreign and concentrated would probably be very boring and tedious, the metaphorical (or literal) equivalent to watching paint dry. Not much of a worthwhile or sustainable profession if you ask me.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas, our only alternative option is to accept that in almost everything we do, from professions to hobbies to goals to anecdotes, there will always people who are far ahead of us. Who have what we want. Who started long before you became aware this thing exists.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can give up on some of the greatest pursuits of your life because you think you’re so far behind it’s not worth working towards.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or you can merely attempt to be the best version of yourself today. To consistently be (and become) the person who has the life (and the skills) you want.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Life isn’t a competition against the next guy, it’s an ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "infinite",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " game against yourself.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Finite_and_Infinite_Games"
+        }
+      ]
+    }
+  ]
+}

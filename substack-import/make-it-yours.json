@@ -1,0 +1,84 @@
+{
+  "title": "Make it yours",
+  "slug": "make-it-yours",
+  "publishedAt": "2020-06-09T05:57:00.000Z",
+  "excerpt": "The lesson behind project-based learning is simple but profound: If you do it yourself, you’ll learn in the process of doing. And you’ll thank yourself for it, because learning by doing and making is ",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson behind project-based learning is simple but profound: If you do it yourself, you’ll learn in the process of doing. And you’ll thank yourself for it, because learning by doing and making is inherently memorable and fun.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In short, if you make it yourself, you’ll learn it the way that works for you. No rote required.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Learning is a process. Breaking things down. Building them up. Making connections.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Learning to own that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "process",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—or rather, to explore and participate in whatever works for you--is the secret to making learning that's fun and learning that sticks.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=emdg4WjetQg"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It also happens to be how we (collectively) can transform education from the inside out. By making pointless degrees purposeful. By phasing out exams and boring bouts of study in favor of pain-free, passion-driven projects. And encouraging students to spend their invaluable time making things that are sincerely worthy of it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

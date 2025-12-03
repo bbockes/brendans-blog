@@ -1,0 +1,109 @@
+{
+  "title": "Multi generational experience design",
+  "slug": "multi-generational-experience-design",
+  "publishedAt": "2020-05-08T06:58:38.000Z",
+  "excerpt": "Do You Remember  is a website/social media group dedicated to serving fans of the ’50s, ’60s, ’70s, and ’80s.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Do You Remember",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a website/social media group dedicated to serving fans of the ’50s, ’60s, ’70s, and ’80s.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://doyouremember.com/about-us"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Given that their demographic is the elderly (or people nearly there), one would think that an accessibility widget—one that would enable them to readily change the font size and contrast on their site—might be a useful feature.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the multigenerational family video-chats over Zoom. A series of steps already too difficult for (some) Millenials and Gen-X’ers, never mind much Boomers. With complicated action-steps, passwords, codes and logins, is it any wonder why we have so few reunions like this?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better, in my opinion, to give up needless features in favor of a more straightforward ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "solution",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that just works.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://itshello.co/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Surely the world of AI-assisted chatbots will lend itself in making this task easier, much like how many of the older adults I know now use Siri to phone friends, or Alexa to answer queries. But moving forward, it's sufficient to say this trend will require us to design interfaces that take age and perhaps \"digital-nativity level\" into account, perhaps going so far as to modulate experiences based on these factors.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Time will tell the extent to which these needs are needed, and the degree to which they're met. One can only hope that we continue to design things with our users in mind, however old, impaired, or inexperienced they may be.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

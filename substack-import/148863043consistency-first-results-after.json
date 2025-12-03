@@ -1,0 +1,114 @@
+{
+  "title": "148863043.consistency First Results After",
+  "slug": "148863043consistency-first-results-after",
+  "publishedAt": "2025-11-30T19:29:55.254Z",
+  "excerpt": "I started going to the gym again, for the first since, ahem--maybe November?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I started going to the gym again, for the first since, ahem--maybe November?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which, of course, got me thinking about consistency of habits.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's no surprise that people who build routines into their schedule are often the most successful. Because if you can find a way to do a thing everyday (same time, same place), it's inevitable that you're going to surpass the progress of those who do it inconsistently (including your own).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And once it is a habit, it's going to be easier to continue to do it, freeing up your mental reserves for other beneficial (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "force multiplying",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") tasks.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/invest-in-your-force-multipliers/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the flip side, if you can't manage to consistently do the minimum--for 30 days or 60 days--why would you expect that sprinting (metaphorically) would give you better results? Working harder isn't going to make it easier to stick to the program. And if you can't manage that, you'll stifle the progress you have made the minute it becomes too hard to continue to commit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to stick to a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "minimum viable habit",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "until it actually is a habit, than to waste your time and patience incessantly playing stop and go.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/two-lifts-and-a-run/"
+        }
+      ]
+    }
+  ]
+}

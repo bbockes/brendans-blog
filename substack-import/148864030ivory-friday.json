@@ -1,0 +1,94 @@
+{
+  "title": "148864030.ivory Friday",
+  "slug": "148864030ivory-friday",
+  "publishedAt": "2025-11-30T19:30:12.011Z",
+  "excerpt": "This post is a week late, but it applies just as well to the season as a whole.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This post is a week late, but it applies just as well to the season as a whole.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What would happen if instead of spending your (black) friday buying gifts for people who don’t need them, you spent it donating what you have to those who have less?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You could make it an",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "annual sport",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "to round up the things you don’t use or need, and to drop it off at your local charity.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Black_Friday_(shopping)#History"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, maybe shopping",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "isn’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the most important thing you can do this holiday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It might simply be appreciating the surplus you have and making due with less.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

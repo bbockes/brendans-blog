@@ -1,0 +1,43 @@
+{
+  "title": "We need you",
+  "slug": "we-need-you",
+  "publishedAt": "2021-06-10T07:04:00.000Z",
+  "excerpt": "Telling people that they're needed is the best way to make them feel like they are.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Telling people that they're needed is the best way to make them feel like they are.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which, non coincidentally, is also the best way to encourage them to lean in and contribute more than they would otherwise.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because it matters. And because you've shown them you care.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "title": "Relative costs",
+  "slug": "relative-costs",
+  "publishedAt": "2020-07-23T05:57:42.000Z",
+  "excerpt": "Quick! Answer me this:",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Quick! Answer me this:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The opportunity cost of attending college is likely to be highest for a high school graduate who…*",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A. can immediately take over his family’s business.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "B. who has access to student loans.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "C. who is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "very",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " intelligent.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "D. whose family is extremely wealthy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The apparent answer is A. The reason being that the person who can make the most money without a college education has the most to lose from the experience of getting one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, this is only half-true. (And it’s exactly why I’m not a huge fan of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "value-based tests",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/values-are-not-facts/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The kid who has access to student loans ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "might",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " also have access to the financial resources and connections to start his own business. The kid who’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "very",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " intelligent ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "might",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " do significantly better dropping out. And the kid who comes from money might someday see that money run out (perhaps as a result of a global pandemic). ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "What’s he going to do with all that college debt then?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Opportunity cost is classically defined as ‘the highest-valued alternative that must be sacrificed when we make a decision.’ But it’s better understood as ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the alternative opportunities you pass up by making a choice. Thing is, we’ll never know what ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the opportunity costs are for any one choice that we make. And it’s a mistake to assume that—just because the result of one outcome is easier to measure—it’s somehow ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " costly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Costs are relative. As is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "value",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". So making a decision based on an objective, easily-assessed standard is likely not the best method.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/relative-importance/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All we can do is make the best decisions we can. Ever mindful of the opportunities we missed, even—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "especially",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—the one’s that are hard to quantify.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*This is actually a real question from a real economics textbook. In fact, it’s searched for so often (about 900 times a month) that it ranks as an SEO keyword. Go figure.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

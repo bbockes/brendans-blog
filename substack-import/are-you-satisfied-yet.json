@@ -1,0 +1,65 @@
+{
+  "title": "Are you satisfied yet",
+  "slug": "are-you-satisfied-yet",
+  "publishedAt": "2020-08-18T05:55:00.000Z",
+  "excerpt": "Turn on Netflix. Choose from what's trending. Almost anything you watch is going to hold your interest for at least an hour.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Turn on Netflix. Choose from what's trending. Almost anything you watch is going to hold your interest for at least an hour.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or open Doordash. Choose a random entree from a random restaurant. Unless you're super picky, or you have allergies, you'll likely enjoy it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or even, consider the choice of what car to drive. Book an Uber. Find the cheapest car. I'm confident it'll get you where you need to go.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ours is a culture of unlimited choice and a world of options. So while it can be tempting--fun even--to attempt to maximize everything--to make the best choice or have the best taste--it can also be both a fickle and futile sort of thing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because if you merely intend to be satisfied, you likely already have what you need.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

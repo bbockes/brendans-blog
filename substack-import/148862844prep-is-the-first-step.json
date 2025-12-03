@@ -1,0 +1,84 @@
+{
+  "title": "148862844.prep Is The First Step",
+  "slug": "148862844prep-is-the-first-step",
+  "publishedAt": "2025-11-30T19:29:51.142Z",
+  "excerpt": "Many chefs won't hesitate to talk (at length) about the benefits of mis en place, the idea that having your ingredients and tools readily available makes cooking significantly easier.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many chefs won't hesitate to talk (at length) about the benefits of mis en place, the idea that having your ingredients and tools readily available makes cooking significantly easier.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Similarly, meal prep (as opposed to eating what's ever available) makes it far easier to stick to your diet.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And it turns out that the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "best approach",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "to teaching yourself to wake up earlier is to simply set (and stick to) a bedtime.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://greatist.com/live/i-tried-to-be-a-morning-person-for-30-days#1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, prep work makes the process work. No prep work, and the process suffers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many times our problems aren't a result of bad processes or people. Many times, it's simply a lack of sufficient preparation.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

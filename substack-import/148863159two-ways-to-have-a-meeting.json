@@ -1,0 +1,240 @@
+{
+  "title": "148863159.two Ways To Have A Meeting",
+  "slug": "148863159two-ways-to-have-a-meeting",
+  "publishedAt": "2025-11-30T19:29:57.477Z",
+  "excerpt": "Everyone’s familiar with ‘stop and go meetings.’",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everyone’s familiar with ‘stop and go meetings.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You share an idea,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "then",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "someone explains why it won’t work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Someone thinks up something great—a revolutionary product, a new feature, a solution that might work—then someone spends an hour renouncing it, describing all the ways it won’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Back and forth. Stop and go.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easy to see how most meetings never reach a definitive conclusion. Because it's easier to have a meeting like this than it is to think up a better way of having one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so we waste time in meetings. No surprise. Countless hours that could be better spent doing something else.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How do we overcome this cyclical non-sense? How do we take back our time? How do we have a meeting, once…without having to repeat ourselves next time?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Enter the ‘productive meeting.’ A merger of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "convergent and divergent thinking",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", active listening, and collaboration to get the results you want.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=xjE2RV6IQzo"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Start with two distinct blocks of time. One for brainstorming ideas, collectively. The other for expunging them, systematically. One for dreaming up possibilities, the other for acknowledging realities.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "First, invite the team, the more the merrier. Then shut the door and spend some time crafting ideas. Use sticky notes or a Miro board, and aim to be as solution-agnostic and non-judgmental as possible. Bad ideas, good ideas, doesn’t matter. Just get them out and up on the wall.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Once you feel like you've exhausted your creative capacity, take a break. Order pizza.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alright. Now spend an hour picking apart every idea on the wall. Determine what might work versus those that likely won’t, or what you can accomplish versus what you can’t. (If you’re stuck, use a tool like the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "MoSCoW Method",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "or a similar",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "prioritization framework",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "). From there, take your 30 ideas and turn them into ten and then five and then one. If you need to, take an anonymous vote to find your answer.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/MoSCoW_method"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There you go. Divergent brainstorm. Convergent compromise. One definitive conclusion, and (hopefully) no more wasted effort.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Even better(!): Document your decisions. Write a memo. Share it with the team. Make it someone’s job to see this thing through to the end, and tell’em you expect a follow-up next time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. Meetings done right. Time saved. Productivity realized.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

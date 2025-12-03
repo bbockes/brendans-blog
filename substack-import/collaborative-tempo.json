@@ -1,0 +1,65 @@
+{
+  "title": "Collaborative tempo",
+  "slug": "collaborative-tempo",
+  "publishedAt": "2019-07-11T07:37:00.000Z",
+  "excerpt": "Generally, we all have our default pace. Our routine, habitual, ingrained idea of how much effort we can expend in a day.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Generally, we all have our default pace. Our routine, habitual, ingrained idea of how much effort we can expend in a day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that when someone comes in at a faster clip than you, it can both be inspiring, and intimidating.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Without a doubt, someone who learns fast, who hits the ground running, and who creates more momentum and connection in the first few hours than most do in a week, is a force to be reckoned with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The choice that matters is whether you choose to keep up.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Do you reset your expectations, and strive to meet (or exceed) their progress? Or do you linger and lagger and largely fall behind?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

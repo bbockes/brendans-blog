@@ -1,0 +1,105 @@
+{
+  "title": "148863620.thinking In Metas",
+  "slug": "148863620thinking-in-metas",
+  "publishedAt": "2025-11-30T19:30:04.140Z",
+  "excerpt": "It’s possible that you think your job is to merely move digits, push pixels, sell gizmos, or pass on knowledge.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s possible that you think your job is to merely move digits, push pixels, sell gizmos, or pass on knowledge.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, from a certain point of view, you might be right.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Taken another step forward, however—one or two or three tiers down—and you might come upon the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "reason",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you’re doing so.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That reason may be to make someone more productive. To create",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "surplus",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "or sustain a process. Or to make some part of the world (and certain people in it) healthier, wealthier, or wise.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://play.acast.com/s/akimbo/livinginsurplus"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whatever the case, being clear about the meta(s) you're achieving is a great way to evaluate the value (or lack of value) of what you do each day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And—if it’s not resonating with your worldview, your ambitions, or the world you’d like to see—to help you find the awareness you need to go out and find a better one.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

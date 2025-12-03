@@ -1,0 +1,148 @@
+{
+  "title": "148862711.optimistic Nihilism",
+  "slug": "148862711optimistic-nihilism",
+  "publishedAt": "2025-11-30T19:29:49.383Z",
+  "excerpt": "Does it matter what car you drive, or who you marry?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does it matter what car you drive, or who you marry?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Any more than what your boss thinks of you? Or what career track you’re on?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does it matter where you sit in the theater or what you’re watching?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or what shade of blue you use to paint your bathroom?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does anything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "matter?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Specifically, no. Generally, probably not either. And that’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "okay",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://popula.com/2019/01/30/do-things-matter/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if you want anything to matter, if you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "care enough",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to make it so, it does.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The point is, it’s a choice. You alone get to create the meaning (the mattering) of your life.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nothing matters, unless you make it so.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

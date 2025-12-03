@@ -1,0 +1,111 @@
+{
+  "title": "Owned marketing",
+  "slug": "owned-marketing",
+  "publishedAt": "2021-12-07T05:15:00.000Z",
+  "excerpt": "One of the drawbacks of doing your marketing in a space that you don’t own is that you have work with the (arbitrary) limitations enforced on you.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of the drawbacks of doing your marketing in a space that you don’t own is that you have work with the (arbitrary) limitations enforced on you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is stuff of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "character limits",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and word counts. Of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "18-minute rules",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and 30-second elevator pitches. And, of course, the (recurring) cost of buying visits to your site.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://sproutsocial.com/insights/social-media-character-counter/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.linkedin.com/pulse/20140313205730-5711504-the-science-behind-ted-s-18-minute-rule"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One loophole around all of these limitations is own the medium. Or, at least, as much of it as you can.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is why it’s often more beneficial to have your own newsletter than to write on Medium or Twitter or Substack. Or why well-made pamphlets or posters outside your door can be more effective than an ad in your local paper.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s also why baking your brand into the experiences your customers or clients or would-be fans ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "have with your brand",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is worth investing in. Because you own the medium—and every experience, from onboarding to closing the sale is an opportunity to create a brand worth talking about.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

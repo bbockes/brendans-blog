@@ -1,0 +1,105 @@
+{
+  "title": "Limited or abundant",
+  "slug": "limited-or-abundant",
+  "publishedAt": "2020-01-02T05:12:03.000Z",
+  "excerpt": "It's not hard to find quality tupperware, because the stuff you'll find at your local discount store is often just as good as the stuff in Crate & Barrel.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's not hard to find quality tupperware, because the stuff you'll find at your local discount store is often just as good as the stuff in Crate & Barrel.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why quality tupperware generally isn't a status symbol. Because unlike diamonds, it's not a particularly scarce resource.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The tupperware industry is a pretty crowded one even if you can make one a little better* or a little cheaper. Which means that unless you can find a way to make yourself radically scarce overnight, it's hard to see how you can differentiate yourself well enough to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " have to struggle to survive.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, you can either be in the business of selling tupperware or in the business of selling diamonds. But you can't do both.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*There are exceptions. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "OXO",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is widely considered the industry leader in this space, mainly because they have the resources to hire industrial designers who can make their products better than their competition, year after year.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.oxo.com"
+        }
+      ]
+    }
+  ]
+}

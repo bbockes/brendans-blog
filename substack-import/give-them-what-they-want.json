@@ -1,0 +1,154 @@
+{
+  "title": "Give them what they want",
+  "slug": "give-them-what-they-want",
+  "publishedAt": "2020-08-11T06:15:00.000Z",
+  "excerpt": "I recently saw  The Godfather  for the first time. (I know, I’m a little late to the party.)",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently saw ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "The Godfather",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " for the first time. (I know, I’m a little late to the party.)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/The_Godfather"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s interesting isn’t how ruthless or violent or even how anxious Vito Corleone is, but how composed he often finds himself. He has most of his family and friends to thank for dutifully doing the grunt work of mob rule, while he sits from behind a desk playing grand-master.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps, that’s because he ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "owns something",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Something of value. Something of repute.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2020/08/what-do-you-own-2/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "He has connections and therefore power and therefore leverage. And just like Tyler Durden in ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Fight Club",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", he leads from a place of enrollment—the people who work for him and with him are ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "enrolled",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " in the journey he’s on. (There’d be no Fight Club without a want to be a member.)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Fight_Club"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s an important lesson: if want to sway much of anything—the hearts and minds of a person, a group, or a cause, perhaps—or if you merely want to change things or make a ruckus—it helps to have something people want.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It could be insight, clarity, peace of mind, or confidence. It could be money. It could be connections, status, or fame. It could a service of some kind, or a commodity worth owning. Or even an assurance of those things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something of value. Something of repute.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

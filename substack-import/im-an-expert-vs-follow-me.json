@@ -1,0 +1,106 @@
+{
+  "title": "Im an expert vs follow me",
+  "slug": "im-an-expert-vs-follow-me",
+  "publishedAt": "2022-10-04T07:00:00.000Z",
+  "excerpt": "One of the great ironies of marketing is that people have always responded to authority figures in kind.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of the great ironies of marketing is that people have always responded to authority figures in kind.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That when you have specific problem (in the most general sense), you deliberately seek out the help of a professional.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You call a plumber to fix a leak or visit a doctor to repair a leg.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The problem is that given the abundance of what’s available—where there’s not just one doctor or plumber in town, but hundreds—customers now get to choose who they work with, forcing professionals to change their approach to being treated like one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The result: in a mad dash to get the word out as fast as possible, many ‘professionals’ have adopted the posture of shouting that their “an expert” as opposed to building a community and saying “follow me.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, in a digital world, saying you’re the best at what you do is becoming both more difficult and as plentiful as ever. While demonstrating your ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "know-how",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " has become both easier and scarce.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/c/RogerWakefield"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Substance, after all, speaks louder than assertions. And content—not copy—reigns supreme.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

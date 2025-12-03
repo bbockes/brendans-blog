@@ -1,0 +1,84 @@
+{
+  "title": "148862347.the Innovation Myth",
+  "slug": "148862347the-innovation-myth",
+  "publishedAt": "2025-11-30T19:29:45.120Z",
+  "excerpt": "We so often handicap ourselves by accepting the belief that inventiveness is some sort of miraculous synthesis of original thought and creative stimulus.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We so often handicap ourselves by accepting the belief that inventiveness is some sort of miraculous synthesis of original thought and creative stimulus.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I don’t think that’s true at all. It’s far simpler.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Innovation is borrowing ideas.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Taking a concept from a place far far away, and applying it to your current problem. Uncovering solutions from other disciplines, ideologies or people.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Convincing yourself you have to do all the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "work",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "yourself is a trap.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.inc.com/matthew-e-may/why-steve-jobs-was-so-proud-to-steal.html"
+        }
+      ]
+    }
+  ]
+}

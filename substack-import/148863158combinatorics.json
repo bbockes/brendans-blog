@@ -1,0 +1,128 @@
+{
+  "title": "148863158.combinatorics",
+  "slug": "148863158combinatorics",
+  "publishedAt": "2025-11-30T19:29:57.339Z",
+  "excerpt": "Every innovation is an amalgam of something that came before it. Or rather, something added, and (often) something taken away.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Every innovation is an amalgam of something that came before it. Or rather, something added, and (often) something taken away.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Netflix is Blockbuster with no retail store and no late fees.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And Cheetos are just puffcorn with 'cheese seasoning' and Yellow 6.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Your smartphone is a extreme example of this: it’s a network-enabled computer without a keyboard, but with a touchscreen. A handheld phone, camera, music player, and gps/gyroscope all in one. Apple, of course, didn’t invent these technologies…they just combined them into a sleek and satisfying device.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence, the obvious technique for discovering your next fresh idea: take something that already exists, take something away, then add something to it. Or just fill out the following mad-lib:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "\"My product is like ______ without ______ plus ______.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s it. A simple, easy prompt for discovering product solutions of all kinds.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It occurred to me as soon as I wrote this that organizations themselves are often combinations of many innovations in one package (and that they can use the aforementioned technique to spark not only core product ideas, but workarounds to many kinds of business problems).",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Drift",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", for example, is a product—a means of connecting sales teams to customers by way of on-demand chat. (It’s effectively a service hotline without wait times, plus AI and text-messaging). Airlines could take this solution one step further by creating a tool that’s “like Drift without AI, but with ’proactive flight updates’” to create an entirely new (and scalable) customer-service solution for addressing questions about flight delays and updates. Southwest could then add this tool to their existing lineup of CX innovations to optimize, yet again, their stellar brand experience.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.drift.com"
+        }
+      ]
+    }
+  ]
+}

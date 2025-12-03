@@ -1,0 +1,144 @@
+{
+  "title": "Missioneering",
+  "slug": "missioneering",
+  "publishedAt": "2019-11-07T05:01:05.000Z",
+  "excerpt": "‘To bring the best user experience to our customers through our innovative services.’",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "‘To bring the best user experience to our customers through our innovative services.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "‘To completely delight and satisfy our guests…we are committed to continual improvement, to making a difference every day and to being the best.'",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "‘To provide the best customer service possible.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s entirely possible that your organization’s mission statement sounds not unlike any of these.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because it’s easy (and tempting) for founders and executives and board room members to sit around in a conference room and come up with something that appeals to nearly everyone.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Superior service. Commitment to excellence. Forward-thinking innovation. What organization doesn’t strive for these?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It warrants the question: if your competitors’ mission sounds anything like yours (or yours to theirs), if you're selling the same product or service (albeit a better one), and if your marketing to same people in the same category, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why should we choose you?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re doing nothing more to differentiate yourself from the market (or worse, not even realizing your agreed-upon mandate), no amount of rewording or rehashing your mission or values can help you ascend to the top.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "‘Missioneering’ (a play on sloganeering) is tempting, because it’s cheap and easy and invulnerable. But it’s also a sinecure that often ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "plagues",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " organizations more than it helps identify who they are and who they serve.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/glorified-drivel/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can hide from it all you want, but, actions (really do) speak louder than words.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

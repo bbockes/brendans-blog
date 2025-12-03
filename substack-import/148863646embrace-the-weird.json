@@ -1,0 +1,53 @@
+{
+  "title": "148863646.embrace The Weird",
+  "slug": "148863646embrace-the-weird",
+  "publishedAt": "2025-11-30T19:30:04.708Z",
+  "excerpt": "Many people avoid what they consider weird not because it's usually dangerous or inherently harmful.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many people avoid what they consider weird not because it's usually dangerous or inherently harmful.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But because doing what's weird often",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "feels",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "weird.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which, ironically, might be the best thing for them, since trying new flavors is the only way they'll ever know what they've been missing.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "The process trumps progress",
+  "slug": "the-process-trumps-progress",
+  "publishedAt": "2019-04-20T05:11:00.000Z",
+  "excerpt": "If you want to learn to write better (or vlog better), you make a commitment to doing it every day. Likes, retweets and shares are secondary motivators (which can potentially provoke you to quit).",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you want to learn to write better (or vlog better), you make a commitment to doing it every day. Likes, retweets and shares are secondary motivators (which can potentially provoke you to quit).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And if you want to get in shape (for good), you should break a sweat everyday, instead of focusing on a hitting (or maintaining) a number on a scale.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, those metrics might help, but if you want this work long term, it’s far better to concentrate on consistently meeting an intrinsic goal (something you can control).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Learning to be happy in your pursuit is significantly easier when you’re not consistently measuring yourself against an arbitrary metric.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

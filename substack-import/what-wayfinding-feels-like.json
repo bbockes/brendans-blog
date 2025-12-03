@@ -1,0 +1,53 @@
+{
+  "title": "What wayfinding feels like",
+  "slug": "what-wayfinding-feels-like",
+  "publishedAt": "2021-07-03T06:39:34.000Z",
+  "excerpt": "The ratio of average vs. extraordinary results suggests that if you want an outcome that’s nothing short of remarkable, you have to do things that appear to be quite unordinary.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The ratio of average vs. extraordinary results suggests that if you want an outcome that’s nothing short of remarkable, you have to do things that appear to be quite unordinary.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That makes sense. Because scarcity creates value.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What many people don’t seem to acknowledge on their way to this conclusion, however, is that doing things atypically, unusually, or even, exceptionally, doesn’t ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "feel",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " normal, comfortable, or convenient. Because it isn’t.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

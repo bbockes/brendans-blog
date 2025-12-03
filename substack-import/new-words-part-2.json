@@ -1,0 +1,158 @@
+{
+  "title": "New words part 2",
+  "slug": "new-words-part-2",
+  "publishedAt": "2019-05-20T06:23:00.000Z",
+  "excerpt": "One of the reasons learning new vocabulary is so difficult is that our default system of categorizing and learning new words is based on an incorrect taxonomy.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of the reasons learning new vocabulary is so difficult is that our default system of categorizing and learning new words is based on an incorrect taxonomy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "While it makes sense to organize words alphabetically for age-old dictionaries and encyclopedias, considering our understanding of how we learn, it makes much more sense to categorize them by semantics and root meaning.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the word, “quarrel.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Quarrel means to “have a heated argument or disagreement.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Traditionally, if you were assigned a vocabulary quiz and “quarrel” were among the words assigned, it would either be arbitrarily listed with other words that have no relation whatsoever to “quarrel.” Or, it might be dispensed alphabetically, grouped with other words like “quirky, quiver, quacker, quant and quesadilla.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, that doesn’t help at all. Because instead of learning subtleness (why and when you should use the word “quarrel” as opposed to “argument,”) you’re learning that “quarrel” is merely synonymous with another word.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What if we grouped the list of assigned words based on semantics instead? From there we might come up with “row, squabble, brawl, contention, altercation, commotion, fracas, tussle, uproar, wrangle and skirmish.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then you could define each one with respect to subtlty and classify them on a range of intensity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. Vocabulary learning based on ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "semantic chunking",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", as opposed to rote memorization based on arbitrary choice, is a far better strategy to learn new words and memorize them indefinitely.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Chunking_(psychology)"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "[HT to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Kevin Flanigan",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".]",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.audible.com/pd/Building-a-Better-Vocabulary-Audiobook/B00SJIVE3W"
+        }
+      ]
+    }
+  ]
+}

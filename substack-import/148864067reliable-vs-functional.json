@@ -1,0 +1,153 @@
+{
+  "title": "148864067.reliable Vs Functional",
+  "slug": "148864067reliable-vs-functional",
+  "publishedAt": "2025-11-30T19:30:12.230Z",
+  "excerpt": "Something you notice when switching tools is that some tools are incredibly reliable and others are immensely functional.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something you notice when switching tools is that some tools are incredibly reliable and others are immensely functional.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s rare to find a tool that does both.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Classic example:",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Wrike",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "isn’t functional—it’s pretty outdated—but it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "reliable. If I click on ‘time tracking,’ for example, it shows me what’s tracked every time.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.wrike.com/main/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Clickup",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is radically functional. There are dozens of features and helpful things you can do. But for all its hype, it’s hardly reliable—whether it shows me what it’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "suppose",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to show me in a certain space or dashboard is often hit or miss.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://clickup.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Airtable",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is rare indeed. It’s both reliable—in that it does what I expect it to,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "every time",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—and functional—in that it offers specific features for specific tasks (and allows users’ to customize them to their liking).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.airtable.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. If you can’t make a functional product, it helps to make it reliable, and vice-versa. If you want to be extraordinary (and possibly stand the test of time), it helps to do both.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

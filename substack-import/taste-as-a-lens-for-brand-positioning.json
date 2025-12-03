@@ -1,0 +1,148 @@
+{
+  "title": "Taste as a lens for brand positioning",
+  "slug": "taste-as-a-lens-for-brand-positioning",
+  "publishedAt": "2018-05-17T12:32:46.000Z",
+  "excerpt": "Colorless : Food is fuel, and taste is an abstraction (or distraction) from chowing down macronutrients, calories and vitamins.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Colorless",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ": Food is fuel, and taste is an abstraction (or distraction) from chowing down macronutrients, calories and vitamins.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Black & White",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ": Taste is transactional. There a good flavors and bad flavors and the name of the game is to consume as much of the good stuff as possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Visible Spectrum",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ": Taste is a horizontal spectrum. There’s the five basic tastes: sweet, sour, bitter, salty, and unami, and food is described as having varying degrees of these adjectives. People in this category can describe simple nuance, like how both an apple and a tomato are sweet and tart, to different extents.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Color Wheel",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ": Really great chefs, sommeliers and sensory-analysts experience flavor completely different than most people. Not only can they visualize flavor along an X axis, but they can also discern the nuances of those flavors vertically, as well as how they compare and contrast with other flavors and foods. Furthermore, but they’re fluent in a language that allows them to communicate those ideas, so that they can record, share and collaborate those experiences with other people in their fields. This is how we end up with flavor notes and flavor wheels and people who can articulate the difference between mainstream ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ketchup",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and small-batch variations.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it’s not just about taste, is it?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s about internal narratives, neophobia and long-held beliefs. It's about discerning the broadcast frequency of those you're trying to reach.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Where are they on the continuum?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What are they receptive to? Do they care? How much?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Are they willfully ignorant? Are they fanatics? Or are they somewhere in-between?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

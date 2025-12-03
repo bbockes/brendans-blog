@@ -1,0 +1,172 @@
+{
+  "title": "Thats what i said",
+  "slug": "thats-what-i-said",
+  "publishedAt": "2021-03-06T06:45:00.000Z",
+  "excerpt": "…but it’s not what I meant.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…but it’s not what I meant.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of the many burdens of being a writer is that people will confuse what you say.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And one of the most valuable lessons you’ll learn is that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "it’s not their fault",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". To have the empathy to acknowledge that your readers can’t help but see it the way they do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The reader is always right.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, you’re left with two choices:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Change how you write.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Find better readers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The first option is largely a matter of finding out what resonates with your ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "current",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " audience. Conforming to their standards. Writing what works.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The second is a problem of distribution. Asking: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Who",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " do you want to read your writing? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Where",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " are they (online)? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "How",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " can you put it in front of them—so that your content is seen and shared and spread, by the right people?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Expecting that your readership is wrong, or should change, is a foolhardy endeavor. Better instead to get clear about 'who it’s for' from the start, and to work overtime to deliver.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "In over your head",
+  "slug": "in-over-your-head",
+  "publishedAt": "2019-10-15T05:06:45.000Z",
+  "excerpt": "Neil deGrasse Tyson  argues that if you’re given the option between taking a relatively ‘normal’ class versus an ‘advanced level’ one, you should almost always default to the latter.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Neil deGrasse Tyson",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " argues that if you’re given the option between taking a relatively ‘normal’ class versus an ‘advanced level’ one, you should almost always default to the latter.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://overcast.fm/+KebvOKYh0"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I would have to agree.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because grades, of course, matter very little after your second job. But what you learn from a course (or a job) can stay with you for life.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to default to challenging yourself above the norm (so that you can adapt concurrently) than to cap your learning, potential, and pay grade because you’re afraid you’ll do poorly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If the experience (of being over your head) will pay for itself (in learning and exposure), you can probably get away with your performance suffering at least a little.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

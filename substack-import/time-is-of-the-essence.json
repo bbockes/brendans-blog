@@ -1,0 +1,65 @@
+{
+  "title": "Time is of the essence",
+  "slug": "time-is-of-the-essence",
+  "publishedAt": "2021-09-23T05:00:00.000Z",
+  "excerpt": "Something I've learned from 7 years of working in time-sensitive jobs:",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I've learned from 7 years of working in time-sensitive jobs:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Time--not money--is what creates quality results which enables good outcomes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re short on time, you won’t have enough to deliver over the top results, which means that you’ll always fall short of the outcomes you want.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is why it’s imperative to create slack in the system, by constantly looking for ways to save time and not squander it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, time in infinitely valuable. You only have so much of it. And, what you spend you can’t get back.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

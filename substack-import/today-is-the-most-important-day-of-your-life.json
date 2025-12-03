@@ -1,0 +1,21 @@
+{
+  "title": "Today is the most important day of your life",
+  "slug": "today-is-the-most-important-day-of-your-life",
+  "publishedAt": "2014-05-16T11:24:52.000Z",
+  "excerpt": "What will you do with it?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What will you do with it?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

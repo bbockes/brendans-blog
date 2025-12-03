@@ -1,0 +1,94 @@
+{
+  "title": "148862700.the Thing About A Hiatus",
+  "slug": "148862700the-thing-about-a-hiatus",
+  "publishedAt": "2025-11-30T19:29:49.144Z",
+  "excerpt": "...is that often, we don't quit for the inverse of why we started.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...is that often, we don't quit for the inverse of why we started.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We start a band (or a blog) to share our art with the world. To change things. To enjoy ourselves. Or to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "hone",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "our craft.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2019/06/writing-not-plastics-not-wall-street/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And then we quit. Because we had a falling out. Because our fingers are sore. Because of something someone said. Or because we're out of good ideas.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is to say, we so often quit for all the wrong reasons.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "only",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "good reason you should quit something you're good at is because you've forgotten how to enjoy it, and you don't miss remembering, either.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

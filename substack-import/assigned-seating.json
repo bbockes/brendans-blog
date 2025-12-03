@@ -1,0 +1,65 @@
+{
+  "title": "Assigned seating",
+  "slug": "assigned-seating",
+  "publishedAt": "2019-09-30T06:16:48.000Z",
+  "excerpt": "Assigned seating might help teachers check attendance, but it doesn’t do much good in practically any other setting.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Assigned seating might help teachers check attendance, but it doesn’t do much good in practically any other setting.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Telling people where to sit a wedding reception, for example, puts constraints on who mingles with who and who doesn’t. Better to simply let people pick and choose and interact serendipitously instead.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the workplace, the standard office. Having the web dev team in the same room might help streamline communication, but telling Diane that she can’t sit next to Suzie because she has a different title is (probably) a mistake.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We all know, after all, that innovation doesn’t happen in isolation. And that more associations (between ideas) spark more ingenuity, not less.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Allocated arrangement might be an effective way to get people to do what you want them to. But it’s certainly not the only way, and probably not the best.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

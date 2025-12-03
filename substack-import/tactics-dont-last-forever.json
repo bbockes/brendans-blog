@@ -1,0 +1,195 @@
+{
+  "title": "Tactics dont last forever",
+  "slug": "tactics-dont-last-forever",
+  "publishedAt": "2021-09-29T07:02:00.000Z",
+  "excerpt": "Marketers have a long history of breaking their toys.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Marketers have a long history of breaking their toys.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As soon as a tactic is proven to work and becomes commonplace, it’s often easily abused, causing the gatekeepers (i.e. Google) to ignore the tactic or penalize it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Exact match ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "anchor text",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", for example, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "used",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to be a ranking factor. Now it’s not. And the reason it’s not is because marketers tried to game the system.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/HMycqZRxcOw?t=280"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This reminds me of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "something else I read",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that highlights an important point: a tactic that ‘works’ is one that can be easily gamed.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2021/09/messing-with-stratherns-law/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And a tactic that can be easily gamed is one that will easily spread. And, as such, soon chastened or abolished.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why it’s best to lean on strategy, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not tactics",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". Because, over a long enough time frame, only ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "one",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of them will get you somewhere you actually want to be.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Halo fans will remember the infamous ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "noob combo",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—an effective tactic to get an easy kill—one that quickly caught on. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Same concept",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". Once Bungie spotted the bug in the system, they altered the plasma pistol in subsequent games.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://halo.fandom.com/wiki/Noob_Combo"
+        }
+      ]
+    }
+  ]
+}

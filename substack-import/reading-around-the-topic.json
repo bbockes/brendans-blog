@@ -1,0 +1,74 @@
+{
+  "title": "Reading around the topic",
+  "slug": "reading-around-the-topic",
+  "publishedAt": "2021-04-02T07:08:00.000Z",
+  "excerpt": "That's what we need more of, isn't it?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's what we need more of, isn't it?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not just students who do the required reading. Who merely study for tests, and solve for symptoms.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But students who are eager to learn about the whole problem. Who see the big picture. Who are ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "insatiably",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " curious about it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most importantly, what we need are people to see the limits and the edges of their knowledge. And to be absolutely resolute in their willingness to do ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "something",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " about it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

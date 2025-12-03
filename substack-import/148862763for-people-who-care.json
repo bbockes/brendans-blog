@@ -1,0 +1,84 @@
+{
+  "title": "148862763.for People Who Care",
+  "slug": "148862763for-people-who-care",
+  "publishedAt": "2025-11-30T19:29:49.784Z",
+  "excerpt": "At a recent pitstop out west, I discovered the ' PortaLisa restroom trailer ', made by a team that makes \"artful restrooms for people who care.\"",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "At a recent pitstop out west, I discovered the '",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "PortaLisa restroom trailer",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "', made by a team that makes \"artful restrooms for people who care.\"",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/BvZtHWISRpA"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A purple cow if there were ever such a thing, and a great reminder too.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You don't have to be everything or serve everyone to get talked about.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You just have to find some (small) way to be remark-able. Often, that simply means caring more than your competition, in service of the few people who are changed by it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's how you get picture-worthy portapotties, and just about anything else worth talking about.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

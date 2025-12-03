@@ -1,0 +1,106 @@
+{
+  "title": "Optimizing quality not quantity",
+  "slug": "optimizing-quality-not-quantity",
+  "publishedAt": "2019-05-23T07:01:00.000Z",
+  "excerpt": "Many times, many businesses, services and freelancers try to do too many things.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many times, many businesses, services and freelancers try to do too many things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which inevitably means there are a lot of things they do that they are merely average (or mediocre) at.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. If that's you, you should avoid doing those things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In fact, the more you can avoid doing those non-essential tasks (so that you can optimize the most essential one) the better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because by focusing on the one skill you excel at, you create scarcity. And scarcity creates value.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By doing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "one thing well",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", you can create more value in less time. Serving the people who are willing to pay a premium for a scarce—masterfully executed—skill.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://hiutdenim.co.uk/blogs/story/4800102-do-one-thing-well"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(A bowl of homemade soup, after all, is worth more than a thousand cans of rubbish.)",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

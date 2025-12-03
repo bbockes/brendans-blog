@@ -1,0 +1,75 @@
+{
+  "title": "But what if i have a question",
+  "slug": "but-what-if-i-have-a-question",
+  "publishedAt": "2022-05-29T06:00:00.000Z",
+  "excerpt": "Does your business make it easy for your customers to get their questions answered?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does your business make it easy for your customers to get their questions answered?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not just common questons, but specific ones?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Questions are a free way to educate your customers and sell them on the value behind the things you sell.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, of course, questions imply you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "have",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " their attention.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can go above and beyond to provide the information they seek, want, and need, or waste a precious opportunity to connect.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "title": "Id love to know why",
+  "slug": "id-love-to-know-why",
+  "publishedAt": "2021-07-02T05:37:20.000Z",
+  "excerpt": "I got a notification from Mailchimp the other day informing me that they terminated my account for violating their Terms of Use.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I got a notification from Mailchimp the other day informing me that they terminated my account for violating their Terms of Use.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What they didn’t tell me was ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", or more appropriately, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", so that I’d know what ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to do next time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the long string of job rejection letters I recieved last year. While I appreciate that many of these recruiters and hiring managers actually got back to me—as opposed to the more common practice of ghosting me—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "none",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of them told me ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why didn’t I get the job? What could I have done better? What did the person who got the job do differently?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If your going to communicate something, it’s best to explain why. That way, people can better gauge what works and what doesn’t—and not repeat those steps next time—enabling a better future for themselves and for others in the process.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Small",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", generous steps compounded.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://bigchangestartssmall.com"
+        }
+      ]
+    }
+  ]
+}

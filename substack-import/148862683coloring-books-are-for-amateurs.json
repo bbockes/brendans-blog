@@ -1,0 +1,62 @@
+{
+  "title": "148862683.coloring Books Are For Amateurs",
+  "slug": "148862683coloring-books-are-for-amateurs",
+  "publishedAt": "2025-11-30T19:29:48.792Z",
+  "excerpt": "IKEA sells a $4.00 roll of drawing paper. 32 yards for doodling, creating something out of nothing, and hours(!) of play.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "IKEA sells a $4.00",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "roll",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "of drawing paper. 32 yards for doodling, creating something out of nothing, and hours(!) of play.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.ikea.com/us/en/catalog/products/80324072/?gclid=EAIaIQobChMIqpT62pzH4wIVh4rICh1olgsyEAQYASABEgLmivD_BwE"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The perfect gift for your kid (or yourself) and an even better metaphor.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you want to challenge dogma, create something new, or develop a worthwhile skill, it helps to practice not coloring in the lines.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

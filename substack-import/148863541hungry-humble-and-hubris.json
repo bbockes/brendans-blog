@@ -1,0 +1,43 @@
+{
+  "title": "148863541.hungry Humble And Hubris",
+  "slug": "148863541hungry-humble-and-hubris",
+  "publishedAt": "2025-11-30T19:30:03.099Z",
+  "excerpt": "You can't be hungry and have hubris at the same time.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can't be hungry and have hubris at the same time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For the same reason you can't have hubris and be humble.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Humility begets hunger. Hubris diminishes it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

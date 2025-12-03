@@ -1,0 +1,119 @@
+{
+  "title": "Viable but bad conclusions",
+  "slug": "viable-but-bad-conclusions",
+  "publishedAt": "2018-09-03T07:49:00.000Z",
+  "excerpt": "\"I don't eat organic produce because rain water isn't organic.\"",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "\"I don't eat organic produce because rain water isn't organic.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "\"I refuse to buy an electric car because the electricity that it runs on is still (currently) made with fossil fuels.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "\"I don't believe in science because all experiments are still filtered through conscious awareness.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "\"I don't see the value of helping others or philanthropy because no one is going to live forever.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“Using our tax money (or time) to invest in the education or wellbeing of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "posterity",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a waste because their not my kids.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2017/02/what-posterity-has-done-for-us/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two insights:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Taking a statement to the extreme is a reliable way to know if it’s a principle that is well-founded, and can thus be applied consistently in other contexts, as opposed to a narrow-minded argument that merely sounds reasonable, but is ridiculous when used in other circumstances.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Just because a better solution isn’t perfect, doesn’t mean you shouldn’t adopt it. Indeed, progress (scientific, cultural, personal or otherwise) is the result of utilizing better ideas, methods and tools over less better ones, not merely accepting a faultless standard.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

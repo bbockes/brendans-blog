@@ -1,0 +1,73 @@
+{
+  "title": "148862896.keep The Dialogue Open",
+  "slug": "148862896keep-the-dialogue-open",
+  "publishedAt": "2025-11-30T19:29:52.732Z",
+  "excerpt": "The best way to mitigate problems is to spot them before they become an issue.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The best way to mitigate problems is to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "spot them",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "before they become an issue.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/the-importance-of-visibility/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The second best way is make it easy for people to communicate those (pending) challenges with the people you work with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s one thing to make it easy to see problems, entirely another to make is easier to bring up, share and discuss those problems with your peers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Keeping the dialogue open—via flat, transparent, and consistent communication—is what enables teams to efficiently overcome obstacles before they become foibles.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "title": "148864093.whats A Meeting Cost",
+  "slug": "148864093whats-a-meeting-cost",
+  "publishedAt": "2025-11-30T19:30:12.767Z",
+  "excerpt": "If pay your employees $25 an hour and host an all-team meeting with ten people…it will cost you $250 per hour to have that meeting.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If pay your employees $25 an hour and host an all-team meeting with ten people…it will cost you $250 per hour to have that meeting.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, that doesn’t mean that a one-hour meeting",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "merely",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "costs $250.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because a one-hour 10-person meeting also costs you 10 hours of completely fungible time. And, all the things your best minds could have done with that time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That might be a macro level change—something that could potentially more than double your (or your client’s) profits. Or it could be a new insight or product or feature or strategy that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "completely",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "changes the game.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can do a lot in ten hours—if you’re team is smart and efficient and able.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Reason enough to be cautious of meetings—to know",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "when to have them",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", to schedule them wisely, and to (usually) use messages and memos, instead.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/when-you-need-to-have-a-meeting/"
+        }
+      ]
+    }
+  ]
+}

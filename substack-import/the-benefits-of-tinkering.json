@@ -1,0 +1,109 @@
+{
+  "title": "The benefits of tinkering",
+  "slug": "the-benefits-of-tinkering",
+  "publishedAt": "2019-11-10T06:33:27.000Z",
+  "excerpt": "Recently, I’ve been binge-listening  How I Built This  (a podcast by NPR), where Guy Raz talks to founders of well-known brands about how and why they got started. Four podcast in, I’ve learned a few ",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Recently, I’ve been binge-listening ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "How I Built This",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (a podcast by NPR), where Guy Raz talks to founders of well-known brands about how and why they got started. Four podcast in, I’ve learned a few things about breakthrough startups (not copycats).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.npr.org/podcasts/510313/how-i-built-this"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps the most confounding is that great businesses generally don’t start out as businesses. In fact, unless the founder is an MBA, they generally don’t even write up a business plan before getting started. Instead, what we might consider business ideas generally start out as small solutions to similarly microscopic problems.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, Dyson set out to make a better vacuum. And Warby Parker set out to make cheaper glasses. But more often than not, great business ideas come out of nowhere—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "cooks",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " experimenting with ingredients at 4 am, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "monks",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " trying to make their teachings more approachable. These are novel solutions to novel problems (if can even call them ‘problems’).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.stitcher.com/podcast/national-public-radio/how-i-built-this/e/64572733"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.stitcher.com/podcast/national-public-radio/how-i-built-this/e/64083346"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson? Game-changing business ideas might seem obvious looking back, but they rarely start out as self-evident. More often, it takes the audacity to try to make something better (or to do something entirely different) and the wherewithal to dabble into the unknown on your way to discovering what works.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

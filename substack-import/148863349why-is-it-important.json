@@ -1,0 +1,132 @@
+{
+  "title": "148863349.why Is It Important",
+  "slug": "148863349why-is-it-important",
+  "publishedAt": "2025-11-30T19:30:01.184Z",
+  "excerpt": "Going along with doing one’s research before you propose a solution, it also helps to ask why you’re making any one decision.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Going along with doing one’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "research",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "before you propose a solution, it also helps to ask",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you’re making any one decision.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/research-research-research/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider Glassdoor, which consistently forces me to log-in to view information about companies and jobs on their platform, but doesn’t provide any value for doing so.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Besides encouraging me to save jobs to their clunky ‘Saved Jobs’ folder, logging in doesn’t offer anything different than if I remained signed off.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the Virginia Workforce Connection—a behemoth of content disarray and horrendous UI. It recently sent me a notification that my resume was expiring.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Why?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Terminating my CV doesn’t help anyone. So why would they set a time constraint on it?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As with any decision, there are countless costs that come with what we choose to do. Opportunities we passed up to make this change or to add this feature.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The question to then ask, before you commit to any path, is simple: does this choice add value to, or detract from the user's experience?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it's important to you and your team and and your stakeholders--but not important, let alone valuable, to your customers, it's probably worth taking some time to revisit the drawing board. You might find in your research that what everyone thinks is inherently so important isn't so vital, after all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

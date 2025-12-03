@@ -1,0 +1,195 @@
+{
+  "title": "Niche marketing",
+  "slug": "niche-marketing",
+  "publishedAt": "2020-06-28T05:51:32.000Z",
+  "excerpt": "Six months ago, I found myself in a job interview for a local marketing agency, fumbling around trying to explain why ‘niche marketing’ is the new normal. (Probably not the best choice of topic.)",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Six months ago, I found myself in a job interview for a local marketing agency, fumbling around trying to explain why ‘niche marketing’ is the new normal. (Probably not the best choice of topic.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s what I mean’t to say:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Modern marketing is a continuum between two ends, where on one end businesses are super general and commoditized and, on the other, businesses are incredibly niche.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "<— general/well-known ———————— niche/unknown —>",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The thing is, commoditized brands, while well known, often don’t lend themselves to hype. They don’t make news as much as they make ads, and so we only continue to buy from them as long as they continue to meet our needs and promote themselves in the national psyche.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Niche brands, on the other hand, are relatively unknown. These are ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "long-tail",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " products and services that only a few people (the locals, the insiders, the early adopters) know about. But since their unknown—and since they have to compete on a much different level than national brands—niche brands are often willing to take creative risks and be ever more unique.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Long_tail#Chris_Anderson_and_Clay_Shirky"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In other words, niche brands that are successful are generally successful ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "because",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "they are niche. No one is like them, and so they easily lend themselves to hype and admirers and true fans.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No one I know drives across town to get Breyer's ice cream (when they can choose something similar). But lots(!) of people flock to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Jeni’s",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (at least where I’m from). Similarly, I don’t think anyone’s written anything interesting about Breyer's in more than three decades, but there’s now more than enough news about ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ice cream shops",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " you’ve never heard of or been to.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://jenis.com/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.thrillist.com/eat/nation/best-ice-cream-shops-in-america"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And this doesn’t just apply to word-of-mouth hype either. SEO is a continuum too. That’s why we have short-tail keywords that are high-volume and super-competitive, and long-tail key-phrases that are less so. It’s more effective to target the low-competition stuff first (and build your ‘search credibility’) than by investing your energy targeting keywords you have no hope of initially ranking for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson is simple: If you want to compete in a crowded marketplace (offline or online), it doesn’t pay to be more average. But being creative, being unique, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "being ever more niche",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", that seems to work just fine.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

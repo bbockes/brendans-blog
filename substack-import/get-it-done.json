@@ -1,0 +1,115 @@
+{
+  "title": "Get it done",
+  "slug": "get-it-done",
+  "publishedAt": "2020-09-08T05:10:09.000Z",
+  "excerpt": "Sam Bennett has written a  wonderful book  on how to get stuff done.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sam Bennett has written a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "wonderful book",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " on how to get stuff done.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Get-Done-Procrastination-Creative-Minutes/dp/1608682102"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Who knew that if you just worked on something for 15 minutes a day—everyday—(ideally at the same time and place) you’d have no trouble doing/completing/attaining ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I’ve found particularly useful is to apply this concept to time-consuming tasks that I know I need to do, or would like to do have done, but don’t particularly find entertaining. Examples include: completing certification courses, doing my taxes, working on creative/portfolio projects, researching something, or getting a passport.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is because, while it’s pretty easy to spend 3 hours working on something I enjoy, it’s difficult for me to even want to make any amount of time for something I know I won’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "15 minutes a day, of course, is nothing. So it’s easy enough to arrange and to do. And, if you do it consistently, it adds up—so you’ll ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "inevitably",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " get your projects done whether you come to like them or not.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because then, it’s merely a matter of time. Not if, or when.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Fashion is geographical",
+  "slug": "fashion-is-geographical",
+  "publishedAt": "2021-04-18T06:07:00.000Z",
+  "excerpt": "Given as many people as there are in the world, and the fact that we (as in you and I) only make up one small part of it, it's quite likely we haven't...",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Given as many people as there are in the world, and the fact that we (as in you and I) only make up one small part of it, it's quite likely we haven't...",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Tried the best candy bar.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Been to the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "most visited airport",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Eaten at the most popular bar.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or even seen the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "most watched television show",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " in all the world.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.m.wikipedia.org/wiki/Ramayan_(1987_TV_series)"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is: what's 'popular, best, or widely admired’ aren't absolutes. They're local.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

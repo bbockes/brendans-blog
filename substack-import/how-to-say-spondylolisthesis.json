@@ -1,0 +1,83 @@
+{
+  "title": "How to say spondylolisthesis",
+  "slug": "how-to-say-spondylolisthesis",
+  "publishedAt": "2021-12-23T05:14:00.000Z",
+  "excerpt": "There are at least a  dozen online videos  that show you how to pronounce the word “spondylolisthesis.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There are at least a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "dozen online videos",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that show you how to pronounce the word “spondylolisthesis.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://duckduckgo.com/?q=spondylolisthesis+pronunciation&pn=1&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfjSz2r0iI2w"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "None of them are particularly helpful. And the reason why is simple.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Repeating a word is not the same as explaining ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to say it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The latter requires empathy. The former doesn’t.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

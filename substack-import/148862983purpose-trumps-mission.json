@@ -1,0 +1,146 @@
+{
+  "title": "148862983.purpose Trumps Mission",
+  "slug": "148862983purpose-trumps-mission",
+  "publishedAt": "2025-11-30T19:29:54.405Z",
+  "excerpt": "It occurred to me today that for all my criticism of poor mission statements , I’ve yet to write about how to make them better.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It occurred to me today that for all my criticism of poor",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "mission statements",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", I’ve yet to write about how to make them better.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/missioneering/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps that’s because ‘mission statements’ themselves matter far less than we think they do to begin with (and probably have no business being on your site). They’re often nothing more than self-admiration and wishful thinking, and they don’t serve any grander purpose than hyperbole (which is misleading at its best).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, it’s hard to see how mission statements even communicate anything of value. Because (if you think about it) it doesn’t help you or your employees or your customers to extol how much better you are than your competition, or to champion your innovative faculties, or (even) your esteemed dedication to customer service.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So no, you don’t need a mission statement. What you need is a purpose:",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why you do what you do",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "(not merely what it is you do and how you do it better). Because while it’s one thing to be the best in your industry, it’s entirely another to be the best for those you seek to serve.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To that end, here are three questions to ask yourself and your team that can (hopefully) help you guide these conversations and better articulate your purpose:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "1. What’s it for? (not what your product/service does, but what it’s for)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "2. Who’s it for? (define your smallest viable audience: who do you seek to serve. This helps you get out of the ’best in the world’ mindset and thinking smaller: ‘best for people who most matter’).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "3. What’s the long line? (Say you are the best in the world at what you do…say you can’t be beat…then what? If you’re not competing on a scarce resource, if you’re playing an",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "infinite game",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "…what do you have to give?)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?time_continue=681&v=_osKgFwKoDQ&feature=emb_logo"
+        }
+      ]
+    }
+  ]
+}

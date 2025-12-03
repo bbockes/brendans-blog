@@ -1,0 +1,43 @@
+{
+  "title": "148864070.better Bigger",
+  "slug": "148864070better-bigger",
+  "publishedAt": "2025-11-30T19:30:12.286Z",
+  "excerpt": "Having a bigger screen doesn’t make your more productive.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having a bigger screen doesn’t make your more productive.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In the same way that owning a bigger house doesn’t guarantee you’ll be happier.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bigger doesn’t always mean better, even if they do sound similar.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

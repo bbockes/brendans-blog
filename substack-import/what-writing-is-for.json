@@ -1,0 +1,75 @@
+{
+  "title": "What writing is for",
+  "slug": "what-writing-is-for",
+  "publishedAt": "2021-06-16T06:48:58.000Z",
+  "excerpt": "I recently saw a writer use the word ‘domiciled’ to describe where a service was located.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently saw a writer use the word ‘domiciled’ to describe where a service was located.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thing is, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "nobody",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " uses that word. At least not where I’m from.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "School sometimes encourages us to use words we don’t often hear, because it makes our writing sound smarter or more original.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But that’s not what (good) writing is, or what it’s for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because the purpose of writing is to convey a comprehensible, easy-to-read, and useful message, regardless of form.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

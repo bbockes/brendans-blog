@@ -1,0 +1,246 @@
+{
+  "title": "Sustainable future design",
+  "slug": "sustainable-future-design",
+  "publishedAt": "2020-11-01T05:17:55.000Z",
+  "excerpt": "I’ve often thought that long-term sustainability is as much a design challenge as a socio-economic one.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve often thought that long-term sustainability is as much a design challenge as a socio-economic one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider, for example, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "transit-oriented development",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". By putting neighborhoods closer to what people need—grocery stores, shopping destinations, restaurants, entertainment—homeowners are less likely to drive or even need to own a car, and more likely to walk, ride a bike, or take public transit.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=-ZDZtBRTyeI&ab_channel=Vox"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Cities and suburbs that require us to drive long distances to get anywhere are something ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "we built",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". And something we can ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "un-build",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", over time, if we choose.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider grocery bags. If your local grocery store suddenly ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "stops",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " using plastic bags (or selling plastic bottles)…the people in your town aren’t going to buy them, let alone use them. Same goes for straws and paper cups at your local café.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And if businesses and city planners not only continue to push EV’s and city-bikes—but also make them more affordable, more accessible, and more convenient, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " people will continue to use them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it’s not just a matter of product and urban design. The questions of ‘",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how can we get people to change, to adopt new habits, to deal with the in-convenience of it, or to embrace the weird",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "’ is—while by-and-large behavioral—a design challenge, as well.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Buying an EV (when you can ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "still",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " buy a gas-guzzler) will be a lot easier when all your friends are doing it. And even ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "easier",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " when your dream car (or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "truck",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") doesn’t run on gas.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=9FrnNTyOAes&ab_channel=JerryRigEverything"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Still, some problems are ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "easier",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to sell than others, and it’s going to take more than right-brained paternalists to change the world. But moving the ratchet forward, making the switch from an untenable status-quo to a more sustainable alternative (in all industries), will be largely a matter of design.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2019/02/some-problems-are-easier-to-sell/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because even though we’ll likely see huge industrial developments and many bright-eyed solutions in the next 50 years, the questions that matter most will remain: How can we make the transition ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "easier, more convenient, more useful, more accessible, or even just plain fun",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

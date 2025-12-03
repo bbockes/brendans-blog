@@ -1,0 +1,43 @@
+{
+  "title": "148863544.regret Minimization",
+  "slug": "148863544regret-minimization",
+  "publishedAt": "2025-11-30T19:30:03.163Z",
+  "excerpt": "‘Which choice, out of many choices, will I end up regretting the least?’",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "‘Which choice, out of many choices, will I end up regretting the least?’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I can’t think of a better question to ask when you’re faced with making a big decision.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One corollary being that, if you make a choice that has an unfortunate outcome, but one that you don’t regret, it makes no sense to feel bad because of the way things turned out.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

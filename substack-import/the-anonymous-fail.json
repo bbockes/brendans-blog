@@ -1,0 +1,65 @@
+{
+  "title": "The anonymous fail",
+  "slug": "the-anonymous-fail",
+  "publishedAt": "2019-07-01T05:58:00.000Z",
+  "excerpt": "A great way to avoid the embarrassment of failing in public is to fail anonymously.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A great way to avoid the embarrassment of failing in public is to fail anonymously.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Want to share something online? Use a pseudonym.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Want to up your game? Practice out of town.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it doesn’t work out, well, nobody (important) knows but you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There. Now not even your reputation can die trying.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

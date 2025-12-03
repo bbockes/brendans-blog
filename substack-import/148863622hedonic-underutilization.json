@@ -1,0 +1,166 @@
+{
+  "title": "148863622.hedonic Underutilization",
+  "slug": "148863622hedonic-underutilization",
+  "publishedAt": "2025-11-30T19:30:04.177Z",
+  "excerpt": "Many people own appliances they don’t use, don’t know how to use, or don’t have the time to learn how to use correctly.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many people own appliances they don’t use, don’t know",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to use, or don’t have the time to learn how to use correctly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And many of those same people will likely purchase yet another something this holiday season that, for better or worse, will likely go underutilized.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why you would buy something you don’t intend to use? Or",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "own",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "something you don’t intend to learn how to operate effectively?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Questions like these have always puzzled me. But I recently realized that most of it is baked into a recurring cycle of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "hedonic adaptation",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Hedonic_treadmill"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People buy stuff they",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "intend",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to use, and are often thrilled by all the useful features it offers, only to never make time to fully learn how to use those features, or, more often, never use them because they never",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "needed them",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "in the first place. When the thrill of owning the latest thing inevitably wears off, people look for something else to buy. They don’t think twice about the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "other things",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "they own that have all the same features and could do all the same things, because those things aren’t what’s new. So, they buy yet another thing to satisfy their craving that they’ll likely never use.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This explains why people can buy a smart-phone with a built-in calendar app and then convince themselves they",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "need",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "a smart-watch to do the same thing. Only to buy a Nest Home Hub, so they ask it ‘what’s on my calendar?’, and later be thrilled to discover that their smart-fridge has the same feature. Never mind the calendar on the touchscreen display in their car, their AI-assisted Bluetooth speakers, or the custom desk-calendar their cousin got them for New Year’s.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yes, it’s cool to have so many gadgets and gizmos that do the same thing. (And if we can one day get all those things to work in unison that would great!) But no, you don’t need more stuff that does the same thing, only cooler. Least of all if you never intend to commit to using it at all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

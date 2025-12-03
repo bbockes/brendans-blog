@@ -1,0 +1,238 @@
+{
+  "title": "The candor problem",
+  "slug": "the-candor-problem",
+  "publishedAt": "2020-09-14T07:05:00.000Z",
+  "excerpt": "It occurred to me recently that so much of the problems we face in our culture are a by-product of a lack  clear communication  and candor.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It occurred to me recently that so much of the problems we face in our culture are a by-product of a lack ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "clear communication",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and candor.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://jobs.netflix.com/culture/#communication"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider that, when many people are asked to leave their jobs (for whatever reason), the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "reason",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " isn’t often explicitly defined. People have a hard time being direct with their colleagues, which leads people to continue to say things and do things without even noticing their affect. And so, if and when their actions compound and cause them to be discharged, it often comes as a surprise.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The inverse is also true. If I’m not meeting expectations and I don’t know it, how can I possibly improve my performance so that I’m ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " inevitably let go?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider interviews. The prevailing advice tells candidates to omit negative truths whenever possible, and encourages them to put a positive spin on everything, including their weaknesses and personal failures. I'm not arguing that candidates shouldn't be intentional about what not to say, but it seems like walking over eggshells is not the way to get an authentic or consistent response.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What if we created a safe space where candidates felt they could tell the whole truth without worrying about if what they say could be misconstrued and used against them? (I think it would certainly help businesses source more honest and contientious humans.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One final example: consider post-interview ambiguity. Short of explicitly asking, there’s currently no way in the our job-hunt ecosystem for candidates to get good feedback from the people who turned them down. And yet, these people (hiring managers, recruiters, etc.) ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "certainly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " take notes. They ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "know",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " in what ways a candidate is unprepared, or if they didn’t say the right thing, or asked the wrong question. So why is it so hard to get this feedback when asked?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How much more difficult would it be to send them their notes—preferrably along with a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "sincere rejection letter",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—so that their not left wondering why they didn't get the job, what they did wrong, or what they could have done better. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "No one can improve on what they don’t know (and therefore can’t measure). Only by providing feedback that’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "kind, clear, specific, and sincere",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " can we ever hope to create a culture or a community that truly learns from it’s errors.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.perspicacitycollectanea.com/ghost-busters/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.radicalcandor.com/our-approach/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Related: Reed Hasting’s has lots more to say about this very topic in his ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "new book",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.norulesrules.com/"
+        }
+      ]
+    }
+  ]
+}

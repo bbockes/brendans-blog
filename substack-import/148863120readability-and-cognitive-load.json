@@ -1,0 +1,218 @@
+{
+  "title": "148863120.readability And Cognitive Load",
+  "slug": "148863120readability-and-cognitive-load",
+  "publishedAt": "2025-11-30T19:29:56.868Z",
+  "excerpt": "People are notorious scanners, especially when using digital tools. We often don’t read as much as we can or should, and instead tend to browse around before making visual beelines to what we'd most l",
+  "image": "https://blog.brendanbockes.com/wp-content/uploads/2020/03/before-after-1024x539.png",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People are notorious scanners, especially when using digital tools. We often don’t read as much as we can or should, and instead tend to browse around before making visual beelines to what we'd most like to find.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, we appear to have difficulty keeping things in mind. Generally, anything over",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "seven digits",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is a bit too much to track, and we're all familiar with how hard it can be to make a choice when given",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "too many options",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/channel-surfing-netflix/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence the simple (albeit laborious) solution to anything that has to do with communicating complex information: make it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "digestible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How so? A few pointers:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Style your words. (Bold or highlight key words to make them stand out, and use an appropriate typeface.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Use headers and paragraphs to make your text readable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better yet, use bullet points instead of a paragraphs.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Visualize concepts. (Use graphics and icons.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Reduce the amount of words: keep it concise and simple.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Use chunking: group and organize information together to make it easier to remember.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Don’t put important things in the margins. If it’s essential, it should go where your eyes naturally go—front and center.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Using spacing and grouping to your advantage by moving like items closer together, and making them look similar. (Respect the gestalt!)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "See the difference in this example?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s amazing what a little extra effort can do.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

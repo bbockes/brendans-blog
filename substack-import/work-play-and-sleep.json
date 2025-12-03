@@ -1,0 +1,64 @@
+{
+  "title": "Work play and sleep",
+  "slug": "work-play-and-sleep",
+  "publishedAt": "2022-05-19T07:00:00.000Z",
+  "excerpt": "There’s an exorbitant amount of talk about what makes a good life.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s an exorbitant amount of talk about what makes a good life.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When, perhaps, optimizing for work, play, and sleep is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " all you need.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A great job. Something fun to do with your free time. And a good night’s sleep.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you can find a way to spend a third of your day doing each, you’re solid.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

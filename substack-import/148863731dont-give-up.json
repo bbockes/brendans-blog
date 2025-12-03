@@ -1,0 +1,92 @@
+{
+  "title": "148863731.dont Give Up",
+  "slug": "148863731dont-give-up",
+  "publishedAt": "2025-11-30T19:30:07.772Z",
+  "excerpt": "Brother Gregory argues that if your life (consistently) isn’t working for you, it’s (likely) because when things get tough, you give up.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Brother Gregory",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "argues that if your life (consistently) isn’t working for you, it’s (likely) because when things get tough, you give up.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.stitcher.com/show/the-art-of-manliness/episode/help-for-those-stuck-between-boyhood-and-manhood-200219255"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Minus a few important caveats, that’s probably true.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And fortunate too, because it means that everyone can change their circumstances by implementing at least one of two workarounds:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Never give up/commit to persist/keep going.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Find a support system that doesn’t let you quit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Opting out (of what’s difficult) sure feels easier (in the short-term). But it’s not very empowering or fruitful in the long-term.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

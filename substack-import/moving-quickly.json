@@ -1,0 +1,65 @@
+{
+  "title": "Moving quickly",
+  "slug": "moving-quickly",
+  "publishedAt": "2022-07-22T07:00:00.000Z",
+  "excerpt": "What’s it mean?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s it mean?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does it mean your going so fast your people can’t keep up?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does it mean your overlooking opportunities in favor of what’s in front of you?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or does it mean that your in a race against time to change the present before we’re forced to confront the future?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hustling and rushing aren’t the same as urgency and haste.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

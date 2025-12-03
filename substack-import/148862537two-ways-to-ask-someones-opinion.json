@@ -1,0 +1,58 @@
+{
+  "title": "148862537.two Ways To Ask Someones Opinion",
+  "slug": "148862537two-ways-to-ask-someones-opinion",
+  "publishedAt": "2025-11-30T19:29:47.142Z",
+  "excerpt": "“Do you agree?”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“Do you agree?”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It seems trivial, but notice how it constrains you to take a side? You’re forced to decide, from the start, if you agree with them or not.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider an alternative: “What are your thoughts?”",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Less conflict. More learning.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

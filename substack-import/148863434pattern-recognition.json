@@ -1,0 +1,174 @@
+{
+  "title": "148863434.pattern Recognition",
+  "slug": "148863434pattern-recognition",
+  "publishedAt": "2025-11-30T19:30:02.054Z",
+  "excerpt": "Humans (as opposed to other mammals) are apparently singularly good at pattern recognition .",
+  "image": "https://blog.brendanbockes.com/wp-content/uploads/test-1200x822.jpg",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Humans (as opposed to other mammals) are apparently singularly good at",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "pattern recognition",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Pattern_recognition_%28psychology%29"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We can tell when something is out of place. When something’s missing that’s normally there, or when something is there that usually isn’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Usually, this is a great skill to have. It saves time, it saves lives, it improves our productivity manifold.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Occassionally and unfortunately, though, someone, somewhere (usually a psychologist) will come up with skills-based assessment with questions that look like this:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To which I respond,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how does this help me?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Or more appropriately,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how does it help you?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does selecting the right misplaced icon",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "measure my facility for pattern matching? Does it demonstrate my ability to navigate a place or a paradigm to the best of my ability, or to see the big picture?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does it mean I’ll leave the house the oven on? Or forget to change out of my slippers? Does it even correlate with my capacity to see regularities in data, or the irregularities in multidimensional space?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What does it really say about me? What does it mean? And",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—why on Earth is it important?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Just because something is easy to measure doesn’t mean measuring it is the thing to do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "/rant",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

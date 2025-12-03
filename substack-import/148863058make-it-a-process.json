@@ -1,0 +1,61 @@
+{
+  "title": "148863058.make It A Process",
+  "slug": "148863058make-it-a-process",
+  "publishedAt": "2025-11-30T19:29:55.542Z",
+  "excerpt": "If you organize anything to be a process —a series of steps that you chip away at over time—you can accomplish almost anything.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you organize anything to be a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "process",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—a series of steps that you chip away at over time—you can accomplish almost anything.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2018/03/the-bannister-method/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "then",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "it’s just a numbers game; you put in the time and you get the results.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

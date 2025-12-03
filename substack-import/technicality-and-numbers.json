@@ -1,0 +1,64 @@
+{
+  "title": "Technicality and numbers",
+  "slug": "technicality-and-numbers",
+  "publishedAt": "2023-02-08T06:00:00.000Z",
+  "excerpt": "One the fastest ways to tell the difference between an agency that knows there stuff and one that doesn’t is to ask how they track and measure performance.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One the fastest ways to tell the difference between an agency that knows there stuff and one that doesn’t is to ask how they track and measure performance.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, the best not only know what to measure, but ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to measure it. Which means they not only know how to implement analytics, but consistently track the metrics that matter and tell a story about it in a way that makes sense for everyone.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s not difficult per se. But it does mean you have to do things that sound complicated, and learn enough about tracking and reporting and why and how things work to make it happen.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Embracing what’s complicated is how you’re able to deliver results.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

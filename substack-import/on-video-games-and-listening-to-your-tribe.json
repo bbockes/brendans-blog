@@ -1,0 +1,210 @@
+{
+  "title": "On video games and listening to your tribe",
+  "slug": "on-video-games-and-listening-to-your-tribe",
+  "publishedAt": "2015-11-07T12:40:01.000Z",
+  "excerpt": "Yesterday, I decided to kick back, relax and enjoy my Friday evening home, alone, playing video games.",
+  "image": "",
+  "readTime": "4 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yesterday, I decided to kick back, relax and enjoy my Friday evening home, alone, playing video games.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I know that doesn’t sound like an activity most people in the blogosphere engage in, and it’s not something I’d recommend people do often. But I can’t deny it, since ’95 when my godmother got me my first Gameboy, I’ve been a gamer, and I enjoy it from time to time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now, about a year ago I purchased an Xbox One, the newest in Microsoft’s repertoire of gaming consoles. I originally purchased it to play Halo: The Master Chief Collection, a new game that actually consisted of all four of the previously released Halo titles, digitally remastered (and one them completely rebuilt from scratch) to be played on the latest hardware. Now, if we could just suspend the fact that the game didn’t work completely as ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "expected",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " when it was released, and that it’s still somewhat broken a full year later, it was, and is, a pretty cool effort on Microsoft’s part to re-release a great collection of games on it’s newest console. And because the majority of Xbox and Xbox 360 users are (or were) die-hard Halo fans like myself, the opportunity to play those games again was a huge incentive on our part to purchase the newest console, and an opportunity for Microsoft to delight it’s pre-existing fan base.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.thesixthaxis.com/2014/11/25/343-promise-to-make-things-right-for-halo-mcc-owners-in-wake-of-ongoing-multiplayer-issues/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This strategy of re-releasing or rebooting old games, is one that many game manufacturers are now adopting. This is because given the launch of eighth generation consoles, game manufacturers need to produce amazing games that will appeal not only to a new generation of gamers, but also to their pre-existing fans, who have already been playing their games for a decade or more.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s come to my attention, however, that many of these rebooted “classic” games (games that are hugely anticipated games for many many people) are failing to meet pre-existing customer expectations. Amazon reviews for the latest Halo game, for example, are largely ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "mixed",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Some hate it (presumably people who are fans of the original Halo games) because it’s nothing like the first three, or because it lacks key ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "features",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that made the game fun. Others like it enough to give it a 5 or 4 star review, and it’s my guess that the majority of these folks are newer to the title, because with no previous experience to compare it to, there’s not much to not like.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.amazon.com/gp/product/B00DB9JV5W?*Version*=1&*entries*=0#customerReviews"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "http://www.polygon.com/2015/11/2/9658442/halo-5-xbox-one-splitscreen-co-op-still-crime"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Reviews of the recently released, newly rebooted Need for Speed game, although far more ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "scathing",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", are similar in that they just don’t meet the expectations of what the pre-existing fans wanted from the game. The thing is, if 343 Industries or EA had just created a platform to allow these fans to literally tell them what they wanted (and what they didn’t) want in the game, and used that data to better inform their decisions about what to include and omit, I think these games would have far better reviews.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.amazon.com/Need-Speed-Xbox-One/product-reviews/B00XWQZPQ8/ref=dpx_acr_txt?showViewpoints=1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not hard (or costly) for a bunch of people who already code for a living to create a forum or a Reddit-style platform for fans to tell them explicitly what they want in their next game. Even if they provided an email address for fans to send requests, preferences or pretend five-star reviews detailing what they liked and didn’t like in the future game would be helpful. It’s certainly, in my opinion, better and far more cost-efficient to do that than make a crappy game that no one will buy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There are many more old Xbox games making a comeback in the next year or so. Personally, I’m looking forward to the next Battlefront, the Mirror’s Edge reboot and Doom in 2016. I’m not aware if these game manufacture’s have or will take it upon themselves to create an open communication platform for their fans, and I doubt they will. One can only hope they do a better job of listening to their fans and getting it right.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For the game designers* of tomorrow, (I’m hoping at least one of you will stumble upon this later in life) I hope you’ll take my advice:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ask yourself: “Who is this for?” Listen, intently, to what they have to say. And make this thing, whatever it is you intend to make, for them. Then go above and beyond to delight your true fans.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "*Hopefully you know by now this doesn’t just apply to game designers, but designers and teachers and artists of all kind.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

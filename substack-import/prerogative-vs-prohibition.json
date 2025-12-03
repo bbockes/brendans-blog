@@ -1,0 +1,155 @@
+{
+  "title": "Prerogative vs prohibition",
+  "slug": "prerogative-vs-prohibition",
+  "publishedAt": "2023-01-12T05:00:00.000Z",
+  "excerpt": "What do gasoline, potato chips, and Ashley Madison have in common?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What do gasoline, potato chips, and Ashley Madison have in common?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They’re all solutions to a problem. Sold to people with good intentions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By people who want to make a profit. To feed their families and have a life.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They also bad for you, your loved one’s, or the planet.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So where do we draw the line?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We don’t. The truth is, people create, sell, buy, market, and promote solutions all the time. Some people benefit from the business of doing so, while other’s don’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We can set up systems and guardrails to prevent harm and foul-play. But we can also invent ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "new",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " solutions to combat existing problems.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Banning ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Route 11 chips",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—which are delicious by the way—is not how we solve for obesity. Banning dating apps is not going to lower divorce. And penalizing folks who drive ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "gas guzzlers",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " won’t solve the climate crisis.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.rt11.com/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.epa.gov/fueleconomy/gas-guzzler-tax"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better incentives will.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

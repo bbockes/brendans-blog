@@ -1,0 +1,54 @@
+{
+  "title": "148863048.small Wonder",
+  "slug": "148863048small-wonder",
+  "publishedAt": "2025-11-30T19:29:55.367Z",
+  "excerpt": "How much pleasure can you get from a chestnut? Or a text editor? Or a visit to your dentist, market, or local cafe?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How much pleasure can you get from a chestnut? Or a text editor? Or a visit to your dentist, market, or local cafe?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How much happiness can you get out of ordinary things...or imagining things?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It stands to reason that the skill of deriving pleasure, gratefulness--joy even--from the simplest and most accessible of things is a luxury in and of itself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Far better than having to spend more on more stuff to fulfill a never ending need.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "title": "Appalling premises in the hiring process",
+  "slug": "appalling-premises-in-the-hiring-process",
+  "publishedAt": "2019-10-13T06:44:56.000Z",
+  "excerpt": "Employers make assumptions about their employees (and potential employees) all the time, which ordinarily would never pose a problem.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Employers make assumptions about their employees (and potential employees) all the time, which ordinarily would never pose a problem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The problem is that many of these assumptions are dead wrong.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the case the ‘arbitrary interview.’ One where the interviewer asks a list of seemingly random (impossible to perfectly answer) questions to measure the interviewee’s competence or assess their ability to thrive in a specific situation.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "More often than not, these ways of assessing people are not only wrong…but they’re so misleading that it’s appalling that people are subjected to them in their attempt to get a job.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because how someone responds to an arbitrary question is a very poor predictor of their performance. And worse still, just because they ‘tell you what you’re looking to hear’ (or don’t), doesn’t mean you can assume they have the best (or worst) of capabilities or intentions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Humans are notoriously bad ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "mind-readers",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". And it turns out were just as bad at making predictions of other people even when we have a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "portion",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " of the ‘facts.’",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.akimbo.me/blog/s-5-e-8-the-problem-with-mind-reading"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.newyorker.com/magazine/2000/05/29/the-new-boy-network"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence the simple solution: unless the question is some variation of ‘will you fit in around here?’, don’t ask questions to assess someone’s job performance. Test them instead.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Either let them try it out, or ask them to show their work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But (please) stop with the guessing game. Relying on unsound presuppositions to speculate someone’s future potential only wastes their time and yours.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

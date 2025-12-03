@@ -1,0 +1,86 @@
+{
+  "title": "148864075.scan Vs Search Vs Sort",
+  "slug": "148864075scan-vs-search-vs-sort",
+  "publishedAt": "2025-11-30T19:30:12.352Z",
+  "excerpt": "Something I’ve picked up on doing research online is how easy it is to overlook things when you scan.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I’ve picked up on doing research online is how easy it is to overlook things when you scan.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Walls of text are hard to read, so people rarely read them. Instead they simply scan the page or document, easily neglecting many of the things they opened it to spot.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Search seems to be a more effective solution. But even it has it’s flaws.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes search is skewed, and sometimes search is faulty. It doesn’t always return an exact-match, and also requires the skill knowing what you intend to find before you find it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sort is more precise. Using filters, you can often find",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "exactly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "what you’re looking for (based on some unique attribute) while skipping the dead-ends that often manifest with a simple scan or search.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not easy. You’ve got to know the formula, the method, or the tool, but a little proactivety can often help you find what you need in less time.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "title": "148863715.agile Learning",
+  "slug": "148863715agile-learning",
+  "publishedAt": "2025-11-30T19:30:07.443Z",
+  "excerpt": "I had a curious encounter the other day that highlights a critical flaw in the way most schools do education.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I had a curious encounter the other day that highlights a critical flaw in the way most schools do education.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "George Mason University offers a bachelors of art, and an MFA (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "master of fine arts",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") in both",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "graphic design",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "new media",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". It offers a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "certificate in graphic design",
+          "marks": [
+            "link-3"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and, for those interested, a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "minor in design thinking",
+          "marks": [
+            "link-4"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://art.gmu.edu/graduate-programs/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://art.gmu.edu/graphic-design/"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://art.gmu.edu/new-media/"
+        },
+        {
+          "_key": "link-3",
+          "_type": "link",
+          "href": "https://catalog.gmu.edu/colleges-schools/visual-performing-arts/art/graphic-design-undergraduate-certificate/"
+        },
+        {
+          "_key": "link-4",
+          "_type": "link",
+          "href": "https://catalog.gmu.edu/colleges-schools/interdisciplinary-programs-courses/design-thinking-minor/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What it doesn’t offer is a bachelors, masters, or even a certificate in",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "UX design",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/User_experience_design"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, it offers a suite of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "UX-related courses",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "that serve as elective credits under the “User Experience Design” track for their design thinking minor. Students can take these classes al-la-cart as non-degree students, but doing so won’t count towards a certifiable degree or certificate they can use to signal to employers that they know what they’re talking about.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://catalog.gmu.edu/colleges-schools/interdisciplinary-programs-courses/design-thinking-minor/#requirementstext"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is rather odd. For two reasons:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Graphic designers make less than UX designers. By almost half as much. So do fine artists.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Graphic designers are in lesser demand than UX designers. Which is why they get paid less, and also why it’s more competitive. Making it harder to land a decent job.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, students pay $60,000 for a degree to get a job that’s in lesser-demand and that pays less than a better alternative, precisely because GMU hasn’t had the nerve to make a certifiable program for that alternative. (And even when it already offers classes that could be used towards such a track.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because colleges are businesses. Filled with the same bureaucracy that makes it hard for big corporations to pivot. A new degree (let alone a simple certificate) would require curriculum planning and college approval…a slew of decisions and actions and efforts by people who already have too much on their plate. Who might not even see the upside of creating such a program, at least not until it’s abundantly obvious, which by definition, is probably too late.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bootcamps",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "don’t have this problem. And neither will the schools of the future.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://careerfoundry.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They have other problems, like accreditation. Getting a significant majority to approve their offerings, so as to make them certifiable. But",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "pivoting",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—recognizing an opportunity for students to learn something that’s both in-demand and that pays well, and then offering those students a program designed to teach them those skills,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "shouldn’t be an issue.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Being agile is a feature of the learning ecosystem that will continue to weigh even more heavily into the future. Because to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "thrive",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "in a competitive world, it’s not enough to offer any old program. Only the fittest will do.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://cvpa.gmu.edu/admissions/undergraduate-admissions/school-art-admissions"
+        }
+      ]
+    }
+  ]
+}

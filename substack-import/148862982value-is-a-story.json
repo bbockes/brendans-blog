@@ -1,0 +1,84 @@
+{
+  "title": "148862982.value Is A Story",
+  "slug": "148862982value-is-a-story",
+  "publishedAt": "2025-11-30T19:29:54.393Z",
+  "excerpt": "People do lots of things that (on the surface) make no sense.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People do lots of things that (on the surface) make no sense.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Buying modern art. Mowing your lawn. Paying extra for the exposé of opulence.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's because surface level assumptions rarely encompass the stories people tell themselves about these trade-offs.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Behind every action (even absurd ones) is a value exchange. The",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "content",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "of this transaction. The idea that you can trade things--time, money, attention--for other things that appear to be worth more than they cost.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/acknowledging-content/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Status, prestige, the idea that we're in sync--these are only as real as we make them. But by taking part in the value exchange, we can at least tell ourselves that they are.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

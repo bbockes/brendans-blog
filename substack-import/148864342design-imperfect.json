@@ -1,0 +1,54 @@
+{
+  "title": "148864342.design Imperfect",
+  "slug": "148864342design-imperfect",
+  "publishedAt": "2025-11-30T19:30:15.114Z",
+  "excerpt": "When you’re designing something, you’re almost always operating on hunches.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When you’re designing something, you’re almost always operating on hunches.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Even when you have competitors to look to, you rarely know if the placement of your content or your layout will work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s to say that design doesn’t have to be flawless. You merely have to create the best thing you can with what you have and what you know, test it within your constraints, and iterate for all long as you have time for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not coming up with the best solution full stop; it’s merely coming up with something that’s better than what you started with.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

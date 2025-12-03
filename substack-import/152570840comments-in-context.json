@@ -1,0 +1,112 @@
+{
+  "title": "152570840.comments In Context",
+  "slug": "152570840comments-in-context",
+  "publishedAt": "2025-11-30T19:30:16.789Z",
+  "excerpt": "Sometimes, changing the medium can make for a clearer message.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes, changing the medium can make for a clearer message.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re trying to tell someone something about something they need to see, it pays to pair your comments with a visual.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s where tools like",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Cleanshot",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(for Mac) and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Jumpshare",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(for Windows) can help. These tools allow you to quickly capture screenshots, annotate them, and share them with a simple link, making it much easier to communicate what you’re seeing.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://cleanshot.com/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://jumpshare.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Same goes for comments in design files–in Figma, Miro, or Sketch. Adding comments directly on the design itself can make feedback more precise and actionable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "These days, it’s not enough to point out a problem or suggest a change--that ambiguity only creates friction (and wastes everyone’s time).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By putting your comments in context, you can bypass the confusion, the guesswork, and the need for clarifications from the start.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

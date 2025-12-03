@@ -1,0 +1,111 @@
+{
+  "title": "148863421.it Might Not Be For You",
+  "slug": "148863421it-might-not-be-for-you",
+  "publishedAt": "2025-11-30T19:30:01.843Z",
+  "excerpt": "…but it might be for someone.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…but it might be for someone.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Would you buy a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "$99 tote bag",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "for creatives?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.kickstarter.com/projects/moment/moment-travelwear-bags-to-work-anywhere-travel-everywhere"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or watch all of a 26-minute promo video to learn more about who made it?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Would you even care about who designed it, who packaged or it, or who (else) wants to buy it?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", might not. But someone else might.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you find yourself in the former category, it can help to acknowledge that you are not everyone.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And if you find yourself in the latter, it can help just as much to know that everyone is not you.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

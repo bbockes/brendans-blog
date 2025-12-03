@@ -1,0 +1,65 @@
+{
+  "title": "161039330.urgent Accountability",
+  "slug": "161039330urgent-accountability",
+  "publishedAt": "2025-11-30T19:30:17.107Z",
+  "excerpt": "Tracking changes in a centralized dashboard–using Jira for example–is a great way to create a trail of changes and ensure accountability.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Tracking changes in a centralized dashboard–using Jira for example–is a great way to create a trail of changes and ensure accountability.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But if something’s urgent and you want to get someone’s immediate attention, it doesn’t help to rely on dashboard updates themselves.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In those cases, DMs over chat, or emails–when the update is a little less urgent or requires more information–can be a more effective way to get someone's attention.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It pays when remote teams acknowledge the benefit of adopting and utilizing both methods, ideally in tandem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "While centralized platforms are great for tracking overall progress, failing to combine them with more immediate communication tools (like instant messages or emails) can actually slow things down. By not addressing urgent matters quickly and clearly, you risk making the process less efficient, not more.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

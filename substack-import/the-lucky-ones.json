@@ -1,0 +1,145 @@
+{
+  "title": "The lucky ones",
+  "slug": "the-lucky-ones",
+  "publishedAt": "2020-12-12T05:00:00.000Z",
+  "excerpt": "I know more than a few people who have a bucket list.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I know more than a few people who have a bucket list.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "With any luck, maybe you and I can come out of this with one too.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because we’re the lucky ones. We’ve made it this far.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And that’s the point. We ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " therefore we ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "must",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In case you were looking,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is the sign you’ve been looking for. To set your overly ambitious goals. To make them known to the world (and to yourself). High time to cross some items off your list.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " made it. And the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "others",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—the dreamers, the doers, the one’s who’d give anything for the another mundane, do-nothing day like you have—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "they didn’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://time.com/5814406/coronavirus-obituaries/"
+        }
+      ]
+    }
+  ]
+}

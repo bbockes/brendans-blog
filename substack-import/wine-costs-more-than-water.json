@@ -1,0 +1,54 @@
+{
+  "title": "Wine costs more than water",
+  "slug": "wine-costs-more-than-water",
+  "publishedAt": "2020-09-17T07:00:00.000Z",
+  "excerpt": "Which is why if you go to a nice restaurant they'll tend to push the former, and ice over the latter.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why if you go to a nice restaurant they'll tend to push the former, and ice over the latter.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, while most won't tip well merely for great wine, no one tips generously for unreplenshed water. A rookie mistake, for sure.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to sell the wine (not push) and never have them think twice about the water.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Expectations managed.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

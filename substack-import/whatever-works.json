@@ -1,0 +1,124 @@
+{
+  "title": "Whatever works",
+  "slug": "whatever-works",
+  "publishedAt": "2020-05-20T06:01:13.000Z",
+  "excerpt": "Like I’ve said before, there are now hundreds of ways to get an (online) education (in almost any field).",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Like I’ve said before, there are now hundreds of ways to get an (online) education (in almost any field).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can easily ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "compare",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and contrast one program over another. Just as you can convince yourself why any one program will work out better for you.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/how-to-choose-a-bootcamp/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The truth is, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "any",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " program works. Because if it didn’t work for someone, no one would use it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Excuses aside, this means that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " that’s available ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s just a matter of showing up with the right kind of attitude and effort and drive to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "make it work",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " for you.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

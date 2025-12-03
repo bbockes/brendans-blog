@@ -1,0 +1,74 @@
+{
+  "title": "Predicting your future",
+  "slug": "predicting-your-future",
+  "publishedAt": "2021-04-01T06:04:00.000Z",
+  "excerpt": "What you did any random week 5 years ago is probably a better predictor of who you are now than anything else you could measure.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What you did any random week 5 years ago is probably a better predictor of who you are now than anything else you could measure.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which also means that what you do today, tomorrow, this week, or next, is just as good an indicator of where you'll go and who you'll be sometime in the future.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's not a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "definitive",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " sentence.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It simply means that if you don't like where you appear to be headed, the time to change is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "now",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

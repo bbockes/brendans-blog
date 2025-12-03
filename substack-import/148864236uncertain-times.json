@@ -1,0 +1,64 @@
+{
+  "title": "148864236.uncertain Times",
+  "slug": "148864236uncertain-times",
+  "publishedAt": "2025-11-30T19:30:14.177Z",
+  "excerpt": "When has it never been?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When has it never been?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Uncertain times are not an uncommon occurrence—they’re a normal state of affairs.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That fact that you or I can’t accurately predict the future means that the future is always unclear.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that now—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "right now",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—is as uncertain as ever.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

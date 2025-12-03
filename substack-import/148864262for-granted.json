@@ -1,0 +1,92 @@
+{
+  "title": "148864262.for Granted",
+  "slug": "148864262for-granted",
+  "publishedAt": "2025-11-30T19:30:14.693Z",
+  "excerpt": "This video has been making waves on the internet lately. And it certainly would be amazing if it wasn’t a fake.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "video",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "has been making waves on the internet lately. And it certainly would be amazing if it wasn’t a fake.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://twitter.com/BeachDog15/status/1518818029639020545?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1518818029639020545%7Ctwgr%5E9024da4f3895ef89c42c23882727d9aeb239a28b%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.reuters.com%2Farticle%2Ffactcheck-science-arctic-idUSL2N2WP22T"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, what’s interesting isn’t how gullible it’s made us all appear to be. But the fact that a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "single individual",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "was able to make something so believable in the first place.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.instagram.com/aleksey__n/reels/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We’re soon entering a world where visual effects and deepfakes are beginning to look as if they’re entirely real, which begs the question: what’s next?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When the world we see on screen looks exactly as reality appears, refusing to take anything for granted is the only way to spot the difference.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

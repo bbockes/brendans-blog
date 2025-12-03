@@ -1,0 +1,115 @@
+{
+  "title": "Wonky curricula",
+  "slug": "wonky-curricula",
+  "publishedAt": "2020-04-05T05:20:45.000Z",
+  "excerpt": "I took 2 years of biology in high-school. And absolutely zero years of psychology.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I took 2 years of biology in high-school. And absolutely zero years of psychology.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I took courses on alegrbra, geometry, and trigonometry. But never statistics or economics.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I spent a good chunk of time learning about science (but never really learning how it ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " works).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://peterattiamd.com/wired-think-scientifically-can-done/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And I took ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "years",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of “social studies” but I never learned how to do my taxes, invest in a 401K, or prepare for a pandemic.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It amazes me how we teach kids the study of certainty, of long-established dogma—but not of uncertainty, of statistical analysis and what we don’t yet know. Or how we can learn about the ‘natural sciences’, but not about the glitches and gaps in our ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "own",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " thinking, or the stuff that shapes our hopes, desires, biases, and fears.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People aren’t stupid. We’re just blind. Unaware of what we don’t know we don’t know. And trapped by a system—a government, a policy, a curriculum—that’s so focused on enforcing an outdated program it doesn’t care to tell us.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

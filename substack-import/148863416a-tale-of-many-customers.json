@@ -1,0 +1,169 @@
+{
+  "title": "148863416.a Tale Of Many Customers",
+  "slug": "148863416a-tale-of-many-customers",
+  "publishedAt": "2025-11-30T19:30:01.755Z",
+  "excerpt": "Imagine this: A hot summer day. A Starbucks drive-through. A long line of customers.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Imagine this: A hot summer day. A Starbucks drive-through. A long line of customers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The first customer is having a conniption because the Starbucks app didn't give them the free drink they thought they were entitled to.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The second customer is fuming (and honking) at the first because they're wasting his time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The third doesn't mind waiting, because it gives him more time to think about what—out of the nearly limitless array of beverage options—he wants to order.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A fourth is \"late for a meeting\" and--unsure whether she should stay or go--is melting with indecision.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The fifth also doesn’t mind. She’s using the experience as fodder for a blog post that she’s writing on her phone. Besides writing, she’s got plenty of reading to do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And finally, there’s the sixth, who drove",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all the way over here",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to enjoy himself, and is now having a 'crummy time'",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "waiting",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "in line (unsure of how to distract himself).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/waiting/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There was a seventh. But she quickly decided to exit the queue knowing that she could just as well make iced coffee at home. (And since it cost her about 0.03 the price of having a barista do it for her, she’s happy because she saved both time and money).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The million-dollar question, of course, is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "“who’s the most satisfied customer?”",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Not ‘satisfied’ as in,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "who got their way?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "But satisfied as in, ‘contented, confident, and happy’ with their decision.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Decide for yourself.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

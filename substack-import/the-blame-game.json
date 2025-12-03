@@ -1,0 +1,84 @@
+{
+  "title": "The blame game",
+  "slug": "the-blame-game",
+  "publishedAt": "2019-12-02T06:49:54.000Z",
+  "excerpt": "If one of your subordinates makes a mistake at work, what do you do?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If one of your subordinates makes a mistake at work, what do you do?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Do you fix the problem straightaway (while updating your process to ensure it doesn’t happen again)?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or do you spend an hour trying to find out who did it, why, and then assigning responsibility for their fault? And only after fixing the problem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Massaging guilt takes time. Quite a lot of you compound it per incident, which is why playing the blame game isn't only immature, it's expensive.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to simply fix the problem and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "assume",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " the best of your people than waste time focused on making them own up to something they may not even be entirely accountable for.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/smart-dogs-smart-people/"
+        }
+      ]
+    }
+  ]
+}

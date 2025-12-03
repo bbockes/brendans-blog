@@ -1,0 +1,116 @@
+{
+  "title": "Glitches and features",
+  "slug": "glitches-and-features",
+  "publishedAt": "2019-04-06T05:12:00.000Z",
+  "excerpt": "Yesterday, I discovered that what I previously thought was a minor glitch in my word processor was actually a unique  feature .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yesterday, I discovered that what I previously thought was a minor glitch in my word processor was actually a unique ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "feature",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://dev.w3.org/html5/html-author/charref"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It got me thinking about weaknesses and strengths.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many times the former are often a byproduct of the latter, and vice versa.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For example, I’m an extreme introvert that enjoys listening and observing and “quiet time” significantly more than being the center of attention. That often makes people percieve me as a “quiet ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "person",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ",” which means I’ll likely never win a popularity contest no matter how many times I try.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does that make me seem a little odd? Sometimes. Does it make me a better writer, thinker, or educator? I’d like to think so. Would I rather be someone else? Not likely.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed. Learning how to weave together a life that compensates for our weaknesses and exploits our greatest strengths is in part what makes our individual lives so rich and unique. It’s a constant challenge, but one that can be incredibly gratifying.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After all, you can’t have strengths without weaknesses. What makes it a feature and not a glitch is how you see it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "More important problems",
+  "slug": "more-important-problems",
+  "publishedAt": "2021-02-18T06:08:00.000Z",
+  "excerpt": "It's possible that the solution you have to the problem you're trying to solve isn't the solution that's needed, or wanted.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's possible that the solution you have to the problem you're trying to solve isn't the solution that's needed, or wanted.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or, more often, it's possible that the problem you've chosen to solve isn't as important or impactful as you had hoped.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whatever the case, you can't make a living solving problems that no one has, or by offering solutions that no one needs.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Fortunately, though, there are many other problems (and ways of solving them).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "More important ones, indeed.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

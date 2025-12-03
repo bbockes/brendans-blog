@@ -1,0 +1,98 @@
+{
+  "title": "Ups ux",
+  "slug": "ups-ux",
+  "publishedAt": "2019-11-12T05:36:46.000Z",
+  "excerpt": "Clearly, Amazon (and other customer-facing retail stores) has taken full advantage of automation and UX-design. Sadly, it seems, UPS hasn't.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Clearly, Amazon (and other customer-facing retail stores) has taken full advantage of automation and UX-design. Sadly, it seems, UPS hasn't.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the case of returns.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If I want to return something through Amazon, all I have to do is click a few buttons in the app and it gives me a barcode for a delivery company (usually UPS) to scan when they accept my package.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yet, when I go to UPS to deliver it, I have to stand in line for 15 minutes for a service rep to scan it and print me a receipt.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How come when I can go to the grocery store, pick up my vegetables, scan them, and purchase them all without talking to a person (or waiting in line), but I can't do essentially the same thing at a UPS store?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead of employing a team of two to scan packages all day, put up ten scanners so that people can walk in and do it themselves. Then use clear signage to communicate where they should put their package when they're done. And the two associates? Make it their job to engage and otherwise delight the customer any way they see how.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There you go. A better, more efficient and user-friendly system. And a terrific marketing/customer retention strategy to boot.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I'm not saying I don't enjoy making 30-second small talk with the service reps, but it seems to me that UPS is missing out on a golden opportunity to make their return queue more efficient, more user friendly, and cheaper long term. All upside.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

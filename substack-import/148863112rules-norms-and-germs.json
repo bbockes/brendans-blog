@@ -1,0 +1,224 @@
+{
+  "title": "148863112.rules Norms And Germs",
+  "slug": "148863112rules-norms-and-germs",
+  "publishedAt": "2025-11-30T19:29:56.452Z",
+  "excerpt": "I've written before about how sustainability is mostly a design challenge . And, now that I think about it, trying to make our way in the world contagion-free might be also.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I've written before about how sustainability is mostly a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "design challenge",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". And, now that I think about it, trying to make our way in the world contagion-free might be also.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/the-burden-of-convenience/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Neal deGrasse Tyson",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "argues that the latest virus scare is nature's latest way of testing our ability to follow instructions and do what scientists have been espousing for years: wash your hands, avoid germs, don't do anything stupid. But I realize that we can (and should) take it one step further--enforcing guardrails that encourage us to act in our own best interests. After-all, we don't have speed limits because people enjoy driving slow on the freeway.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/jB4FUHHMI24?t=56"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, going along with record sales of Clorox, sanitizer, and toilet paper, what I think we really ought to be spending our time and money on are germ-reducing",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "affordances, constraints, and conventions",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://medium.com/@diego./affordances-constraints-and-conventions-b9a1217115c6"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Allow me to explain: Instead of panic-induced grocery shopping, what if we started a movement around",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "hands-free door handles",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", dispensers, faucets and air dryers, while encouraging businesses and offices and schools and stores to remove their more germ-diffusing alternatives—door knobs, faucet handles, buttons and levers—basically anything that requires pushing, pulling or touching. The former could serve as a bundle of affordances that would make germ-reducing solutions more available (and more ‘normal’). Whereas the latter could be a collection of constraints that would effectively",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "give people the option to touch things with their hands (forcing good hygiene).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/StepNpull-Hands-Opener-Silver-Count/dp/B07HJDGWDB?ref_=ast_bbp_dp&th=1&psc=1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And what of conventions? Well. What if we outright banned",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "wet markets",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", double-dipping, and going to work sick? What if you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "had",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to get a flu shot—no matter what—or to wear latex gloves in public? What if we encouraged hand washing at nearly any time of day…without asking for a metaphorical bathroom pass to do it? And what if we could get people to--instead of buying soap at the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "expense",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "of others’ health—consume less, while actively taking precautions and championing habits, routines and resources that could reduce the need for incessant hand-washing altogether?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Wet_market"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://twitter.com/sjimons/status/1235950178789724168"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’m not saying that a few quick-fixes in how we do things can stop this tragedy (and it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "a tragedy). But I do think changing the way we go about tackling this problem—looking at it from the perspective of, how can we both individually and collectively act in our own best interests, and curb unhelpful habits—can be a tremendous tool in isolating it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s complex problem, for sure. Epidemiological yes. But also very much societal. If we focus on rectifying the latter—to best of our ability—maybe we can buy enough time to remedy the former.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

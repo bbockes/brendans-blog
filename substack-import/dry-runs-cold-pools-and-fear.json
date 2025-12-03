@@ -1,0 +1,137 @@
+{
+  "title": "Dry runs cold pools and fear",
+  "slug": "dry-runs-cold-pools-and-fear",
+  "publishedAt": "2020-08-31T06:00:00.000Z",
+  "excerpt": "Something I’ve noticed is that fear isn't a constant state of the same feeling at the same intensity at the same time. Just like all other emotions, it generally starts out rather innocuous, then it s",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I’ve noticed is that fear isn't a constant state of the same feeling at the same intensity at the same time. Just like all other emotions, it generally starts out rather innocuous, then it slowly builds to a climax, followed by a trough.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you can get over the peak event, you can probably sit and make peace with the rest of the experience. Because by the time that happens, you'll have already acknowledged that you're okay, and that—even if uncomfortable—you will be fine.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's like jumping in a cold pool. You acclimate once you’re in the water. It sucks at first, but once there, you adjust.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All the more reason to make a pact with yourself: to jump in, regardless of how you feel at the onset. And, after you've jumped—after you're in the thick of it—if you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "still",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " want out—to get out. To run for the hills (or your car). That's fair, right?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "At the end of the day, fear is a feeling. An automatic response to uncertain risk. It’s not going to go away even if you want it to, but that doesn’t mean you can’t choose to lean in and face it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Giving yourself the experimental choice of jumping in before your ready, and getting out when you’re set (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "if that’s what you want",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ")—can be a great way to get yourself over the hump of inaction, and onto a better state of mind from which to make that choice.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Related: I recently made a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "microsite for fear-setting",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", a technique for defining and overcoming your fears, made popular by Tim Ferriss’s now famous TED-talk.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://fearsettingguide.carrd.co"
+        }
+      ]
+    }
+  ]
+}

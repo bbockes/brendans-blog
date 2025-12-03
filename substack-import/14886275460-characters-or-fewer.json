@@ -1,0 +1,117 @@
+{
+  "title": "148862754.60 Characters Or Fewer",
+  "slug": "14886275460-characters-or-fewer",
+  "publishedAt": "2025-11-30T19:29:49.615Z",
+  "excerpt": "Here’s a fun challenge for the smart business professional (or savvy wordsmith):",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a fun challenge for the smart business professional (or savvy wordsmith):",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Make a list of your current service offerings and write a paragraph or two about each of them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Shorten it to a few sentences. Then two. Then one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Take your sentence and cut it in half. Edit it and revise it and change the words until you get it down to 60 characters or fewer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Tough? You bet it is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But it is a great way to articulate what you actually do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To work around the temptation to complicate things and use obtuse language to articulate your point. To write clearly. Free of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "drivel",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/glorified-drivel/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To get to the essence of the matter, say it in less.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

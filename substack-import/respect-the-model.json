@@ -1,0 +1,83 @@
+{
+  "title": "Respect the model",
+  "slug": "respect-the-model",
+  "publishedAt": "2020-02-04T07:22:25.000Z",
+  "excerpt": "A  mental model  is how someone thinks about how something works.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "mental model",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is how someone thinks about how something works.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.nngroup.com/articles/mental-models/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You likely have a mental model about how your car engine operates or how the hiring process works. Or how things like gravity and electricity and reality supposedly function. We even have mental models about how doors are ‘supposed to open’ and how e-commerce stores are ‘supposed to work.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When something doesn’t work the way we expect it to, oftentimes it’s because our model is wrong.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it works both ways: if ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " make something that doesn’t align with your users’ model, it’s not likely going to work the way you want it to, either.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

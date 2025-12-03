@@ -1,0 +1,54 @@
+{
+  "title": "148861970.if Today Is No Different From Yesterday",
+  "slug": "148861970if-today-is-no-different-from-yesterday",
+  "publishedAt": "2025-11-30T19:29:40.848Z",
+  "excerpt": "...tomorrow won't be any different either.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...tomorrow won't be any different either.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And this year won't be any different than last year.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And you're future will be a not-so-different version of the past.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nothing changes if nothing changes.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

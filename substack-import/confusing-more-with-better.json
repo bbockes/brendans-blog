@@ -1,0 +1,102 @@
+{
+  "title": "Confusing more with better",
+  "slug": "confusing-more-with-better",
+  "publishedAt": "2021-05-25T05:07:19.000Z",
+  "excerpt": "One well-written sentence is worth more than a lousy paragraph.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One well-written sentence is worth more than a lousy paragraph.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One fantastic meal is better than three bland ones.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And one outstanding fundraiser beats five with a lackluster turnout.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easy to confuse ‘more’ with ‘better.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because when the quality of something is constant, increasing its ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "quantity",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is best.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, when more means worse—as it often does—it’s not better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s less",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

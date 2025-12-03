@@ -1,0 +1,158 @@
+{
+  "title": "A case for project based learning",
+  "slug": "a-case-for-project-based-learning",
+  "publishedAt": "2020-08-07T06:15:00.000Z",
+  "excerpt": "People (i.e., clients, hiring managers, talent scouts) don’t care how much you know unless you have something to prove what you know.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People (i.e., clients, hiring managers, talent scouts) don’t care how much you know unless you have something to prove what you know.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so if you’re going to learn anything, it’s helps to also plan on making ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "something",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to show that you’ve learned it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, since the best way to learn anything is to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "do it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " (as opposed to reading or thinking or talking about it), completing skills-based projects fills two needs:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It helps you learn, and helps you remember.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It helps prove that you know what you’re doing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, instead of reading or thinking or testing for much of anything, it’s really helps if you:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Choose a project.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Learn the skills.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Share It.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Log what you learned.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Repeat.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

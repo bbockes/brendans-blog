@@ -1,0 +1,108 @@
+{
+  "title": "Almost perfect",
+  "slug": "almost-perfect",
+  "publishedAt": "2022-02-22T05:05:00.000Z",
+  "excerpt": "The best things in life are almost perfect.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The best things in life are almost perfect.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not perfect in every way. But close.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because few things, if any, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " perfect.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, they’re merely too good to be true.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And because imperfect things—or things that are far from perfect—are ubiquitous.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When faced with a difficult choice, then, it’s helpful to consider that the best options are those that aren’t perfect, but close to it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not faultless. Not average. And not awful.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But good enough, through and through.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

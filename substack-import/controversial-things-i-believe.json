@@ -1,0 +1,65 @@
+{
+  "title": "Controversial things i believe",
+  "slug": "controversial-things-i-believe",
+  "publishedAt": "2020-02-06T05:27:46.000Z",
+  "excerpt": "- School wastes time - So do most meetings - Placebos work - Interviews don't - Impressions are an arbirary metric - Everyone is an artist - Prodigies are made, not born - Everyone lies (if not, only ",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "- School wastes time - So do most meetings - Placebos work - Interviews don't - Impressions are an arbirary metric - Everyone is an artist - Prodigies are made, not born - Everyone lies (if not, only to themselves) - Apple sucks - No one can predict the future",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Disagree? Good. It (probably) means I’m doing my job.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because having an opinion means that I’m going to get things wrong. After all, writers are notorious trouble-makers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The choice we have as intelligent, curious citizens is to realize that no one gets everything right all the time. That doesn’t mean we should stop listening. It simply means we need to continue to continue to try to see the world as it is, seek truth, and form our own opinions based on real-news and real-data.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All we can ask of ourselves is that we do our best, treat each other with respect, and acknowledge (and apologize) when we inevitably get it wrong.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

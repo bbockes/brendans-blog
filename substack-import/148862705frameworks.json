@@ -1,0 +1,133 @@
+{
+  "title": "148862705.frameworks",
+  "slug": "148862705frameworks",
+  "publishedAt": "2025-11-30T19:29:49.235Z",
+  "excerpt": "A framework is a made up system that help us navigate complex ideas.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A framework is a made up system that help us navigate complex ideas.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For example, as humans, there are things that we value, and things that we don’t. You could say we have a sort of ‘value filter’ that we use to interpret people, places and things. An unconcious way of assessing what we like and what we don’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The ‘value filter’ isn’t real. But it sure helps us make sense of the world.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Kanban",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(Agile’s cousin) is a similar framework that you can use to improve your efficiency.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.atlassian.com/agile/kanban"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Kanban, of course, isn’t a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "real",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "system. But by acknowleding it, by using it, it can help you get things done faster.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And language? Grammar and syntax and semantics are only ‘real’ because we agree they are. That these combinations of sounds, spoken or written in a specific way, help us communicate with each other.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Language isn’t an axiomatic truth. It’s not real. But it does help get your point across. (Another way to say that you can probably bend the rules, at least a little).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The point isn’t to regard a framework as an inflexible tool. On the contrary.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s to acknowledge that frameworks are a fiction (a story) that we use to help us see things more clearly.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "148863966.price And Value",
+  "slug": "148863966price-and-value",
+  "publishedAt": "2025-11-30T19:30:10.963Z",
+  "excerpt": "There's very little correlation between price and value.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There's very little correlation between price and value.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the overpriced and underwhelming surf and turf meal at your local seafood shack. It might cost as much as $40, but there's no guarantee it will leave you as satisfied as a 3 egg omelet that costs half as much.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider, of all things, software. I've likely gotten more value out of my free Airtable membership than every app I've ever paid for combined.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, don't even get me started on headphones. Beats by Dre have nothing on Grados, despite being roughly the same in price. Meanwhile, Apple's Airpods are only marginally better than the $30 pair of in-ear headphones you might find on Amazon.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "My point isn't necessarily to be frugal for the sake of frugality, but to simply acknowledge that often, value doesn't often go up merely with an increase in price.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

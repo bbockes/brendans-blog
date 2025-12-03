@@ -1,0 +1,230 @@
+{
+  "title": "148864014.lessons From Restaurants",
+  "slug": "148864014lessons-from-restaurants",
+  "publishedAt": "2025-11-30T19:30:11.559Z",
+  "excerpt": "I recently had the great pleasure of contacting over 40 restaurants to do some on-the-spot fact-checking for a content piece.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently had the great pleasure of contacting over 40 restaurants to do some on-the-spot fact-checking for a content piece.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A couple things I learned along the way:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A website—particularly one for a restaurant—is made to accomplish three very important things:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To help users find the location & contact info",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To help users discover your brand and how it makes them feel",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To help users realize if they want to pay you a visit, by looking at photos of the food you serve and the venue it’s in.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everything else—shopping carts, gift cards, prices, etc.—is an abstraction and should be omitted. No one is coming to your site to buy a pound of oysters—sorry!",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If someone is calling your landline number, they’re doing so to accomplish one of three goals:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Find out your hours or location.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Make a reservation.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ask a specific question.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, if that’s the case, they better be greeted by a human on the other end. Preferably as fast as humanly possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Also: given the chance that someone might be calling to ask a specific question—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "do you have gluten-free options? is your patio dog-friendly?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—it’s pretty pertinent to ensure that whoever answers the phone",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "has an answer",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to these",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "questions",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.terryblacksbbq.com/austin/faq"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sadly, telling a customer to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "email their manager",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "just won’t cut it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

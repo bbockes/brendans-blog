@@ -1,0 +1,73 @@
+{
+  "title": "148863183.no Thank You",
+  "slug": "148863183no-thank-you",
+  "publishedAt": "2025-11-30T19:29:58.582Z",
+  "excerpt": "Turning down things not worth your time is a great way to safeguard your time, so that you have time to spend on things more worthy of it.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Turning down things not worth your time is a great way to safeguard your time, so that you have time to spend on things more worthy of it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's also something most people find particularly difficult to do. Not necessarily because there's a real risk involved (there's not), but because we often don't know what to say and what not to.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence the appeal of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "How to Say No",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", a directory of templates for email and text exchanges designed to help you do just that.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.starterstory.com/how-to-say-no?ref=producthunt"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because saying no doesn't have to be a hassle. And saving time for the most important things shouldn't be.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

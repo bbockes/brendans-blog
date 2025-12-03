@@ -1,0 +1,64 @@
+{
+  "title": "Not easily swayed",
+  "slug": "not-easily-swayed",
+  "publishedAt": "2021-07-10T05:07:00.000Z",
+  "excerpt": "Creating a relationship with someone who likes you for many reasons other than your good looks or money is a great way to build a relationship that lasts.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Creating a relationship with someone who likes you for many reasons other than your good looks or money is a great way to build a relationship that lasts.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And investing in assets that aren’t as volatile as others is a great way to accrue interest on things you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "won’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " be tempted to back out of.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Good things come to those who wait.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is to say, things not easily neglected.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

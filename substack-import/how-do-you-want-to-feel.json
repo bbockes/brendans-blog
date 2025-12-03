@@ -1,0 +1,43 @@
+{
+  "title": "How do you want to feel",
+  "slug": "how-do-you-want-to-feel",
+  "publishedAt": "2018-03-23T10:04:48.000Z",
+  "excerpt": "That might be the single best question for assessing how you want to go about your day.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That might be the single best question for assessing how you want to go about your day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Are you doing things that bring you joy or equanimity? That you’re proud of? That make you feel alive?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Knowing your intention beforehand is often a surefire way to bring about the outcome you seek.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

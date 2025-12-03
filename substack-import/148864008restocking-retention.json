@@ -1,0 +1,237 @@
+{
+  "title": "148864008.restocking Retention",
+  "slug": "148864008restocking-retention",
+  "publishedAt": "2025-11-30T19:30:11.436Z",
+  "excerpt": "As anyone who’s ever worked in a grocery store can attest, answering the question “when will it be back in stock?” is a frequent—almost daily—occurrence.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As anyone who’s ever worked in a grocery store can attest, answering the question",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "“when will it be back in stock?”",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is a frequent—almost daily—occurrence.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Regular customer’s usually get the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "same things",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "every time they shop (and tend to expect that those things will be there when they arrive).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, no one likes to wait in anticipation for things,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "almost ever",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", which is why they so often ask.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This perhaps explains why so many grocery stores often struggle with",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "customer retention",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", since most products are available at the same prices in other stores—and since—if you live in a city or suburb—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "other stores",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "are near ubiquitous.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Customer_retention"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If one store doesn’t have the product you need when you need it, you can easily go to another store (or shop online). Which makes you both more fickle about where you get your groceries, and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "less likely",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to become a regular shopper at any",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "one",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Herein lies the opportunity: what if Wegmans or Shoppers or your local grocer",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "messaged you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "when your item was back in stock. What if they had it on reserve waiting by the register? What then?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not hard to do—given the technology we have—in fact, e-commerce brands are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "already",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "doing this",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "online",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". I bet Amazon already has it on the agenda.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.klaviyo.com/blog/capture-customer-back-stock-flows"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "With the right technology, you could just as well tap your phone on the barcode in the store, press a button ‘to be notified when the item was back in stock,’ and carry on about your day. Then, when the item",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "was",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "back in stock, you could receive an automated message asking you if you’d like to purchase it now for pick up. Your grocer would get the message, put it in a bag, and reserve it at the front of the store.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Easy peasy. Problem solved. Customer loyalty preserved.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

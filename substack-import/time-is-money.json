@@ -1,0 +1,176 @@
+{
+  "title": "Time is money",
+  "slug": "time-is-money",
+  "publishedAt": "2020-05-13T07:18:39.000Z",
+  "excerpt": "…and money is time.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…and money is time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One way to look at the world is from the point of view that every moment spent is time that could be spent making money. The natural corollary being that time wasted is money never earned.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Another is that you can trade money for time, bartering it for work-free hours where your needs are met and your wants fulfilled. As a result, you can actually save money for more time. And the more you save, the more ‘time your earn.’ So, if you save ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "enough",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " money, you can even go an indefinite amount of time without needing more of it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, time spent saving money can sometimes cost you just as much time as it will make you money. So, if saving money is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "costing you",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " more time than the time it would take you to make that amount, it’s probably not worth it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.wikihow.com/Become-an-Extreme-Coupon-Shopper"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the other hand, if saving money is giving you more time to spend on things that that make you money, give you more time, or that make it easier for you to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "continue",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to save, so be it. It’s likely a good investment.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider this: there are lots of ‘priceless’ things you probably do everyday that won’t make you any money. (And that, while time consuming, are hardly worth trading up for more money or even ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " time.) Things like time spent with family or friends, pursuing hobbies, or merely doing what you love are activities that certainly take time, but most people would hardly argue it’s time that they would bargain for with money.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One last example: Time and money wasted. Surely, if time is money, then wasted time is money unmade. And if money is time, money misspent is time thrown away. But that’s not always the case. Time spent for no good use can still be ‘time well spent.’ And so can, arguably, money.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I realize this is not my most straightforward post. There’s a lot of nuance here, and that’s the point. Time is money ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " money is time. But at the same time, time is scarce (and money is not). Money, for the most part, is a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "story",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Which means that, once you have enough of it, it can be traded for time. Time, on the other hand, is an immutable asset, in that you only have so much of it, and nobody knows how much.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2014/02/most-of-all-money-is-a-story/"
+        }
+      ]
+    }
+  ]
+}

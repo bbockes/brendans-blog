@@ -1,0 +1,43 @@
+{
+  "title": "Intellectual arbitrage",
+  "slug": "intellectual-arbitrage",
+  "publishedAt": "2020-06-20T06:41:15.000Z",
+  "excerpt": "Lately I’ve been seeing a lot of ‘copy, paste and share’ posts cropping up on social media, many of which are some micro-rant about current events, doing your own research, and thinking for yourself.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lately I’ve been seeing a lot of ‘copy, paste and share’ posts cropping up on social media, many of which are some micro-rant about current events, doing your own research, and thinking for yourself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Few people seem to recognize that the act of plagiarism inherent in reposting is itself an act of narrow-mindedness.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Copying someone’s opinion, of course, isn’t nearly as effective or convincing as forming and defending your own.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

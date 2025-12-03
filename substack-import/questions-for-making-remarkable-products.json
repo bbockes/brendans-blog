@@ -1,0 +1,167 @@
+{
+  "title": "Questions for making remarkable products",
+  "slug": "questions-for-making-remarkable-products",
+  "publishedAt": "2020-03-23T11:15:34.000Z",
+  "excerpt": "'Who’s it for?'  and  'what’s it for?'",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "'Who’s it for?'",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "'what’s it for?'",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s the essence of design thinking. And it’s the key to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "maximizing",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " your ability to make a (useful) thing with your users in mind.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you answer those questions correctly, you’ll be 50% where you need to be to making a product for your users.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The other 50% comes from consistently asking two more questions:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "'Are we building the right thing?'",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "'are we building it right?'",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The more you can validate these questions with quality data, the greater you’ll ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "minimize",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " your chances of making a product that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "isn't",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " aligned with your users needs or wants.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Taking it a step further, these questions can be used to create a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "framework",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " for generating and refining product ideas so that you don't leave them up to your own assumptions or biases. But instead, base them on meaningful data that diminishes ambiguity and clearly points the way.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://medium.com/@evaschicker2012/why-the-double-diamond-is-the-most-precious-diagram-in-ux-design-40db0476e5d2"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "From drawing board to MVP and beyond, making the right thing in the right way for the right reasons for the right people is the secret to making something that’s remarkable.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

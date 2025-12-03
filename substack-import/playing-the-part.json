@@ -1,0 +1,114 @@
+{
+  "title": "Playing the part",
+  "slug": "playing-the-part",
+  "publishedAt": "2021-03-25T05:33:50.000Z",
+  "excerpt": "David Ogilvy  was once a cook, a farmer, and a stove salesman.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "David Ogilvy",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " was once a cook, a farmer, and a stove salesman.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/David_Ogilvy_(businessman)"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And yet.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ogilvy",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the brand",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " would never so much as consider hiring a copywriter without an advertising degree.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.ogilvy.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "More and more, what it takes to be a professional isn’t so much about innate or even acquired ability.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And more to do with what you’ve done, where you’ve been, and who you know.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed, having a compelling story, acting like a professional, and being the obvious choice is often more necessary than having a great degree of potential.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

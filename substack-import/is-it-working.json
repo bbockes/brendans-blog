@@ -1,0 +1,157 @@
+{
+  "title": "Is it working",
+  "slug": "is-it-working",
+  "publishedAt": "2020-05-05T07:03:32.000Z",
+  "excerpt": "One of the primary goals of any person who makes decisions using data is assessing the degree to which what their doing is working.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One of the primary goals of any person who makes decisions using data is assessing the degree to which what their doing is working.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After all, that’s (mostly) what communicating buy-in is all about.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, while it’s certainly easy to track metrics and relatively easy to learn how to improve them, measuring the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "right",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " metrics is often far more difficult.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Classic example: You can measure your site’s impressions, bounce rate, and clicks as much as you like, and even game Google into improving those metrics all-around. But that certainly won't mean your site is working, in the sense that it’s doing the thing it was made to do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And you can create an experience—a product, an app, a sales pitch—that looks great on paper. That presumably ‘works’ in all the ways you would expect it to. But that alone won’t mean it’s helping your users accomplish anything that they would like it to, in any way that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "they",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " would expect.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "My point? Dabbling in KPI optimization will certainly get you somewhere. But that doesn’t mean that tracking or improving ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "any",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " metric will get you anywhere that you or your users’ would actually like to be.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s far better to have a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "framework",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " for assessing what metrics most matter to your project. A way to both determine what signals are the best predictors of the what you’re testing for (based on your goals), and a means of prioritizing and quantifying those signals so that you know what to keep track of and what not too.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.dtelepathy.com/ux-metrics/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "KPIs without deliberation are just a buzzword. What makes them ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "key",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " performance indicators, as opposed to ’dashboard clutter,’ is by knowing what metrics most closely align with what you’re trying to measure from the start.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "title": "148862518.copy And Paste",
+  "slug": "148862518copy-and-paste",
+  "publishedAt": "2025-11-30T19:29:46.900Z",
+  "excerpt": "A colleague of mine spent the weekend doing school work and I got to watch.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A colleague of mine spent the weekend doing school work and I got to watch.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead of reading the text, she spent nearly 2 hours trying to find the answers to the problems online.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Search, find, copy, paste, repeat.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Clearly, this is a problem. Because by exclusively focusing on completing the assignment (not the learning the assignment intended) she’s not learning anything.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, students are spending invaluable time trying to find",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "answers",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "to problems they don't actually care to learn how to solve on their own.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.slader.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You could easily argue students are to blame. That if students actually cared about their education, they’d put in the work and avoid shortcuts.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But I don't think most students see it that way. Instead, they figure they have to pass this class because the curriculum demands it. And they don’t care to learn the subject matter because they haven’t been sold on it. So naturally, the best strategy is to do just enough to pass.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They’ll go to class, act like their listening and complete their assignments. But they won’t lean in. They won’t engage with their professor in any meaningful way. And they certainly won’t learn anything.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So what are you, as a thoughtful, well-intentioned teacher, to do?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One choice is to penalize students because they apparently don’t see the value of what your teaching. To keep them in class far longer than necessary and dole out more homework than satisfactory. To assume that as long as you keep conducting rote lectures and maintaining high expectations and regular office hours, you can at least take comfort in knowing",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you’re",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "doing your job.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Another choice might be to realize that if you’re students are failing, if they don’t care about what they’re learning, it’s your responsibility as a teacher to help them see otherwise. That while anticipating your student’s need for enrollment might not be in your job description, it’s still your job, because your job is to help your students.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Copy and paste is a great tool. But it’s not learning. The fact that students are resorting to it is a sign that something needs to change. Either they don't know enough to figure out the curriculum on their own, or more likely, they don't care enough to find out to begin with.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

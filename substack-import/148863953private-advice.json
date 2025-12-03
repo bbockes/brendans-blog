@@ -1,0 +1,59 @@
+{
+  "title": "148863953.private Advice",
+  "slug": "148863953private-advice",
+  "publishedAt": "2025-11-30T19:30:10.735Z",
+  "excerpt": "It's the best kind there is.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's the best kind there is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not in the vein of “I read it in a book,” or “saw it in the news,” or “overheard it from a friend.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "“I lived it, and this is what worked for me.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The best lessons come from the source.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "148862697.the Billionaire Myth",
+  "slug": "148862697the-billionaire-myth",
+  "publishedAt": "2025-11-30T19:29:49.088Z",
+  "excerpt": "This is a really nice house.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is a really nice house.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?time_continue=2&v=rFHVbYeWqds"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If I had the money, I’d buy it. But then again, maybe I wouldn’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "read",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "earlier this week that there of some people (particularly people who can afford eighty-eight-million dollar homes) that have enough money to live 1% lifestyles for thousands of lifetimes, and still have money left over.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.businessinsider.com/psychology-of-success-why-billionaires-get-depressed-2014-9"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And you know what? Many of those same people are hugely depressed. Because it turns out living in mansion sipping cocktails for days on end just isn’t as entertaining as one might expect.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Far better? Investing in better outcomes. Finding solutions to problems big and small. Leveraging your resources (and wealth) to dramatically scale change.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that yes, you might have to change your values. Reframing the story you tell yourself about money and status and surplus.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But it’s well worth the cost.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because having nice things in and of itself is pretty hollow. Living a life saturated with forward motion (one you can be proud of), isn’t.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

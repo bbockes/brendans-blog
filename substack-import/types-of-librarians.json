@@ -1,0 +1,103 @@
+{
+  "title": "Types of librarians",
+  "slug": "types-of-librarians",
+  "publishedAt": "2019-08-22T06:05:00.000Z",
+  "excerpt": "There are  custodians, keepers of keys, and caretakers to books, computers and scanners, alike. \n \n There are the  concierges , who's sole purpose is to extend warm greetings, answer inquires and cata",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There are ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "custodians,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "keepers of keys, and caretakers to books, computers and scanners, alike.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "There are the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "concierges",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", who's sole purpose is to extend warm greetings, answer inquires and catalog books.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "And then there are ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "curators...",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "who have nothing to guard and everything to share. Who connect the dots using whatever means necessary...be it a book or a journal article, blog post or Youtube video. Who don't see their job as the gatekeeper to a warehouse of dead scrolls...but as connector, teacher, and raconteur of an infinite pool of possibility.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In a word, curators curate. The best way they know how. Streamlining the grunt work of discovery and selection for the rest of us.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What an opportunity that is.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

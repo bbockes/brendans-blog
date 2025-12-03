@@ -1,0 +1,158 @@
+{
+  "title": "Stashing reading writing doing",
+  "slug": "stashing-reading-writing-doing",
+  "publishedAt": "2023-01-28T05:00:00.000Z",
+  "excerpt": "Reader  is a fairly new app from the folks at Readwise that helps users review information from books, articles, rss feeds, tweets, and other sources taken from the web. It’s a great tool for anyone w",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Reader",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a fairly new app from the folks at Readwise that helps users review information from books, articles, rss feeds, tweets, and other sources taken from the web. It’s a great tool for anyone who wants to revisit the valuable insights and ideas they’ve picked up from what they’ve ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "already",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " read. And, like similar bookmarking tools, yet another way to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "stockpile",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " things you’d like to read in the future.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://readwise.io/read"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Tsundoku"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, an ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "even better way",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of learning something is to write about it, speak about it, and (hopefully) apply it. Which is why having a blog (or a vlog, or a podcast) can be especially helpful, because it forces you to reflect on what you’ve read and heard and seen, and create something that’s uniquely memorable for you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why I’ve been using Reader not as a read-it-later-tool, but as a research tool.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not necessarily to stash books and articles I want to read later—I’ve rely on Instapaper and Raindrop for that—but to create a repository of information about a specific topic to analyze and examine ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "now",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "From there, I can apply tags to highlights, uncover gems and find patterns, and more generally extract the best information possible about whatever it is I’m researching.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then I can write a guide about it, or blog about it, or mention it to a friend, and (hopefully) start to apply the lessons I’ve learned in my own life.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That might sound like too much effort to spend on learning something new. Until you realize that stashing something if only to read it, forget it, and review it ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "again",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " some time later is a difficult way to learn much of anything.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "All failure is optional",
+  "slug": "all-failure-is-optional",
+  "publishedAt": "2019-05-11T04:54:00.000Z",
+  "excerpt": "To paraphrase  Adam Savage , “Real failure is getting drunk and missing your kid’s birthday.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To paraphrase ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Adam Savage",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", “Real failure is getting drunk and missing your kid’s birthday.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/Mp0r7gkAhPQ?t=1830"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The other kind of failure (or at least what we tend to label as failure) is when we make an genuine attempt at realizing an intended result and we get it wrong.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, that’s not failure. It’s just learning what doesn’t work in a specific context.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Learning that we are wrong is not the opposite of success. It’s a waypoint ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "on the way",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to success.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

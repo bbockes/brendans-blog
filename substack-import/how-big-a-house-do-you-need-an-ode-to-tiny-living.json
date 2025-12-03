@@ -1,0 +1,62 @@
+{
+  "title": "How big a house do you need an ode to tiny living",
+  "slug": "how-big-a-house-do-you-need-an-ode-to-tiny-living",
+  "publishedAt": "2017-10-05T09:54:10.000Z",
+  "excerpt": "Having a big house encourages you to collect more of what you don’t need, because you have to fill empty space. Of course, once you’re in the habit of accumulating things, it can be very difficult to ",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having a big house encourages you to collect more of what you don’t need, because you have to fill empty space. Of course, once you’re in the habit of accumulating things, it can be very difficult to learn how to get rid of things. And so many people often find themselves in a big house overstocked with things they don’t need or (really) want.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having a small space creates the opposite effect. It forces you to make difficult decisions about what to keep, and what to give away, in real time. After all, you can't accumulate everything. Just the essentials, and the few things that most bring you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "joy",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.happier.com/blog/5-life-changing-lessons-the-konmari-decluttering-method-taught-me"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Tiny houses are an amateur hoarder’s worst nightmare, not because there’s anything scary about a 400 square foot space. But because it quickly forces them to confront what most makes them vulnerable.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

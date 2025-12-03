@@ -1,0 +1,72 @@
+{
+  "title": "148863035.learning The Hard Way",
+  "slug": "148863035learning-the-hard-way",
+  "publishedAt": "2025-11-30T19:29:55.033Z",
+  "excerpt": "Whether it’s learning to (better) taste wine, how to network, or learning to code , learning on your own isn’t only the best way, it’s (really) the only way that really works.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whether it’s learning to (better) taste wine, how to network, or learning to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "code",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", learning on your own isn’t only the best way, it’s (really) the only way that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "works.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://learncodethehardway.org/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Take risks. Make mistakes. Learn from them. Repeat.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re too lazy, stubborn or afraid to learn (or rather to teach yourself) the hard way, it’s hard to see how you’ll ever get the results you seek.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

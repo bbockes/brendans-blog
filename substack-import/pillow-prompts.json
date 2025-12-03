@@ -1,0 +1,125 @@
+{
+  "title": "Pillow prompts",
+  "slug": "pillow-prompts",
+  "publishedAt": "2023-06-03T05:00:00.000Z",
+  "excerpt": "Noah Kagan challenges aspiring entrepreneurs to regularly ask for  discounts on small purchases , like lattes, knowing full well that developing the skill of asking for favors can help later them in t",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Noah Kagan challenges aspiring entrepreneurs to regularly ask for ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "discounts on small purchases",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", like lattes, knowing full well that developing the skill of asking for favors can help later them in their careers.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=YQdv5GE-kHY&ab_channel=NoahKagan"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And Ramit Sethi argues that one of the best ways to save on bank fees is to literally ask your bank to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "waive them",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". He even offers ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "scripts",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to help you do it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.iwillteachyoutoberich.com/how-to-avoid-bank-fees/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.iwillteachyoutoberich.com/special/6-powerful-telephone-scripts/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, now that everyone has access to a world-class virtual assistant, coming up with new ways to ask for things has become remarkably easy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So, whether you’re trying to make reservations at a bustling restaurant or ask for a discount on a premium product, you can now ask your ai bot of choice to come up with the ‘best phrasing’ or ‘sample transcript’ for your future interaction. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "While it won’t make it any less awkward to ask, by having a template to follow, it can help you carry yourself in way that makes it more likely that your request will be well received.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

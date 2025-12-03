@@ -1,0 +1,54 @@
+{
+  "title": "What do you do in the first ten minutes",
+  "slug": "what-do-you-do-in-the-first-ten-minutes",
+  "publishedAt": "2019-09-26T07:14:55.000Z",
+  "excerpt": "Of your morning? Of your workday? Of your commute to work?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of your morning? Of your workday? Of your commute to work?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of your lunch break? End of day break? Or when you get back home?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What you do first sets the agenda. It sets the cue that triggers the habit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The first ten minutes are what make the habit count.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

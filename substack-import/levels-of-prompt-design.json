@@ -1,0 +1,65 @@
+{
+  "title": "Levels of prompt design",
+  "slug": "levels-of-prompt-design",
+  "publishedAt": "2023-12-01T07:00:00.000Z",
+  "excerpt": "The first level of prompt design is asking generative ai to write something without a guide. “Write a blog about X.”",
+  "image": "https://blog.brendanbockes.com/wp-content/uploads/CleanShot-2023-11-23-at-11.03.30@2x.png",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The first level of prompt design is asking generative ai to write something without a guide. “Write a blog about X.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The second is to use a template or example. “Write an email that follows this outline. ”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The third level is about leveraging ideas and frameworks that the AI already knows, to give you even better results. “Are you familiar with X?…Do this using X.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For example, I recently asked ChatGPT if it was familiar with The Mom Test by Rob Fitzpatrick (a simple way to frame questions to avoid confirmation bias) and asked it to create a list of questions that passed the test.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I'm not so sure it'll work for everything in every context. But thinking about prompts in terms of levels of specificity can be a useful way to think about how to make the most of these tools, using what we already know and have at our disposal.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

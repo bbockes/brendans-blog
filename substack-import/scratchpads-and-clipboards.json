@@ -1,0 +1,94 @@
+{
+  "title": "Scratchpads and clipboards",
+  "slug": "scratchpads-and-clipboards",
+  "publishedAt": "2021-05-04T05:09:47.000Z",
+  "excerpt": "A scratchpad is a pad of paper used to jot down preliminary notes (for writers) or sketches (for artists).",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A scratchpad is a pad of paper used to jot down preliminary notes (for writers) or sketches (for artists).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Borrowed from computer speak, where it’s commonly referred to as the high-speed memory your computer uses to ‘save’ work in progress, it's a very useful tool to 'save' drafts as they come to you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because nothing is perfect the first time. And having a space to cut and copy and paste and edit and generally ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "move things around on your way to making them better",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is a life-save.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pair this with a tool like ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Jumpcut",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "—which saves your clipboard history up to 50 times—and you have a recipe for creative success.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://snark.github.io/jumpcut/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Skilled draftsmen make great artists.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

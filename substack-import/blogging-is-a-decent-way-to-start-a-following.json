@@ -1,0 +1,43 @@
+{
+  "title": "Blogging is a decent way to start a following",
+  "slug": "blogging-is-a-decent-way-to-start-a-following",
+  "publishedAt": "2024-04-07T06:00:00.000Z",
+  "excerpt": "Not the only way to make an impact.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not the only way to make an impact.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And perhaps the wrong way to make a fortune.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But it is a great way to express yourself (and be clear to yourself) every day.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

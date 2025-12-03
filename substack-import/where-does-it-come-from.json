@@ -1,0 +1,113 @@
+{
+  "title": "Where does it come from",
+  "slug": "where-does-it-come-from",
+  "publishedAt": "2021-10-06T05:06:00.000Z",
+  "excerpt": "Where does your food  come from?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Where does your food ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "come from?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or the clothes you’re wearing now?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or the dozens of physical objects you’ve picked up or used today?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Where does your electricity come from?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or the gas you use to drive your car?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or this email? Or that site?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nothing exists in a vacuum. Which means that knowing the source of anything (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "anything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ") is a great a way to discover the systems and connections and rhythms that make the world what it is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Peering behind what’s easily overlooked or forgotten.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

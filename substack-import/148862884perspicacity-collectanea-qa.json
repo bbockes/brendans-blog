@@ -1,0 +1,349 @@
+{
+  "title": "148862884.perspicacity Collectanea Qa",
+  "slug": "148862884perspicacity-collectanea-qa",
+  "publishedAt": "2025-11-30T19:29:52.362Z",
+  "excerpt": "If you receive my blog updates via email, you’ll (hopefully) discover that the title for my blog has changed to the above word juxtaposition. And if you click on the link back to my site, you’ll find ",
+  "image": "",
+  "readTime": "4 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you receive my blog updates via email, you’ll (hopefully) discover that the title for my blog has changed to the above word juxtaposition. And if you click on the link back to my site, you’ll find a completely redesigned blog of the same name.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It took a bit of tinkering, and about 6 months of learning enough HTML, CSS and Wordpress to figure it out, but I think it was all well worth it, and I hope you’ll agree.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So why the change?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Typepad (my former CMS) isn’t nearly as robust as Wordpress. Wordpress (I’m told) is far superior for SEO. It’s also highly customizable, as evidenced by the fact that you can change just about any design element that you wish. And their themes (more on that below) are truly first-rate.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most pertinently (at least for me), is the simple fact that I can now search for my posts in the search bar on my blog and actually find what I’m looking for. As a writer, being able to easily find what I’ve written in the past is an absolute game-changer, and whereas Typepad makes this aggravatingly difficult, Wordpress makes it as easy as possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s with the catchy title?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Short version: It’s an amalgam of two really cool concepts:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perspicacity: “the quality of having a ready insight into things.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "&",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Collectanea: “passages, remarks and other pieces of text collected from various sources.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Long version:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I chose ‘perspicacity’ because (in addition to learning to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "write better",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") having ‘a ready insight into things,’ (or ‘acute discernment) is one of the reasons I started blogging in the first place. As Keith Ferrazzi, the famed business author, writes in",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Never Eat Alone:",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2011/09/talkers-block/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "“A unique point of view is one of the only ways to ensure that today, tomorrow, and a year from now you’ll have a job…In America’s information economy, we frame our competitive advantage in terms of knowledge and innovation. That means today’s market values creativity over mere competence and expertise over general knowledge. If what you do can be done by anyone, there will always be someone willing to do it for less. Witness all those jobs moving offshore to Bangladesh and Bangalore. The one thing no one has figured out how to outsource is the creation of ideas. You can’t replace people who day in and day out offer the kind of content or unique ways of thinking that promise their company an edge.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And ‘collectanea?’ While the semiotics might give the impression that it is referring merely to an anthology, or a collection of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "other",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "people’s works and ideas, I think it’s an apt way to remind myself that my ideas are not entirely my own. That ideas (and creativity) aren’t created in a vacuum, and that who I am and how I think and what I write about are just as much a function of my own mind as they are of the culture and time and resources available to me.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Posterity",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", of course, counts for something. And I also don't necessarily write about one straitforward topic, either. Indeed many of the things I write about are ideas I've borrowed from others, and simply revised or applied in new ways.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2017/02/what-posterity-has-done-for-us/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, 'Perspicacity Collectanea' just sounds cool (at least, I think it does). And it’s probably a lot easier to rank for online than ‘Brendan’s Blog.’ (No more competing with cryptographers and Linux wunderkinds.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Parting thoughts?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’m going to miss writing on Typepad. And for those new to blogging, I can’t recommend it enough. But I’m also really excited to share this new blog with the world.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Keep in mind that you’ll still have access (via my new superb search bar) to all of my old blog posts, from as far back as 2014. I even added a few from my even older brendanbockes.wordpress.com blog that I had for a few months before Typepad.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As always, I hope you enjoy reading my writing (on whatever platform) as much as I enjoy creating it. Here’s hoping to another round of fresh insights! Stay tuned!",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "P.S. I’d be absolutely remiss if I didn’t mention my Wordpress theme creator",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Rich Tabor",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Rich is a Wordpress development whiz and once made a lucrative career selling his custom-coded WordPress themes online, before joining GoDaddy as a Senior Product Manager. After being promoted, Rich generously chose to share all of his premium Wordpress theme files on GitHub for free (an incredible value). In case you’re wondering, my new site is running the ‘Tabor’ theme (with a large chunk of my own CSS). Check out all of Rich’s themes",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "here",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "!",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://richtabor.com/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://themebeans.com/themes/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "UPDATE: My blog has now been moved to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "blog.brendanbockes.com",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "(FYI).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Less bad things",
+  "slug": "less-bad-things",
+  "publishedAt": "2021-08-11T05:26:51.000Z",
+  "excerpt": "A lot of what we do in our roles as designers, scientists, storytellers, and educators is about making better things, or enabling others to make better decisions.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A lot of what we do in our roles as designers, scientists, storytellers, and educators is about making better things, or enabling others to make better decisions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, in so doing, we often forget that making ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "less",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " bad things—by improving what’s broken and making sense of chaos—is just as valuable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If not more rewarding.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

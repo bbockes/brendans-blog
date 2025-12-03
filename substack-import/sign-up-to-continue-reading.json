@@ -1,0 +1,127 @@
+{
+  "title": "Sign up to continue reading",
+  "slug": "sign-up-to-continue-reading",
+  "publishedAt": "2019-10-29T07:24:07.000Z",
+  "excerpt": "I’ve begun to notice that many popular news organizations now require you to  sign-up  to their newsletter to simply read the articles on  their  website.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve begun to notice that many popular news organizations now require you to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "sign-up",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to their newsletter to simply read the articles on ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "their",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " website.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.nationalgeographic.com/animals/2019/10/american-turtles-poached-to-become-asian-pets/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This, I think, is a mistake. With a one exception.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If it’s something I sincerely want to read, by a source who I respect, about a topic I want to regularly learn more about, well then of course, encouraging me to sign-up with a pop-up is probably worth the cost of interrupting me.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That being said, I have little doubt that this perfect storm of occurrences happens less than 20% of the time. Maybe even less than 10%.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because when most people come upon an article online, they do so serendipitously. They're looking for an answer to a question (not looking for heavily researched piece), and their perfectly fine with going back to click on another search result if they don’t immediately find what they’re looking for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, even if they are looking for articles to read (as I often do), the ubiquity of alternative news that’s freely accessible makes it overwhelmingly likely that I’ll simply find another article.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It sucks that news organizations have to stoop so low to encourage people to sign-up for (and pay for) readership, but doing so at the expense of interrupting the few who actually want to read it is a mistake.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to encourage people to opt-in than to coerce them into signing up, at the risk of losing the interest of those who care enough to read it in the first place.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

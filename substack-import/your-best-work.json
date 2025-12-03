@@ -1,0 +1,64 @@
+{
+  "title": "Your best work",
+  "slug": "your-best-work",
+  "publishedAt": "2020-10-12T05:05:00.000Z",
+  "excerpt": "It’s entirely possible that your best work isn’t what you get paid to do.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s entirely possible that your best work isn’t what you get paid to do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or, even something you do while at work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "While it’s true that you need to love what you do to do work you're proud of—being ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "paid",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to do it is no prerequisite for having discovered your best way to make an impact.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In other words: how we choose to make a difference doesn’t have to always be what pays the bills.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

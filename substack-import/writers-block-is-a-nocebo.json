@@ -1,0 +1,115 @@
+{
+  "title": "Writers block is a nocebo",
+  "slug": "writers-block-is-a-nocebo",
+  "publishedAt": "2017-10-03T11:49:36.000Z",
+  "excerpt": "When we avoid jumping into a pool because it’s cold, we just say “the pool’s cold.” And when we pass up going to the gym because it we’re lazy, we simply say, “I don’t feel like it.\"",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When we avoid jumping into a pool because it’s cold, we just say “the pool’s cold.” And when we pass up going to the gym because it we’re lazy, we simply say, “I don’t feel like it.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We don’t say we ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "can’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " do it. We don’t say we have some sort of physical or psychological handicap that impedes our ability to jump in. We just say, “I won’t.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Writers block (or any other creative block) is a story we tell ourselves that lets us off the hook. A seemingly harmless phrase we use to guard ourselves against overcoming the inertia of jumping back in.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s so easy to say, “I have nothing to contribute,” or “I’m not the creative type,” or “my mind is as blank as Locke’s tabla rasa.” Negative ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "expectations",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that only serve to fortify the beliefs they imply. ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Nocebo"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The reality is not whether or not you can. The reality is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you don’t want to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The faster you can extinguish the narrative that contributes to your own self-deception, the sooner you can overcome your paralysis and discover the impact of which you’re truly capable.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

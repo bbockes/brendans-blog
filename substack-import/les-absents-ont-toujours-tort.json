@@ -1,0 +1,75 @@
+{
+  "title": "Les absents ont toujours tort",
+  "slug": "les-absents-ont-toujours-tort",
+  "publishedAt": "2020-02-17T07:32:20.000Z",
+  "excerpt": "As the French say, ‘the absent are always wrong.’",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As the French say, ‘the absent are always wrong.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is to say, the writers, the designers, the product owners.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because the people using and interacting with our output—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "they",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " have the final say. After all, we craft experiences for our users, not our egos.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so, unlike purely creative pursuits—where the language or expressions we use are an end in themselves--we have to learn to fickle with our words and with our ideas, because they are a means to an end.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To give them up readily, willingly, and dispassionately—in pursuit of serving the very people we are using them for. To let our creative ego’s slide, while embracing the fact that we can be wrong even when we’re ‘right.’",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

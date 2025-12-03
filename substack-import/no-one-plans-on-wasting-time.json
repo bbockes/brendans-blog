@@ -1,0 +1,42 @@
+{
+  "title": "No one plans on wasting time",
+  "slug": "no-one-plans-on-wasting-time",
+  "publishedAt": "2020-10-06T06:57:19.000Z",
+  "excerpt": "Which is why if you have things you need to do, it helps to do them  before  you spend any time idling.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why if you have things you need to do, it helps to do them ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "before",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you spend any time idling.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Otherwise, the time you spend in the interim could end up being time wasted.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

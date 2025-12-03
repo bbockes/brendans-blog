@@ -1,0 +1,84 @@
+{
+  "title": "Inevitable shortcomings inescapable self doubt",
+  "slug": "inevitable-shortcomings-inescapable-self-doubt",
+  "publishedAt": "2019-12-11T06:53:41.000Z",
+  "excerpt": "Doing something for the first time feels really awkward, because you generally have to grapple with three ideas simultaneously:",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Doing something for the first time feels really awkward, because you generally have to grapple with three ideas simultaneously:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "1. That you suck at this. (After all this is your first attempt). 2. That because you’re no good, you probably shouldn’t try. 3. That you’re a fraud (because you are)…and that you’ll never get any better than where you are now.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, once you realize that everyone who’s ever attempted something feels this way (and that feeling like an ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "imposter",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is completely normal), making the decision to keep at it is infinitely easier.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.stitcher.com/podcast/pods/akimbo/e/64937073"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because then it's just a choice: Do you continue to continue (and simply make space for those feelings)? Or do you give up altogether (forever bound to the contemplation of ‘what if?’)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out choosing the former is the only way anyone has ever learned to embrace the entirely new (which is to say, learn anything ever).",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

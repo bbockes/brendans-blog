@@ -1,0 +1,106 @@
+{
+  "title": "148862064.reciprocity Corrupts Generosity",
+  "slug": "148862064reciprocity-corrupts-generosity",
+  "publishedAt": "2025-11-30T19:29:42.560Z",
+  "excerpt": "Someone told me recently that if the 1% didn’t charge for nearly everything they did, from personal branding to interviews to acts of (apparent) concern, they wouldn’t be nearly so wealthy.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Someone told me recently that if the 1% didn’t charge for nearly everything they did, from personal branding to interviews to acts of (apparent) concern, they wouldn’t be nearly so wealthy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That might be true.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, by always assuming reciprocity, they miss out in the fun of",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "giving",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "generously.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.charitywater.org/donate?utm_medium=email&utm_campaign=EOY2017&utm_content=GiveEverything"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Putting a price on everything might a good strategy for scaling a business, but it’s no way make a life.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You do that instead by repeatedly investing in a future worth living in.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By showing unwarranted empathy. Making a positive impact. And preserving the gratuitousness of what is free and whole-hearted gift giving.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No one should ever feel obligated to tip (or be tipped) for random acts of kindness.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

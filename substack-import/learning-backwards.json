@@ -1,0 +1,117 @@
+{
+  "title": "Learning backwards",
+  "slug": "learning-backwards",
+  "publishedAt": "2018-07-30T11:33:44.000Z",
+  "excerpt": "When we choose something (a purchase, a job, a relationship, a lifestyle), we’re choosing that thing based on the person that we are when we chose it, not the person we’re going to be once we have it.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When we choose something (a purchase, a job, a relationship, a lifestyle), we’re choosing that thing based on the person that we are when we chose it, not the person we’re going to be once we have it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thus, every one of us is going to inevitably experience more than our fair share of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "sunk costs",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". That the things we chose to invest in, to buy, or to nurture, the lives we chose for ourselves, these might not accurately reflect the persons we are now, or the people we become.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Sunk_cost"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that, you can be upset about the (wasted) time in-between the person you were and the person you are. To hate something, or someone.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To regret the experience altogether and to feel hurt because you missed out on something better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or you can choose to embrace the fact that you’re tempted to feel that way precisely because you’ve changed.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That, often, the price we pay to see the world more clearly, to see all the possibilities is to realize the missed opportunities.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Regret is merely a symptom for having learned something (about the world or yourself) that you didn’t know previously.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sunk costs reveal opportunity costs. Being aware of those opportunities is how we learn to make better decisions.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

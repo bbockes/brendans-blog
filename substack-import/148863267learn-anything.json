@@ -1,0 +1,95 @@
+{
+  "title": "148863267.learn Anything",
+  "slug": "148863267learn-anything",
+  "publishedAt": "2025-11-30T19:29:59.838Z",
+  "excerpt": "Josh Kaufman claims you can learn anything (and be moderately* good at it) in just 20 hours .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Josh Kaufman claims you can learn anything (and be moderately* good at it) in just",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "20 hours",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Learn-Anything-First-Hours-Paperback/dp/B00KN8KLRG/ref=sr_1_2?dchild=1&keywords=the+first+20+hours&qid=1591316203&sr=8-2"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "He might be right.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, that means that if you can carve out just 20 minutes everyday for 60 days, you can learn a new skill every 2 months. (Even faster if you can practice longer.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That translates to six new skills every year, or one skill you’re so good at, you could probably make it your job.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And while 20 minutes of painful practice might mean 20 minutes less of something more fun, just think how you’ll feel once those 20 minutes compound into something worth the effort.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*As in good enough to impress your friends. World-class, not so much.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

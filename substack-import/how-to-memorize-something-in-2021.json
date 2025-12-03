@@ -1,0 +1,147 @@
+{
+  "title": "How to memorize something in 2021",
+  "slug": "how-to-memorize-something-in-2021",
+  "publishedAt": "2021-09-08T06:08:00.000Z",
+  "excerpt": "Write down what you want to remember. Could a mound of text or a story or random facts—write it all down in your text editor of choice.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Write down what you want to remember. Could a mound of text or a story or random facts—write it all down in your text editor of choice.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Publish it online. Open an anonymous Medium account if you have to.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Save it to your Instapaper account (create one if you don’t). Then buy Instapaper premium (it’s $2.99/month).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Download the Instapaper app on your phone. You should now see the article(s) you saved.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Tap the 3 dots in the upper-right corner, tap “playlist,” and select your article. Tap “Create Playlist.” It will repeat your article via Instapaper’s text-to-speech feature.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Play it on .5x speed 50 times (in your car, while you drive). Pretty soon, you’ll know what to expect, and you’ll start rehearsing (memorizing) the text.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can even apply this using mnemonic techniques, such as by creating an ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "abstractly visual story",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to memorize words or concepts and then using this process to memorize it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=U6PoUg7jXsA&ab_channel=TED"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Looking for a free version?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " Skip steps 2-5 and upload your text to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ttsreader",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " instead. (I like the English, UK, Female voice on slow.)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://ttsreader.com/"
+        }
+      ]
+    }
+  ]
+}

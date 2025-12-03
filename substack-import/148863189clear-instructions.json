@@ -1,0 +1,84 @@
+{
+  "title": "148863189.clear Instructions",
+  "slug": "148863189clear-instructions",
+  "publishedAt": "2025-11-30T19:29:58.725Z",
+  "excerpt": "The instructions for my midterm assignment for the online course I’m taking weren’t very explicit. The net result being that hundreds of students have now gone to the ‘Ask a Mentor’ forum for answers ",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The instructions for my midterm assignment for the online course I’m taking weren’t very explicit. The net result being that hundreds of students have now gone to the ‘Ask a Mentor’ forum for answers to redundant questions. Answers that could and should have been answered in the rubric.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Moreover, since it’s asynchronous, and because there are actually dozens of mentors who chaperone the course (with no central authority), it’s no single instructor’s responsibility to fix what’s broken. To simply improve the rubric so that people don’t have to continue to bombard them with questions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so everyday, instructors ‘do their jobs’ by responding to questions that have probably been answered by other instructors for other students…creating countless hours of ‘work’ that should never have been made possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, this phenomenon applies just as much to classrooms with one-person teachers as it does to teams with solo policymakers. That being that ill-defined instructions almost always lead to confusion, which often creates more of a hassle than it would to simply revise and add to your original directives to make them more clear.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ambiguity, of course,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "compounds exponentially",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and often helps no one (including those who create it). But directions linearly and definitely addressed make it easier for everyone involved.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/ambiguity-compounds-exponentially/"
+        }
+      ]
+    }
+  ]
+}

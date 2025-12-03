@@ -1,0 +1,154 @@
+{
+  "title": "Minimum viable competence 2",
+  "slug": "minimum-viable-competence-2",
+  "publishedAt": "2020-06-06T05:51:45.000Z",
+  "excerpt": "It occurred to me recently that most of what we do to effectively get  buy-in  has nothing do to with demonstrating proficiency, but rather substantiating competence.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It occurred to me recently that most of what we do to effectively get ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "buy-in",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " has nothing do to with demonstrating proficiency, but rather substantiating competence.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/getting-buy-in/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Classic example: a designer needs to only have 3-4 relevant (well-crafted) projects in their portfolio to land a great job. She doesn’t need to talk at length about what she knows about design and where it’s headed--that’s irrelevant to the job. All she needs to know (or rather, communicate) is that she knows enough so that she hit the ground running (or more often, to get by on the seat of her pants).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I used to think that having a blog would be my one-way ticket to permanent employment. Because if I could just communicate to employers that I knew what I was talking about, I’d have no trouble securing a job. Now I realize it’s not so much about what I know as it is about what value I can provide, and in communicating that value in a way that makes the most sense to hiring managers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having a well-rehearsed elevator pitch (or even a polished portfolio) doesn’t prove that you’re a professional. But the best ones ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "do",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " communicate who you are and what you’ve been up to and where you’re headed. And those things—as opposed to having a breadth or even a depth of industry knowledge—matter far more in the process of articulating what you can do (for your employers). You don’t have to be an expert to get a job—far from it—you just have to communicate that you have ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "enough",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " skill, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "enough",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " knowledge and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "enough",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " ability—to meet their needs, and fulfill their requests.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In other words, if and when you’re just starting out*, focusing on communicating proficiency at the expense of demonstrating ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "minimal viable competence",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a trap.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/minimum-viable-competence/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*There are likely more than a few caveats to this: that being any kind of job where ‘being an expert’ matters more your ability to do your job. College professors, for example, don’t have to be great at what they do to get tenure, but they do have show that they know what they're talking about (via published research, securing grant funding, or simply not getting fired for lack of expertise). And, of course, there are jobs where expertise and quality-control really do matter starting out—jobs like engineers and surgeons come to mind--which is precisely why these jobs pay so much.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

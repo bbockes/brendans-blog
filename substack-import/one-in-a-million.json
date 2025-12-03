@@ -1,0 +1,151 @@
+{
+  "title": "One in a million",
+  "slug": "one-in-a-million",
+  "publishedAt": "2021-07-13T06:19:56.000Z",
+  "excerpt": "Many people are familiar with the idea that their odds of getting struck by lightning are one in a million, when the odds are more precisely around 1 in 500K.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many people are familiar with the idea that their odds of getting struck by lightning are one in a million, when the odds are more precisely around 1 in 500K.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That said, the odds of dying from a lightning strike in your lifetime is somewhere around 1 in 15,000. Which means you have better odds of dying from smoking, skydiving, or scuba-diving.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s the thing. Does this mean you are unlikely to die from a lightning strike?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course it does.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But does it mean that it ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "won’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " happen to you?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Certainly not.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When you hear about ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "people",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " who died from something as rare as being struck by lightning, its often because of two things:",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.bbc.com/news/world-asia-india-57801398"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They didn’t think it would happen to them—because of overconfidence and the deception of statistics.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They did something that increased their odds of it happening—almost certainly because they didn’t think it would happen to them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, stats are deceiving. Low odds plus arrogance is a deadly combination.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

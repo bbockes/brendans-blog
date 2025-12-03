@@ -1,0 +1,139 @@
+{
+  "title": "Commitment makes the process work",
+  "slug": "commitment-makes-the-process-work",
+  "publishedAt": "2018-09-27T07:59:00.000Z",
+  "excerpt": "Mise en place  works because as the phrase implies, \"everything has it’s place.\" If you commit to putting each thing in it’s own designated spot, you’ll have an organized space, whether it’s a kitchen",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Mise en place",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " works because as the phrase implies, \"everything has it’s place.\" If you commit to putting each thing in it’s own designated spot, you’ll have an organized space, whether it’s a kitchen or a closet or a home.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Mise_en_place"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider how your team communicates. You could just as easily use a whiteboard in the office (or a fax machine) to distribute messages, but because there’s more friction (no notifications, limited white space, having to remember to update it frequenty, asynchronous dissemination) it’s harder to commit. Collaboration tools like ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Slack",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " remove most of this friction, and do so in a way that makes it easy for members to commit to it as their default mode of communication.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://slack.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Commit, of course, is the key word. If you put your keys away in a different spot every time you use them, you’re not organized, because you’re not commiting to the process. If a few odd members of your team decide to switch to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Houseparty",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to share a message, then using Slack isn’t going to be as effective.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://houseparty.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s sounds like common sense. But it can helpful when you think about why a process isn’t working. If you’ve got a messy house, for example, the problem is that you (or someone you know) has a hard time committing to the process of putting everything back in a pre-designated and easy-to-access space (i.e. organization).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you can’t manage to lose weight, the problem probably isn’t that you lack the ability to exercise or eat right. It might be that your process is faulty…that you can’t lose weight following this program or diet. But more likely, the process is either too demanding or too tedious, and so you’re having a difficult time committing to the program long enough to see any results.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Going back to our communication example, Slack might not be the best platform for you and your team. Maybe for you (and your digital immigrant collaborators) a whiteboard and post-it note combo, or word of mouth, is easier to adopt. That said, the only way you’re going to consistently communicate, and thus perform optimally, as a team is if everyone is committing to that process long-term. If the night crew or the sales department or the latest hires exclusively switch to a messenger app, well, you’re not all communicating are you? This might very well highlight why there are discrepancies between departments or members in hindsight.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s simple but profound. If something’s not working, it might be because the process isn’t either. That this format or this platform isn’t effective. Far more often, though, it’s because you or your team aren’t committing to the process itself. The challenge then is to find out why that is. To discover the obstacles in your path, and to figure out ways to make sticking to the program easier and more accessible.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

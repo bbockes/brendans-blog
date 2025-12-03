@@ -1,0 +1,84 @@
+{
+  "title": "148862786.elite Or Exclusive",
+  "slug": "148862786elite-or-exclusive",
+  "publishedAt": "2025-11-30T19:29:50.261Z",
+  "excerpt": "Do you have to be the best of best to make the cut?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Do you have to be the best of best to make the cut?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or do you have to make the cut to be deemed the best?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One choice gets you SAT prep,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "fencing",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "as a prerequisite, and strong buzzwords.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.nytimes.com/2004/10/17/nyregion/just-what-colleges-want-rapiersharp-wits.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The other gets you a body of work that speaks for itself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which one are you after?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

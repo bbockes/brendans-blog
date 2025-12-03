@@ -1,0 +1,104 @@
+{
+  "title": "What we say vs what we mean",
+  "slug": "what-we-say-vs-what-we-mean",
+  "publishedAt": "2020-05-25T06:36:46.000Z",
+  "excerpt": "Semantics matter far more than most people give them credit for. Because if we can’t communicate what something is or what it means, how on Earth can we know we’re really talking about the same things",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Semantics matter far more than most people give them credit for. Because if we can’t communicate what something is or what it means, how on Earth can we know we’re really talking about the same things?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider job posts. There’s a case to be made that many job titles are not the same as the actual roles candidates will assume if they're awarded them. This can make it tricky for you and other people to know what it means, for example, if you called yourself something generic like ’a content strategist’ or a ‘marketing specialist’ at your last job. Because if we all use the same title but change the roles, things can get confusing real fast.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Another (related) thing to consider is that many recruiters include ‘core role requirements’ in job posts, when what they ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "really",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " mean is ‘desired skills and experience’ (even if they have no chance of finding an applicant with ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of their preferences). This can put many newly-minted job-seekers in a tailspin at best, and often deters many great potential candidates at the worst.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider, of all things, writing. I’ve written about the difference between content writing and copywriting ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "before",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", but more recently, I’ve discovered there’s also UI/UX microcopy, product copy, marketing copy, marketing content, not to mention sales-copy, brand-copy, and creative writing. If people (writers, employers, recruiters) don’t agree on what these things mean, many people may find themselves in roles they have little to no experience in, for sheer incongruity between between what they, and their employers, think these terms mean.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/content-vs-copy/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Another way to say that the words we use matter, and that meanings we collectively give those words matter even more. Saying what we mean, after all, matters far more than whatever it is we happen to say.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

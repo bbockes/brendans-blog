@@ -1,0 +1,43 @@
+{
+  "title": "Not machines",
+  "slug": "not-machines",
+  "publishedAt": "2022-02-17T06:00:00.000Z",
+  "excerpt": "It’s unrealistic to expect someone to work at the same rate for every hour of every day and not experience a decline in productivity.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s unrealistic to expect someone to work at the same rate for every hour of every day and not experience a decline in productivity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because employee’s are humans and, unfortunately, not machines.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s pretty careless to treat them like they’re anything but.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

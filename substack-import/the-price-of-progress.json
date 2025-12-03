@@ -1,0 +1,84 @@
+{
+  "title": "The price of progress",
+  "slug": "the-price-of-progress",
+  "publishedAt": "2024-02-08T06:45:00.000Z",
+  "excerpt": "Clickup recently bought  Slapdash , one of my favorite productivity apps.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Clickup recently bought ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Slapdash",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", one of my favorite productivity apps.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://slapdash.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s since become a lot less helpful at assisting me in finding what I need.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It seems like everything Clickup touches is bloated and slow, and I wonder if there’s a product manager or a slew of stakeholders behind it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Even with a recent update, Clickup has a lot to learn about doing things that are useful instead of merely flashy. And they have a long way to go before their interface is simple, intuitive, and powerful.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One can only hope that they spend their time not breaking things that are actually helpful and work to provide value instead of bogging down our productivity.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

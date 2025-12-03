@@ -1,0 +1,306 @@
+{
+  "title": "148863495.kaizen And Coffee",
+  "slug": "148863495kaizen-and-coffee",
+  "publishedAt": "2025-11-30T19:30:02.686Z",
+  "excerpt": "Since 2015 or so, I’ve made my morning coffee via pour over.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Since 2015 or so, I’ve made my morning coffee via pour over.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(For those unfamiliar, a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "pour-over",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is a method of brewing coffee by manually pouring boiling water through a filter filled with ground coffee beans. Not unlike mediation, the ritual of the pour is something to both savor and to practice. There’s no machine, no flashing lights, no power cords—just you, and the process.)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=JShWJtUQvGk&ab_channel=Peet%27sCoffee"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As time has shown, I’ve both gradually improved in performing this process, and learned all the ways I could do it better. (My writing ability has progressed in much the same way.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The thing is, while I certainly know how to make a great cup of coffee, now that I’ve learned:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "what to look for when selecting coffee beans",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "how to roast my own coffee",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "the difference between a burr grinder and a blade grinder",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "how to grind my beans correctly",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "how to tell when to take my water off the stove",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "what coffee-ratio to use, and why it’s important",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "the value in using a metric scale",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "how to pour the water into my filter semi-correctly",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "the best coffee, kettles, and filters to use",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…I also have a much better capacity to discern what I need to learn/do moving forward, if I ever want to make an",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "even better",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "cup of joe.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For example, I always forget the direction I’m supposed to pour—from the center moving out, or from the outside towards the center. I could also make the duration of each pour shorter—say, 20 seconds, or, similarly, be more diligent at pouring after the appropriate time has passed for each ‘extraction period.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "From a taste perspective, I could also take note of how the flow rate and spiral of each pour alters the flavors of the final cup. And lastly, now that I know about the benefit of using a quality dripper, I might one day upgrade to a better",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "model",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://bluebottlecoffee.com/store/blue-bottle-coffee-dripper"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The point is, as you practice, as you get better, as you learn more about the specifics of a craft—you not only improve, but you get better at being able to discern and focus on all the ways you can still improve and refine your skills.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Call it a gift, or a curse. But in either case, you have no choice but to advance.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Want to give pour-overs a try and 10x your coffee-game? Here’s a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "handy guide",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://bluebottlecoffee.com/preparation-guides/pour-over"
+        }
+      ]
+    }
+  ]
+}

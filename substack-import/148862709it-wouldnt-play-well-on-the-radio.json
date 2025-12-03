@@ -1,0 +1,112 @@
+{
+  "title": "148862709.it Wouldnt Play Well On The Radio",
+  "slug": "148862709it-wouldnt-play-well-on-the-radio",
+  "publishedAt": "2025-11-30T19:29:49.331Z",
+  "excerpt": "Part of the reason ‘picking yourself’ works is because it gives you the freedom to create the art that you value.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Part of the reason ‘picking yourself’ works is because it gives you the freedom to create the art that you value.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Art that is authentic. Art that is fresh. Art that challenges the status quo.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The irony that “Bohemian Rhapsody” got turned down initially is that if Queen had made it for their producer it never would have become what it is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The same can be said for any cultural artifact that changes things. From the original iPhone to Harry Potter.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "These are things that intelligent authorities openly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "turned down",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ridiculed",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", not because they weren’t interesting. But because they were different.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.today.com/popculture/j-k-rowling-s-original-harry-potter-pitch-was-rejected-t117763"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=eywi0h_Y5_U"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's the opportunity (of a lifetime) to make things that you want to see in the world. If you do it right, if you pick yourself (if you make it for your true fans and not some static gatekeeper) you might stumble on something profound.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

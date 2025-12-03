@@ -1,0 +1,54 @@
+{
+  "title": "What could i have done better",
+  "slug": "what-could-i-have-done-better",
+  "publishedAt": "2021-08-22T05:03:00.000Z",
+  "excerpt": "...is a simple question to make the most out of every interaction.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...is a simple question to make the most out of every interaction.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not abrasively. Not sarcastically.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But sincerely and honestly, with intention.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Inviting in the possibility of a better outcome next time.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

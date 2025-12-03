@@ -1,0 +1,117 @@
+{
+  "title": "Context is king",
+  "slug": "context-is-king",
+  "publishedAt": "2019-11-05T06:28:13.000Z",
+  "excerpt": "Most marketers are familiar with the expression, ‘content is king.’ The idea that producing engaging content is fundamental to inbound marketing (and thus an organization’s ability to acquire a strong",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most marketers are familiar with the expression, ‘content is king.’ The idea that producing engaging content is fundamental to inbound marketing (and thus an organization’s ability to acquire a strong presence online).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Little known is that this statement is only half-true.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because while the right content is what enables you to rank online, that content delivered in the right context is the only thing that’s going to prompt a sale.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the case of ‘",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "searcher intent",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".’",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://yoast.com/search-intent/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Asking why someone is searching (and creating content that’s aligned with what they are hoping to find) is far more valuable than the content itself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Similarly, creating content (even SEO-optimized content) without first considering what your readers actually want to read is probably a mistake.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most marketers fail because they rely too much on trying to game the system using keywords and not any time at all creating content actually worth reading. Buzzwords might give you tons of traffic, impressions and clicks but the only thing that’s going to transform them into conversions is by creating engaging, relevant and context-specific content that’s hard to be replaced.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Finding something, after all, matters very little if it isn’t what you’re looking for.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

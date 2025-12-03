@@ -1,0 +1,183 @@
+{
+  "title": "Soap and social norms",
+  "slug": "soap-and-social-norms",
+  "publishedAt": "2019-08-04T05:05:00.000Z",
+  "excerpt": "Washing your hands with soap is a simple solution to a wide-ranging, complex, and potentially lethal problem.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Washing your hands with soap is a simple solution to a wide-ranging, complex, and potentially lethal problem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So you'd be surprised at how long its taken to get the point in our culture where hand-washing is instinctive.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because it turns out that soap has had a long history of being largely ignored by people who would benefit tremendously by it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "From ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "obstetricians",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (faced with time-tested science) to third-world communities ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "struggling",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to stay alive, many people throughout time and space have been as reluctant to adopt this simple life-changing habit as modern parents are to give their kids unbridled access to smartphones (or life-saving ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "vaccines",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "). ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://medium.com/@thisissethsblog/the-etiology-concept-and-prophylaxis-of-childbed-fever-a339377d9735"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.ted.com/talks/myriam_sidibe_the_simple_power_of_hand_washing/discussion?utm_medium=on.ted.com-android-share&utm_campaign=&awesm=on.ted.com_s0BzC&utm_content=ted-androidapp&utm_source=direct-on.ted.com"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://www.amazon.com/Immunity-Inoculation-Eula-Biss/dp/1555977200/ref=asc_df_1555977200/?tag=hyprod-20&linkCode=df0&hvadid=312069250960&hvpos=1o2&hvnetw=g&hvrand=6348848112695332992&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008161&hvtargid=pla-452894229482&psc=1&tag=&ref=&adgrpid=61316180599&hvpone=&hvptwo=&hvadid=312069250960&hvpos=1o2&hvnetw=g&hvrand=6348848112695332992&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008161&hvtargid=pla-452894229482"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The culprit? Culture. The idea that, to borrow a phrase from Seth, \"people like us do things like this.\" That what makes people secure in their tribal identities is often just as much a product of who they think they are and what they and others like them do, as what they don't do or have never done before.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's emotionally difficult to embrace a new habit if everyone you know is doing what they've always done. Even more so if it forces you to confront the possibility that you're wrong.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Changing your mind is a luxury that intelligent people from all walks of life have trouble embracing. And it's not because they are blind to the facts.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's because many times-who we think we are and who we think we're not, what we (collectively) do and what we don't do-inform our reasoning to the extent that, we don't want to.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The lesson: If you want to stimulate change, don't rehearse the facts. Start with feelings, norms, and culture.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "'How can we make it okay for people to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "feel",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " like it's okay to try something new?\"",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

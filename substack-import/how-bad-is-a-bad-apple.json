@@ -1,0 +1,96 @@
+{
+  "title": "How bad is a bad apple",
+  "slug": "how-bad-is-a-bad-apple",
+  "publishedAt": "2019-05-07T05:50:00.000Z",
+  "excerpt": "(And, how good is a good one?)",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(And, how good is a good one?)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s hard to gauge what ‘good enough’ looks like unless you can discern between what’s acceptable and what isn’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easy when everything is really good (or really bad). But it gets trickier when it’s not so clear cut.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having a checklist, and some firm rules, usually helps.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Saying: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "these things",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " have to be done and if they aren’t it’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not acceptable",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ",” is a lot easier than saying, “do your best.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s also way more efficient than relying on good judgement, only to find out later that your output isn’t meeting spec.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Dont settle",
+  "slug": "dont-settle",
+  "publishedAt": "2014-08-08T09:46:35.000Z",
+  "excerpt": "There’s nothing enlightening about settling with the status quo.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s nothing enlightening about settling with the status quo.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In my view, you’re either stuck in a rut or you’re stepping into new territory.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Choose the latter. You won’t regret it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

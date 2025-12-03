@@ -1,0 +1,76 @@
+{
+  "title": "The things about software updates",
+  "slug": "the-things-about-software-updates",
+  "publishedAt": "2019-08-29T07:44:00.000Z",
+  "excerpt": "Most software updates don’t matter.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most software updates don’t matter.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not because they literally don’t matter, it’s because without looking in the weeds, you’re likely not going to notice them, let alone use them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And because frankly, while they generally market themselves as ‘easier, more user-friendly’ productivity hacks, they don’t substantially make you more efficient. And they certainly don’t leverage your impact.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ten years ago, I would be estatic when Apple released a new iOS update…often signing up for the beta whenever possible, and waiting until the wee hours of the night to download the latest and greatest. Now, I could care less.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not because Mojave or Catalina aren’t cool tools. It’s just because I’ve realized that focusing my attention on leveraging my impact (writing this blog, learning skills, making connections) matters far more than a slightly more efficient or athestically pleasing UX.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Tools matter. But what you do with them matters far more.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "title": "The cost of changing the world",
+  "slug": "the-cost-of-changing-the-world",
+  "publishedAt": "2019-05-08T04:15:00.000Z",
+  "excerpt": "$8,000",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "$8,000",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s the average ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "price",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " of a high-quality well in Africa.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://waterwellsforafrica.org/whats-the-cost/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The price of clean, reliable water for up 2,000 (underpriveleged, water-deprived) people (for up to 20 years!)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s also the price of…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A six-year once-a-day grande latte habit.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The “performance package” (bigger engine, spoiler, new rims) on a standard luxury car. Or a used one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "watch",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " engagement ring.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.prestigetime.com/item/Cartier/Ronde-Solo-Automatic-42mm/w6701009.html"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.bluenile.com/build-your-own-ring/review?diamondBt=3&offerId=50572&psia=VVNELTg4MzEuMDA&sku=LD11982123&gclid=EAIaIQobChMIi8ntsq_44QIVmUsNCh16zwlTEAQYASABEgJXyfD_BwE&click_id=531805456"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A little more closet space in an Manhattan apartment.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Changing the world is the easy part. It’s giving up enough of what we think we think we need to make it possible that’s difficult.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

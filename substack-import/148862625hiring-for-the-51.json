@@ -1,0 +1,87 @@
+{
+  "title": "148862625.hiring For The 51",
+  "slug": "148862625hiring-for-the-51",
+  "publishedAt": "2025-11-30T19:29:48.223Z",
+  "excerpt": "Danny Meyer evaluates new applicants at his restaurants by a) looking for technical prowess, and b) looking for emotional and moral intelligence.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Danny Meyer",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "evaluates new applicants at his restaurants by a) looking for technical prowess, and b) looking for emotional and moral intelligence.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/OblQXejHts8?t=90"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "He says the best hires have 49% of the former and 51% of the latter.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, of course, you can always train for know-how. But it’s much more difficult to instill empathy, responsibility, and integrity (or suppress their opposites).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Without a doubt, hard skills matter. It’s just",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "real skills",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "matter even more.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://itsyourturnblog.com/lets-stop-calling-them-soft-skills-9cc27ec09ecb"
+        }
+      ]
+    }
+  ]
+}

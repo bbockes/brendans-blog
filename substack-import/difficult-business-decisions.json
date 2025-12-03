@@ -1,0 +1,127 @@
+{
+  "title": "Difficult business decisions",
+  "slug": "difficult-business-decisions",
+  "publishedAt": "2023-11-14T05:00:00.000Z",
+  "excerpt": "Talking to users  is hard.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Talking to users",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is hard.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/The-Mom-Test-Rob-Fitzpatrick-audiobook/dp/B07RJZKZ7F"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Completing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ERRC grids",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is hard.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.blueoceanstrategy.com/tools/errc-grid/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "building permission",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2008/01/permission-mark/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps when people say that starting a business is an uphill climb, what they mean is that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " making tough choices at the start can make it extremely difficult to differentiate yourself later, which can make the entire process arduous.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But that with a great deal of preparation—in doing things that most folk’s ignore—it is possible to create something that allows for a relatively smooth downhill decent.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

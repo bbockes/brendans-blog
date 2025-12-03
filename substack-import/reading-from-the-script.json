@@ -1,0 +1,83 @@
+{
+  "title": "Reading from the script",
+  "slug": "reading-from-the-script",
+  "publishedAt": "2020-10-20T06:25:00.000Z",
+  "excerpt": "It's pretty easy to read from your mission statement, your vision statement, or your list of values, and call it a day.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's pretty easy to read from your mission statement, your vision statement, or your list of values, and call it a day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's because it's easier to read what's written than to think about what you're going to say.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And it sounds good too, because a writer often wrote it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The thing about ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "drivel",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", though, is that it doesn't often communicate anything. Least of all anything that's ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "real",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/glorified-drivel/"
+        }
+      ]
+    }
+  ]
+}

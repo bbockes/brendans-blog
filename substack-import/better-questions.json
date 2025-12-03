@@ -1,0 +1,43 @@
+{
+  "title": "Better questions",
+  "slug": "better-questions",
+  "publishedAt": "2019-06-20T06:21:00.000Z",
+  "excerpt": "Asking better questions is how we find better data.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Asking better questions is how we find better data.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better data is how we learn to see the world more clearly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And having a better (more accurate) point of view is how we make better decisions.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Arbitrary signage helps no one",
+  "slug": "arbitrary-signage-helps-no-one",
+  "publishedAt": "2019-12-29T07:11:06.000Z",
+  "excerpt": "A natural corollary of choosing to use  signage  is knowing where and when to put it. Nowhere is this more evident than in situations where the signage used doesn't match the context of the situation ",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A natural corollary of choosing to use ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "signage",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is knowing where and when to put it. Nowhere is this more evident than in situations where the signage used doesn't match the context of the situation (or the user's needs).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/the-wonders-of-good-signage/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the application that only expresses there's been an error (not how to fix it). Or the parking garage that only shows where not to enter (not where to exit).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This signage does very little to help you, in the same way that failing to provide the right message in the right context is an assault to one's sense of direction.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By neglecting to solve the user's problems, arbitrary signage like this does more harm than good, often only contributing to more confusion.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to help fix the problem than merely fuel frustration.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

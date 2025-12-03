@@ -1,0 +1,204 @@
+{
+  "title": "Whats bothering you",
+  "slug": "whats-bothering-you",
+  "publishedAt": "2024-10-04T11:05:57.180Z",
+  "excerpt": "Here’s a simple exercise that might save you countless hours of sleep.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a simple exercise that might save you countless hours of sleep.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Take out your phone. Go to the app store and download ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Otter",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://otter.ai/integrations/mobile"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Otter is a transcription and note-taking app that helps users capture spoken content. It’s made for meetings, lectures, and interviews, but can also be used for private one-on-one chats with yourself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Open the app. Press the blue record icon. Now talk.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Talk about your worries. Your anxieties. Whatever is on your mind. Have a private conversation with yourself wherever you feel comfortable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Press the rectangular stop button to save your chat. Then click on it from the main screen of the app to review your transcription.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Read the outline. Then close the app.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Wait a week or a month. Then open the app.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Reread the outline. Even better, play the recording and listen to your voice.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Has your perspective shifted?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Have your anxieties resolved over time?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or, are the same old worries ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "still",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "troubling you?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You might notice that what was once weighing you down is now a forgotten thought, while some concerns might still echo.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whatever the case, capturing your thoughts can be a great way to acknowledge your growth (and your capacity for resilience) if it’s the former, while giving you clarity on what needs further attention if it’s the latter.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A useful tool to help you proactively manage stress and anxiety (and identify patterns and triggers) for the cost of sitting alone with yourself.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

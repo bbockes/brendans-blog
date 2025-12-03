@@ -1,0 +1,65 @@
+{
+  "title": "Stuck in time",
+  "slug": "stuck-in-time",
+  "publishedAt": "2019-04-24T05:39:00.000Z",
+  "excerpt": "Is that you?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Is that you?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Settling with the way things always have been. Apprehensive of something new.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s the memo you never got (or forgot):",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Neophobia is a choice. So is betting on the better version of you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s never too late to make your world (a little) bigger.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

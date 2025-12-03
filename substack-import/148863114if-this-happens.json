@@ -1,0 +1,93 @@
+{
+  "title": "148863114.if This Happens",
+  "slug": "148863114if-this-happens",
+  "publishedAt": "2025-11-30T19:29:56.486Z",
+  "excerpt": "Having a go-to “if this/then…” plan is a great idea.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having a go-to “if this/then…”",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "plan",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is a great idea.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.nbcnews.com/health/health-news/worried-you-have-coronavirus-here-s-exactly-what-you-should-n1146996"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because a) humans aren’t great at anticipating unpredictable events, and b) we’re especially not good at confronting the tension than occurs when our best of intentions clash with reality.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Like it or not, most things, most of the time, won’t go according to plan, or as expected.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Things come up—and when they do—it’s best to at least know what to do and what not to. Not because you’ll always need to follow a plan, but because having one—writing one down, planning for the unexpected, preparing for the worst—is a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "far better",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "way to make it through the world than",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "having one.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

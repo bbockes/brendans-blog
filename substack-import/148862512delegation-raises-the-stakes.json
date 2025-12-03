@@ -1,0 +1,121 @@
+{
+  "title": "148862512.delegation Raises The Stakes",
+  "slug": "148862512delegation-raises-the-stakes",
+  "publishedAt": "2025-11-30T19:29:46.787Z",
+  "excerpt": "Visualist is an app that lets you record step-by-step instruction manuals.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Visualist",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is an app that lets you record step-by-step instruction manuals.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://itunes.apple.com/us/app/visualist/id1424084437?mt=8&ref=densediscovery"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the thing about instruction manuals is that anyone (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "anyone",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ") can learn to follow them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which makes",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "delegating",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "tasks as easy now as it’s ever been.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://sivers.org/delegate"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two lessons here:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most tasks (and jobs are just a series of tasks) can, in fact, be completed via an instruction manual, with little to no supervision.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Considering how easy it is now to make one (and thus outsource most tasks), you better be really good at what only you can do.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

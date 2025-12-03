@@ -1,0 +1,234 @@
+{
+  "title": "Two ways to play",
+  "slug": "two-ways-to-play",
+  "publishedAt": "2020-05-17T06:47:16.000Z",
+  "excerpt": "I watched  Searching for Bobby Fischer  the other day, which is a great movie for many reasons you might not expect.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I watched ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Searching for Bobby Fischer",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " the other day, which is a great movie for many reasons you might not expect.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Searching_for_Bobby_Fischer"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider that both ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Bobby Fischer",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Josh Watzkin",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (whom the film is based on) both gave up chess later in life. Not because they didn’t enjoy the game…but because they ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "stopped",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " enjoying it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Bobby_Fischer"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Joshua_Waitzkin"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "At some point, winning (every game) became their identity, thereby making losing a more dreadful experience than ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " playing it. (Better to give up the game entirely than risk losing yourself to it.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider that, while the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "conceivable number",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " of sensible chess moves is around 10^40, most players (even professionals) will never come across ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of those combinations in their lifetime. Which means that once you’re the absolute best, once you’ve experienced almost every conceivable game-tree, it’s hard to sustain the will to continue playing. At best, it becomes a boring past-time, at worst, an obsession.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Shannon_number"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I wonder what might have happened had the parents of Bobby Fischer or Josh Watzkin read about infinite games instead of coercing their kids to continue perfecting their sport at the expense of all else.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As James P. Carse points out, chess is a finite game (so are most sports). You can win, and you can lose. You play against someone, not with them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Writing is, arguably, an infinite game. So is playing catch. Drawing a picture. Flying a kite. Riding your bike. Or coding a site. (Rhyming is also an infinite game.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can’t exactly win. But you also can’t lose. You can’t play ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "against",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " someone. But you can play with them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(Of course, every infinite game can somehow become a finite game if you make it competitive, but that’s not the point.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The point is that an infinite game is a way more sustainable way to enjoy yourself than getting lost, possessed, frustrated, or disillusioned by a finite one.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

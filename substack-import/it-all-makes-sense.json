@@ -1,0 +1,64 @@
+{
+  "title": "It all makes sense",
+  "slug": "it-all-makes-sense",
+  "publishedAt": "2021-11-20T06:07:00.000Z",
+  "excerpt": "When people say “it all makes sense” you can almost certainly guarantee that it doesn’t.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When people say “it all makes sense” you can almost certainly guarantee that it doesn’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because people are busy. Or tired. Or harried, or stressed.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And they don’t often have the time (or patience) to do what they must to ensure that what they're reading or hearing ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "actually",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " makes sense to them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All the more the reason to put in the work to assure that they really do.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

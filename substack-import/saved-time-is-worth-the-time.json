@@ -1,0 +1,130 @@
+{
+  "title": "Saved time is worth the time",
+  "slug": "saved-time-is-worth-the-time",
+  "publishedAt": "2019-03-19T06:30:00.000Z",
+  "excerpt": "Figuring out how to use the “ find & replace tool ” on Google Docs can save you a lot of time.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Figuring out how to use the “",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "find & replace tool",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "” on Google Docs can save you a lot of time.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://support.google.com/docs/answer/62754?co=GENIE.Platform%3DDesktop&hl=en"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So can the “batch edit tool” in your graphics editing program.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or any one of the numerous ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "applets",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " on IFTTT, or the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "workflows",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " in Zapier.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://ifttt.com/collections"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://zapier.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to waste (a little) time figuring out a tool that saves time, than waste a lot time not using a time-saving tool when one exists.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If a shortcut ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "does",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " exist, take it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

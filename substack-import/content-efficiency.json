@@ -1,0 +1,116 @@
+{
+  "title": "Content efficiency",
+  "slug": "content-efficiency",
+  "publishedAt": "2022-08-12T07:00:00.000Z",
+  "excerpt": "Here’s a metric for a future analytics platform:  How long does it take your users to find the information they need?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a metric for a future analytics platform: ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "How long does it take your users to find the information they need?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not the things you want them to know. Not your mission or your story or your values.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not what you do or why you do it well. But the information they were hoping to find all along.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This page",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a great example.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://powellandsons.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not obtrusive or hard to read. It’s not bloated; there’s not much there.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, they share what their users need to know ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to know",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " they can count on them. And, they provide a simple, albeit well-crafted way to get started.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For many businesses (particularly local ones), that’s all you need.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

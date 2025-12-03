@@ -1,0 +1,65 @@
+{
+  "title": "Nickle and dimed",
+  "slug": "nickle-and-dimed",
+  "publishedAt": "2019-10-14T07:01:27.000Z",
+  "excerpt": "Many resorts are now resorting to charging “resort fees,” for things that are customarily included as part of running a resort, with the outcome being that customers are being billed up to $95 extra f",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many resorts are now resorting to charging “resort fees,” for things that are customarily included as part of running a resort, with the outcome being that customers are being billed up to $95 extra for amenities (parking, coffee, attendants) that many people believe should be complimentary.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And on a recent trip to a local amusement park, I noticed the same theme. It’s one thing to charge extra for a fast pass, entirely another to charge $10-40 extra for access to other attractions.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the case of tipping. As Danny Meyer has said, “tipping has always been an attempt for the business owner to push off on the customer a cost that is, in fact, a cost.” Instead of integrating the cost of food and service into a single price (and paying their service staff fairly), restauranteurs expect their patrons to cover the cost of both.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I don’t see a problem with charging extra for the true cost of service. For hospitality. Or for the full package. But please, do us all the service of being brave enough to charge us what you’re worth upfront.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No one likes to feel like they’re being nickle and dimed. And it’s often better to simply make a promise—even an expensive one—and over-deliver on it, than to incessantly ask for more on top of an otherwise drab experience.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "title": "148863182.taxes And Money",
+  "slug": "148863182taxes-and-money",
+  "publishedAt": "2025-11-30T19:29:58.465Z",
+  "excerpt": "(Just a few recommendations to get you through the next quarter.)",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(Just a few recommendations to get you through the next quarter.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For those of you who have yet to file your taxes, let this be friendly reminder that you still have plenty of time to do so at the last minute. (3 months more to be exact.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you do find yourself in that category, however, I recommend Credit Karma’s new(?)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "tax service",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". The interface is super straightforward and clean, and it’s 100% free (both for state and federal filing).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.creditkarma.com/tax?utm_source=email"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And since we’re on the topic of great UX and finance,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Simple Banking",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is perhaps the greatest (digital) bank of all time. Their Safe-to-Spend® feature alone is a life-save, but the app and service are also top-notch. As of now, they also offer high-interest online checking accounts at 1.55% APY (not bad).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.simple.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And who would I be if I didn’t suggest some reading material? Here are a few financal-esque articles well worth your time:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why Your Spare Time is Worth More Than $25/hour",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.mrmoneymustache.com/2012/10/18/why-your-time-is-worth-way-more-than-25-per-hour/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "10 Strategies for Learning Financial Self-Control",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://lifehacker.com/ten-useful-strategies-for-learning-financial-self-contr-1785904154"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Wealth is What You Don’t Spend",
+          "marks": [
+            "link-0"
+          ]
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.collaborativefund.com/blog/gains/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Happy trails!",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

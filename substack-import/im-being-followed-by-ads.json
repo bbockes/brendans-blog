@@ -1,0 +1,193 @@
+{
+  "title": "Im being followed by ads",
+  "slug": "im-being-followed-by-ads",
+  "publishedAt": "2021-09-28T05:00:00.000Z",
+  "excerpt": "The  same one , in fact. Maybe you’ve seen it too.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "same one",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", in fact. Maybe you’ve seen it too.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=9piYckuazb8&ab_channel=TerryMcAuliffe"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, no matter how many times I see it, or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "will",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " see it, it won’t change my feelings or behavior or point of view.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And therein lies the problem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because advertising—traditional advertising—is so one-dimensional.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One message, shared by the same person, with the same worldview, over and over again.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s also asynchronous. There’s no way for the sponsor to know if it’s working.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whether it resonates. Whether I care.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And therein lies the opportunity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What would happen if advertising changed the way they made and measured and spread their message?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What if it was personal, research-driven, and uniquely tailored to me? What if I could communicate back, divulge my views, and telecast a message in response?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What if it wasn’t a promo, or a flyer, or an handbill, or a statement? What if it was a conversation instead?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What then?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Technology isn’t preventing advertisers from flipping the script.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s merely a matter of intent.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

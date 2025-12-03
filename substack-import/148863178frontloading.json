@@ -1,0 +1,73 @@
+{
+  "title": "148863178.frontloading",
+  "slug": "148863178frontloading",
+  "publishedAt": "2025-11-30T19:29:58.279Z",
+  "excerpt": "People have a tendency to skip over most of what’s written or said.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People have a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "tendency",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "to skip over most of what’s written or said.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://medium.com/evernote-design/are-you-skimming-or-scanning-right-now-21bd674804d0"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All the more reason why you should aim to put the most essential things your audience needs to know first, and to put everything else second (even if that means stashing it away for reference elsewhere).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a simple lesson, really: Keep first things first. Then ruthlessly edit what comes next.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*Worth noting this applies just as much to digital screens and long-form articles as it does to speeches, lectures and videos.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

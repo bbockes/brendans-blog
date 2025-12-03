@@ -1,0 +1,198 @@
+{
+  "title": "Value based learning",
+  "slug": "value-based-learning",
+  "publishedAt": "2020-10-19T05:55:00.000Z",
+  "excerpt": "The antithesis of  learning for pay  is learning for the sake of acquisition—the reward of learning new skills and new models.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The antithesis of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "learning for pay",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is learning for the sake of acquisition—the reward of learning new skills and new models.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/paid-to-learn/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is typically what we go to school for, and, for many, it’s why we read books, attend meetups, or get certifications.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But consider all the other—mostly free—opportunities to learn something new without getting paid for it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Unpaid skills assessments, for example, are a strategy that many employers are now adopting for assessing potential candidates—as opposed to relying on erroneous qualifiers like resumes or questionnaires.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The question is, should you take a time-consuming assessment, even if it forces you to learn something you otherwise wouldn’t?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I think the obvious answer is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "yes",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". Because you’re not just learning a new skill—you're learning a new skill that’s in demand and that you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "now",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " know is relevant to someone who you’d like to one day work for. Assuming you have the time to complete the assessment, it’s all upside, even if it doesn’t lead to a job.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This—I think—is a pretty relevant model for how education ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "should",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " work. Not encouraging students to 'make the grade,' ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "or else",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". Not robbing them of their intrinsic desire to learn by forcing external motivators. And certainly not bribing anyone to do anything they otherwise wouldn't.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Instead, showing students that by learning skills that are in-demand (skills that employers ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "need",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", at companies' students ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "want",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to work for) they can create a better world for themselves and their communities, while being compensated ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "later",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " for their effort.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Creating a learning experience that's not only worth the investment, but that enables students to be at their best, to pursue their interests, and to lead a life they value, moving forward.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

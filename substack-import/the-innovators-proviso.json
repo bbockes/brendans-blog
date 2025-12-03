@@ -1,0 +1,83 @@
+{
+  "title": "The innovators proviso",
+  "slug": "the-innovators-proviso",
+  "publishedAt": "2019-12-18T06:25:53.000Z",
+  "excerpt": "Reinventing the wheel sure seems fun, but really it’s best only used if your redesign is astonishingly(!) better.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Reinventing the wheel sure seems fun, but really it’s best only used if your redesign is astonishingly(!) better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Example: If you’re going to reinvent how we get from point A to point B, there’s not a high enough ROI to justify repaving our roads with a more viscous asphalt.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But creating the infrastructure for nation-wide, eco-friendly, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "pressurized-capsule-freight-transportation",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (that goes over six times the speed of the next best alternative)…",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "that’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " next-gen stuff, and probably worth more than the cost of transformation.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Hyperloop"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The moral: If you can improve on what is with a radically better alternative, by all means change it for the better. Just don’t waste time and money solving problems that don’t need fixing.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

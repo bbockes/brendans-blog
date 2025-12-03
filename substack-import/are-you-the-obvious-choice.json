@@ -1,0 +1,53 @@
+{
+  "title": "Are you the obvious choice",
+  "slug": "are-you-the-obvious-choice",
+  "publishedAt": "2020-08-13T05:45:54.000Z",
+  "excerpt": "Beyond crossing your t’s and dotting your i’s—what have you done to cover all your bases? To overdeliver, or exceed expectations? What have you to show that you’re so remarkably good, so incredibly ac",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Beyond crossing your t’s and dotting your i’s—what have you done to cover all your bases? To overdeliver, or exceed expectations? What have you to show that you’re so remarkably good, so incredibly accomplished—that they’d have to be ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "crazy",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to ignore you?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a useful marketing metric (and an even better tactic).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because regardless of if people are choosing what to buy, who to hire, or whom to befriend, date, or marry—people almost always opt for what they think is best.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

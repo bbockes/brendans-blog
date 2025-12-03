@@ -1,0 +1,139 @@
+{
+  "title": "Inconsequential spending",
+  "slug": "inconsequential-spending",
+  "publishedAt": "2019-10-09T06:37:40.000Z",
+  "excerpt": "…is actually very consequential.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…is actually very consequential.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider, for example, how many deposits I made at Starbucks since this time last year:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "$8.16, $6.24, $2.07, $2.07, $2.07, $7.63, $9.35, $2.70, $6.57, $15.85, $2.15, $2.60, $2.05, $2.07, $4.16, $2.07, $2.07, $2.21, $4.16, $2.21, $2.05, $4.90, $4.16, $4.72, $7.10, $7.84, $7.85, $2.48, $2.28, $15.85, $2.28, $2.28, $2.28, $4.51, $2.17, $6.78, $2.28, $2.28, $7.21, $6.57, $2.70, $2.37, $2.28, $2.28, $9.80, $2.37, $2.28, $4.51, $2.28, $2.28, $2.28, $4.02, $3.25, $2.28, $2.60, $2.37, $3.13, $4.72, $2.37, $4.02, $14.79, $2.37, $2.28, $3.13, $2.37, $4.02, $4.02, $2.37, $4.02, $2.28, $4.19, $2.37, $6.40, $2.81, $2.81, $2.28*",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s a lot of java.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the surface, $2.28 or even $4.51 aren't much. Which is exactly the rationale behind what made me to make all these ostensibly innocuous purchases.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, just as with compounded debt, small charges combined over time can amount to a lot.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I didn’t mean to spend over $300 this past year on coffee alone…but I did (and that’s just this year). I did because what seems small and trivial can become very big very fast when added together.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It works both ways. Small spending (combined with compound interest) can create an enormous ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "burden",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", while small-incremental-savings can make you rich for life (literally, and figuratively).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2019/06/the-tyranny-of-small-debts-compounded/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas, it helps to know what bucket you're adding to on the daily. And to be aware that seemingly small, inconsequential changes, when taken together, add up.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*From my bank account (10/3/2018-10/3/2019).",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

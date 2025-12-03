@@ -1,0 +1,252 @@
+{
+  "title": "Synecdoche and my lovehate relationship with apple",
+  "slug": "synecdoche-and-my-lovehate-relationship-with-apple",
+  "publishedAt": "2019-05-02T05:08:00.000Z",
+  "excerpt": "I learned a new word the other day.  Synecdoche  is a figure of speech in which a word for a part of something refers to the whole thing.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I learned a new word the other day. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Synecdoche",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a figure of speech in which a word for a part of something refers to the whole thing.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Synecdoche"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We use synecdoche all the time without realizing it. This is how people can say things like “I was interviewed by the New York Times,” or “New York is down by 3 points,” and have it still make sense. Because, after all, you weren’t really interviewed by the paper, you were interviewed by a person. And New York, of course, is a place.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider people who claim they don’t like Ben & Jerry’s. It’s possible they don’t like the flavor of a Hunka Hunka Burnin Fudge or Cherry Garcia…but to say they don’t like all of the 40+ flavors (or the brand itself) is a textbook case of semantic error.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider my as of late relationship with Apple.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After being a long time fanboy and owning an iPhone for nearly a decade, I’m not nearly as enthusiased with Apple’s current (poorly conceived, exhorbitantly overpriced) offerings as I was in year’s past. In fact, upon breaking my last iPhone sometime last week, I strongly considered switching to Android.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then I realized something: “Apple” is a synecdoche for something else.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I don’t hate Apple per se, I just detest the direction the company is going. Because instead of laboriously making a product for a small group of people who care, they’ve changed their focus to making ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "luxury",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " products for as many people who will pay for them. Moreover, their closed ecosystem is not only unfair to third-party developers, but ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "clashes",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " with many of non-discrimatory values that the early Apple was founded on. In short, they’ve gone from marketing themselves as the “underdog” to defending (and lobbying for) their position as top-dog.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2014/10/decoding-apple-as-a-luxury-tools-company/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.forbes.com/sites/timworstall/2012/08/31/the-problem-with-apples-closed-apps-universe/#7bcb707d794b"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, this doesn’t mean I despise Apple the organization. It simply means I’m displeased with how a few members in the upper echelons of the company (senior leaders, stock-holders, a certain CEO) have managed the company. To say I despise the whole of Apple, with it’s talented and thoughtful designers and developers, would be unfair.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The fact is, I really ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "value",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (and have come to rely-on) many of the third-party iOS-only ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "apps",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " on the App Store, and the clean, streamlined UX on the Mac. Certainly Apple’s products are lacking, in hardware, software, and overall creativity, and don’t even get me started on this new (Magnesis-esque) credit card. But by acknowledging the synectoche, I can at least distinguish between the parts I dislike and the one’s I do; ensuring that I don’t make the mistake of switching merely because I dislike a few unrelated details. ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.fitbod.me"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://overcast.fm/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For the excellent developers who make a living shipping ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "products",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that make up the core of Apple’s value (mostly third party applications), I applaud you. In fact, because of you, I think I’ll stick around for one more go. I just hope Apple’s senior team gets their act together before the next time I have to buy a phone.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://ulysses.app/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Aside: For those who aren’t Apple power-users (as in, don’t heavily rely on iOS-only software to get through the day, and aren’t as locked-in to their ecosystem as I am) the OnePlus 6t is an incredible value. I tried it out last weekend and it offers the same (if not better) functionality as the iPhone X at half the price.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

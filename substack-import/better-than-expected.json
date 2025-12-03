@@ -1,0 +1,105 @@
+{
+  "title": "Better than expected",
+  "slug": "better-than-expected",
+  "publishedAt": "2020-03-25T05:26:15.000Z",
+  "excerpt": "Yesterday, I thought I’d try to make homemade pizza for the first time.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yesterday, I thought I’d try to make homemade pizza for the first time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "After ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "reading",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " about all the steps ‘required’ to make pizza at home and completely overwhelming myself with all the ‘ins-and-outs’ of pizza-making technique, I thought about giving up the project entirely. It just seemed like too much work to make it right.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://make.pizza"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then I decided to just wing it and see ‘how bad it could be.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Turns out the margin of error was far lower than I originally thought. Because even if you don’t knead and age your dough, use the right flour-combination, or shape it perfectly by-hand, you can ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "still",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " make great-tasting homemade pizza from scratch in as little as an hour.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most experiences are like that. You’ll likely try a whole bunch of times and not get the result you were (ideally) hoping for. But even if you do, it’ll likely turn out far better than the worst possible result.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What's more, knowing that the ‘worst’ isn't so intolerable might just give you the encouragement you need to keep at it, and give it your best next time.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

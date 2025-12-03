@@ -1,0 +1,89 @@
+{
+  "title": "I couldnt decide",
+  "slug": "i-couldnt-decide",
+  "publishedAt": "2022-03-30T07:00:00.000Z",
+  "excerpt": "Alboulomania  is a ‘disorder’ that describes a person who is ‘pathologically indecisive.’",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alboulomania",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a ‘disorder’ that describes a person who is ‘pathologically indecisive.’",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Aboulomania"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Similar to stress, depression or even introversion, I think it’s helpful to think of indecisiveness as a range.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We’re not always indecisive all the time in every context. Not many of us find if difficult to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "decide",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to wake up and get out of bed. But, all of us are indecisive in our own unique ways.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alboulomania is simply word therapists use to describe when someone’s indecisiveness is causing them problems. But that doesn’t mean that you’re not prone to indecision because someone hasn’t diagnosed your behavior as such.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We all struggle with making decisions, big and small. When we do, perhaps simply saying the obvious—“I couldn’t decide”—might not be so bad, after all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "How did you do that",
+  "slug": "how-did-you-do-that",
+  "publishedAt": "2019-06-21T04:37:00.000Z",
+  "excerpt": "Most of the time, the answer to that question in fairly straightforward. It’s a simple as following a recipe or a checklist.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of the time, the answer to that question in fairly straightforward. It’s a simple as following a recipe or a checklist.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But what about when the doing part isn’t easy to explain? When the answer to the question is, ‘I don’t know how to tell you how.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Doing a triple axel. Writing excellent copy. Recognizing a pattern before anyone else has.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you can do something so good that you can’t explain how you did it, it might be a good sign that you’re onto something remarkable.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

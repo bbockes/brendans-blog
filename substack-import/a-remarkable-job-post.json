@@ -1,0 +1,144 @@
+{
+  "title": "A remarkable job post",
+  "slug": "a-remarkable-job-post",
+  "publishedAt": "2021-06-07T05:39:05.000Z",
+  "excerpt": "I love everything about this  job post .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I love everything about this ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "job post",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://akimbo.com/blog/hiring-a-director-of-student-experience/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s well written. Explicit. Culturally-conscious. And, above all, no nonsense.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The folks at ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Akimbo",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " know what to look for in a great candidate. And, even better, what ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to look for. Best of all, the’re unapologetic about their values.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://akimbo.com/about"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I wish more employers could get on board the same band-wagon. To do the hard work of thinking about (and expressing) what’s important (about what’s worth looking at and into in an applicant) and what’s simply a waste of time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because the alternative—false evidence appearing real, faulty metrics, biased reporting, and bad interviews—is clearly ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " how you create a forward-thinking company.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In fact, I’d argue it’s a recipe for moving ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "backwards",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

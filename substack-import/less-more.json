@@ -1,0 +1,93 @@
+{
+  "title": "Less more",
+  "slug": "less-more",
+  "publishedAt": "2021-12-09T05:15:00.000Z",
+  "excerpt": "In  The Paradox of Choice , Barry Schwartz argues that presenting users and buyers with more options can easily create overwhelm, which often leads to indecision.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "The Paradox of Choice",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", Barry Schwartz argues that presenting users and buyers with more options can easily create overwhelm, which often leads to indecision.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/dp/0062449923/ref=cm_sw_r_cp_api_glt_fabc_0J75R6CEGPH05EBB7HE3"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This means that when selling an abundance of options in an abundance of styles (such as when creating buying guides), it’s often better to conflate offerings into broader categories, since more options might easily overwhelm customers, making them ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "less likely",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to buy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It pays to be choosy about ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you offer what’s on offer. Because going granular—displaying everything that you can—can hurt more than it helps.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to give three options than to offer three dozen.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

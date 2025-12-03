@@ -1,0 +1,51 @@
+{
+  "title": "How to get paid fairly",
+  "slug": "how-to-get-paid-fairly",
+  "publishedAt": "2019-12-09T11:00:21.000Z",
+  "excerpt": "\"We have projects starting at $2,000. We bring tremendous value to the table for every project we work on. If you’re looking for anything less than that, we are not going to be a good fit. Thanks for ",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "\"We have projects starting at $2,000. We bring tremendous value to the table for every project we work on. If you’re looking for anything less than that, we are not going to be a good fit. Thanks for understanding and good luck!”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What a great way to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "charge",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " what you’re worth and (respectfully) turn away clients not worth your time.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/how-much-should-you-charge-for-your-writing/"
+        }
+      ]
+    }
+  ]
+}

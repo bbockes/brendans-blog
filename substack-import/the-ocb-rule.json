@@ -1,0 +1,85 @@
+{
+  "title": "The ocb rule",
+  "slug": "the-ocb-rule",
+  "publishedAt": "2019-08-12T06:16:00.000Z",
+  "excerpt": "The Old Country Buffet by my house has an abundance of food options, almost all of which are either too sweet, salty or bland to be worth consumption.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The Old Country Buffet by my house has an abundance of food options, almost all of which are either too sweet, salty or bland to be worth consumption.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In fact, of the all-you-can-eat establishments I've been too in the past, I don't think I've once found anything worth the caloric withdrawal. Smorgasbord offerings rarely do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which highlights an important point: if it's not worth it, don't eat it (or buy it).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Save it (your appetite, your money, your time) for something that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Give yourself a favor and default to higher standards. Trade the crappy ice cream for ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "out of this world good(!)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "instead.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

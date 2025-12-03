@@ -1,0 +1,111 @@
+{
+  "title": "148862813.popcorn And Soda",
+  "slug": "148862813popcorn-and-soda",
+  "publishedAt": "2025-11-30T19:29:50.387Z",
+  "excerpt": "I'm not a dietitian (or economist) but it seems to me that snacks at the movie theater have a small upside (and a great deal of downside).",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I'm not a dietitian (or economist) but it seems to me that snacks at the movie theater have a small upside (and a great deal of downside).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, buttered popcorn and sugar-ladden beverages taste good, but the carb/sugar/gmo oil combo is probably as bad as smoking a few cigarettes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What's more, you and your kids will stuff your face with it even if it's",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "stale",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", bland or soggy.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.aarp.org/2011/09/06/my-popcorn-is-stale-but-im-eating-it-anyway/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And then there's the opportunity cost. Consider: a large coke and popcorn at my local AMC cost $14. $14 x 16 movies per year is $224 (and that’s just one person, for one year).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, as with any habit, it's much harder to stop after you’re already hooked. Which is to say that if you're a new to this (or half-way on the wrong side of the fence), it can be a game-changer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Never",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "getting popcorn and soda at the theater might seem like much, but really, it's merely an extension of \"no drugs, no stealing, no texting while driving.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's setting those expectations today—not 5 years from now—that makes it a (lifelong, life-changing) habit that sticks.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

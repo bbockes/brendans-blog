@@ -1,0 +1,137 @@
+{
+  "title": "Begin with metrics",
+  "slug": "begin-with-metrics",
+  "publishedAt": "2018-06-04T12:05:06.000Z",
+  "excerpt": "I recently started tracking my  macros , and I realized something:",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently started tracking my ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "macros",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and I realized something:",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.mystupidsimpleapp.com/stupid-simple-macros/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Assuming dieting is largely a number’s game, not having a reliable metric for tracking what you’re putting into your body is like going on a shopping spree and not knowing how much you’re spending.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We often take for granted the reliability and accuracy that modern day banks give us. We know when we have a surplus of liquid cash to spend as well as exactly how much we’ve spent on any given transaction.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yet, in the case of knowing how much of what we’re eating (whether the metric is calories, macros, or otherwise), we rarely take notice unless cajoled by a physician, coach, or diet plan. Which gives us the rare opportunity to eat whatever we want, and as much as we want, at any time. Because we’re not tracking it, we can remain ignorant of it. So we can consume something like a day’s worth of allotted calories (or carbs) in single setting without acknowledging the incredible surplus of glucose we’re putting into our body.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Tracking makes you aware, and being aware makes you accountable. For example, I now know that if I eat 5 cups of seemingly harmless LesserEvil Cheddah Popcorn what I’m really doing is consuming about 200 calories (or about 30 carbs). For me, that translates to about 20 minutes of climbing up the Stair Master, just to break even. This knowledge makes me more accountable, just like knowing how much I’ve spent this week on groceries makes me accountable for my own finances.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Obviously, a large part of your success comes down to tracking an appropriate metric. Or at least one that’s useful, easily measurable and focuses on what you’re aiming to achieve. While the mechanics of this are beyond the scope of this post, having a specific metric that allows you to track your progress is the best first step.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So instead of worrying about the logistics of whichever of the countless diets out there that work, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "first",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " track your macros or calories-consumed or points accrued. If keeping a budget is the goal, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "first",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " find an easy way to track your spending, and spend a month examining your expenses. This can easily applied to any behavioral modification you’re seeking to implement.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When it comes down to it, metrics make you curious. And it’s that curiosity that will empower you to seek out the knowledge that will then propel you to persist in acknowledging your shortcomings, discover solutions that work, and focus more on the specifics. Furthermore, metrics allow you to measure your progress on your terms, which then allows you to take responsibility for both your progress and your regression.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

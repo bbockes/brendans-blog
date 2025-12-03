@@ -1,0 +1,99 @@
+{
+  "title": "148864233.societal Burden",
+  "slug": "148864233societal-burden",
+  "publishedAt": "2025-11-30T19:30:14.069Z",
+  "excerpt": "Administrative burden refers to the idea that regulations originally intended for good purposes can nonetheless burden members of society.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Administrative burden",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "refers to the idea that regulations originally intended for good purposes can nonetheless burden members of society.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Red_tape#Administrative_burden"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Often overlooked is the burden imposed on all of us when our rules and regulations create more net negative outcomes than positive ones.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, of course, many rules don’t just cost the people they directly affect—whether it impacts their health, employment, or wellbeing—but affect",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all of us",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "indirectly, with costs accrued by those effects.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Making it more difficult for someone with a high degree of potential to receive a good education, get a great job, buy a home, or have a life, only hurts us in the long run. Same goes creating and maintaining systems that hold people back.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The more we realize that, in the long run, helping others helps",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "us",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "as well, the closer we’ll be to having a society where we all benefit.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

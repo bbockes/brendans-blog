@@ -1,0 +1,54 @@
+{
+  "title": "Assuming high",
+  "slug": "assuming-high",
+  "publishedAt": "2019-09-20T05:45:28.000Z",
+  "excerpt": "When you enter a novel situation, do you assume everything will work out?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When you enter a novel situation, do you assume everything will work out?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Do you put a ‘positive spin’ on ambiguous feedback, or have a bias for optimism?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All things considered, you have just as much as shot at getting the result you want by assuming high rather than low. By defaulting to a narrative of success—by acting ‘as if’ you’ll (obviously) get what are hoping for.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Actually, if you think about it, it might even help you improve those odds.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

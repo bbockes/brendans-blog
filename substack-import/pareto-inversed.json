@@ -1,0 +1,106 @@
+{
+  "title": "Pareto inversed",
+  "slug": "pareto-inversed",
+  "publishedAt": "2022-02-18T07:00:00.000Z",
+  "excerpt": "The pareto principle says that—in certain situations—80% of the output will result from of 20% of your input.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The pareto principle says that—in certain situations—80% of the output will result from of 20% of your input.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In the context of marketing, sales, and design, this means that you can dramatically improve a website, product, or app by focusing on a tiny fraction of tasks.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It also means that there are ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "hundreds",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of things you can do that with only marginally improve your work. Those things account for the other 80%.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Being able to discern between the 20% of things ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you should do",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " versus the other 80% of things ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "you can do",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is the knowledge component of knowledge work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having the discipline, people skills, and nerve to stand up for the 20%—to focus on big, macro changes in a sea of minutia—is the human component.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why it rarely gets done.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

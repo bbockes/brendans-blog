@@ -1,0 +1,54 @@
+{
+  "title": "The man with the best tools wins",
+  "slug": "the-man-with-the-best-tools-wins",
+  "publishedAt": "2022-12-15T05:00:00.000Z",
+  "excerpt": "It’s no surprise that you’ll often win a race with a faster car.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s no surprise that you’ll often win a race with a faster car.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So why do some people begrudgingly switch to using newer, faster, better tools to do their jobs effectively?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It took a while for email to catch on given the prevalence of snail mail. And now that it’s widely accepted, many teams still prefer it over Slack, often to their detriment.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Organizations and people that pivot fast, that adopt and embrace new tools and paradigms almost always gain an advantage over those that fall behind.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

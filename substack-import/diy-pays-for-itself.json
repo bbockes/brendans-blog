@@ -1,0 +1,143 @@
+{
+  "title": "Diy pays for itself",
+  "slug": "diy-pays-for-itself",
+  "publishedAt": "2019-10-30T05:18:41.000Z",
+  "excerpt": "Cooking  a home-cooked  meal .  Making  a halloween  costume .  Creating   beauty  out of bricks.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Cooking",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " a home-cooked ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "meal",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Making",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " a halloween ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "costume",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Creating",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "beauty",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " out of bricks.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.instagram.com/p/-cw906kAgr/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://imgur.com/a/Uyuu6CY"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "http://brendansblogdotcom.wordpress.com/wp-content/uploads/2019/10/7138f-1981legoad.jpg"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "These are projects that pay for themselves. That give us something to cherish and (often) to share. And that grace us with skills, memories and experiences that can stay with us for life.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Compare this to ordering out, following the instructions, or buying a costume online. Sure, it’s a easy and convenient workaround, but you miss out on the experience of figuring it out along the way.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "DIY might seem risky, because it might not work the first time or even the tenth.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But it works out, because consistently doing it yourself is the only way you’ll ever learn to do anything any better than the last time you tried.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

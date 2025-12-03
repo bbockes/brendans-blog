@@ -1,0 +1,128 @@
+{
+  "title": "What to do after college",
+  "slug": "what-to-do-after-college",
+  "publishedAt": "2019-08-05T05:44:00.000Z",
+  "excerpt": "A few friends of mine are having trouble navigating post-graduation life (shipping out resumes to no avail, struggling to land a job in their niche, feeling like college was a waste), so I thought I’d",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A few friends of mine are having trouble navigating post-graduation life (shipping out resumes to no avail, struggling to land a job in their niche, feeling like college was a waste), so I thought I’d compile some of the best advice I’ve found on the topic.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s far from comprehensive, but it’s a good starting point (and something I wish I had when I was starting out).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Pursue what you’re good at.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Choose something and run with it. (A bad start is better than not starting.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Look for jobs at small-companies.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Read Johnny Bunko, twice.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Regularly network and make connections.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Learn how to lead up.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Unless there’s a clear path forward, don’t assume more school is the answer. Teach yourself instead.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better yet, create a body of work that speaks for itself (and that makes you the obvious choice in the job pool).",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

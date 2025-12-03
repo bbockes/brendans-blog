@@ -1,0 +1,134 @@
+{
+  "title": "Stuck on content",
+  "slug": "stuck-on-content",
+  "publishedAt": "2018-10-14T14:40:14.000Z",
+  "excerpt": "It's easier than ever to find something interesting to write about, talk about, curate or share.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's easier than ever to find something interesting to write about, talk about, curate or share.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A few strategies I've found useful:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Go to the local library...find any book you like, read a few pages, a chapter or the intro, and write about how that relates to your brand, your culture or your industry. You could apply the same strategy to podcasts, videos or interviews. The prompt is simple enough: find out how this concept applies indirectly to your service or audience, make a connection, and prove why it's important.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Another method: browse the web for popular (or industry-related) ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "keywords",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "hashtags",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Discover what everyone is talking about, find an insight, and find a way to make it relevant to your niche. ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://keywordtool.io"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://hashtagify.me/popular/en"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider long-tail questions and topics...what's going on on the Reddit forums from people in your category? What are they talking about? If you search your service variety on Google and go to page 20 or 200, what are people saying, sharing, commenting or linking to?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Get out more: Eavesdrop. People watch. Go for long walks around your city. Watch a documentary about a topic you know nothing about. Absorb a world away from the one you regularly inhabit (even if it's just outside the office). Travel outside your industry or your insulated viewpoint, get curious, and write about what you see and how it relates to your message. Zoom out, then slowly zoom back in.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The more you look the more you'll see that there are as many resources to discover great content as there things to write about, talk about, add to, simplify, clarify, repost or share.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whatever the case, stuck on content is as bad an excuse as ever.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Early expectations",
+  "slug": "early-expectations",
+  "publishedAt": "2021-11-30T06:53:15.000Z",
+  "excerpt": "One reason to embrace brand guidelines (or style guides) is so that everyone can agree on what the deliverables need to look like to meet spec—saving you time by  avoiding  the back and forth that oft",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One reason to embrace brand guidelines (or style guides) is so that everyone can agree on what the deliverables need to look like to meet spec—saving you time by ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "avoiding",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the back and forth that often occurs when you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "don’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " create what the client wants.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In other words, setting the expectation early pays off later.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By eliminating ambiguity at the start, you make everything else easier.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Less edits. Less bottlenecks. Less work for everyone involved.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

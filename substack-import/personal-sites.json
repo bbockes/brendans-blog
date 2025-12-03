@@ -1,0 +1,172 @@
+{
+  "title": "Personal sites",
+  "slug": "personal-sites",
+  "publishedAt": "2024-10-05T08:55:49.581Z",
+  "excerpt": "A friend asked for my thoughts on making personal sites, so I thought I would share some notes:",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A friend asked for my thoughts on making personal sites, so I thought I would share some notes:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Personal websites are, at best, a place to point your friends and potential clients.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So you don’t don’t need tons of fancy features or high-priced hosting packages.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you want a page that’s nothing but a small bio with links to all your stuff (social platforms, music, portfolio, etc.) ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Linktree",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a good option since it’s free. ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://linktr.ee/s/templates/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And if you want a site with more content (i.e. text, photos, videos) it’s best to go with ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Carrd",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". You can choose from a bunch of templates and design it the way you like–without knowing how to code. Plus, if you want to set up a domain name it’s only $19/year.  ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://carrd.co/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re a designer and are looking for something more robust, go with ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Webflow",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". If you’re a writer, go with ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Wordpress",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (or Substack), since they won’t charge you more for a simple CMS.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://webflow.com/?r=0"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://wordpress.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And please, don’t pay extra to make your site go faster or rank higher. You would do better to think harder about the content you provide, and (maybe) test whether your users actually care to navigate your site.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ask what it’s for. And answer back with a tool that serves your purpose.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

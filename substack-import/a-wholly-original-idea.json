@@ -1,0 +1,112 @@
+{
+  "title": "A wholly original idea",
+  "slug": "a-wholly-original-idea",
+  "publishedAt": "2019-03-21T07:42:00.000Z",
+  "excerpt": "…is a fallacy.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…is a fallacy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ideas",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " aren’t created in a vaccum. And creativity is an amalgam.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://shows.pippa.io/design-tomorrow/episodes/the-real-value-of-ideas"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is to say that ideas (and genius) are a product of our cultural zeitgeist.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That the iPhone wouldn’t be the iPhone if Steve Jobs were alive a hundred years from now. And that Picasso wouldn’t be a cubanist painter if he were alive today.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That people to who apparently “create something out of nothing” aren’t so much “brilliant” as they are a) reasonably smart, b) born at the right time and place, and c) inquisitive enough to make a connection.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And last: that ideas, your ideas, my ideas, are as much a product of the world we are born into as they are products of own imaginations. And that maybe, likely, someone else has those ideas too.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That there are likely people with similar wants, desires, fears, ideas and narratives as you, all around. That you and I have a dobbleganger. Maybe more than one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No. There’s no such thing as a completely original idea. But that doesn't mean you shouldn't act on yours.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

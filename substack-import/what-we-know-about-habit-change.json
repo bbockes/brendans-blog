@@ -1,0 +1,105 @@
+{
+  "title": "What we know about habit change",
+  "slug": "what-we-know-about-habit-change",
+  "publishedAt": "2019-01-30T07:25:00.000Z",
+  "excerpt": "Habits are (tiny) routines. What makes a habit different from an isolated behavior is that a habit is a response to a situational cue. You wake up, and the first thing you do is brush your teeth. Or y",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Habits are (tiny) routines. What makes a habit different from an isolated behavior is that a habit is a response to a situational cue. You wake up, and the first thing you do is brush your teeth. Or you get in your car and immediately put on your safety belt.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The single most effective way to then change an old habit is to realize the cue that triggers it, and to focus exclusively on changing whatever you do in response. Likewise, to develop a new habit is to tie a new routine to an existing cue. You might get home from work, for example, then go for a quick run, and then reward yourself with an hour of fun. Most people underestimate this crucial step, which is why many of the habits we try to incorporate don’t stick.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The duration of the habit doesn’t matter nearly as much as consistency. It takes about 30 to 60 days to make a habit, however, how long you spend completing the habit over that period is inconsequential. You could go to the gym for 10 minutes everyday as opposed to 60, and either way in 2 months you’d still have the itch to go.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Streaks are motivating. Crossing off the days that you’ve stuck to it, seeing the buildup of all the work you’ve put in, and (especially) challenging yourself to see how long you can go, all make it significantly easier to continue.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "(More on this ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "here",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "here",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ").",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=YQjLOyguXSQ"
+        }
+      ]
+    }
+  ]
+}

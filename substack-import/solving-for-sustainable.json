@@ -1,0 +1,141 @@
+{
+  "title": "Solving for sustainable",
+  "slug": "solving-for-sustainable",
+  "publishedAt": "2021-01-11T05:08:00.000Z",
+  "excerpt": "Having an electric vehicle, it’s been interesting to watch the proliferation charging station startups and their various business models.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Having an electric vehicle, it’s been interesting to watch the proliferation charging station startups and their various business models.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many, as one might expect, have resorted to a multi-tiered payment subscription plan. Most of which are confusing at best, and unsustainable at worst. (Who wants to pay $15 to drive 50 miles?)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Likewise, while some work elegantly, others are a flat out pain to use. For example, while some allow you to pay by phone (the obvious method), others encourage you to pay by NFC-enabled cards...which rarely scan and are difficult to manage.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Furthermore, because many stations rely on poor payment models, many can't afford to employ engineers who can fix, let alone maintain, their stations. This means that once a station breaks, it tends to remain broken indefinitely. And--to add insult to injury--there's often no reliable way to communicate to the company something is wrong, anyway.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Given these pitfalls, you can imagine how delighted I was when I first learned about ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Volta",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", which is changing the game entirely.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://voltacharging.com/press/ad-age-2020-40-under-40-scott-mercer/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By charging advertisers for ad space, in public spaces where there aren't many billboards (parking lots outside shopping malls) and where those ads will likely be seen, Volta can do two things:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Provide a completely free service (which no doubt helps with brand awareness/customer retention)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Charge enough to scale (and to hire people to maintain their infrastructure)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's a different model entirely, and one that feeds on itself. Faster to implement, better for customers, and way easier to sustain.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And that's the crux of it. Because new problems often demand new solutions, new models, and new practices--ones that enable them to stick around and to last.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "title": "157023685.taking A Different Route",
+  "slug": "157023685taking-a-different-route",
+  "publishedAt": "2025-11-30T19:30:16.953Z",
+  "excerpt": "Matt Green , who quit his job to walk every street of all five boroughs of New York City, says that many people aren’t acutely aware of their surroundings–even within the spaces they occupy every day.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Matt Green",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", who quit his job to walk every street of all five boroughs of New York City, says that many people aren’t acutely aware of their surroundings–even within the spaces they occupy every day.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://imjustwalkin.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Only when you intentionally take a different path do you begin to notice all the streets, sights, and stories that have been hiding in plain sight.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is probably true for other things as well. Like the goings on at work, or the tools we use everyday, or the people we’re surrounded by. We often only notice what we encounter. Everything else fades from view.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Just like wandering down an unfamiliar path, taking a fresh look at our daily surroundings—whether in our jobs, relationships, or habits—can open us up to new insights and opportunities we might have otherwise missed.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

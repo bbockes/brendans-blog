@@ -1,0 +1,116 @@
+{
+  "title": "148864344.ai Cant Do Everything",
+  "slug": "148864344ai-cant-do-everything",
+  "publishedAt": "2025-11-30T19:30:15.143Z",
+  "excerpt": "It can’t empathize with your customers.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It can’t empathize with your customers.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It can’t do user research.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And it can’t write a novel",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "better",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "than Stephen King.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.theatlantic.com/books/archive/2023/08/stephen-king-books-ai-writing/675088/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What it can do is write and code better than most of us.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now is not the time for ai tools to take our jobs or completely upend them. The time is ripe for AI to make us better and faster at what we",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "already",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The distinction to make is what needs to be done by us versus what can be done by them. Because if we delegate everything, we'll create nothing but banal commodities in a world filled with noise.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But if we’re smart enough to know what needs our time and input (and outsource the rest), then we can create things that are better than we ever thought possible.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

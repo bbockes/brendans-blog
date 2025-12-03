@@ -1,0 +1,32 @@
+{
+  "title": "148864242.if You Dont Have A Process You Cant Repeat It",
+  "slug": "148864242if-you-dont-have-a-process-you-cant-repeat-it",
+  "publishedAt": "2025-11-30T19:30:14.327Z",
+  "excerpt": "It’s one thing to say, if you do this, X will happen.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s one thing to say, if you do this, X will happen.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Entirely another to explain how to do it well, so that X is guaranteed.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

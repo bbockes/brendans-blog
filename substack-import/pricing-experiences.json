@@ -1,0 +1,76 @@
+{
+  "title": "Pricing experiences",
+  "slug": "pricing-experiences",
+  "publishedAt": "2022-11-08T07:00:00.000Z",
+  "excerpt": "Charging a fair price for a job well done is a fine thing to work towards.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Charging a fair price for a job well done is a fine thing to work towards.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because, many people are more willing to pay extra for a great experience.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The flip side is that you can’t indefinitely charge premium prices for a mediocre service.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because if you do, many of your patrons will come expecting something better than average. And if you don’t measure up, they won’t bother to return.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What someone is willing to pay for an experience is relative to how it makes them feel.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The onus is on the creator to assess the value of the experience their getting, and to price things accordingly.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

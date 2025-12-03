@@ -1,0 +1,84 @@
+{
+  "title": "148862589.its Not Easy Being A Balloon",
+  "slug": "148862589its-not-easy-being-a-balloon",
+  "publishedAt": "2025-11-30T19:29:47.250Z",
+  "excerpt": "Avoiding all things that could (potentially) make you pop .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Avoiding all things that could (potentially) make you",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "pop",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.stitcher.com/podcast/prx/everything-is-alive/e/57204528"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sharp corners, nails, pointy grass, forks, children…the list is endless.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, spending your life caught in a net where it’s safe isn’t much fun either.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In fact, it’s so boring, so grueling, that it’s even worse than the risk of exposure.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No, we’re not balloons. But too often we act like we are.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

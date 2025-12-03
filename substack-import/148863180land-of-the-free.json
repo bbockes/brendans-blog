@@ -1,0 +1,290 @@
+{
+  "title": "148863180.land Of The Free",
+  "slug": "148863180land-of-the-free",
+  "publishedAt": "2025-11-30T19:29:58.431Z",
+  "excerpt": "For those wondering why the US hasn't yet gotten a handle on Covid, it’s not because we’re inherently unhealthy or because our cities are more congested. It’s not because of our 42% obesity rate, or (",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For those wondering why the US hasn't yet gotten a handle on Covid, it’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "because we’re inherently unhealthy or because our cities are more congested. It’s not because of our 42% obesity rate, or (even) because most of our elderly are cooped up in senior care.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No, the reason we’ve been blitzed is because America has a freedom problem. Or rather, a compliance problem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "National authorities don't really have the power to issue a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "national lockdown",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and, as it turns out, the state and county officials who do have such authority don't really want to anyway. That’s because lots of people seem to agree that such an act would impede on our ‘civil liberties.’",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.theatlantic.com/ideas/archive/2020/03/why-theres-no-national-lockdown/609127/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, as \"free\" as we apparently are, we all obey rules and regulations that benefit us in the long term. That's how having a sustainable democracy actually works, because while we have civil rights, those rights come with the responsibility that we'll do what we need to do to have a just, stable and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "healthy",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "society. As Dr. Vivek Murphy wisely",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "observes",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", individual liberty doesn’t mean you can drive whatever speed you like on the highway.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/Tr1qoDvY7sk?t=3139"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so we’ve hit a snag in our democracy (the very thing that apparently makes us special). Because faced with uncertain doom, where our fates are entwined, and where everyone is given as much autonomy as they deserve, people don't want to acknowledge their responsibility to each other (to exercise their",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "right",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to do what's best for collective humanity).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And so everyday we have swathes of people going out and getting sick and spreading germs and burdening our hospitals. Making this disaster take longer than it ever has or ever needed to, and annihilating our economy as a result.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "resets",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "everyday, folks. 14 days everyday.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "2-5 times",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "the number of those infected yesterday. Not to mention it’s invisible, it sticks around, and it spreads like",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "! And people are still wandering your town with the best of intentions (telling themselves they--and absolutely no one they interact with—will get hurt).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=FVIGhz3uwuQ"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.forbes.com/sites/tarahaelle/2020/04/07/the-covid19-coronavirus-disease-may-be-twice-as-contagious-as-we-thought/#6ffc7fc729a6"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://www.msn.com/en-us/video/wonder/3d-model-shows-airborne-particles-from-cough-spreading-over-minutes/vi-BB12rHev"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I apologize for ranting. But I'm sick of staying at home. And I’m sick of wondering why so few get this. And I was, quite frankly,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "appalled",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "by the mob of people I saw yesterday on my first trip out of the house in a month. People out and about, stuck in traffic, as if this thing is somehow going to take care of itself, and in no way affect them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Worth highlighting that I’m even",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "perturbed by how our leaders are handling this. Having said that, I think it’s clear that we just can’t hope to fix this problem from the top-down…better from the bottom-up. So please—please!—continue to stay home, voting with your dollars and your actions and your words, and persuading your friends and your neighbors to stay home as well. (Even better, share this post and I'll be your scapegoat!)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Oh! And while you’re at it, try out this hypothetical I came up with shortly after reading this hugely entertaining",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "post",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "by Tim Urban: Say some terrorist group dropped a bio-chemical weapon somewhere in Michigan and 20,000 cats, dogs and parakeets (collectively) perished in 3 days, only for us to soon discover that the instant-death-by-inhalation chemical-agents were quickly spreading by air across the nation, potentially risking the all-time end of mans’ best friend (kind of like a Chernobyl-esqe dystopian future).",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "You think we’d have a national quarantine then? Regardless of the mess it would do to the markets?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "(Makes no difference, folks!)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://waitbutwhy.com/2020/03/my-morning.html"
+        }
+      ]
+    }
+  ]
+}

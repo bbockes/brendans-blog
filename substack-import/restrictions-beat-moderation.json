@@ -1,0 +1,120 @@
+{
+  "title": "Restrictions beat moderation",
+  "slug": "restrictions-beat-moderation",
+  "publishedAt": "2019-02-23T07:26:00.000Z",
+  "excerpt": "Greg  makes a valid point, if you go 95%,  everything  is an exception.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Greg",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " makes a valid point, if you go 95%, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is an exception.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://tim.blog/2019/01/09/greg-mckeown-essentialism/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is to say that anything less than a full commitment is likely going to fall apart.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The reason moderation is difficult is because humans didn’t evolve for it. Times were tough. Food was scarce. When they consumed, they ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "gorged",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", because knowing where their next meal was going to come was far less certain.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So it's no surprise that the diets that last are often the result of a complete lifestyle makeover as opposed to those that rely on moderate temperance and perhaps a cheat-day to “reward” oneself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The same can be said for any behavioral modification program. You go cold turkey, and you avoid the trigger for life. Or you incorporate a new habit into your routine, and you do it everyday—same time, same place—indefinitely.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whatever the case, the kind of commitment that works long-term is the type that retricts freedom of action moving forward. The less choice, the less options, matched with the obligation ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to reconsider your decision to commit in the first place, makes it far easier to stick to the program.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

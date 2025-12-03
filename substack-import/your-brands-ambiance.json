@@ -1,0 +1,76 @@
+{
+  "title": "Your brands ambiance",
+  "slug": "your-brands-ambiance",
+  "publishedAt": "2018-08-21T07:12:00.000Z",
+  "excerpt": "Booming, quiet, coffee shop, night club, bar, meditation-retreat?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Booming, quiet, coffee shop, night club, bar, meditation-retreat?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Happy, mad, crazed, courteous, contemptuous, relaxed, stressed, zombie-like?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Upscale, casual, snobbish, down to earth, in the middle?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The vibe of the venue we’re in is an experience that we can’t help but attribute to your brand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Factors you inculcate via culture, expectation, instruction, and a dozen other variables.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas, if you’re not intentional about it, your customers aren’t likely experiencing all that you hope.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

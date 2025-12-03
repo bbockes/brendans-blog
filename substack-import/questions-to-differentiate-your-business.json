@@ -1,0 +1,89 @@
+{
+  "title": "Questions to differentiate your business",
+  "slug": "questions-to-differentiate-your-business",
+  "publishedAt": "2020-08-04T06:30:00.000Z",
+  "excerpt": "What’s your point of view?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s your point of view?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Your point of view is your point of differentiation. If you don’t have one, no one’s going to know why they should buy from you as opposed to your competition.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How are you solving the problem?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Businesses generally either solve a new problem or they make something better. In either case, there’s always a problem that needs solving, which means that you need to be explicit about how your solution is solving it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How are you making it better?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consumers will respond better to the physical and emotional benefits of your product than any of its features. Which is why being clear about what makes your product better than what exists, and how those benefits ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "benefit",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " your customers, is essential.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

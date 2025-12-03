@@ -1,0 +1,113 @@
+{
+  "title": "Forward motion begets forward motion",
+  "slug": "forward-motion-begets-forward-motion",
+  "publishedAt": "2019-07-20T05:43:00.000Z",
+  "excerpt": "Small wins . Juggling .  Momentum .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Small wins",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Juggling",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Momentum",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://hbr.org/2011/05/small-wins-and-feeling-good"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "/dont-break-the-chain"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "/on-the-psychological-inertia-of-habit-change-and-starting/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "These are (small) mind-hacks that work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The moral: the more you do something (challenging), the easier it feels to continue doing it (and do other difficult things).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Newton’s first law applies as much to psychology as it does to physics.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’re stuck, focus on the small.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

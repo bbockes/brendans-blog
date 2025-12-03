@@ -1,0 +1,65 @@
+{
+  "title": "148864244.claims Support",
+  "slug": "148864244claims-support",
+  "publishedAt": "2025-11-30T19:30:14.373Z",
+  "excerpt": "Lot’s of business make claims. It’s the essence of good copy.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lot’s of business make claims. It’s the essence of good copy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "X happens. X causes Y to happen. Doing Z can cause X to do this.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And here’s a good template for determining which of them to trust:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If they can’t explain how ‘X happens’ or how ‘X causes Y to happen’ or ‘how doing Z does this,’ it’s likely not a business you’ll benefit from doing business with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because almost anyone can make a claim. It takes effort and evidence to support it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

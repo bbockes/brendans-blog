@@ -1,0 +1,65 @@
+{
+  "title": "Take up space",
+  "slug": "take-up-space",
+  "publishedAt": "2019-03-08T07:04:00.000Z",
+  "excerpt": "That’s what it means to fulfill your potential.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s what it means to fulfill your potential.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To create energy where none exists.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To empower people with the self-belief and knowledge to become who they want to be.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To fill a room with the tension of what’s possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or to make a dent in whatever contains you.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

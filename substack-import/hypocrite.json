@@ -1,0 +1,149 @@
+{
+  "title": "Hypocrite",
+  "slug": "hypocrite",
+  "publishedAt": "2019-02-14T06:30:00.000Z",
+  "excerpt": "Daniel Kahneman  argues  that human beings didn’t evolve to be rational, and that it’s actually unrealistic to assume that we can go through life never once having an inconsistent belief.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Daniel Kahneman ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "argues",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that human beings didn’t evolve to be rational, and that it’s actually unrealistic to assume that we can go through life never once having an inconsistent belief.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://onbeing.org/programs/daniel-kahneman-why-we-contradict-ourselves-and-confound-each-other-jan2019/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is an ellaborate way of saying that we’re all liable of contradicting ourselves at some point.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That we all have our fair share of biases and unfounded beliefs and ill-conceived choices.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does that mean it’s a waste of time to elevate our thinking to a higher standard? To ackowledge our prejuduce and that of others? Or to continue to do the hard work of seeking the most objective view possible?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I don’t think so.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It just means that we have to be willing to embrace the fact that no one is perfect. That people—normal, intelligent, good-intentioned people, aren't ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "always",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " logical or predictable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That we are going get things wrong. And that's okay.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You don't have to be right all the time to change someone’s point of view, or to inspire postive action, or to make things better, or to offer up a unique way of seeing the world.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You merely have to be generous (and humble) when you think you have it right, and to own it (and apologize) when you inevitably get it wrong.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's all we can ask of anybody.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

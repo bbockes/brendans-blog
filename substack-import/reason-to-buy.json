@@ -1,0 +1,94 @@
+{
+  "title": "Reason to buy",
+  "slug": "reason-to-buy",
+  "publishedAt": "2020-10-25T06:55:50.000Z",
+  "excerpt": "Lots of people seem to despise materialism, and yet, do little to shirk it.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lots of people seem to despise materialism, and yet, do little to shirk it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider, of all things, Halloween.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a holiday we borrowed from another continent, that marketers have convinced us is yet another reason to buy stuff we’ll use once a year.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Candy, costumes, the latest inflatable ghost...what was once a holiday about scrappy ingenuity and creative expression is now a cause for capitalism.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Since when did ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "baby costumes",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "need",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to look so perfect?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/b?node=14194759011&ref=af_gw_topcard_asin_b_oct_hwn20&pf_rd_r=F1FH5CYC1KXR2VQBSNWE&pf_rd_p=b0774326-bbba-4290-a000-00e7f0ccc964"
+        }
+      ]
+    }
+  ]
+}

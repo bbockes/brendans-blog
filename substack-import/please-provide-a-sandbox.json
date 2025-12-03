@@ -1,0 +1,199 @@
+{
+  "title": "Please provide a sandbox",
+  "slug": "please-provide-a-sandbox",
+  "publishedAt": "2021-09-09T05:49:42.000Z",
+  "excerpt": "A  sandbox  (otherwise known as a ‘sandbox environment’) is an environment you can literally ‘play around with,’ without it affecting, editing, or terminating your actual ‘work’ in a software product.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "sandbox",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (otherwise known as a ‘sandbox environment’) is an environment you can literally ‘play around with,’ without it affecting, editing, or terminating your actual ‘work’ in a software product.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Sandbox_(software_development)"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sandboxes are a great way to train users on how to how to best use a product, for two distinct reasons.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One, it creates a ‘safe environment’ from which they can experiment with and test out the tool risk-free. Enabling them to take ‘risks’ and easily learn from their mistakes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two, by packing the sandbox with all (or most) of the data a user might need to fulfill nearly every use-case, they can teach themselves how to use the product for every (or almost every) plausible use-case.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This not can this improve retention (since it gives users some exposure to performing specific tasks or procedures), but also avoids the common pitfall of creating tutorials for features that would otherwise be ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "too",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " complex for users to configure on their own—and thus, with the exception of a minor few, aren’t often used.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Wrike, for example, has ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "plenty",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "tutorials",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that show you how to manage your work. But without a pre-built environment that shows everything from dashboards and teammates to projects and folders—it’s incredibly difficult to make use of those tutorials in any substantial way - which makes it difficult (although not impossible) to understand how to fully use their product.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=Tav_cXwTJl8&ab_channel=Wrike"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=xaGHdNCifCg&ab_channel=Wrike"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Airtable, in sharp contrast, provides a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "pre-made template",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " for nearly every kind of use-case. Even better, every template comes with its own ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "pre-made sandbox",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (with all or most of the data a user might need to ‘test’ all or most of its diverse use-cases).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.airtable.com/templates"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.airtable.com/templates/content-production/expOe8CamJVxmLrfS/blog-editorial-calendar"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Building a sandbox for your users takes resources. It takes time and money and no small amount of intention. But—I’d argue—it’s more than worth it (particularly if you make and sell software.) A well-designed sandbox is a low-cost, low-stakes way for your users to use your product, to get up to speed quickly and effectively, and to then provide the impetus to encourage their friends and colleagues to give it a try once they do.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

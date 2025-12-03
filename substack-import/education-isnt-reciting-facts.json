@@ -1,0 +1,54 @@
+{
+  "title": "Education isnt reciting facts",
+  "slug": "education-isnt-reciting-facts",
+  "publishedAt": "2018-07-14T13:05:05.000Z",
+  "excerpt": "You can’t remember everything you used to know any more than you can regurgitate everything you learn.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can’t remember everything you used to know any more than you can regurgitate everything you learn.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The point of (general) education, then, isn’t to memorize as much facts and figures and equations and theories as you can consume in a day.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s to create a knowledge base that empowers you with the skills and resources to go back and review those concepts when they become relevant.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And to make the process of delving in, of engaging in our curiosity, of discovering solutions to unique problems on our own, entertaining enough for students for them to want to do it again.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

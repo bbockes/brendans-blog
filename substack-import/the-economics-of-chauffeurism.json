@@ -1,0 +1,73 @@
+{
+  "title": "The economics of chauffeurism",
+  "slug": "the-economics-of-chauffeurism",
+  "publishedAt": "2020-01-20T06:26:03.000Z",
+  "excerpt": "This  box of cubed vegetables  (zucchini, bell peppers, half an onion) is $9 at Whole Foods. 500% more than what it would cost for you to buy them each, and learn how to dice them yourself.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "box of cubed vegetables",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (zucchini, bell peppers, half an onion) is $9 at Whole Foods. 500% more than what it would cost for you to buy them each, and learn how to dice them yourself.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://imgur.com/KPaRd6k"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider something as simple as writing well-crafted marketing collateral, a public speech, or (even) a simple email. Many people employ full-time employees year-round just to fulfill these mundane tasks...when doing it themselves can benefit them financially as well as professionally.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out there's as much a cost for paying other people to do things for you as there is for doing things yourself. And I'm not saying you should always choose the latter. (Occasionally paying an artist who's clearly worth his salt is certainly worth the investment).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But in situations where you can benefit more (short-term and long-term) by teaching yourself to do things on your own, it might help to at least recognize that you have the option.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

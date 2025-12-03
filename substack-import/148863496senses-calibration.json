@@ -1,0 +1,88 @@
+{
+  "title": "148863496.senses Calibration",
+  "slug": "148863496senses-calibration",
+  "publishedAt": "2025-11-30T19:30:02.736Z",
+  "excerpt": "Here's a fun game to play if you're ever bored or tempted to make an impulse buy: go to your favorite department store (i.e. Target) and use your senses to genuinely experience (and enjoy) the followi",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here's a fun game to play if you're ever bored or tempted to make an impulse buy: go to your favorite department store (i.e. Target) and use your senses to genuinely experience (and enjoy) the following:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Touch",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all the pillows.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Smell",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all the candles.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Listen",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to all the headphone demos.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "See",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all the people (just don't stare).",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Taste",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "something you never have.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Feeling better?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

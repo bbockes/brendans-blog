@@ -1,0 +1,87 @@
+{
+  "title": "A template for autodidacticism",
+  "slug": "a-template-for-autodidacticism",
+  "publishedAt": "2018-11-29T06:59:00.000Z",
+  "excerpt": "Ask: What happens if I do this?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ask: What happens if I do this?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Do it. Be curious. Learn from it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ask: What do I need to do to accomplish this?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Decide on a realistic goal and work backwards from there.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ask: What would I do if I had no fear?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Take big risks. Seek expert feedback. Learn as much as you can, as fast as you can.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There you go, a simple effective way to learn a new skill (or a dozen) in minimal time.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

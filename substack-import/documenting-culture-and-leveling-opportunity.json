@@ -1,0 +1,113 @@
+{
+  "title": "Documenting culture and leveling opportunity",
+  "slug": "documenting-culture-and-leveling-opportunity",
+  "publishedAt": "2019-11-21T05:54:43.000Z",
+  "excerpt": "The place where I work recently created a  wiki  to document how we do things. It includes everything from company policy to how we hire new recruits to how we deploy websites and respond to client ti",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The place where I work recently created a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "wiki",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to document how we do things. It includes everything from company policy to how we hire new recruits to how we deploy websites and respond to client tickets. It even has style guidelines for copywriting and for coding.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Wiki"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Internal wikis, in my opinion, are a really good idea. Because instead of employees going around the room asking FAQs, they can look it up themselves--saving countless hours. Moreover, because it’s a wiki, employees get to sit down together and discuss and articulate and agree on what gets posted and why.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better than a mere mission statement—wikis cement workplace culture, and support an ongoing dialogue about who we are, 'how we do things around here', and why we do things the way we do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It also helps flatten organizational hierarchy. Because, of course, if you can easily find out the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "steps",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " to do your boss’s job, or someone in another department, who’s to say you can’t take it?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/delegation-raises-the-stakes/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is not to say that you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "will",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " be better than your peers at what they do, but it certainly offers up the opportunity for you to try. And it ensures that everyone will be on their toes—actively engaged in becoming better—whether it’s to keep their place in the pecking order, or to rise above it.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

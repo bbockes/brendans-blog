@@ -1,0 +1,75 @@
+{
+  "title": "Food lion doesnt sell specialty coffee",
+  "slug": "food-lion-doesnt-sell-specialty-coffee",
+  "publishedAt": "2020-03-08T19:33:35.000Z",
+  "excerpt": "...but Whole Foods does.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "...but Whole Foods does.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Different demographics. Different buyers. Different stores.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The trick to resonating with your audience, after all, is making and offering a thing that ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "they",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " are willing or waiting to buy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No demand. No sales. No brand. No profit.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

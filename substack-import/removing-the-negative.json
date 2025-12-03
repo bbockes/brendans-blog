@@ -1,0 +1,43 @@
+{
+  "title": "Removing the negative",
+  "slug": "removing-the-negative",
+  "publishedAt": "2021-04-23T07:00:35.000Z",
+  "excerpt": "It turns out you'll be happier removing the top 20% of things that most frustrate you in your daily life than doubling the amount of things that are positive.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out you'll be happier removing the top 20% of things that most frustrate you in your daily life than doubling the amount of things that are positive.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Put another way, if you want to be happy, you don't need to spend much time in the pursuit of things you think will make you more happy. You simply need to remove some of the things that make you unhappy.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A nicer house, car, clothes, phone, or source of entertainment pales in comparison to a better (less-stressful) job, a shorter commute, or, even, a more comfortable pair of shoes.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

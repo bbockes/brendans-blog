@@ -1,0 +1,150 @@
+{
+  "title": "148862430.300 Characters Or Fewer",
+  "slug": "148862430300-characters-or-fewer",
+  "publishedAt": "2025-11-30T19:29:45.960Z",
+  "excerpt": "On one hand, less is more. Limits on “how much” eliminate the temptation to say everything. To instead, focus on the essential.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On one hand, less is more. Limits on “how much” eliminate the temptation to say everything. To instead, focus on the essential.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why, for (most) business book ideas to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "shower thoughts",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "to about me pages, it’s best to keep it short.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.reddit.com/r/Showerthoughts/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The flip side is just about everything else you read to stay informed. Books, articles, podcasts, (most) blog posts, the news. If every one of those things were less than 300 characters, just think about how un-informed we’d be.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No depth, no breath. Just impressions and chirrup and the occasional haiku.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Long-form matters, because without it, we don’t get the deduction of a well thought out inference. Or the visual imagery of a hard-to-put-down account. Or multiple points of view. Or real news and true science.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "TL;DR",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is a recent phenomenon, born out our digi-cultural compulsion to skim it over, peruse the highlights, or to read in checklist mode. Of course, what that creates is a culture that’s very good at clicking, consumed in tweeting, and very impatient with contemplating (or comprehending) what’s in front of us.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/TL;DR"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We can’t create a culture that sees all the angles if we’re so preoccupied with what’s next in our queue (or defending our predispositions) that we neglect to engage with the depth of reality.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I wonder what would happen if every twitter-obsessed politician, leader or twenty-something spent an hour a day marinating in",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "content",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "worth reading instead? Even better: writing something, sharing something, creating something, coherent and cogent, longer than a 300 letter chirp.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://longform.org/about"
+        }
+      ]
+    }
+  ]
+}

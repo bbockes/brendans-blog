@@ -1,0 +1,110 @@
+{
+  "title": "Everyones an edge case",
+  "slug": "everyones-an-edge-case",
+  "publishedAt": "2021-02-24T05:16:31.000Z",
+  "excerpt": "Something Netflix has figured out (and many streaming services are picking up on) is that there is no average user.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something Netflix has figured out (and many streaming services are picking up on) is that there is no average user.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That of the thousands of things to watch on Netflix alone, a single viewer will only watch less than 5% of it all. And, at the same time, no two viewers will watch exactly the same things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure, two people with the same psychographics may watch the same show on occasion, but more often they'll watch different shows in different genres or sub-genres. (And probably on different platforms as well.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This means two things:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The way to 'win in at streaming' isn't to cater to a mass market. Because there is no mass market.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Catering to everyone is a surefire way to fail. Because in an age where you can watch anything and everything in your pj's, making average movies for average people no longer works.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Understanding that the folks watching Stranger Things are not the same as those watching Bridgerton, or Chefs Table, or Black Mirror, or Blood of Zeus, and vice-versa, is the first step on the road to creating something original.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Choosing an audience and making something truly unique ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "for them",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " is the second.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

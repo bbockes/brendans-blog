@@ -1,0 +1,147 @@
+{
+  "title": "What matters in college",
+  "slug": "what-matters-in-college",
+  "publishedAt": "2019-09-21T05:47:29.000Z",
+  "excerpt": "Parents (and students) spend an exorbitant amount of time and money to get into famous and/or prodigious colleges. And yet they spend little time at all preparing who will literally live adjacent to t",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Parents (and students) spend an exorbitant amount of time and money to get into famous and/or prodigious colleges. And yet they spend little time at all preparing who will literally live adjacent to their bright minds.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's because the assumption is that once you’re in the school…saturated by professors and like-minded students and the greatest resources available...everything will take care of itself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And yet an abundance of research shows that who you hang out with has more effect on you over a course of 4 years than just about any class, club or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "cafeteria",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " you could hope to experience.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://revisionisthistory.com/episodes/05-food-fight"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If their friends eat junk food and fast food and subscribe to the freshman fifteen, they will too. If they smoke pot or vape, they'll be tempted to, as well.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And if the expectation is that people like us party and drink in excess (even if not everyone ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "actually",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " behaves that way), it's likely they're going to perpetuate that prophecy.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Representativeness_heuristic"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it works both ways. Part of the reason famous colleges exist is because of standards and assumptions. If everyone assumes that everyone is making straight A's and working all-nighters, all while enrolled in a half dozen clubs, individually they will be more likely to work harder than they normally would (which reinforces the perception).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's also why if you surround someone with intelligent, thoughtful, generous, and amiable people--a cohort that cares about them enough to challenge them to level up--they'll come out the other end far better off.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That, at its best, is what school is for. But, unfortunately, it's not what is guaranteed...regardless of if you go to a well known institution, how much you pay for tuition, or even, as it happens, what dormitory you get into.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No, the things that often change us the most at college are things we have to often proactively seek out. It's not easy to find the others (people and causes and ideas who will challenge us to be better than we thought possible) but it's certainly worth the effort.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

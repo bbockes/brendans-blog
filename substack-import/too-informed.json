@@ -1,0 +1,137 @@
+{
+  "title": "Too informed",
+  "slug": "too-informed",
+  "publishedAt": "2019-11-01T07:32:45.000Z",
+  "excerpt": "Is it possible that you know  too much  of what other people think?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Is it possible that you know ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "too much",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " of what other people think?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That what you've acquired through (years of) reading and listening to experts talk is blocking you?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That what you think you know might be competing with what you know you know?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Advice, while certainly a wise thing to seek out, often has a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "half-life",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://youtu.be/-YG0kMpzL_A?t=2505"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that while it might both apply and ring true for you, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "it might not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". When too much advice thwarts action--when it gets in the way of acknowledging your inner voice, or experiencing what works for you in your own time, that's when you know you need less of it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What to do instead?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Go with your gut. Lean into intuition. Trust the person you're becoming.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Do it. Try it. Live it. Learn it. Discover what works and what doesn't. Repeat.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "title": "The unconditional skeptic",
+  "slug": "the-unconditional-skeptic",
+  "publishedAt": "2021-12-01T05:08:00.000Z",
+  "excerpt": "It's astonishing how often people are skeptical of things they know almost nothing about.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It's astonishing how often people are skeptical of things they know almost nothing about.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As if there's value in being a skeptic itself, continuously recoursing to doubt.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I'm not so sure mistrusting ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " by default is the best way to navigate a world that's so dense it's ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "impossible",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to completely understand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Better to be humble than be blind.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

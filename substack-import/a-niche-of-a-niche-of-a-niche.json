@@ -1,0 +1,135 @@
+{
+  "title": "A niche of a niche of a niche",
+  "slug": "a-niche-of-a-niche-of-a-niche",
+  "publishedAt": "2021-07-21T06:43:59.000Z",
+  "excerpt": "In most professions, specificity matters.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In most professions, specificity matters.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It helps you define who you serving and what it’s for, just as well as it helps you compete in a crowded space.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s easier to be a pediatrician than a general physician (because it narrows the scope of the things you need to know to do your job well). It’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "even easier",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to be a pediatrician, in a small town in Iowa, who specializes in the management of asthma and allergic conditions (because you’re competing in an ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "even smaller",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " space).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For writers, designers, and marketers, especially, specificity helps you do your job ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "even",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " better. Writing, designing, or marketing for your readers, users, or customers is how to effectively differentiate your deliverables enough to ensure they’re actually read, seen, or shared.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It even makes it easier for people to find you online. A “",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "bridal boutique",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " near Daytona,” for example, is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "a lot",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " easier to tell apart (and to rank for) than a “clothier anywhere in the sunshine state.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.thekingsdaughterbridal.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The point is, being ultra-specific often pays for itself in long-term value. Making it easier to draw a crowd around whatever it is you happen to be doing.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

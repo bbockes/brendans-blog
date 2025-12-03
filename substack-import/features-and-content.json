@@ -1,0 +1,73 @@
+{
+  "title": "Features and content",
+  "slug": "features-and-content",
+  "publishedAt": "2022-09-29T07:00:00.000Z",
+  "excerpt": "When you think about how applications are nothing much more than combinations of features and content, it’s easy to embrace just how replicable they can be.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When you think about how applications are nothing much more than combinations of features and content, it’s easy to embrace just how replicable they can be.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That as hard as it is to come up with new features and ever better content, it’s easy for any business to copy it and run with it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why user experience matters more than ever. Because in a world where bits and bites cost nothing to duplicate, the apps that deliver the best experience are the ones who win.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Google Docs is Microsoft Word but better. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Figma",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is Adobe XD but better.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.figma.com/figma-vs-adobe-xd/"
+        }
+      ]
+    }
+  ]
+}

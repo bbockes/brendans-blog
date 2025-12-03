@@ -1,0 +1,105 @@
+{
+  "title": "148864017.just Luck",
+  "slug": "148864017just-luck",
+  "publishedAt": "2025-11-30T19:30:11.649Z",
+  "excerpt": "Bitcoin hit an all time high last week.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bitcoin hit an all time high last week.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It occurred to me that if all I’d done in October 2013 was drop out of my last year of college and spend what I’d save on a hundred bitcoins, I’d be a millionaire by now.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, no one knew that Bitcoin would hit an all time high at all. Least of not then, back when it was an obscure triviality along the outskirts of the long tail.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Same goes for the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "thousands(!) of other coins",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "that BTC now competes with. Nobody knows their value. It’s purely speculative.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://coinmarketcap.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. It’s easy to feel bad because you didn’t know better to invest when the time was right. But, taking into account what you didn’t know or couldn’t know at the time, it’s also relatively easy to conclude the fact of the matter—that you would",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "never",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "have known any better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes people make informed decisions based on what the know or care to find out. For everything else there’s luck. And only sometimes does it go in your favor.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

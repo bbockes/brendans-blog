@@ -1,0 +1,220 @@
+{
+  "title": "Dreamstime rant",
+  "slug": "dreamstime-rant",
+  "publishedAt": "2020-01-27T06:57:47.000Z",
+  "excerpt": "Traditional stock photo companies have a marketing problem. Faced with near ubiquitous competition from companies like  Unsplash  and  Stocksy , which have vastly different business models, it's becom",
+  "image": "https://blog.brendanbockes.com/wp-content/uploads/2020/01/dreamstime-rant-1024x836.png",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Traditional stock photo companies have a marketing problem. Faced with near ubiquitous competition from companies like ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Unsplash",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Stocksy",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", which have vastly different business models, it's becoming harder than ever for them to make a profit.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://unsplash.com/explore"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.stocksy.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Interestingly, instead of embracing a new model: low-cost monthly subscriptions or high-cost payments for premium services, for example, many organizations in this space continue to promote mediocre products coupled with dismal packages.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the case of Dreamstime, which offers a monthly allotment of downloads based on a fixed monthly plan. For $25, you can download 5 images. For 50, it’s $71.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which brings us to their first problem: Most people who actually find an image on their site (as opposed to finding a free image elsewhere) likely don’t want to pay subscription. They would gladly pay $5.00 to download one image rather than pay 5 times the amount for an addition four.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But wait! Dreamstime offers a free one week trial. 5 images for free! ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Not exactly",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". Only after I:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "a) created a profile",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "b) entered my card information",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "c) downloaded my ‘free’ image",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "d) discovered I was charged for $25",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "e) requested a refund",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…did I receive this automated message (as if they already knew why I was refunding my order):",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Side note: \"refund for your ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "free",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " trial upgrade\"(?)…I don’t even know how copywriters can get away with this.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I don’t have a problem with paying for stock photography. But I do have a problem with being scammed into thinking I’m going to get something for free, only to be told after the fact that I was wrong. It’s antics like this that make resorting to free services not only enticing, but inevitable.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Dreamstime has a marketing problem because there’s a mismatch between how they offer their products and what their customers are willing to pay for. Of course, scamming them into submission (as opposed to fixing what’s broken) isn’t a solution, it’s a trap.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

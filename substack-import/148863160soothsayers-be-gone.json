@@ -1,0 +1,131 @@
+{
+  "title": "148863160.soothsayers Be Gone",
+  "slug": "148863160soothsayers-be-gone",
+  "publishedAt": "2025-11-30T19:29:57.516Z",
+  "excerpt": "No one could have predicted that \"coronavirus\" would be the most trending topic on Google (or that “social distancing” would soon be a ubiquitous term).",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No one could have predicted that \"coronavirus\" would be the most",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "trending",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "topic on Google (or that “social distancing” would soon be a ubiquitous term).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=coronavirus"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And no one could have possibly known that the market would drop as steep and as fast as it has these past two weeks.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or that you or I or anyone would be sitting at home, wading this out, too tired to go outside, too bored to watch TV, too distressed to check the latest update on the latest uptick or the latest closure.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No one could have predicted the future, and (to the best of my knowledge) no one can.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Maybe it’s time we stopped assuming the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "worst",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is behind us, or that the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "best",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is yet to come.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://tim.blog/2020/03/17/predicting-hospital-capacity-why-to-act-early-how-to-think-about-lag-time-and-a-model-you-can-use/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=-k6Kh_A0LBk"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because we can’t predict the future. But we can shape it, and prepare for when it comes.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

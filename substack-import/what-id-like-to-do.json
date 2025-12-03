@@ -1,0 +1,70 @@
+{
+  "title": "What id like to do",
+  "slug": "what-id-like-to-do",
+  "publishedAt": "2018-08-02T12:51:14.000Z",
+  "excerpt": "isn’t the same as  what’s on the agenda.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "isn’t the same as ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "what’s on the agenda.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If all you do is tell yourself you’d like to do something again and again, but never do it, you’re merely indulging yourself in the possibility of living in that reality.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A fun way to imagine how much fun it would be if you had this or did that.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it’s easy to daydream. Far harder to initiate.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ultimately, what you do is what gets done.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

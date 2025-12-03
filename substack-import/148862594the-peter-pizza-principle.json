@@ -1,0 +1,114 @@
+{
+  "title": "148862594.the Peter Pizza Principle",
+  "slug": "148862594the-peter-pizza-principle",
+  "publishedAt": "2025-11-30T19:29:47.426Z",
+  "excerpt": "If the head pizzaiolo doesn’t know quality pizza from mediocre pizza, how can he possibly make great pizza?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If the head pizzaiolo doesn’t know quality pizza from",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "mediocre",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "pizza, how can he possibly make great pizza?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=XuQxoM1ArRI"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Greasy pizza isn’t the same as the neapolitan wood-fired faire, which is why the later has standards. Of course, if you don’t care to know what those standards look like or taste like, you’ll never escape your own",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "incompetence",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Peter_principle"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is to say, you’ll never learn to make a better pizza.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if you’re a pizzeria, undelivering on quality is a costly mistake. Pizza delivery chains are ubiquitous and cheap. If you’re not offering anything better than Papa Johns and Pizza Hut, you’re going to find it very hard to compete.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The alternative is to be the best in town. The place that’s easily sought out. That gets crowded on weekends and (often) has a waitlist.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "My point is, there are probably a hundred ways to make a pizza that gets talked about for the right reasons. But confusing good pizza with bad pizza isn’t one of them.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

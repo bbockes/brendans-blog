@@ -1,0 +1,110 @@
+{
+  "title": "148863579.feedback Bias",
+  "slug": "148863579feedback-bias",
+  "publishedAt": "2025-11-30T19:30:03.831Z",
+  "excerpt": "Feedback bias is defined as 'the natural tendency to act on feedback,’ no matter how ill-advised, simply because you heard it.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Feedback bias",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is defined as 'the natural tendency to act on feedback,’ no matter how ill-advised, simply because you heard it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.fastcompany.com/40508593/everyone-has-an-opinion-about-my-startup-heres-how-ive-learned-to-deal-with-that"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Feedback bias is one reason why seemingly great startups can collapse overnight, and how otherwise smart and capable individuals can take a turn for the worse.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because sometimes feedback is a gift (and so we should listen to it.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And sometimes—more often than not—feedback",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "hurts",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more than it helps. It's often not supported by evidence (or a large-enough consensus), and if you listen to all or most of it, it can ruin you or your service.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Learning to discern between accurate and constructive criticism and bad and biased feedback is how we learn to make smart judgements about what really needs changing and what doesn't.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if you assume everything you hear is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "always",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the former, or the latter, you'll never learn to tell the difference.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "title": "Endorsing serendipity",
+  "slug": "endorsing-serendipity",
+  "publishedAt": "2018-03-02T10:52:54.000Z",
+  "excerpt": "Most of the time, when we consume something, we like know to know beforehand that it will meet our every expectation. That the experience will be a good one. Worth our time or money. We’re so hyperawa",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of the time, when we consume something, we like know to know beforehand that it will meet our every expectation. That the experience will be a good one. Worth our time or money. We’re so hyperaware of sunk costs and shady marketing, in fact, that we habitually take precautions to avoid them, often qualifying and filtering our “results” to the max.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence the demand for reviews and recommendations.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, if you neglect the chance meeting for what you have in your queue, you’ll never run into anything original. Never expose yourself to something no one isn’t already talking about. Or experience the best kind of surprise.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A big part of what it means to be curious is to be open to the serendipitous encounter. To take home the book you know nothing about. Or watch the film that has mixed reviews. Or take a chance on the unfamiliar or obscure ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "cuisine",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.netflix.com/title/80170368"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Besides learning that most critics have no taste or that really good content can sometimes go unnoticed, you’ll end up having a much more unique perspective than if you only expose yourself to the top picks in any category.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Turns out, you don’t develop acuity by consuming only what’s trending. You develop good taste by being invariably open to the possibility of stumbling upon a fresh point of view.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

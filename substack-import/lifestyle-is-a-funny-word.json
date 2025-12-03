@@ -1,0 +1,43 @@
+{
+  "title": "Lifestyle is a funny word",
+  "slug": "lifestyle-is-a-funny-word",
+  "publishedAt": "2022-05-28T07:00:00.000Z",
+  "excerpt": "Because A, it implies you have a life.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because A, it implies you have a life.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And B, because it implies you can choose what you do with it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Worth remembering that not everyone is so lucky.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "title": "148862980.never Enough",
+  "slug": "148862980never-enough",
+  "publishedAt": "2025-11-30T19:29:54.362Z",
+  "excerpt": "A little backstory: Last week, I left my job for (hopefully) better things. I also gave up junk food , started going to the gym again, and got serious about learning to code.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A little backstory: Last week, I left my job for (hopefully) better things. I also gave up",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "junk food",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", started going to the gym again, and got serious about learning to code.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://elemental.medium.com/3-foods-you-should-throw-away-forever-3eb7b5f38075"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. Last week I was super motived(!) to hit the ground running. This week, a little less so.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It can be hard to continue to do the things we set our mind to once onset motivation has worn off. Because, of course, no amount of motivation is ever enough to last forever.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The solution to this is two-fold.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Onset motivation is wonderful thing, the psychological equivalent of having the wind at your back. But it lasts relatively briefly, which is why when you do have it, you should recognize that you’ll never have more of it than you have in that moment. Use it an opportunity to get in the groove and set your",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "expectations",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "early.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/dont-touch-the-clock/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The second remedy is to acknowledge that after those initial feelings have worn off, they most likely won’t come back. Another way to say that when they are gone, you’ll never have any more momentum than you have",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "in that moment",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", meaning that seeking",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "isn’t the answer.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The answer is to find out how to do this thing even though you don’t feel like it. To acknowledge that the only way around this hurdle is to continue to continue regardless of how it makes you feel, because feelings (as it turns out) aren’t a reliable motivator—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "actions are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The secret of self-discipline is to realize that motivation is a",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "finite",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "resource. You’ll never have enough to get you through. Giving up the need for it (and relying on habits instead) are what enable you to power through when you inevitably run out.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/motivation-has-a-shelf-life/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "title": "Whats it testing",
+  "slug": "whats-it-testing",
+  "publishedAt": "2021-02-09T10:01:01.000Z",
+  "excerpt": "I took a dumb  assessment  the other day, for a job, and decided to look into who made it.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I took a dumb ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "assessment",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " the other day, for a job, and decided to look into who made it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/pattern-recognition/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Criteria",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is a “leading provider of professionally developed pre-employment tests” made to help businesses make better talent decisions. Based on 'stringent scientific standards’ that are ‘backed by experts in I/O psychology,’ Criteria is able to produce assessments that ‘accurately measure job-related competencies in a consistent and reliable way.’",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.criteriacorp.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What a bunch of baloney.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Criteria is right to say that ‘an assessment is only as powerful as its validation.’ Except that what it does to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "validate",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " its assessments isn’t scientific, let alone reliable. Their service isn't testing if the folks who pass their assessments ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "truly are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the best possible candidates for the job. It's testing for what it thinks are reliable indicators of people who would make the best candidates (not the same thing.)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.criteriacorp.com/science/testing-validation"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In other words: Criteria isn't assessing what it says it measures, or even analyzing if their assessments consistently and reliably produce the best outcomes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That's because you can’t just take a dataset from the DOL, plug it into an algorithm, look for correlations, and assume that your assessments will work for every job in every industry for every client. That's bad science.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Furthermore, you can't measure ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "content validity",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " unless the questions themselves are specific to the job you’re hiring for. And you certainly can’t ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "know",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the ‘ability of the test to correlate with (the best possible) business outcome’ unless you look at the opportunity costs of factoring in other variables (such as hiring the candidates you didn’t pass the assessments), and testing how ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "those",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " factors actually perform (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "which you can’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ").",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Content_validity"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So no, I don’t believe that Criteria is actually testing for what it says it does. And I don’t think it helps anyone to subscribe to their ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "crap",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.criteriacorp.com/science/testing-validation"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The only reliable way to reliably test if someone would be great at a job is to give it to them—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "the same job, the same tasks",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—and to measure how they perform. Not by giving them an aptitude-test from some high-altitude think-tank. But by actually testing what your testing.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

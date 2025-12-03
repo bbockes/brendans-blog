@@ -1,0 +1,181 @@
+{
+  "title": "148862599.values Are Not Facts",
+  "slug": "148862599values-are-not-facts",
+  "publishedAt": "2025-11-30T19:29:47.644Z",
+  "excerpt": "I took a “value assessment” the other day for a company I had applied to.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I took a “value assessment” the other day for a company I had applied to.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It looked like",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://imgur.com/p0bkDao"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The rules were simple enough: First, I was instructed to categorize each sentence by selecting (+) if I thought it was inherently “good,” and (-) if I thought it was “bad.” Then I was told to arrange the sentences from “best” to “worst,” by dragging them to their most appropriate position as indicidated by the numbers on the right.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I was soon surprised to discover however that the system couldn’t assess my original answers (the image above). Instead, it kept giving me an error message: “The system cannot assess your provided answers, please re-read the instructions and try again.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I changed my answers and tried again. I changed them again. And again. And again. Finally, I got it “right” and was allowed to continue.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two problems here:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For one, assessments like these aren’t so much an evaluation of my personal values and beliefs as much a test of my ability to conform to social norms. Is a prophet inherently good? Is a traffic ticket (one that enforces safety, rule of law, or a just government a bad thing? What about a garbage pile? Sure it’s unpleasant, but that doesn’t mean it isn’t essential. Or consider that what you’re reading this on wouldn’t be possible without manufacturing—the plant, the labor, the monotony of it? And don’t even get me started on wedding rings.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, to defend my point of view requires context. And without an opportunity to explain myself, I’m left in the dark. There’s no way I can provide an honest answer let alone honest feedback. Which is probably why this clearly antiquated test has been around so long.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The second point I want to address is the irony bit. We send our kids off to school so that they can develop “critical thinking skills,” and be more “well-rounded” and “open-minded” and “creative.” And as parents and teachers and policy-makers, we values those things. Because our world is still filled with difficult problems and the only way around it is if future leaders learn those skills",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "now",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And yet, what we really do is collectively send kids off to school so that we can teach them right from wrong, this from that, facts from opinions. And then we grade them on assessements like these so that we can measure their output and ability to conform to a standarized worldview.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No context. No explaining. No way to defend their unique point of view. No, instead, we hand them a multiple choice test because it’s easy to grade.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If your a leader, teacher or (even) an employer, consider: is it your job to enforce a standard and merely test for it? Or is your job to encourage the people around you to adopt their own way of being in the world? To inspire others to lead their own lives in accordance with",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "their",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "values, not yours.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

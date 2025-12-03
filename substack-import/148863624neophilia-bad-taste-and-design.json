@@ -1,0 +1,188 @@
+{
+  "title": "148863624.neophilia Bad Taste And Design",
+  "slug": "148863624neophilia-bad-taste-and-design",
+  "publishedAt": "2025-11-30T19:30:04.248Z",
+  "excerpt": "Designers are all up in arms over how bad Apple and Google’s new icons are.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Designers are all up in arms over how bad",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Apple",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Google’s",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "new icons are.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.creativebloq.com/news/mac-big-sur-icons"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://techcrunch.com/2020/10/06/googles-new-logos-are-bad/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, for good reason: they’re atrocious.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The question is,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "how could this happen?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "How could the two biggest brands in the tech world create, let alone approve, such awful designs?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s my theory:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Stakeholders put pressure on executives to redesign software, because redesigning software makes it",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "appear",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "like it’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "better",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ". This, matched with the fact that neophiliacs clamor over the slightest of visual design changes means that Apple and Google can continue to sell their products at premium price points even when the actual",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "utility",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "of those products are in sharp decline.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Aesthetic%E2%80%93usability_effect"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Put more simply: Apple and Google don’t care about making better products. They care about how their products look. Regularly changing the appearance of their software or hardware or iconography is a low-cost, low-risk way of showing that that they’re (still) on the bleeding edge, and that paying extra their high-priced products is worth it. (The latter of which couldn’t be further from the truth.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Add to this the fact that bigger companies mean more committees, more meetings, and more stakeholders (i.e., people with bad taste), and it’s easy to see how these two could make such bad choices.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because it’s not about design for the sake of betterment.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "It’s just a new sleeve.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

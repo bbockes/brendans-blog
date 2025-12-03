@@ -1,0 +1,53 @@
+{
+  "title": "Competitor actions",
+  "slug": "competitor-actions",
+  "publishedAt": "2023-08-01T07:00:00.000Z",
+  "excerpt": "Lots of business owner’s want to know who their competitors are and rightfully so, because copying from what’s working is among the fastest ways to grow.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lots of business owner’s want to know who their competitors are and rightfully so, because copying from what’s working is among the fastest ways to grow.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The problem is when we eagerly look into who our competitor’s are, without asking ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " they’re our competitors to begin with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Knowing your rivals isn't helpful unless you understand in what ways they’re beating you and why, which is why understanding their actions is more important than knowing who’s winning.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

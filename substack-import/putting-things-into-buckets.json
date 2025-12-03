@@ -1,0 +1,97 @@
+{
+  "title": "Putting things into buckets",
+  "slug": "putting-things-into-buckets",
+  "publishedAt": "2022-03-08T06:20:00.000Z",
+  "excerpt": "That’s all budgeting really is.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s all budgeting really is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The trick, I think, it making sure you put your money in the right buckets to start, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "before",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " you allocate money for less important buckets.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Your rent and 401k are first-tier buckets.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Groceries and wifi are second.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Travel and entertainment are third.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you can put the right amount of money in the right buckets—by planning ahead—you can ensure that what’s “safe to spend” cascades down.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which makes knowing whether you’ll have enough to spend much easier.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

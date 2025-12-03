@@ -1,0 +1,130 @@
+{
+  "title": "Certificates vs degrees",
+  "slug": "certificates-vs-degrees",
+  "publishedAt": "2020-07-22T05:00:42.000Z",
+  "excerpt": "Google recently revealed three new  career certificates  for people seeking to advance their career in several high-demand areas.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Google recently revealed three new ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "career certificates",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " for people seeking to advance their career in several high-demand areas.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://grow.google/certificates/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The certificates themselves are created and taught by Google employees, don’t require a college degree, and are offered entirely online. Google says it will \"consider all of its certificates as the equivalent of a four-year college degree for related roles at the company.\"",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The question is, if Google—arguably the most esteemed and selective company on Earth--can regard a well-made, online certificate program as the equivalent of a 4-year degree, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why can’t other organizations?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, if Google really does think that a six month online program is enough to get potential employees up to speed on the latest and greatest skills, tools, and techniques, why aren’t more businesses-backed certificates and courses available?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Nobody really knows what anyone is learning or doing by taking courses at an accredited-college. And businesses don’t do any favors when they put their faith in hiring people who have acquired these institutions’ high-priced degrees. By tailoring certifications to their hiring needs—based on the skills ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "they know",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " are in demand—Google (and organizations like them) can take back control of the accreditation process, while ensuring that new hires are accountable for the skills they claim to possess.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If we could unhinge the delusion that we need a degree from an accredited-institution (which is really just another business, in different industry), and instead do better to answer the question, ‘",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "what is school for?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "’ I think we’d realize that going the route Google is taking isn’t only cost-efficient (for students and career-switchers), but ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " effective (for hiring managers, all around).",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

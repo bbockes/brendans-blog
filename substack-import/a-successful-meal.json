@@ -1,0 +1,95 @@
+{
+  "title": "A successful meal",
+  "slug": "a-successful-meal",
+  "publishedAt": "2021-04-06T07:08:00.000Z",
+  "excerpt": "People who manage to stay healthy for the long term don’t do it overnight.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People who manage to stay healthy for the long term don’t do it overnight.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They do it by having one nutritious, delicious, and satiating meal (typically with real foods and low carbs), over and over again, for the long haul.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We don’t often think about success on the micro level. Because any one thing—a day, a meal, a habit—often feels so small, it’s inconsequential.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Except when you realize that success of all kinds isn’t made up in one fell swoop. That success is the result of a practice, a commitment, a rule that you set and follow ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "for yourself",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", for a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "very",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " long time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The discipline to prepare for and to have a successful meal—over and over again—and to do it with ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "intent",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", each time, is what success is mostly made of.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

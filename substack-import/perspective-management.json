@@ -1,0 +1,135 @@
+{
+  "title": "Perspective management",
+  "slug": "perspective-management",
+  "publishedAt": "2018-04-14T12:35:45.000Z",
+  "excerpt": "Go the library. Pick up any book. Find a page at random. Read the first paragraph you see.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Go the library. Pick up any book. Find a page at random. Read the first paragraph you see.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Think it over.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Do you agree? Disagree? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Why?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does this relate to something you’ve read or seen or experienced? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "How?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Any additional comments or criticisms? ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "What?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Even if you don’t understand the context, surely you have an opinion.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Everyone does.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Writing is merely the process of getting those thoughts out in a way that’s coherent and concise. Whether your style is technical or comedic, persuasive or poetic, descriptive or anecdotic, the purpose is the same.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The approach, the text, the style, it’s all secondary.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The point is to have a point of view, throughout.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

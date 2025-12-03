@@ -1,0 +1,99 @@
+{
+  "title": "148863247.escape The Vacuum",
+  "slug": "148863247escape-the-vacuum",
+  "publishedAt": "2025-11-30T19:29:59.445Z",
+  "excerpt": "I recently came upon this tweet , which highlights a common theme in the current design/development/startup world.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently came upon this",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "tweet",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", which highlights a common theme in the current design/development/startup world.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://twitter.com/blakeleyhpayne/status/1033135660960567297?s=12"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If everyone gets the same education (computer science/design/development) there’s not a lot of room for ‘free thinking.’ And so, in some respects, everything from Silicon Valley to your local code meetup is a victim of group think.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s also why (most) startups tend to focus on solving the same problems (or nurturing the same opportunities). And why, in the year 2020, with as many people as there are capable of tackling the world’s most pressing problems,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "we’re not even close.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This is a problem. A problem with our culture and with our educational system. But it’s also an opportunity for each of us to look beyond the margins, to learn more than we thought we needed to, and to use our newfound education to literally change the world.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To paraphrase Steve Jobs, we can",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "make a dent in our own corner. And maybe, if we’re lucky, bring others—the less fortunate and the marginalized—along with us.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

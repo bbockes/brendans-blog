@@ -1,0 +1,75 @@
+{
+  "title": "Time is all you need",
+  "slug": "time-is-all-you-need",
+  "publishedAt": "2020-12-25T05:15:53.000Z",
+  "excerpt": "Gearing up for a potential career change, I’ve been learning some new (software) skills as of late. Many of which seem more difficult to learn to use than they are.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Gearing up for a potential career change, I’ve been learning some new (software) skills as of late. Many of which seem more difficult to learn to use than they are.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As it is with most things worth learning how to do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It appears complicated (and it sometimes is). But it’s often not nearly as tough as we expect.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of the time, it just takes time. To learn and to practice.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "patience",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to give ourselves the space of time we need to do those things.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

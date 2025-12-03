@@ -1,0 +1,73 @@
+{
+  "title": "The hospitality view",
+  "slug": "the-hospitality-view",
+  "publishedAt": "2019-03-10T07:17:00.000Z",
+  "excerpt": "It can be easy to adopt the idea that a business is a purely transactional experience. That clients should only get what their worth because otherwise they will attempt to hustle you into delivering m",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It can be easy to adopt the idea that a business is a purely transactional experience. That clients should only get what their worth because otherwise they will attempt to hustle you into delivering more than they are willing to pay.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The alternative view is that customers are generally good people who simply want to feel like you’re on their side. That the more you can show them that you care about them, the more likely they’ll want to do business with you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That you can lean towards ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "assuming positive intent",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and delivering more (not merely more goods, but in how those goods are delivered) is an significant opportunity for businesses seeking to level up.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://brendanbockes.typepad.com/blog/2018/12/assume-postive-intent.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because it turns out that people don’t merely respond to commerce. More often than not, what they value most is connection.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

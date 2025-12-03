@@ -1,0 +1,112 @@
+{
+  "title": "148862955.is It A Productivity Hack",
+  "slug": "148862955is-it-a-productivity-hack",
+  "publishedAt": "2025-11-30T19:29:53.610Z",
+  "excerpt": "Or is it a distraction?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or is it a distraction?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Does strapping a supercomputer to you wrist make you more informed, or more effective at what you do? How about enabling notifications?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider placing a hands-free AI-assisted speaker on your desk (or in your ears)—does it make you more productive?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Smart devices might be nice things to have, (and they often are). But we need to stop fooling ourselves by supposing they inherently make us any better off.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s not to say we can’t leverage the tools we have to better ourselves. But leveraging a tool and being distracted by one are two entirely different things.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It really comes down to intention and volume. It’s one thing to use a great",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "app",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "to guide your mindfulness practice. Or to jot down your thoughts. Or (even) to help you be",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "less distracted",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". It’s entirely another, however, to use applications and devices to divert and occupy our attention every chance we get.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.oakmeditation.com/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://hyperfocus.me/"
+        }
+      ]
+    }
+  ]
+}

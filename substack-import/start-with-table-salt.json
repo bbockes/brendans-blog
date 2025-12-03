@@ -1,0 +1,162 @@
+{
+  "title": "Start with table salt",
+  "slug": "start-with-table-salt",
+  "publishedAt": "2018-07-26T12:29:46.000Z",
+  "excerpt": "Here’s a useful writing exercise: pick an everyday  object  and write about it, as much as you can. Include links to videos, quotes, articles, podcasts, etc.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s a useful writing exercise: pick an everyday ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "object",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " and write about it, as much as you can. Include links to videos, quotes, articles, podcasts, etc.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Morton-Salt-Regular-26-Pack/dp/B01FE7PM1U/ref=pd_lpo_vtph_325_tr_t_2/130-2294484-2550943?_encoding=UTF8&refRID=5AEHQZ3P2AD2K8QC5FE7&th=1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Then, for 30 minutes everyday, for a week or a month, write a little more. Force yourself to establish the habit of researching and discovering and learning a little more about your topic.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What you’ll soon find is that, from it’s molecular structure to it’s outward appearance to it’s origin story, to how it tastes or feels or smells, to the packaging, branding, marketing, copy, design, or history, there’s actually quite a lot to say about such a simple object.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Learning to see, to research, to find that there’s far more to the story than what meets the eye, and to communicate that in a clear, cogent and compelling way, that’s what good writing is.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can worry about sentence structure and grammar later. First, you ought to be creating the expectation (or a classroom culture) that embraces the idea that you can write ad infinitum about something that interests you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Syntax and grammar aren't writing. Writing is something different. It’s researching our topic enough to stimulate our curiosity to engage more, and to communicate what we’re learning using uncomplicated language. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "That’s it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s actually no wrong way to communicate an idea. Sure, there’s an accepted standard. And we can have a course on that like we do APA style. But first, we ought to focus on the writing. The more we can encourage ourselves (and our students) to do more of that, the more we can encourage ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " writing, an interest (or a passion) to want to write better, and to (maybe) care about standards later.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Start with table salt. Or mouthwash. Or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "oranges",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Whatever interests you. Write (research, learn, draft, revise) a little everyday. Learn as you go. It's as simple as that. ",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.amazon.com/Oranges-John-McPhee/dp/0374512973/ref=asap_bc?ie=UTF8"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Leave the editing to the editor, the computer program or for another day.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

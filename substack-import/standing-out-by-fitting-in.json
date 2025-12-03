@@ -1,0 +1,110 @@
+{
+  "title": "Standing out by fitting in",
+  "slug": "standing-out-by-fitting-in",
+  "publishedAt": "2019-12-24T10:37:12.000Z",
+  "excerpt": "This  is the coolest thing I’ve seen all week.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is the coolest thing I’ve seen all week.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.demilked.com/people-match-art-stefan-draschan/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-67"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It got me thinking: so much of what we use to help us differentiate ourselves is itself a by-product of the culture we engage with.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When you think about how ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "everything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " we see in the world was touched by another human being...who (of course) was a byproduct of the life and times and ideas of countless others, you start you notice how we’re all so intimately familiar.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That we all want the same things. And—in so much as we’re attuned to culture—we’re all the same people.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Maybe you’re take on things (wants, needs, beliefs, habits, routines, tastes, etc.) is a little dissimilar from that of your parents or your colleagues or friends. ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "But radically different in every category?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " I doubt it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Really, we’re all an amalgam of something or someone (even if we don’t know it). And our best attempts at standing out are often half-baked efforts to compliment a recurring theme.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

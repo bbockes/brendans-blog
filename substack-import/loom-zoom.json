@@ -1,0 +1,67 @@
+{
+  "title": "Loom zoom",
+  "slug": "loom-zoom",
+  "publishedAt": "2022-10-12T07:00:00.000Z",
+  "excerpt": "Loom functions well as a asynchronous communication tool, whereas Zoom is great for synchronous, real-time, collaborative communication.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Loom functions well as a asynchronous communication tool, whereas Zoom is great for synchronous, real-time, collaborative communication.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here are a few tips to save time (and money) using both.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Don’t repeat yourself. If you ever have to say the same thing twice, it’s worth recording once. This is what Loom is good at.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Any interaction that requires real-time collaboration—meaning that other people need to make a decision together—is best done in Zoom (or a similar tool.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. Using Zoom to transfer information that should have shared via Loom (and vice versa) is a terribly inefficient (and costly) way to communicate.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

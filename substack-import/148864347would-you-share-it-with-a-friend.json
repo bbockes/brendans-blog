@@ -1,0 +1,62 @@
+{
+  "title": "148864347.would You Share It With A Friend",
+  "slug": "148864347would-you-share-it-with-a-friend",
+  "publishedAt": "2025-11-30T19:30:15.205Z",
+  "excerpt": "It turns out that Google won't rank your content if your friends don't think it's worth sharing.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out that Google won't",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "rank your content",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "if your friends don't think it's worth sharing.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But if it’s clear, original, relevant, and interesting, they just might.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas, asking if you’d share your content with your colleages, or recommend it to a friend, is as good a benchmark as any in evaluating whether it’s worth publishing.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

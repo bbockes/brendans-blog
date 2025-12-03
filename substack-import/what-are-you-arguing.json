@@ -1,0 +1,43 @@
+{
+  "title": "What are you arguing",
+  "slug": "what-are-you-arguing",
+  "publishedAt": "2020-12-30T07:04:16.000Z",
+  "excerpt": "Many people get into arguments where they effectively say the same thing, only differently.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many people get into arguments where they effectively say the same thing, only differently.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That they don’t know how to best communicate what they're trying to say is disconcerting enough, never mind that they don’t often listen enough to know when and about what they’re really arguing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "All the more reason to make it a habit. To practice. To get better at saying what you’re saying (and recognizing when what you’re saying isn’t quite on par with what you meant to say).",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

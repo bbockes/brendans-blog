@@ -1,0 +1,86 @@
+{
+  "title": "Start with enrollment",
+  "slug": "start-with-enrollment",
+  "publishedAt": "2018-12-02T06:52:00.000Z",
+  "excerpt": "There’s a Nepali saying, “Handwriting looks like buffalo.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s a Nepali saying, “Handwriting looks like buffalo.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The idea is that for people who can’t read, letters are merely illegible scribbles.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In other words, when you don’t understand something, it doesn’t mean anything to you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So how can you possibly expect an ignorant someone to care about what you have to say?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Before you start spouting ideas and theories and lessons to be learned, consider the need for enrollment.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s one thing to teach someone something. Entirely another to help him understand ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " it’s important.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

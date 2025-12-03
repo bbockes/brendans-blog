@@ -1,0 +1,134 @@
+{
+  "title": "148862686.the 3 Minute Meeting Rule",
+  "slug": "148862686the-3-minute-meeting-rule",
+  "publishedAt": "2025-11-30T19:29:48.833Z",
+  "excerpt": "Many smart people agree that a great way to waste time at work is to have a meeting.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "smart",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "people",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "agree",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "that a great way to waste time at work is to have a meeting.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://rework.fm/meetings-are-toxic/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.amazon.com/Read-This-Before-Next-Meeting/dp/1936719169"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because meetings really should only be for making decisions and clarifying actions (not having discussions).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Problem is, many organizations can’t tell the difference.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Hence, the three minute rule: If it’s going to take you longer than 3 minutes to decide on a solution, it’s a discussion, not a decision.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A discussion is a conversation with two people (not whole departments) in order to reach a decision. Discussions take as long as it need to…but preferably over lunch.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Efficient meetings, on the other hand, make decisions and conclude with uncomplicated action steps for implementation.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Put it on the board and commence.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Quick decisions and concrete action steps. That's it. No hour long talks around the water cooler.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "New views",
+  "slug": "new-views",
+  "publishedAt": "2021-01-28T07:00:00.000Z",
+  "excerpt": "Are you trapped in the  wrong paradigm ?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Are you trapped in the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "wrong paradigm",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "?",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=UAqZMgBtECQ&ab_channel=GoogleZeitgeist"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Incessantly asking the wrong questions, based on faulty beliefs?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out that changing the script and exposing the myths in your thinking is significantly more rewarding than sticking with faulty reasoning, no matter how 'right' it seems.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the best part? Changing your point of view is free.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

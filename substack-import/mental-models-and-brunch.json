@@ -1,0 +1,224 @@
+{
+  "title": "Mental models and brunch",
+  "slug": "mental-models-and-brunch",
+  "publishedAt": "2020-02-16T12:08:07.000Z",
+  "excerpt": "Yesterday I found myself at a local cafe that—for whatever—didn’t seem to have a clue how people make choices about when and where to eat.",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yesterday I found myself at a local cafe that—for whatever—didn’t seem to have a clue how people make choices about when and where to eat.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What do I mean?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider their hours:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The ‘kitchen’ is open for lunch from 11 to 2 on weekdays. And from 5 to 8pm for dinner (except Sunday and Monday when they’re closed). While brunch is served from 9am to 2:00 on Saturday and Sunday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The ‘cafe’ (a coffee bar adjacent to the restaurant) is open from 7 to 5pm Monday, 7 to 6pm Tuesday through Saturday and 8 to 4pm on Sunday. However, they also have a ‘breakfast service’ from 8 to 10am.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Meanwhile, the bar is open from 5 to 10pm Tuesday through Saturday (with happy hour from 5-7). And again, they’re closed on Sunday and Monday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To say that visitors were a little confused about what and where they could go to eat would be a massive understatement. In the 30 minutes I was there, I must have seen 5-7 customers wait to be seated, only to be told the kitchen was closed and that the cafe was still open. Of course, when most of them ordered from the breakfast menu and were inevitably told that ‘breakfast was only until 10,’ most of them simply left.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two lessons here: One, most people don’t like to be told their wrong. If they come in expected to be seated and their told they can’t, they’ll leave without a second thought. Two, people generally have an ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "idea",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " of what they should be able to order from a restaurant (mainly based on years of experience frequenting other dining establishments).",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "/respect-the-model/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Similar to how it’s not uncommon to order espresso at nearly any time of day in Milan, people will generally presume that you can order lunch from any time from 12 to 5, or dinner from 5 to 9 (mainly because that’s what they’re used to). And since you can order breakfast items from 5 to 12pm at Starbucks, most people will assume you can do the same at any cafe.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When I see errors like this, all I can think of is how easy it would be (both for staff and their customers) if they just made the hours align with the models people already have in their heads:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Cafe",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ": 8-5pm, everyday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lunch",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ": 12-5pm, weekdays + Saturday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Dinner",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ": 5-9pm, weekdays + Saturday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bar",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ": 5-10pm, weekdays + Saturday.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Even if they cut back on a few ‘available’ hours for some things and upped the ante for others, the net result would be countless hours saved by ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "not",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " having to tell their customers over and over about their confusing hours. And what's more: countless customers saved by not having to tell them they're wrong only to have them leave and never return.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "A revelatory guide to managing self doubt",
+  "slug": "a-revelatory-guide-to-managing-self-doubt",
+  "publishedAt": "2020-07-06T06:05:00.000Z",
+  "excerpt": "The first revelation is that negative self-talk isn't real.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The first revelation is that negative self-talk isn't real.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The second revelation is that you can commit to a different story.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And the third revelation is that learning to navigate through it--to aim high when you could have aimed low--is the most empowering lesson of all.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

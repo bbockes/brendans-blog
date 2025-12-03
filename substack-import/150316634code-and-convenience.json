@@ -1,0 +1,132 @@
+{
+  "title": "150316634.code And Convenience",
+  "slug": "150316634code-and-convenience",
+  "publishedAt": "2025-11-30T19:30:16.636Z",
+  "excerpt": "Here’s something that’s obvious that many software developers overlook: when it comes to software, people value convenience above pretty much all else.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s something that’s obvious that many software developers overlook: when it comes to software, people value convenience above pretty much all else.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If a tool is only slightly more difficult to embrace because it has limits inherent in its design, many users may hesitate to use it frequently. Especially when another, easier-to-adopt solution exists.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Case in point.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Audiopen",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is a little harder to bake into my workflow than",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Otter",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", since the former is web-based and the latter is native. I have to remember to click my bookmark to then login and use it, whereas Otter is merely a swipe and a tap away.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://audiopen.ai/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://otter.ai/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve also seen a surge of “I will make your writing better in every way” apps come and go as of late. Some of them are useful. But it takes more than moment to make use of them. In contrast, what makes Grammarly so sticky is that it sits in your browser and lives in all your writing apps. You don’t have to think to use it–it’s just there.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, of course, watching a movie on Netflix is a lot more convenient than plugging a DVD into your player,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "going to the store to buy or rent a movie yourself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ultimately, the success of a tool hinges on its ability to fit effortlessly into its users' lives. If a product can streamline a process or eliminate hurdles, it will certainly be tried and talked about. But only if it’s that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "easy to embrace does it stand a chance of being adopted and retained.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

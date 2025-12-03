@@ -1,0 +1,65 @@
+{
+  "title": "Faking a habit",
+  "slug": "faking-a-habit",
+  "publishedAt": "2019-04-30T07:17:00.000Z",
+  "excerpt": "Is there any other way?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Is there any other way?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course it’s going to feel unfamiliar.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course it’ll be tedious.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course you’ll have to be deliberate.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But faking it is lot more effective than waiting until you have it made.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

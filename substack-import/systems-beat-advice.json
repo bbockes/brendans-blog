@@ -1,0 +1,32 @@
+{
+  "title": "Systems beat advice",
+  "slug": "systems-beat-advice",
+  "publishedAt": "2018-08-22T08:17:00.000Z",
+  "excerpt": "Telling someone to “just figure it out” or \"do their best\" isn’t the same as giving them a step-by-step solution that’s worked for you.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Telling someone to “just figure it out” or \"do their best\" isn’t the same as giving them a step-by-step solution that’s worked for you.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Advice is not accountable, systems are.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "Content windows",
+  "slug": "content-windows",
+  "publishedAt": "2023-12-15T05:00:00.000Z",
+  "excerpt": "I think the UX/UI community needs to come up with a new word: the “content window.”",
+  "image": "https://blog.brendanbockes.com/wp-content/uploads/CleanShot-2023-11-22-at-14.58.15@2x-1.png",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I think the UX/UI community needs to come up with a new word: the “content window.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "These are the imaginary boxes that sit within the user's viewport that contain the content that the user is most likely to want to interact with or read from on that specific screen, at that specific moment.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider these two examples that I pulled from two well-known sites, each of which with a window that’s no more than a few hundred pixels across. They’re far too small for me to see the most useful content on the page.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It doesn’t make sense to cram every single element on the screen, nor to stretch out the canvas beyond its viewable area.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What makes sense is to keep the content window in mind, so that we can identify which elements to prioritize within the user’s viewport—and help users stay focused on what’s important.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

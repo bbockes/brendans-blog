@@ -1,0 +1,93 @@
+{
+  "title": "Overwhelm and endurance",
+  "slug": "overwhelm-and-endurance",
+  "publishedAt": "2020-06-16T05:37:30.000Z",
+  "excerpt": "Something I’ve noticed while encountering many things I don’t know the answer to: overwhelm almost certainly never helps.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I’ve noticed while encountering many things I don’t know the answer to: overwhelm almost certainly never helps.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is to say, if you’re stuck, it’s better to focus your limited reserve of energy and attention and concern on actually ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "attending",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to fixing the problem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Breaking it down. Finding out what you need to know. Solving it, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "one step",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " at a time.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://blog.brendanbockes.com/make-it-a-process/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Spending time ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "paralyzed and worried",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " cause you don’t know what to do next rarely helps.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

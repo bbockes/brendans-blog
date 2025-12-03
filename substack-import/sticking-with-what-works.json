@@ -1,0 +1,75 @@
+{
+  "title": "Sticking with what works",
+  "slug": "sticking-with-what-works",
+  "publishedAt": "2020-07-26T07:19:22.000Z",
+  "excerpt": "It can be awfully tempting to switch to the latest greatest trick, tool, or technique.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It can be awfully tempting to switch to the latest greatest trick, tool, or technique.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But if the time it takes to make the switch viable doesn’t justify the value of using it, it’s probably better to stick with what you’ve got.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sure. If ditching the old for the new makes you or your work better in the short run or the long run, keep at it. No harm, no fowl.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But—if it doesn’t ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "add",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " value, it's not worth the bargain (and it is a bargain).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "More often that not—exchanging the sufficient for the state-of-the-art is a crutch.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

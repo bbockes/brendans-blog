@@ -1,0 +1,73 @@
+{
+  "title": "148863771.could You Explain It",
+  "slug": "148863771could-you-explain-it",
+  "publishedAt": "2025-11-30T19:30:07.963Z",
+  "excerpt": "Not to your colleagues or instructors. And especially not a scholar.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not to your colleagues or instructors. And especially not a scholar.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But to the kid down the street? A casual acquaintance? Or—dare I ask—a parent, spouse, or cousin?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Explaining something in",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "simple language",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", without the abstractions and junctions of jargon, is a great way to both illustrate a concept and retain it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=_f-qkGJBPts"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because you can't hide behind special language with a novice--it has no substance. You can only explain what you truly understand.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

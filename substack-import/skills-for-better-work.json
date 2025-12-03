@@ -1,0 +1,79 @@
+{
+  "title": "Skills for better work",
+  "slug": "skills-for-better-work",
+  "publishedAt": "2021-07-22T05:08:04.000Z",
+  "excerpt": "Something you quickly pick up on working with people (especially when working with freelancers or anyone asynchronously) is that the best hires do 3 things remarkably well:",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something you quickly pick up on working with people (especially when working with freelancers or anyone asynchronously) is that the best hires do 3 things remarkably well:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They do what they’re ‘hired to do’ better than average. Such as a writer being great at writing, or a developer producing code to spec.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They communicate well and promptly. They’re clear about what they mean when they say it, and they get back to you on time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They follow directions. As in, you can count on them to do what you tell them to do (and not what you tell them not to do), without having to repeat yourself incessantly.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s amazing how few job posts emphasize this. Or how few people highlight this on their resumes’ or profiles’.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s even more astonishing to think of how so many people focus so much more on ‘hard skills,’ when honing the soft stuff like craft, communication, and adherence to rules and to specs, is often more than enough to set them apart.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

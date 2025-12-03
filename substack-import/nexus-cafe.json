@@ -1,0 +1,95 @@
+{
+  "title": "Nexus cafe",
+  "slug": "nexus-cafe",
+  "publishedAt": "2019-10-22T06:46:20.000Z",
+  "excerpt": "I'm sitting in Peets coffee, right outside Tysons Corner. Nearly everyone is on a laptop, working on something, a few mingling openly. Two guys behind me are talking, one instructing the other, I've h",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I'm sitting in Peets coffee, right outside Tysons Corner. Nearly everyone is on a laptop, working on something, a few mingling openly. Two guys behind me are talking, one instructing the other, I've heard enough to recognize it's a programming language.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And just right across the street, at B&N, there are literally dozens of people sprawled out reading, conversing, and steeping in the latest and greatest of news and ideas. All eager to grow, to learn, and to connect.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s not a question of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "if",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " the folks who gather in communal spaces around your town will be interacting today. Or that if you happen to run into those people (or overhear their conversations) you’ll discover people, places, things and ideas you never thought you knew. They might even change you in ways unfathomable to you know.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "So no. There’s no question your local cafe ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " a brain-hub. An intangible catalyst for all sorts of potential ideas, connections and possibilities. Likewise, there's little doubt that these interactions (or lack of them) will contribute to your wellbeing and potential in some way or another.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The question—what’s worth reflecting on is—",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is this the crowd you want to be part of?",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " And if not, where can you go where it is?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

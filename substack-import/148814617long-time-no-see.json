@@ -1,0 +1,128 @@
+{
+  "title": "148814617.long Time No See",
+  "slug": "148814617long-time-no-see",
+  "publishedAt": "2025-11-30T19:29:38.026Z",
+  "excerpt": "Unless you’ve forgotten to check your email in the past several months, you’ve probably noticed I haven’t been writing as usual.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Unless you’ve forgotten to check your email in the past several months, you’ve probably noticed I haven’t been writing as usual.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I’ve been busy. Or, rather, I’ve burned out.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Between writing for work and writing for pleasure, I’ve found I seldom have the energy to write after hours. So my blog has unfortunately taken a backseat.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s one of the reasons why I recently called it quits at the agency I was at.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now that I’ve taken a step back from writing (and taken a job where I don’t have to write as often), I realize how much of it I enjoyed. Not because writing is a fantastic way to make a living (it isn’t.) But because expressing yourself by writing is a fulfilling experience in itself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As Ursula Le Guin said, “We need writers who know the difference between the production of a market commodity and the practice of an art.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out that writing is as much a rewarding personal endeavor as it is (for some) a rewarding career. So while I’m effectively done with the latter, I’m eager to return to the former.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "…",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "P.S. I’m also moving my blog, for the time being, from WordPress to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Substack",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", mainly cause I don’t want to pay hosting fees for a site that I frequent more than my actual readers. Plus, my hunch is that by moving to a platform that people actually pay attention to, I might find a few more.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://substack.com/@brendanbockes1"
+        }
+      ]
+    }
+  ]
+}

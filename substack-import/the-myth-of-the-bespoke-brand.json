@@ -1,0 +1,64 @@
+{
+  "title": "The myth of the bespoke brand",
+  "slug": "the-myth-of-the-bespoke-brand",
+  "publishedAt": "2020-07-28T06:13:44.000Z",
+  "excerpt": "While it’s typically used to describe tailor-made fashion, the word ‘bespoke’ can be defined as anything that is “made for a particular customer or user.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "While it’s typically used to describe tailor-made fashion, the word ‘bespoke’ can be defined as anything that is “made for a particular customer or user.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Besides the fact that 'bespoke' so overused in business mission statements it’s trite, it’s also blatantly self-evident.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course(!) you’re a bespoke brand—built for your customers, designed around their problems, made to match their needs, goals, and ambitions. That’s what a business is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "for",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To do anything less is a hindrance.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

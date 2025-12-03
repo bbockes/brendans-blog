@@ -1,0 +1,42 @@
+{
+  "title": "148863188.taking A Stab At It",
+  "slug": "148863188taking-a-stab-at-it",
+  "publishedAt": "2025-11-30T19:29:58.714Z",
+  "excerpt": "I've found that people who are willing and ready to try new things generally have an easier time grasping them.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I've found that people who are willing and ready to try new things generally have an easier time grasping them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Perhaps that's because",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "consistently trying",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is the only way I know to reliably get better at anything.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

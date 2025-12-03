@@ -1,0 +1,87 @@
+{
+  "title": "A true academic",
+  "slug": "a-true-academic",
+  "publishedAt": "2020-07-18T06:30:00.000Z",
+  "excerpt": "What makes someone an academic or a scholar?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What makes someone an academic or a scholar?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What qualifies a distinguished savant?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Is it making the grade? Getting the degree? Publishing the journal?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Getting picked?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or is it merely the insatiable desire to learn and to grow? And the ability—the tenacity—to make that learning happen?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Outside ivory towers, it’s hard to know what discerns a true academic from an amateur.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But one thing is certain, what's ever driving the internal narrative is what truly counts.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

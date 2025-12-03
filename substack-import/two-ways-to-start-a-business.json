@@ -1,0 +1,97 @@
+{
+  "title": "Two ways to start a business",
+  "slug": "two-ways-to-start-a-business",
+  "publishedAt": "2020-07-14T07:00:00.000Z",
+  "excerpt": "Startups do one of two things:",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Startups do one of two things:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They make something new.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "They make something better.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indoor plumbing is in the first category. And ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is certainly in the second.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://hellotushy.com/products/classic-affordable-bidet"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Point is, you either invent a brand new way to of doing things, or you come up with a better, cheaper, more enviable alternative.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The choice, as they say, is yours. Just don’t get stuck making both.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

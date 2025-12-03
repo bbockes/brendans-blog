@@ -1,0 +1,90 @@
+{
+  "title": "148862676.notifications Vs Badges",
+  "slug": "148862676notifications-vs-badges",
+  "publishedAt": "2025-11-30T19:29:48.623Z",
+  "excerpt": "Something I’ve noticed while working in the office:",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Something I’ve noticed while working in the office:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Push notifications (on your computer or otherwise) are a near constant distraction. That banner across the screen, the text, the urge to read it—it’s a diversion that forces you to abruptly and constantly change your focus.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Repeat it three dozen times per work day, and it’s easy to see that a significant chunk of time gets wasted.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Badges, on the other hand, keep your mind on the task at hand. It communicates that there",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "is",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "something to read, without forcing you to lose focus reading it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Badges give you the freedom to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "continue",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "to work with minimal disruption. Abrupt announcements (of any kind)",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "don't.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

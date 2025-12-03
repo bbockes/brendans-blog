@@ -1,0 +1,206 @@
+{
+  "title": "Made up words",
+  "slug": "made-up-words",
+  "publishedAt": "2019-02-26T05:27:00.000Z",
+  "excerpt": "Consider the  semi-recent  word, “fleek.” Defined as an informal modern way to say “very good.”",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Consider the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "semi-recent",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " word, “fleek.” Defined as an informal modern way to say “very good.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://trends.google.com/trends/explore?date=all&geo=US&q=fleek"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Is that a ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "real",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " word? Or a made up one.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Should it be in the dictionary? Or on a 4th grade vocab quiz?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Lots of people would argue no.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "At yet, it conveys an idea. We know what it means (most millenials anyway). And we can use it in a sentence.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider my new favorite word “",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "sonder",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".” There are about as many people who know what it means as there are people who understand Bitcoin (another made up word), maybe even less. At yet it's a vitally important word that describes something our culture would do well to embrace.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://www.dictionaryofobscuresorrows.com/post/23536922667/sonder"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The study of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "linguistics",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " tells us that words are a tool we invented to communicate ideas. And that words, indeed language, evolve by adopting new (easier) ways of describing both old and new concepts.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.audible.com/pd/The-Story-of-Human-Language-Audiobook/B00DGBECNG"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s how “god be with you,” became “godspeed,” and how we got “thank you” from the latin word, “tongēre,” which translates as “I will remember what you have done for me.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s how the words “optimize” and “cruft” have only been around since the World Wide Web. And how words like “fleek” and, well, “word” (as in “well said” or “agreed”) are just now appearing in our lexicon.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It turns out that all words are ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "made up words",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". It's just the ones we now use are used so often we’ve forgotten to tell the difference.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.ted.com/talks/john_koenig_beautiful_new_words_to_describe_obscure_emotions#t-238004"
+        }
+      ]
+    }
+  ]
+}

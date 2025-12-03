@@ -1,0 +1,94 @@
+{
+  "title": "Making being put on hold better",
+  "slug": "making-being-put-on-hold-better",
+  "publishedAt": "2018-07-10T11:34:43.000Z",
+  "excerpt": "1) If you’re going to put someone on hold, they need to be made aware, first and foremost, that their waiting will inevitably be met with actually talking to a human being. They need reassurance, that",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "1) If you’re going to put someone on hold, they need to be made aware, first and foremost, that their waiting will inevitably be met with actually talking to a human being. They need reassurance, that all this time spent is worth it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Give them a realistic time range: take the average time it takes per phone call and multiply it by how many people are in front of that person in the queue. Sure, it’s going to take a long time, most people know that. But knowing how long is far better than having your customers wait indefinitely in phone purgatory. That way, they can make their own decision about when to stay on hold or when to call at another time.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "2) If you’re going to play a recorded message or music, first ensure it’s actually something people want to ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "hear",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". People generally don’t care about how great your product or service is. They don’t care about your metrics or your enrollment procedures or your accolades. All they care about is that they have a problem and whether this…waiting patiently…is going to pay off.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.fastcompany.com/3029611/finally-hold-music-that-doesnt-suck"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "3) Likewise, it’s probably a good idea to test to see if your pre-recorded message or playlist actually sounds good on the phone. It goes without saying that the quality of the audio reflects the quality of the brand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "4) Even better! At the start of each business day, create a first come first serve queue, allow customers to call and leave a message and determine their request category via pin-pad. Then, one by one, have your customer service reps call ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "them",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " back. That way, you can ensure that the client talks to the right person from the start. It also respects the client, because instead of wasting his time, you can give him a realistic time frame for when you’ll get back to him, and put the onus on the people who actually get paid to be on the phone.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

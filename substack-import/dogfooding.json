@@ -1,0 +1,125 @@
+{
+  "title": "Dogfooding",
+  "slug": "dogfooding",
+  "publishedAt": "2019-02-25T06:26:00.000Z",
+  "excerpt": "I learned a new word yesterday. From the expression “eating your own dog food,”  dogfooding  is used to describe when an organization or person uses their own products for personal use.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I learned a new word yesterday. From the expression “eating your own dog food,” ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "dogfooding",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is used to describe when an organization or person uses their own products for personal use.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Eating_your_own_dog_food"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For example, the team at ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Basecamp",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " use Basecamp. Go figure.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://basecamp.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And (not to be conceited) lots of non-fiction authors purportedly read their own books or blog posts. If they believe in what they have to say, it makes sense that they would want to inculcate their ideas.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And I think we can all assume that the folks who make up Pixar (probably) watch their movies with their kids.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, it works both ways.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you wouldn’t use your products or services, want to watch yourself give a presentation, or treat yourself the way your customer support team treats your customers, maybe you should reconsider the path you’re on.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you don’t like the taste of your own dogfood, why would you expect anyone else to either?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

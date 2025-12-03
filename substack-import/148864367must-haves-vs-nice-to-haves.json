@@ -1,0 +1,88 @@
+{
+  "title": "148864367.must Haves Vs Nice To Haves",
+  "slug": "148864367must-haves-vs-nice-to-haves",
+  "publishedAt": "2025-11-30T19:30:15.538Z",
+  "excerpt": "Most job descriptions contain a mix of things that are absolutely essential and things that the hiring team wishes the hiree has but that aren’t absolutely necessary.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most job descriptions contain a mix of things that are absolutely essential and things that the hiring team wishes the hiree has but that aren’t absolutely necessary.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The problem is when we aren’t clear which is which. Which can not deter perfectly suitable applicants, but create a discrepancy between the candidate’s expectation and the reality of the job.",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "\n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Certainly, as a job seeker, it’s important to identify the difference between what’s a requirement and what’s a “nice to have.” Which is where asking questions and doing your diligence can help.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But as job poster, recruiter, HR scout or hiring manager, it’s our responsibility to clearly delineate the two. Job postings should encourage diverse, well-fit candidates to apply for the roles they’re likely succeed in, which means that it’s essential to give as much clarity around qualifications as possible, and to",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "avoid false proxies",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://seths.blog/2023/06/avoid-false-proxies/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Jobs, of course, are things we create. And how we define and communicate them is how we find the people who will fill them.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

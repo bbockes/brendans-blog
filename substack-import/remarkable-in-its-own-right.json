@@ -1,0 +1,126 @@
+{
+  "title": "Remarkable in its own right",
+  "slug": "remarkable-in-its-own-right",
+  "publishedAt": "2021-11-18T05:18:00.000Z",
+  "excerpt": "Harry Dry writes  a blog  that’s infinitely more popular than mine.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Harry Dry writes ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "a blog",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " that’s infinitely more popular than mine.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://marketingexamples.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of his posts end up ranking in the top spots on Google. Not because he’s an SEO wizard, but because he has enough fans (i.e. backlinks) of to make it possible.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How’s he do it?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s simple. His blog is ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "remarkable",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " in it’s own right.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Most of his posts are less than 500 words. But with a high ratio of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "ideas",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to words, he generates more value per post than anyone else in his space.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Short, sweet, and practical isn’t what most SEOs (or bloggers) embrace.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "But it works when your content is remarkable.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "On visualizing communication a useful tool",
+  "slug": "on-visualizing-communication-a-useful-tool",
+  "publishedAt": "2017-08-14T12:00:22.000Z",
+  "excerpt": "Sometimes I find (especially being an introvert) that it’s far easier communicating via text, email and the like, rather than face to face communication.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sometimes I find (especially being an introvert) that it’s far easier communicating via text, email and the like, rather than face to face communication.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I realized this morning that it might be useful to visualize your real-world interactions. To literally see these exchanges play out.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Type them up in a word-doc or in an app like ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ". Write down what was said, as best as you can recall. Write descriptions in italics (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "She walked in the room, closed the door, noticed me and introduced herself…",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ") to provide context. When you’re done, read it from the top.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://iphonefaketext.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now you can see it. All of it. For what it was, or wasn’t.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you’ve only had brief exchanges “Hi, I’m Brendan,” “Nice to meet you, I’m Allison,” “Thanks Allison,” “Thanks Brendan,” over a period of weeks if not months, it might become clear why you failed to actually create a relationship with that person.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It might also prove useful in understanding a host of miscommunication mishaps, from how and why a sales call might have been rebuffed, to how a disagreement intensifies into a shouting match, to how a job interview starts off well but quickly transmogrifies into an exchange both the applicant and the assessor later regret.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s different when you see it. You can more clearly articulate what you were thinking as well as what the other person may have been thinking throughout the arc of your interaction(s). It helps you better reflect on how you might have otherwise went about it: what you could have otherwise said, or said better, or not said altogether. And perhaps most important, it’s gives you a better sense of what the other person may have been feeling, and felt towards and about you, throughout the interactions that served to break or make your relationship with them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "We’re always telling people to empathize. This, at least, shows you how.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

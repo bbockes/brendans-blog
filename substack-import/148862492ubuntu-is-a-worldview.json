@@ -1,0 +1,89 @@
+{
+  "title": "148862492.ubuntu Is A Worldview",
+  "slug": "148862492ubuntu-is-a-worldview",
+  "publishedAt": "2025-11-30T19:29:46.509Z",
+  "excerpt": "”Ubuntu” is a South African phrase that means “I see you.”",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "”Ubuntu”",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is a South African phrase that means “I see you.”",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Ubuntu_philosophy"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not literally, of course. But as a way to express dignity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To acknowledge our shared humanity.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To say, “I see the person—the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "human",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "—in you.”",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because the best way around “us” vs. “them” is to embrace that “they are us.”",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

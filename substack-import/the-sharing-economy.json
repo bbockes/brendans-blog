@@ -1,0 +1,130 @@
+{
+  "title": "The sharing economy",
+  "slug": "the-sharing-economy",
+  "publishedAt": "2020-08-10T07:08:05.000Z",
+  "excerpt": "As part of Apple's latest iOS update, users can now  share their car keys  with your contacts in a few simple taps.",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "As part of Apple's latest iOS update, users can now ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "share their car keys",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " with your contacts in a few simple taps.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://support.apple.com/en-us/HT211234#what-you-need"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which means that, inevitably, someone will come along with an app that lets you share your car with anyone while you're away from it, for a fee. (And since it'll soon be driver-less, you won't need insurance, either). ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Talk about passive income.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Or consider the rise of ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "coliving spaces",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", where everyone shares the brunt of owning and maintaining a home, and split the costs evenly...enabling them to rent a luxurious apartment or house for a fraction of what they'd otherwise pay.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.common.com/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No one person owns the home or the kitchen or the den, but by sharing, they get to have all of it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It used to be that the more you owned, the more you stockpiled, the more you kept for yourself, the better off you’d be. But moving onward, it appears that sharing might be the thing to do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Sharing, because we now live in a world of vast abundance. And sharing, because it benefits you and the people you’re with. And sharing, because owning less (because you can borrow whatever you need) saves you money and feels good too.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Soon, you'll get to share almost everything you own or have ever wanted. Raising the question: with whom will you share when you're able? And, what will you share, when you can?",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

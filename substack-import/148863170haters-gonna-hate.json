@@ -1,0 +1,137 @@
+{
+  "title": "148863170.haters Gonna Hate",
+  "slug": "148863170haters-gonna-hate",
+  "publishedAt": "2025-11-30T19:29:57.936Z",
+  "excerpt": "Take any video on Youtube .",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Take any video on",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Youtube",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Look at the likes vs. dislikes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Notice anything?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Every video has downvotes. Even the best ones.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And while most dislikes are only ever .0025 times the number of upvotes,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "all",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "videos have them.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a simple and powerful message: Not everyone is going to laugh at your joke, enjoy your performance, or like what you have to say.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s okay if you let it. (But it can be a burden if you don’t.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. The sooner you can get over the fact that",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "it’s not for everyone",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ", the quicker you can get back to doing and making things for the people who need it most.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

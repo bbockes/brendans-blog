@@ -1,0 +1,85 @@
+{
+  "title": "Were different",
+  "slug": "were-different",
+  "publishedAt": "2020-12-11T06:33:04.000Z",
+  "excerpt": "Companies benefit when they create messaging that highlights that they’re different.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Companies benefit when they create messaging that highlights that they’re different.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It helps them win clients, attract investors, and captivate potential hirees.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The problem is that most companies often say the same thing, only differently. Some variation of ‘we're the best, for reasons X, Y, Z.’",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s not differentiation. It’s ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "reiteration",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "No. The way to communicate you’re different ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "isn’t",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to tell the same story, in a new way. It’s to tell a different story (a better one) altogether.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

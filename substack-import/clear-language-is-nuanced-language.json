@@ -1,0 +1,110 @@
+{
+  "title": "Clear language is nuanced language",
+  "slug": "clear-language-is-nuanced-language",
+  "publishedAt": "2019-01-26T06:20:00.000Z",
+  "excerpt": "I used to hate vocubulary quizzes when I was younger. Mainly because I thought it was a waste of time to learn an obtuse word that could be explained using words already in my lexicon.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I used to hate vocubulary quizzes when I was younger. Mainly because I thought it was a waste of time to learn an obtuse word that could be explained using words already in my lexicon.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Now I realize that using a more ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "appropriate",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " synonym (and discerning the difference in semantics) makes you’re communication more clear, not less.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And that a handy ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "thesaurus",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " (or ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "usage dictionary",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ") can do wonders for both your writing and you’re thinking.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://nisus.com/Thesaurus/"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.brainpickings.org/2015/11/05/david-foster-wallace-dictionary-writing/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Certainly using words for the sake of sophistication is a disservice to language and your reader. But ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "nuanced",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " language, making distinctions (and improvements) to how things are sorted and said, brings as much clarity to composition as it does to mind.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

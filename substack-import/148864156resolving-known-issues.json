@@ -1,0 +1,165 @@
+{
+  "title": "148864156.resolving Known Issues",
+  "slug": "148864156resolving-known-issues",
+  "publishedAt": "2025-11-30T19:30:13.837Z",
+  "excerpt": "Ikea has a problem.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Ikea has a problem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Thousands of it’s",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "BEKANT standing desks",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "have a glitch. Not with table itself, but with the 35 volt motor that powers it.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.ikea.com/us/en/p/bekant-corner-desk-right-sit-stand-white-stained-oak-veneer-white-s49282343/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "At some point, all of a sudden, it will stop moving up or down. Or, more often, simply stop moving up but move down. (A parcarious pickle to be in, considering just how far it can go.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Unfortunately, despite that fact that IKEA (the business) knows that there’s an issue, many of their customers don’t. And to make matters worse, not many of their service reps do either.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s why their are dozens of videos like",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "this one",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", that claim the solution is to replace the motor, while dozens of confused service reps are telling customers to replace the entire device.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=vYpYf8eqIBI&ab_channel=HelloWorld"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Fortunately, the",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "solution",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "is much easier to fix. It takes just 15 seconds.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.youtube.com/watch?v=N96zi4YPp7A&ab_channel=BeingSwenglish"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas,",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "why",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "IKEA doesn’t mention this anywhere on their site is beyond any of us.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Despite the fact that addressing this single known issue could save thousands of hours of headaches, service calls, grievances and the like, for their customers and their staff.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

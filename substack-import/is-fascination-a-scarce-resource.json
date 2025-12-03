@@ -1,0 +1,54 @@
+{
+  "title": "Is fascination a scarce resource",
+  "slug": "is-fascination-a-scarce-resource",
+  "publishedAt": "2020-06-07T11:03:15.000Z",
+  "excerpt": "How about curiosity? Or optimism? Or patience?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How about curiosity? Or optimism? Or patience?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you use some of it, does that mean you'll have less of it?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I highly doubt it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Attitudes, after all, are postures, not possessions.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

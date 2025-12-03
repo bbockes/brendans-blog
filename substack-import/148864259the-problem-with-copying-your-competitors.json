@@ -1,0 +1,43 @@
+{
+  "title": "148864259.the Problem With Copying Your Competitors",
+  "slug": "148864259the-problem-with-copying-your-competitors",
+  "publishedAt": "2025-11-30T19:30:14.640Z",
+  "excerpt": "Actually, there are two problems.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Actually, there are two problems.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "One, it assumes that your competitors know what they’re doing or that they’re applying the same considerations as you are in tackling a problem.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Two, assuming that they really have the same resources, it assumes that they ostensibly know more than you. (Even though they might as well have copied from what came before, as well.)",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

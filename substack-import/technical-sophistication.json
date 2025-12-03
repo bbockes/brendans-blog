@@ -1,0 +1,179 @@
+{
+  "title": "Technical sophistication",
+  "slug": "technical-sophistication",
+  "publishedAt": "2025-08-15T09:45:21.870Z",
+  "excerpt": "Michael Hartl, author of the uber-popular  Learn Enough to Be Dangerous web development tutorials  has a word for the ability to figure out how to solve technical problems on your way to effectively u",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Michael Hartl, author of the uber-popular ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Learn Enough to Be Dangerous",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "web development tutorials",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " has a word for the ability to figure out how to solve technical problems on your way to effectively using computers, software, and, of course, code.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.learnenough.com/courses"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.learnenough.com/courses"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Technical sophistication, as he calls it, is the technical equivalent of knowing how to adapt quickly in the face of new challenges.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a soft skill that involves habitually doing lots of things that can help you navigate technical challenges, efficiently and confidently. Things like:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Looking something up (a tutorial perhaps)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Using help menus",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Learning keyboard shortcuts",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Googling error messages",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Knowing when to simply reboot a system",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "bullet",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And generally not panicking when encountering something new",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Of course, now that AI can tell you exactly what to do, technical sophistication means knowing how to ask the right questions, interpret the answers, and apply them wisely — all while keeping your head.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "AI can show you how to use just about any program, any tool, or any coding language—not to mention troubleshoot your specific errors and issues—but it can’t make you better at defaulting to using it to solve problems when the situation calls for it.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Alas. There are simply no excuses for not developing your own technical sophistication, but you have to make the effort to practice by way of prompting, experimenting, and exploring new tools and techniques on your own.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "148862245.appearances Arent Always Reality",
+  "slug": "148862245appearances-arent-always-reality",
+  "publishedAt": "2025-11-30T19:29:44.508Z",
+  "excerpt": "You can be full, and malnourished.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can be full, and malnourished.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can be bookish, and unwise.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can be affluent, and discontent.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can lead with authority, and be insecure.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You can read, hear or watch, and not actually pay attention.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "title": "Yeses and noes",
+  "slug": "yeses-and-noes",
+  "publishedAt": "2021-03-16T06:07:00.000Z",
+  "excerpt": "A few simple truths:",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A few simple truths:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "In most arenas, more than a few noes are worth a few yeses.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If you're consistently getting noes (and very few yeses) it could be that something needs to change.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And, if you somehow get far fewer noes than yeses it could be a sign you're ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "on to something",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

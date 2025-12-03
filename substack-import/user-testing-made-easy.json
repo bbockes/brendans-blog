@@ -1,0 +1,181 @@
+{
+  "title": "User testing made easy",
+  "slug": "user-testing-made-easy",
+  "publishedAt": "2020-03-31T05:16:56.000Z",
+  "excerpt": "I don't think most people would object that the best way to detect a problem would be to test it. When it comes to the very real science of user experience, that generally involves  testing your users",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I don't think most people would object that the best way to detect a problem would be to test it. When it comes to the very real science of user experience, that generally involves ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "testing your users",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " objectively to see how they use and interact with your product. It's an obvious and uncomplicated solution that works, but one that many stakeholders unfortunately find rather foreign and intimidating, which is why so few organizations opt to do them.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://en.wikipedia.org/wiki/Usability_testing"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "To make matters worse, lots of folks who are familiar with user testing are all too quick to assume that to get any value from it, it ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "has",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to be a complicated, lengthy ordeal. And for good reason: between recruiting, writing scripts, interviewing, and analyzing your data, it sure seems like a lot of work.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why you might be as surprised as I was to find out how little testing is actually needed to get a solid sample size. (The ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "magical number",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " turns out to be merely 5 users…with anything over 6 being subject to diminishing returns.)",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.invisionapp.com/inside-design/ux-usability-research-testing/"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "How’s that work out?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Binomial probability: stats that show the odds of achieving ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "n",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " successes in N trials.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Given that the probability of a user encountering an error during testing is around 31% (according to the ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "experts",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "), testing just 5 users will turn up 85% of your problems. More than enough to spot-check the most relevant obstructions in your experience, while making the most of your time. Read up on some ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "lean UX testing methodology",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ", and your good to start testing for the bottlenecks in your own products’ experience.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://measuringu.com/five-users/#many"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself/dp/0321657292"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Whether you oversee a digital or physical product, a course, or a store, testing as many as 5 is all it takes to dramatically improve the user's journey and actually create something they want to experience from the start.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

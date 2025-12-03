@@ -1,0 +1,67 @@
+{
+  "title": "Relay design",
+  "slug": "relay-design",
+  "publishedAt": "2020-11-15T06:03:31.000Z",
+  "excerpt": "This  is fascinating.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "This",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " is fascinating.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.nytimes.com/interactive/2020/10/29/opinion/election-voting-mail-ballot-design.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "And it's a great reminder that what you say, and (more importantly) how you say it, how you ask it, and how you present it, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "matters",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If I can't understand what you're saying, asking, or arguing, there's no chance I'm going to do what you want me to.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

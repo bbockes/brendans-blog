@@ -1,0 +1,161 @@
+{
+  "title": "Caring matters more",
+  "slug": "caring-matters-more",
+  "publishedAt": "2018-06-28T11:56:39.000Z",
+  "excerpt": "Why is it that (generally) most grocery store bathrooms are so gross?",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Why is it that (generally) most grocery store bathrooms are so gross?",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "You figure there’s food being sold in the building, so it ought to be clean, yet most grocery store bathrooms are unsanitary and squalid.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Here’s the thing. Upper managers, owners, authority figures, they care so much about the metrics: projected sales, daily labor, hourly wages, end-cap displays, front of house facing.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Yet it’s often the simple stuff that counts towards making a lasting impression:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Cleanliness, keep-up, friendly looking staff.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Looking people in the eye.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Staff eager to lend a hand.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Connecting, emotionally. Communicating, confidently.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Caring, ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "more",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "http://brendanbockes.typepad.com/blog/2017/08/on-customer-expectations-purple-cows-and-foursquare-reviews.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Traditional performance metrics, they're important. It’s just that when you consider what you ought to be focusing on, the expectations you set for your team, the performance benchmarks, the culture you choose to create, maybe you should consider some other facets that are less easy to measure.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Bathroom cleanliness and para-linguistics and empathy matter far more to the customer experience than how far away they have to reach for a gallon of milk.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Before all else, invest in the little things. Caring matters far more than you’d think. It’s cheaper too.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

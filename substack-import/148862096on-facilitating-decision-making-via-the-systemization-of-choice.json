@@ -1,0 +1,196 @@
+{
+  "title": "148862096.on Facilitating Decision Making Via The Systemization Of Choice",
+  "slug": "148862096on-facilitating-decision-making-via-the-systemization-of-choice",
+  "publishedAt": "2025-11-30T19:29:42.746Z",
+  "excerpt": "Recently, after not being able to make a decision about what shirts to buy online, I chose to simplify the process by establishing constraints on my perceived selection options. Instead of choosing fr",
+  "image": "",
+  "readTime": "3 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Recently, after not being able to make a decision about what shirts to buy online, I chose to simplify the process by establishing constraints on my perceived selection options. Instead of choosing from all the shirts in the inventory, I categorized them based on color, and then chose one shirt in each category. From there, I purchased my top three (overall) favorites.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Rules for simplifying decisions via classification:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Classify based on a category (i.e. shirt color).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Choose a specific item from each category (i.e. red, blue, yellow, green, purple, brown).",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "listItem": "number",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Decide your top pick or picks (if applicable) by introducing other filters pertinent to your decision type (i.e. price, artistic style, what color tees you already have in your wardrobe, etc.)",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "By establishing constraints via classification on your (nearly limitless) options, you too can simplify the decision making process for a host of other choices, from what restaurant to dine at to what career to pursue next.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When choosing a restaurant, for example, you can start by deciding on the type of cuisines you’d most like to experience tonight (Malaysian, Lebanese, Creole, Southern-American). You can then choose a restaurant from each cuisine that you’d most like to dine at based on its ratings or your location (",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Penang Malaysian",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Layla’s Lebanese Restaurant",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Okra’s Creole",
+          "marks": [
+            "link-2"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ",",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "Tupelo Honey Cafe",
+          "marks": [
+            "link-3"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "). From there, you can decide on your top pick by introducing additional filters that are applicable to the decision of choosing a restaurant, such as price, rating, location distance, noise level, dietary options, whether a food blog or magazine wrote something about it recently, etc. Per our example, Penang (the only Malaysian restaurant near me) is in Bethesda, a 30 mile drive through I-95 and I-395 traffic—nope! Okra’s is 25 miles out, and it can be pretty loud on a Friday night (they have a full bar and do live music)—maybe not. Layla’s on the other hand, is quiet, it’s 6 miles away and it has a 4.5 out of 5 star rating on Google reviews-bingo! If however, I’ve been to Layla’s recently, or my date’s really craving fried chicken and I don’t mind driving to Arlington, maybe I’ll consider Tupelo Honey instead.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.google.com/search?client=safari&channel=mac_bm&q=malaysian%20food%20near%20me&oq=malaysian+food+near+me&gs_l=psy-ab.3..0j0i22i30k1l6.6658.11156.0.11294.24.23.1.0.0.0.138.2108.17j6.23.0....0...1.1.64.psy-ab..0.24.2124...0i67k1j0i131i67k1j0i10k1j0i131k1.0.CpeKvJ_QeXQ&npsic=0&rflfq=1&rlha=0&rllag=38985393,-77078594,18692&tbm=lcl&rldimm=9436335971611773684&ved=0ahUKEwjP0Oz2kNfWAhWC7CYKHazgAk4QvS4IWzAA&rldoc=1&tbs=lrf:!2m1!1e2!2m1!1e5!2m1!1e1!2m1!1e3!3sIAE,lf:1,lf_ui:9#rlfi=hd:;si:9436335971611773684;mv:!1m3!1d291938.09259009676!2d-77.21098469999998!3d38.88454505000001!2m3!1f0!2f0!3f0!3m2!1i126!2i282!4f13.1;tbs:lrf:!2m1!1e2!2m1!1e5!2m1!1e1!2m1!1e3!3sIAE,lf:1,lf_ui:9"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.google.com/search?client=safari&channel=mac_bm&tbm=lcl&q=lebanese+food+near+me&oq=lebanese+food+near+me&gs_l=psy-ab.3..0l3j0i5i30k1l3j0i8i30k1l3.86341.88445.0.88746.8.8.0.0.0.0.189.894.2j6.8.0....0...1.1.64.psy-ab..1.7.828...0i7i30k1j0i7i10i30k1j0i8i7i30k1j0i7i5i30k1j0i13k1.0.3-NUNn-rHJc#rlfi=hd:;si:17981627749876273977;mv:!1m3!1d198911.0055522913!2d-77.19870685!3d38.8328146!2m3!1f0!2f0!3f0!3m2!1i326!2i384!4f13.1"
+        },
+        {
+          "_key": "link-2",
+          "_type": "link",
+          "href": "https://www.google.com/search?client=safari&channel=mac_bm&tbm=lcl&q=creole+food+near+me&oq=creole+food+near+me&gs_l=psy-ab.3..0j0i5i30k1j0i8i30k1l2.23963.26800.0.26973.10.8.2.0.0.0.192.910.3j5.8.0....0...1.1.64.psy-ab..1.8.827...0i7i30k1j0i7i10i30k1j0i8i7i30k1j0i7i5i30k1j0i13k1.0.6VofD4vgeD4#rlfi=hd:;si:8604808939614553132;mv:!1m3!1d402068.8619307894!2d-77.06257505!3d38.997329300000004!2m3!1f0!2f0!3f0!3m2!1i335!2i389!4f13.1"
+        },
+        {
+          "_key": "link-3",
+          "_type": "link",
+          "href": "https://www.google.com/search?client=safari&channel=mac_bm&tbm=lcl&q=southern+food+near+me&oq=southern+food+near+me&gs_l=psy-ab.3..0j0i7i30k1l3j0j0i7i30k1l2j0l2j0i5i30k1.22813.24206.0.24421.8.8.0.0.0.0.193.803.2j5.7.0....0...1.1.64.psy-ab..3.5.669...0i7i10i30k1j0i10k1j0i8i7i30k1.0.FxfYdi2XlCc#rlfi=hd:;si:9794347292245501836;mv:!1m3!1d343784.99938453885!2d-77.23592800000002!3d38.651726399999994!2m3!1f0!2f0!3f0!3m2!1i232!2i331!4f13.1"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "When deciding a major, as another example, you can start by deciding on the general fields of interest you find yourself gravitating to (business, art, science, engineering, education, performance, humanities, etc.) Then you can decide on the specific units of education within each field (marketing, product-design, IO psychology, robotics, VR-development, 12th grade english teacher, sous-chef, writer). From there, you can pick you top 3 based on other factors (like where you intuitively see yourself, or don’t see yourself, or what’s most exciting or interesting or terrifying, or difficult or easy, or which has the best job prospects). I might choose marketing (most interesting), writing (terrifying), and robotics (most difficult), and maybe choose my top pick on a whim.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Barry",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "said it best, “Everybody needs a fishbowl.” By classifying our decisions (in whatever form) we can better inforce the restrictions necessary to escape the indecisiveness that comes when we’re confronted with too much choice.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://www.ted.com/talks/barry_schwartz_on_the_paradox_of_choice"
+        }
+      ]
+    }
+  ]
+}

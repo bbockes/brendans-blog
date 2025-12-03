@@ -1,0 +1,75 @@
+{
+  "title": "Writing is a skill",
+  "slug": "writing-is-a-skill",
+  "publishedAt": "2022-01-06T05:25:00.000Z",
+  "excerpt": "Many people who hire writers assume there’s a positive correlation between a writer who’s had exposure to a certain topic and their ability to write well about that topic.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Many people who hire writers assume there’s a positive correlation between a writer who’s had exposure to a certain topic and their ability to write well about that topic.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Not so.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "On the contrary, if you ask a SME to write at length about what it is they’re experts at, you’ll find that not many of them will give you something that’s easy, accessible, or enjoyable to read. But, if you give a first-rate writer ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "anything",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " to write about, they’ll generally write something worth reading without much fuss.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That’s because writing is a skill in itself, unrelated to your profession.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Asking your doctor for tips on how to write better won’t help much. But asking a professional writer just might.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

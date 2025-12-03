@@ -1,0 +1,223 @@
+{
+  "title": "148862208.reformatting Workplace Culture",
+  "slug": "148862208reformatting-workplace-culture",
+  "publishedAt": "2025-11-30T19:29:43.866Z",
+  "excerpt": "I recently redid my resume, applying what I now know about formatting and typography* .",
+  "image": "",
+  "readTime": "2 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "I recently redid my resume, applying what I now know about formatting and",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "typography*",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": ".",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://practicaltypography.com/resumes.html"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "What’s amazing to me is how such a simple change of layout and graphics can completely alter a document. How a small rework of aesthetics can dramatically affect both how other people percieve you (as a potential candidate), and how you yourself feel about the value you project.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It’s a lot like the work each of us do everyday. How we feel about what we do, how we feel when and if those around us take notice—if they care—and how those attitudes influence our posture for the work itself.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "There’s no question that a business culture that cares about it’s employees, that makes them feel like the work they do matters, can completely change the atmosphere of a workplace.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "That when people feel valued, the way they do the work changes.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "The thing is, it’s such a simple shift, between choosing to care or not care. Between choosing to bring people up, and choosing to see them as transactional cogs.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Indeed, treating people like the professionals that they are is a really simple way to bring out the best in people.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "If someone on your team isn’t there yet, that might be a good place to start.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "*Typographers will tell you that a quick way to dramatically improve your readability is to use serif (typeface with serif-a slight finishing off a stroke of a letter) for body text, and sans serif (typeface without serif) for titles.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "For example:",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "equity",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "or",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "andada",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "= serif = body text",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://practicaltypography.com/equity.html"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.fontsquirrel.com/fonts/andada"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "concourse",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "or",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "source sans pro",
+          "marks": [
+            "link-1"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": "= sans = title text",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://practicaltypography.com/concourse.html"
+        },
+        {
+          "_key": "link-1",
+          "_type": "link",
+          "href": "https://www.fontsquirrel.com/fonts/source-sans-pro"
+        }
+      ]
+    }
+  ]
+}

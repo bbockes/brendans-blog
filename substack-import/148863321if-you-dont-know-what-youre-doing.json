@@ -1,0 +1,32 @@
+{
+  "title": "148863321.if You Dont Know What Youre Doing",
+  "slug": "148863321if-you-dont-know-what-youre-doing",
+  "publishedAt": "2025-11-30T19:30:00.342Z",
+  "excerpt": "It pays to avoid acting like you do.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "It pays to avoid acting like you do.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Humility almost always leads to better outcomes than overconfidence.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}

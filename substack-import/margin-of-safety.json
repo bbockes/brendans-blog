@@ -1,0 +1,93 @@
+{
+  "title": "Margin of safety",
+  "slug": "margin-of-safety",
+  "publishedAt": "2020-01-23T12:07:43.000Z",
+  "excerpt": "People are notoriously  bad  at predicting the future.",
+  "image": "",
+  "readTime": "1 min",
+  "content": [
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "People are notoriously ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "bad",
+          "marks": [
+            "link-0"
+          ]
+        },
+        {
+          "_type": "span",
+          "text": " at predicting the future.",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "link-0",
+          "_type": "link",
+          "href": "https://onezero.medium.com/why-youre-so-bad-at-predicting-the-future-68e14a5f41a4"
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Which is why hedging your bets is always a good idea.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "Because then, whether you ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "are",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " right 95% of the time or a little less, you’ll come out ",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": "right",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "text": " either way.",
+          "marks": []
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "text": "A much better alternative than to go all-in and risk losing everything.",
+          "marks": []
+        }
+      ]
+    }
+  ]
+}
