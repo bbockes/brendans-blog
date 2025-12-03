@@ -128,6 +128,7 @@ export function BlogLayout() {
   const postsPerLoad = 5; // Load 5 more posts at a time
   const observerTarget = useRef<HTMLDivElement>(null);
   const filteredPostsRef = useRef<any[]>([]);
+  const scrollableContainerRef = useRef<HTMLDivElement>(null);
 
   // Function to get category color based on name
   const getCategoryColor = (categoryName) => {
@@ -364,6 +365,11 @@ export function BlogLayout() {
     setVisiblePostsCount(5);
     
     // Scroll to top immediately (synchronously before paint)
+    // Scroll the scrollable container (the div with overflow-y-auto)
+    if (scrollableContainerRef.current) {
+      scrollableContainerRef.current.scrollTop = 0;
+    }
+    // Also scroll window/document as fallback
     window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
     document.documentElement.scrollTop = 0;
     document.body.scrollTop = 0;
@@ -372,16 +378,15 @@ export function BlogLayout() {
   // Aggressive scroll to top when route or selectedPost changes
   useEffect(() => {
     const scrollToTop = () => {
-      // Force scroll to top using all methods
+      // Scroll the scrollable container first (primary scroll target)
+      if (scrollableContainerRef.current) {
+        scrollableContainerRef.current.scrollTop = 0;
+      }
+      // Also scroll window/document as fallback
       window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
       if (window.scrollTo) window.scrollTo(0, 0);
       document.documentElement.scrollTop = 0;
       document.body.scrollTop = 0;
-      // Also try scrolling the main container if it exists
-      const mainContainer = document.querySelector('main') || document.querySelector('.main-container');
-      if (mainContainer) {
-        mainContainer.scrollTop = 0;
-      }
     };
     
     // Immediate scroll
@@ -478,50 +483,57 @@ export function BlogLayout() {
       return;
     }
     
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            // Use ref to get latest filteredPosts
-            const currentFilteredPosts = filteredPostsRef.current;
-            const totalPosts = currentFilteredPosts.length;
-            
-            setVisiblePostsCount(prev => {
-              if (prev < totalPosts) {
-                const newCount = Math.min(prev + postsPerLoad, totalPosts);
-                console.log('🔄 Loading more posts. Previous:', prev, 'New:', newCount, 'Total:', totalPosts);
-                return newCount;
-              }
-              return prev;
-            });
-          }
-        });
-      },
-      { 
-        threshold: 0.1,
-        rootMargin: '200px' // Start loading 200px before the element comes into view
-      }
-    );
-
-    // Wait for DOM to update, then attach observer
+    let observer: IntersectionObserver | null = null;
+    
+    // Wait for DOM to update, then create and attach observer
     const timeoutId = setTimeout(() => {
       const currentTarget = observerTarget.current;
+      const scrollContainer = scrollableContainerRef.current;
       
-      if (currentTarget) {
-        observer.observe(currentTarget);
-        console.log('👁️ Observer attached to trigger element');
-      } else {
-        console.log('⚠️ Observer target element not found');
+      if (!currentTarget || !scrollContainer) {
+        console.log('⚠️ Observer target or scroll container not found');
+        return;
       }
+      
+      observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+              // Use ref to get latest filteredPosts
+              const currentFilteredPosts = filteredPostsRef.current;
+              const totalPosts = currentFilteredPosts.length;
+              
+              setVisiblePostsCount(prev => {
+                if (prev < totalPosts) {
+                  const newCount = Math.min(prev + postsPerLoad, totalPosts);
+                  console.log('🔄 Loading more posts. Previous:', prev, 'New:', newCount, 'Total:', totalPosts);
+                  return newCount;
+                }
+                return prev;
+              });
+            }
+          });
+        },
+        { 
+          threshold: 0.1,
+          rootMargin: '200px', // Start loading 200px before the element comes into view
+          root: scrollContainer // Use the scrollable container as the root
+        }
+      );
+      
+      observer.observe(currentTarget);
+      console.log('👁️ Observer attached to trigger element with scroll container as root');
     }, 300); // Increased timeout slightly to ensure DOM is ready
 
     return () => {
       clearTimeout(timeoutId);
-      const currentTarget = observerTarget.current;
-      if (currentTarget) {
-        observer.unobserve(currentTarget);
+      if (observer) {
+        const currentTarget = observerTarget.current;
+        if (currentTarget) {
+          observer.unobserve(currentTarget);
+        }
+        observer.disconnect();
       }
-      observer.disconnect();
     };
   }, [filteredPosts.length, isLinkMode, postsPerLoad, location.pathname, selectedPost]); // Recreate observer when route or selectedPost changes
 
@@ -533,6 +545,9 @@ export function BlogLayout() {
     // Reset visible posts count to prevent infinite scroll from interfering
     setVisiblePostsCount(5);
     // Force scroll to top before navigation
+    if (scrollableContainerRef.current) {
+      scrollableContainerRef.current.scrollTop = 0;
+    }
     window.scrollTo(0, 0);
     document.documentElement.scrollTop = 0;
     document.body.scrollTop = 0;
@@ -541,6 +556,13 @@ export function BlogLayout() {
 
   const handleAboutClick = () => {
     console.log('ℹ️ About button clicked, navigating to /about');
+    if (isLinkMode) {
+      setIsLinkMode(false);
+    }
+    // Scroll to top before navigation
+    if (scrollableContainerRef.current) {
+      scrollableContainerRef.current.scrollTop = 0;
+    }
     navigate('/about');
   };
 
@@ -550,6 +572,10 @@ export function BlogLayout() {
     
     // Navigate to home page when "All" is selected
     if (category === 'All') {
+      // Scroll to top before navigation
+      if (scrollableContainerRef.current) {
+        scrollableContainerRef.current.scrollTop = 0;
+      }
       navigate('/');
       // Clear search query to show all posts
       setSearchQuery('');
@@ -560,6 +586,10 @@ export function BlogLayout() {
     setIsLinkMode(!isLinkMode);
     setSelectedCategory('All'); // Reset category when switching modes
     setSearchQuery(''); // Clear search when switching modes
+    // Scroll to top when switching modes
+    if (scrollableContainerRef.current) {
+      scrollableContainerRef.current.scrollTop = 0;
+    }
   };
 
   const handleSearch = useCallback((query: string) => {
@@ -617,7 +647,7 @@ export function BlogLayout() {
           <MobileHeader onMenuToggle={toggleMobileMenu} />
         </div>
 
-        <div className="flex-1 p-4 md:p-8 overflow-y-auto w-full">
+        <div ref={scrollableContainerRef} className="flex-1 p-4 md:p-8 overflow-y-auto w-full">
           <div className="max-w-7xl mx-auto w-full">
             {/* Desktop Header - shows on large screens and up only */}
             <div className="hidden lg:flex justify-between items-center mb-8">
@@ -759,7 +789,7 @@ export function BlogLayout() {
                     ))}
                   </div>
                 ) : (
-                  <div className="w-full max-w-4xl mx-auto" style={{ paddingLeft: '60px', paddingTop: '30px' }}>
+                  <div className="w-full max-w-4xl mx-auto" style={{ paddingLeft: '60px', paddingTop: '10px' }}>
                     {/* Show single post if on a post route, otherwise show all visible posts */}
                     {selectedPost && (location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/') ? (
                       <div key={selectedPost.id} id={`post-${selectedPost.slug?.current || selectedPost.slug || selectedPost.id}`}>
