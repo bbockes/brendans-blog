@@ -1,6 +1,14 @@
 import { useState } from 'react';
 import { XIcon, ArrowLeftRight } from 'lucide-react';
+import { useNavigate, useLocation } from 'react-router-dom';
 import { useTheme } from '../contexts/ThemeContext';
+
+interface Post {
+  id: string;
+  title: string;
+  slug?: string | { current: string };
+  [key: string]: any;
+}
 
 interface CategorySidebarProps {
   categories: Array<{ name: string; color: string }>;
@@ -11,6 +19,9 @@ interface CategorySidebarProps {
   onToggleLinkMode?: () => void;
   isMobile?: boolean;
   onClose?: () => void;
+  posts?: Post[];
+  onPostClick?: (post: Post) => void;
+  onLogoClick?: () => void;
 }
 
 export function CategorySidebar({
@@ -21,13 +32,44 @@ export function CategorySidebar({
   isLinkMode = false,
   onToggleLinkMode,
   isMobile = false,
-  onClose
+  onClose,
+  posts = [],
+  onPostClick,
+  onLogoClick
 }: CategorySidebarProps) {
   const { isDarkMode } = useTheme();
+  const navigate = useNavigate();
+  const location = useLocation();
   const [logoError, setLogoError] = useState(false);
 
   const handleAboutClick = () => {
     onAboutClick();
+    if (isMobile && onClose) {
+      onClose();
+    }
+  };
+
+  const handleLogoClick = () => {
+    const isHomePage = location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive';
+    
+    if (isHomePage) {
+      // Scroll to top if already on homepage
+      if (onLogoClick) {
+        onLogoClick();
+      } else {
+        // Fallback: scroll window and try to find scrollable container
+        window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+        document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
+        const scrollContainer = document.querySelector('div[class*="overflow-y-auto"]');
+        if (scrollContainer) {
+          scrollContainer.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+      }
+    } else {
+      // Navigate to homepage
+      navigate('/');
+    }
+    
     if (isMobile && onClose) {
       onClose();
     }
@@ -59,20 +101,86 @@ export function CategorySidebar({
             <>
               {!logoError ? (
                 <div className="mb-8">
-                  <img 
-                    src={import.meta.env.BASE_URL + (isDarkMode ? 'dark_mode_logo.png' : 'logo.png')}
-                    alt="Super Productive Logo" 
-                    className="max-w-full h-auto mb-2 object-contain"
-                    style={{ maxHeight: '80px' }}
-                    onError={handleLogoError}
-                  />
+                  <button
+                    onClick={handleLogoClick}
+                    className="cursor-pointer hover:opacity-80 transition-opacity"
+                    aria-label="Go to homepage"
+                  >
+                    <img 
+                      src={import.meta.env.BASE_URL + (isDarkMode ? 'dark_mode_logo.png' : 'logo.png')}
+                      alt="Super Productive Logo" 
+                      className="max-w-full h-auto mb-2 object-contain"
+                      style={{ maxHeight: '80px' }}
+                      onError={handleLogoError}
+                    />
+                  </button>
                 </div>
               ) : (
                 <div className="mb-8">
-                  <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">Super Productive</h1>
+                  <button
+                    onClick={handleLogoClick}
+                    className="cursor-pointer hover:opacity-80 transition-opacity text-left"
+                    aria-label="Go to homepage"
+                  >
+                    <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">Super Productive</h1>
+                  </button>
                 </div>
               )}
             </>
+          )}
+          
+          {/* Best of the blog section */}
+          {!isLinkMode && posts.length > 0 && onPostClick && (
+            <div className="mb-8" style={{ paddingTop: '10px' }}>
+              <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Best of the blog</h2>
+              <div className="space-y-3">
+                {posts.slice(0, 3).map((post) => {
+                  return (
+                    <button
+                      key={post.id}
+                      onClick={() => {
+                        onPostClick(post);
+                        if (isMobile && onClose) {
+                          onClose();
+                        }
+                      }}
+                      className="w-full text-left text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                    >
+                      {post.title}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+          
+          {/* Work with Brendan section */}
+          {!isLinkMode && (
+            <div className="mb-8">
+              <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Work with Brendan</h2>
+              <div className="space-y-3">
+                <a
+                  href="#"
+                  className="block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                >
+                  Web Strategy & Design
+                </a>
+                <a
+                  href="#"
+                  className="block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                >
+                  Copywriting
+                </a>
+                <a
+                  href="https://linkedin.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                >
+                  Linkedin
+                </a>
+              </div>
+            </div>
           )}
         </div>
       </div>

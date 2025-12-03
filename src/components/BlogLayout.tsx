@@ -592,6 +592,16 @@ export function BlogLayout() {
     }
   };
 
+  const handleLogoClick = () => {
+    // Scroll to top of the scrollable container
+    if (scrollableContainerRef.current) {
+      scrollableContainerRef.current.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    // Also scroll window as fallback
+    window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+    document.documentElement.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
   const handleSearch = useCallback((query: string) => {
     console.log('Search called with query:', query);
     setSearchQuery(query);
@@ -620,6 +630,9 @@ export function BlogLayout() {
           onAboutClick={handleAboutClick}
           isLinkMode={isLinkMode}
           onToggleLinkMode={handleToggleMode}
+          posts={posts.slice(0, 3)}
+          onPostClick={handlePostClick}
+          onLogoClick={handleLogoClick}
         />
       </div>
 
@@ -636,6 +649,9 @@ export function BlogLayout() {
               onToggleLinkMode={handleToggleMode}
               isMobile={true}
               onClose={toggleMobileMenu}
+              posts={posts.slice(0, 3)}
+              onPostClick={handlePostClick}
+              onLogoClick={handleLogoClick}
             />
           </div>
         </div>
