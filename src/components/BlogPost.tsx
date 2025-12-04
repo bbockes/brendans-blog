@@ -211,7 +211,7 @@ export function BlogPost({ post }: BlogPostProps) {
                 link: ({children, value}) => (
                   <a 
                     href={value?.href}
-                    className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-300 underline transition-colors cursor-pointer" 
+                    className="text-[#6184ED] dark:text-[#809FFF] hover:text-[#4a6bd8] dark:hover:text-[#9bb3ff] underline transition-colors cursor-pointer" 
                     {...(value?.href?.startsWith('/') || value?.href?.startsWith('.') || !value?.href?.includes('://') 
                       ? {} 
                       : { 
