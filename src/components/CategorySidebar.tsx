@@ -103,15 +103,20 @@ export function CategorySidebar({
                 <div className="mb-8">
                   <button
                     onClick={handleLogoClick}
-                    className="cursor-pointer hover:opacity-80 transition-opacity"
+                    className="cursor-pointer hover:opacity-80 transition-opacity block"
                     aria-label="Go to homepage"
+                    style={{ background: 'transparent', border: 'none', padding: 0 }}
                   >
                     <img 
-                      src={import.meta.env.BASE_URL + (isDarkMode ? 'dark_mode_logo.png' : 'logo.png')}
+                      src={`/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
                       alt="Super Productive Logo" 
-                      className="max-w-full h-auto mb-2 object-contain"
-                      style={{ maxHeight: '80px' }}
-                      onError={handleLogoError}
+                      className="block h-auto object-contain"
+                      style={{ display: 'block', maxWidth: '100%', transform: 'scale(0.95) translateX(-12px)' }}
+                      onLoad={() => console.log('Logo loaded successfully:', isDarkMode ? 'dark-mode-logo.png' : 'logo.png')}
+                      onError={(e) => {
+                        console.error('Failed to load logo:', e.currentTarget.src);
+                        handleLogoError();
+                      }}
                     />
                   </button>
                 </div>
@@ -160,19 +165,19 @@ export function CategorySidebar({
               <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Work with Brendan</h2>
               <div className="space-y-3">
                 <a
-                  href="#"
+                  href="https://brendan-bockes.webflow.io/" target="_blank" rel="noopener noreferrer"
                   className="block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
                 >
                   Web Strategy & Design
                 </a>
                 <a
-                  href="#"
+                  href="https://www.clippings.me/users/brendanbockes" target="_blank" rel="noopener noreferrer"
                   className="block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
                 >
                   Copywriting
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/brendanbockes"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
@@ -188,14 +193,14 @@ export function CategorySidebar({
       <div className="p-6 pt-0 flex-shrink-0">
         <button 
           onClick={handleAboutClick}
-          className="w-full mb-3 px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-purple-50 hover:border-purple-500 dark:hover:bg-purple-900/20 dark:hover:border-purple-600 transition-all duration-200"
+          className="w-full mb-3 px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-[#6184ED]/20 hover:border-[#6184ED] dark:hover:bg-[#809FFF]/30 dark:hover:border-[#809FFF] transition-all duration-200"
         >
           About
         </button>
         {onToggleLinkMode && (
           <button 
             onClick={onToggleLinkMode}
-            className="w-full px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-blue-50 hover:border-blue-500 dark:hover:bg-blue-900/20 dark:hover:border-blue-500 transition-all duration-200 flex items-center justify-center gap-2"
+            className="w-full px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-blue-50/30 hover:border-blue-400 dark:hover:bg-blue-900/20 dark:hover:border-blue-500 transition-all duration-200 flex items-center justify-center gap-2"
           >
             {isLinkMode ? 'Posts' : 'Blogroll'}
             <ArrowLeftRight className="w-4 h-4" />

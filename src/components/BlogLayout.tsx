@@ -681,7 +681,7 @@ export function BlogLayout() {
                 <div className="flex justify-start items-center" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px' }}>
                   <div>
                     <h1 className="text-3xl font-bold text-gray-800 dark:text-white">
-                      <span className="text-[#7D1FF1] dark:text-[#AA75F0]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
+                      <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
                     </h1>
                     <p className="text-gray-600 dark:text-gray-400 mt-2">
                       A few of my favorite blogs—well worth your time and attention.
@@ -729,7 +729,7 @@ export function BlogLayout() {
                 <div className="flex-1 flex justify-start">
                   <div>
                     <h1 className="text-2xl font-bold text-gray-800 dark:text-white">
-                      <span className="text-[#7D1FF1] dark:text-[#AA75F0]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
+                      <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
                     </h1>
                     <p className="text-gray-600 dark:text-gray-400 mt-1">
                       A few of my favorite blogs—well worth your time and attention.
@@ -769,7 +769,7 @@ export function BlogLayout() {
               <div className="md:hidden mb-6">
                 <div>
                   <h1 className="text-xl font-bold text-gray-800 dark:text-white text-left">
-                    <span className="text-[#7D1FF1] dark:text-[#AA75F0]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
+                    <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
                   </h1>
                   <p className="text-gray-600 dark:text-gray-400 mt-1 text-left">
                     A few of my favorite blogs—well worth your time and attention.

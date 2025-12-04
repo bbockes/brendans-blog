@@ -14,12 +14,12 @@ export function MobileHeader({ onMenuToggle }: MobileHeaderProps) {
       <div className="flex justify-between items-center">
         <div>
           <img 
-            src={import.meta.env.BASE_URL + (isDarkMode ? 'dark_mode_logo.png' : 'logo.png')}
+            src={`/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
             alt="Super Productive Logo" 
-            className="max-w-full h-auto object-contain"
-            style={{ maxHeight: '50px' }}
+            className="block max-w-full h-auto object-contain"
+            style={{ width: 'auto', display: 'block', transform: 'scale(0.95)' }}
             onError={(e) => {
-              console.error('Failed to load logo image');
+              console.error('Failed to load logo image:', e.currentTarget.src);
               // Fallback to text if image fails
               const fallback = document.createElement('div');
               fallback.innerHTML = '<h1 class="text-xl font-bold text-gray-900 dark:text-white">Super Productive</h1>';
