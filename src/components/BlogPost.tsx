@@ -188,7 +188,7 @@ export function BlogPost({ post }: BlogPostProps) {
         )}
       </div>
       
-      <div className="prose prose-lg max-w-none dark:prose-invert" style={{ maxWidth: '650px', marginRight: '80px' }}>
+      <div className="prose prose-lg max-w-none dark:prose-invert max-w-full md:max-w-[650px] mr-0 md:mr-20">
         <div className="markdown-content text-17px">
           <PortableText 
             value={post.content}

@@ -111,7 +111,7 @@ export function CategorySidebar({
                       src={`/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
                       alt="Super Productive Logo" 
                       className="block h-auto object-contain"
-                      style={{ display: 'block', maxWidth: '100%', transform: 'scale(0.95) translateX(-12px)' }}
+                      style={{ display: 'block', maxWidth: '200px', width: 'auto', height: 'auto', transform: 'scale(0.95) translateX(-12px)' }}
                       onLoad={() => console.log('Logo loaded successfully:', isDarkMode ? 'dark-mode-logo.png' : 'logo.png')}
                       onError={(e) => {
                         console.error('Failed to load logo:', e.currentTarget.src);

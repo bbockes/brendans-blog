@@ -16,8 +16,8 @@ export function MobileHeader({ onMenuToggle }: MobileHeaderProps) {
           <img 
             src={`/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
             alt="Super Productive Logo" 
-            className="block max-w-full h-auto object-contain"
-            style={{ width: 'auto', display: 'block', transform: 'scale(0.95)' }}
+            className="block h-auto object-contain"
+            style={{ maxWidth: '200px', width: 'auto', height: 'auto', display: 'block', transform: 'scale(0.95)' }}
             onError={(e) => {
               console.error('Failed to load logo image:', e.currentTarget.src);
               // Fallback to text if image fails

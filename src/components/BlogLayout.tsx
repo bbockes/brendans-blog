@@ -666,36 +666,40 @@ export function BlogLayout() {
         <div ref={scrollableContainerRef} className="flex-1 p-4 md:p-8 overflow-y-auto w-full">
           <div className="max-w-7xl mx-auto w-full">
             {/* Desktop Header - shows on large screens and up only */}
-            <div className="hidden lg:flex justify-between items-center mb-8">
-              {!isLinkMode ? (
-                <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm flex items-center overflow-hidden" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px', marginLeft: '44px' }}>
-                  <div className="px-4 py-4 w-full">
-                    <SearchSubscribeToggle 
-                      className="w-full" 
-                      onSearch={handleSearch}
-                      placeholder="Never miss a post! Get free email updates"
-                    />
+            <div className="hidden lg:block mb-8 relative">
+              <div className="w-full max-w-4xl mx-auto" style={{ paddingLeft: '60px' }}>
+                <div className="flex items-center">
+                  {!isLinkMode ? (
+                    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm flex items-center overflow-hidden" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px' }}>
+                      <div className="px-4 py-4 w-full">
+                        <SearchSubscribeToggle 
+                          className="w-full" 
+                          onSearch={handleSearch}
+                          placeholder="Never miss a post! Get free email updates"
+                        />
+                      </div>
+                    </div>
+                  ) : (
+                    <div className="flex justify-start items-center" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px' }}>
+                      <div>
+                        <h1 className="text-3xl font-bold text-gray-800 dark:text-white">
+                          <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
+                        </h1>
+                        <p className="text-gray-600 dark:text-gray-400 mt-2">
+                          A few of my favorite blogs—well worth your time and attention.
+                        </p>
+                      </div>
+                    </div>
+                  )}
+                  <div className="hidden md:flex bg-white dark:bg-gray-800 rounded-lg p-4 shadow-sm items-center flex-shrink-0 ml-5">
+                    <div className="flex items-center gap-3">
+                      <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-1.5 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
+                        <LinkedinIcon className="w-5 h-5" />
+                      </a>
+                      <div className="w-px h-5 bg-gray-300 dark:bg-gray-600"></div>
+                      <DarkModeToggle />
+                    </div>
                   </div>
-                </div>
-              ) : (
-                <div className="flex justify-start items-center" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px' }}>
-                  <div>
-                    <h1 className="text-3xl font-bold text-gray-800 dark:text-white">
-                      <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
-                    </h1>
-                    <p className="text-gray-600 dark:text-gray-400 mt-2">
-                      A few of my favorite blogs—well worth your time and attention.
-                    </p>
-                  </div>
-                </div>
-              )}
-              <div className="bg-white dark:bg-gray-800 rounded-lg p-4 shadow-sm flex items-center flex-shrink-0 ml-auto">
-                <div className="flex items-center gap-3">
-                  <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-1.5 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
-                    <LinkedinIcon className="w-5 h-5" />
-                  </a>
-                  <div className="w-px h-5 bg-gray-300 dark:bg-gray-600"></div>
-                  <DarkModeToggle />
                 </div>
               </div>
             </div>
@@ -805,7 +809,7 @@ export function BlogLayout() {
                     ))}
                   </div>
                 ) : (
-                  <div className="w-full max-w-4xl mx-auto" style={{ paddingLeft: '60px', paddingTop: '10px' }}>
+                  <div className="w-full max-w-4xl mx-auto md:pl-[60px] px-4 md:px-0" style={{ paddingTop: '10px' }}>
                     {/* Show single post if on a post route, otherwise show all visible posts */}
                     {selectedPost && (location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/') ? (
                       <div key={selectedPost.id} id={`post-${selectedPost.slug?.current || selectedPost.slug || selectedPost.id}`}>
