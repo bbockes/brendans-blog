@@ -3,7 +3,7 @@
 
 export const notFoundPost = {
   id: 'about',
-  title: 'About Super Productive',
+  title: "About Brendan's Blog",
   excerpt: '',
   category: 'About',
   readTime: '1 min',
@@ -103,7 +103,7 @@ export const notFoundPost = {
         {
           _type: 'span',
           marks: ['strong'],
-          text: 'Super Productive is a weekly newsletter designed to help knowledge workers navigate the full spectrum of modern productivity'
+          text: "Brendan's Blog is the personal blog of Brendan Bockes, sharing thoughts on productivity, technology, and building."
         },
         {
           _type: 'span',

@@ -49,7 +49,7 @@ node scripts/createAboutPage.js
 4. Changes appear immediately on your website
 
 ### Content Structure
-- **Title**: Page title (defaults to "Super Productive")
+- **Title**: Page title (defaults to "Brendan's Blog")
 - **Excerpt**: Optional meta description
 - **Read Time**: Display read time
 - **Main Content**: Rich text with bold, italic, lists, etc.

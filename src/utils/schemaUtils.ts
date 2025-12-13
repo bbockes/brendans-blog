@@ -92,9 +92,9 @@ interface BlogSchema {
 
 // Default organization data
 const ORGANIZATION_DATA = {
-  name: "Super Productive",
+  name: "Brendan's Blog",
   url: "https://superproductive.magic-patterns.com",
-  description: "Bite-sized tech tips to level up your productivity. Weekly newsletter with AI prompts, productivity tools, and smart workflows.",
+  description: "The personal blog of Brendan Bockes. Thoughts on productivity, technology, and building.",
   logo: "https://superproductive.magic-patterns.com/logo.png",
   sameAs: [
     "https://linkedin.com/company/super-productive" // Update with actual social media URLs
@@ -128,7 +128,7 @@ function generateDescription(post: BlogPost): string {
   return post.excerpt || 
          post.subheader || 
          (post.content ? extractTextFromPortableText(post.content).substring(0, 160) : '') ||
-         'A productivity tip from Super Productive';
+         'A post from Brendan\'s Blog';
 }
 
 // Convert read time to ISO 8601 duration format
@@ -244,8 +244,8 @@ export function generateAboutPageSchema(): any {
   return {
     "@context": "https://schema.org",
     "@type": "AboutPage",
-    name: "About Super Productive",
-    description: "Learn about Super Productive and our mission to help knowledge workers be more productive with AI and modern tools.",
+    name: "About Brendan's Blog",
+    description: "Learn about Brendan's Blog, the personal blog of Brendan Bockes.",
     url: aboutUrl,
     mainEntity: {
       "@type": "Organization",

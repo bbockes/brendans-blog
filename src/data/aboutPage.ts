@@ -286,7 +286,7 @@ const aboutContent: ContentBlock[] = [
   },
   {
     type: 'paragraph',
-    text: "I created **Super Productive** to help ambitious builders navigate the full spectrum of modern productivity—from apps and AI prompts to smart workflows and more."
+    text: "**Brendan's Blog** is my personal blog where I share thoughts on productivity, technology, and building."
   },
   {
     type: 'paragraph',
@@ -362,7 +362,7 @@ const psContent: ContentBlock[] = [
 // Create the final about post object
 export const aboutPost: BlogPost = {
   id: 'about',
-  title: 'Super Productive',
+  title: "Brendan's Blog",
   excerpt: '',
   category: 'About',
   readTime: '1 min',

@@ -15,14 +15,14 @@ export function MobileHeader({ onMenuToggle }: MobileHeaderProps) {
         <div>
           <img 
             src={`/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
-            alt="Super Productive Logo" 
+            alt="Brendan's Blog Logo" 
             className="block h-auto object-contain"
             style={{ maxWidth: '200px', width: 'auto', height: 'auto', display: 'block', transform: 'scale(0.95)' }}
             onError={(e) => {
               console.error('Failed to load logo image:', e.currentTarget.src);
               // Fallback to text if image fails
               const fallback = document.createElement('div');
-              fallback.innerHTML = '<h1 class="text-xl font-bold text-gray-900 dark:text-white">Super Productive</h1>';
+              fallback.innerHTML = '<h1 class="text-xl font-bold text-gray-900 dark:text-white">Brendan\'s Blog</h1>';
               e.currentTarget.parentNode?.replaceChild(fallback, e.currentTarget);
             }}
           />

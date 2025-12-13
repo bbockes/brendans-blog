@@ -31,32 +31,32 @@ export function generateMetaDescription(post) {
   
   // Special case for about page
   if (post && post.id === 'about') {
-    return 'Learn more about Super Productive — a weekly newsletter for digital knowledge workers who want to save time and work smarter.';
+    return 'Learn more about Brendan's Blog, the personal blog of Brendan Bockes.';
   }
   
   return post.excerpt || 
          post.subheader || 
          (post.content ? extractTextFromContent(post.content) : '') ||
-         'Discover tools, tips, and AI prompts to boost your productivity, save time, and focus on what matters with the Super Productive newsletter.';
+         'A post from Brendan's Blog, the personal blog of Brendan Bockes.';
 }
 
 // Generate page title
 export function generatePageTitle(post) {
   if (!post) {
-    return 'Super Productive';
+    return "Brendan's Blog";
   }
   
   // Special case for 404 page
   if (post.id === '404') {
-    return 'Super Productive';
+    return "Brendan's Blog";
   }
   
   // Special case for about page
   if (post.id === 'about') {
-    return 'About Super Productive';
+    return "About Brendan's Blog";
   }
   
-  return `Super Productive | ${post.title}`;
+  return `${post.title} | Brendan's Blog`;
 }
 
 // Default OG image URL
@@ -64,8 +64,8 @@ export const DEFAULT_OG_IMAGE = 'https://images.unsplash.com/photo-1499750310107
 
 // Generate Open Graph meta tags HTML
 export function generateOGMetaTags(post, url) {
-  const title = post ? post.title : 'Super Productive';
-  const description = post ? generateMetaDescription(post) : 'Bite-sized tech tips to level up your productivity. Weekly newsletter with AI prompts, productivity tools, and smart workflows.';
+  const title = post ? post.title : "Brendan's Blog";
+  const description = post ? generateMetaDescription(post) : "The personal blog of Brendan Bockes. Thoughts on productivity, technology, and building.";
   const image = post?.image || DEFAULT_OG_IMAGE;
   const type = post ? 'article' : 'website';
   
@@ -74,7 +74,7 @@ export function generateOGMetaTags(post, url) {
     <meta property="og:description" content="${escapeHtml(description)}" />
     <meta property="og:type" content="${type}" />
     <meta property="og:url" content="${url}" />
-    <meta property="og:site_name" content="Super Productive" />
+    <meta property="og:site_name" content="Brendan's Blog" />
     <meta property="og:image" content="${image}" />
     <meta property="og:image:alt" content="${escapeHtml(title)}" />
     <meta property="og:image:width" content="1200" />

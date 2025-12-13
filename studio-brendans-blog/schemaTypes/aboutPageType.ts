@@ -10,7 +10,7 @@ export const aboutPageType = defineType({
       name: 'title',
       title: 'Page Title',
       type: 'string',
-      initialValue: 'Super Productive',
+      initialValue: "Brendan's Blog",
       validation: (rule) => rule.required(),
     }),
     defineField({

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { XIcon, ArrowLeftRight } from 'lucide-react';
+import { XIcon, ArrowLeftRight, MoonIcon, SunIcon } from 'lucide-react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { useTheme } from '../contexts/ThemeContext';
 
@@ -37,7 +37,7 @@ export function CategorySidebar({
   onPostClick,
   onLogoClick
 }: CategorySidebarProps) {
-  const { isDarkMode } = useTheme();
+  const { isDarkMode, toggleDarkMode } = useTheme();
   const navigate = useNavigate();
   const location = useLocation();
   const [logoError, setLogoError] = useState(false);
@@ -109,7 +109,7 @@ export function CategorySidebar({
                   >
                     <img 
                       src={`/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
-                      alt="Super Productive Logo" 
+                      alt="Brendan's Blog Logo" 
                       className="block h-auto object-contain"
                       style={{ display: 'block', maxWidth: '200px', width: 'auto', height: 'auto', transform: 'scale(0.95) translateX(-12px)' }}
                       onLoad={() => console.log('Logo loaded successfully:', isDarkMode ? 'dark-mode-logo.png' : 'logo.png')}
@@ -127,7 +127,7 @@ export function CategorySidebar({
                     className="cursor-pointer hover:opacity-80 transition-opacity text-left"
                     aria-label="Go to homepage"
                   >
-                    <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">Super Productive</h1>
+                    <h1 className="text-2xl font-bold text-gray-900 dark:text-white mb-2">Brendan's Blog</h1>
                   </button>
                 </div>
               )}
@@ -191,9 +191,22 @@ export function CategorySidebar({
       </div>
       
       <div className="p-6 pt-0 flex-shrink-0">
+        {isMobile && (
+          <button
+            onClick={toggleDarkMode}
+            className="w-full mb-4 px-6 py-4 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-gray-100 dark:hover:bg-gray-700 transition-all duration-200 flex items-center justify-center"
+            aria-label={isDarkMode ? 'Switch to light mode' : 'Switch to dark mode'}
+          >
+            {isDarkMode ? (
+              <SunIcon className="w-8 h-8 text-gray-600 dark:text-gray-300" />
+            ) : (
+              <MoonIcon className="w-8 h-8 text-gray-600 dark:text-gray-300" />
+            )}
+          </button>
+        )}
         <button 
           onClick={handleAboutClick}
-          className="w-full mb-3 px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-[#6184ED]/20 hover:border-[#6184ED] dark:hover:bg-[#809FFF]/30 dark:hover:border-[#809FFF] transition-all duration-200"
+          className="w-full mb-3 px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-blue-50/30 hover:border-blue-400 dark:hover:bg-blue-900/20 dark:hover:border-blue-500 transition-all duration-200"
         >
           About
         </button>

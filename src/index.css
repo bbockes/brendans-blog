@@ -58,7 +58,7 @@
 /* Custom font size for blog content */
 @layer utilities {
   .text-17px {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 

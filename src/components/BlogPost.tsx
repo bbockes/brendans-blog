@@ -174,8 +174,8 @@ export function BlogPost({ post }: BlogPostProps) {
 
   return (
     <article className="w-full last:mb-0" style={{ marginBottom: '100px' }}>
-      <div className="mb-4">
-        <h1 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
+      <div className="mb-[18px]">
+        <h1 className="text-3xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
           <Link 
             to={getPostLink()}
             className="hover:underline transition-all"

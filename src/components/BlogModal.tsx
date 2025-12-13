@@ -206,7 +206,7 @@ export function BlogModal({
                 </span>
               </div>
             )}
-            <h1 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
+            <h1 className="text-3xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
               <Link 
                 to={getPostLink()}
                 onClick={onClose}

@@ -37,7 +37,7 @@ export function transformAboutPageToBlogPost(aboutPageData: AboutPageData): any 
   return {
     id: 'about',
     title: aboutPageData.title,
-    excerpt: aboutPageData.excerpt || 'About Super Productive',
+    excerpt: aboutPageData.excerpt || "About Brendan's Blog",
     category: 'About',
     readTime: aboutPageData.readTime,
     image: aboutPageData.image?.asset?.url || 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=400&h=250&fit=crop',
