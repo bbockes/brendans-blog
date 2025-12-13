@@ -1,10 +1,14 @@
 import { createClient } from '@sanity/client';
 
 export const sanityClient = createClient({
-  projectId: import.meta.env.VITE_SANITY_PROJECT_ID,
-  dataset: import.meta.env.VITE_SANITY_DATASET,
+  projectId: import.meta.env.VITE_SANITY_PROJECT_ID || 'wxzoc64y',
+  dataset: import.meta.env.VITE_SANITY_DATASET || 'production',
   apiVersion: import.meta.env.VITE_SANITY_API_VERSION || '2023-12-01',
   useCdn: true, // Set to false if you want to ensure fresh content
+  perspective: 'published', // Use published perspective for public content
+  stega: {
+    enabled: false, // Disable stega encoding for production
+  },
 });
 
 // GROQ queries
