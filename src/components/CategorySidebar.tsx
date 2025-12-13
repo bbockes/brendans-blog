@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { XIcon, ArrowLeftRight, MoonIcon, SunIcon } from 'lucide-react';
+import { XIcon, MoonIcon, SunIcon, Archive as ArchiveIcon } from 'lucide-react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { useTheme } from '../contexts/ThemeContext';
 
@@ -60,6 +60,11 @@ export function CategorySidebar({
   };
 
   const handleLogoClick = () => {
+    // Switch back to posts view if in link mode
+    if (isLinkMode && onToggleLinkMode) {
+      onToggleLinkMode();
+    }
+    
     const isHomePage = location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive';
     
     if (isHomePage) {
@@ -145,7 +150,7 @@ export function CategorySidebar({
           )}
           
           {/* Best of the blog section */}
-          {!isLinkMode && posts.length > 0 && onPostClick && (() => {
+          {posts.length > 0 && onPostClick && (() => {
             // Define the posts to show
             const favoritePostTitles = [
               'Language is leverage',
@@ -175,6 +180,10 @@ export function CategorySidebar({
                       <button
                         key={post.id}
                         onClick={() => {
+                          // Switch back to posts view if in link mode
+                          if (isLinkMode && onToggleLinkMode) {
+                            onToggleLinkMode();
+                          }
                           onPostClick(post);
                           if (isMobile && onClose) {
                             onClose();
@@ -191,61 +200,48 @@ export function CategorySidebar({
             ) : null;
           })()}
           
-          {/* Blogroll section */}
-          {isLinkMode && linkCards.length > 0 && (
-            <div className="mb-8" style={{ paddingTop: '10px' }}>
-              <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">All blogs</h2>
-              <div className="space-y-3">
-                {linkCards.map((linkCard) => {
-                  return (
-                    <a
-                      key={linkCard._id}
-                      href={linkCard.url}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      onClick={() => {
-                        if (isMobile && onClose) {
-                          onClose();
-                        }
-                      }}
-                      className="block w-full text-left text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
-                    >
-                      {linkCard.title}
-                    </a>
-                  );
-                })}
-              </div>
-            </div>
-          )}
-          
           {/* Work with Brendan section */}
-          {!isLinkMode && (
-            <div className="mb-8">
-              <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Work with Brendan</h2>
-              <div className="space-y-3">
-                <a
-                  href="https://brendan-bockes.webflow.io/" target="_blank" rel="noopener noreferrer"
-                  className="block text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
-                >
-                  Web Strategy & Design
-                </a>
-                <a
-                  href="https://www.clippings.me/users/brendanbockes" target="_blank" rel="noopener noreferrer"
-                  className="block text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
-                >
-                  Copywriting
-                </a>
-                <a
-                  href="https://www.linkedin.com/in/brendanbockes"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="block text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
-                >
-                  Linkedin
-                </a>
-              </div>
+          <div className="mb-8">
+            <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Work with Brendan</h2>
+            <div className="space-y-3">
+              <a
+                href="https://brendan-bockes.webflow.io/" target="_blank" rel="noopener noreferrer"
+                className="block text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+              >
+                Web Strategy & Design
+              </a>
+              <a
+                href="https://www.linkedin.com/in/brendanbockes"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+              >
+                Linkedin
+              </a>
             </div>
-          )}
+          </div>
+          
+          {/* Extras section */}
+          <div className="mb-8" style={{ paddingTop: '10px' }}>
+            <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Extras</h2>
+            <div className="space-y-3">
+              {onToggleLinkMode && (
+                <button
+                  onClick={() => {
+                    if (onToggleLinkMode) {
+                      onToggleLinkMode();
+                    }
+                    if (isMobile && onClose) {
+                      onClose();
+                    }
+                  }}
+                  className="block w-full text-left text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                >
+                  Blogroll
+                </button>
+              )}
+            </div>
+          </div>
         </div>
       </div>
       
@@ -269,15 +265,22 @@ export function CategorySidebar({
         >
           About
         </button>
-        {onToggleLinkMode && (
-          <button 
-            onClick={onToggleLinkMode}
-            className="w-full px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-blue-50/30 hover:border-blue-400 dark:hover:bg-blue-900/20 dark:hover:border-blue-500 transition-all duration-200 flex items-center justify-center gap-2"
-          >
-            {isLinkMode ? 'Posts' : 'Blogroll'}
-            <ArrowLeftRight className="w-4 h-4" />
-          </button>
-        )}
+        <button 
+          onClick={() => {
+            // Switch back to posts view if in link mode
+            if (isLinkMode && onToggleLinkMode) {
+              onToggleLinkMode();
+            }
+            navigate('/archive');
+            if (isMobile && onClose) {
+              onClose();
+            }
+          }}
+          className="w-full mb-3 px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-blue-50/30 hover:border-blue-400 dark:hover:bg-blue-900/20 dark:hover:border-blue-500 transition-all duration-200 flex items-center justify-center gap-2"
+        >
+          <ArchiveIcon className="w-4 h-4" />
+          Archive
+        </button>
       </div>
     </aside>
   );

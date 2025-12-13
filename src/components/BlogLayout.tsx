@@ -8,6 +8,7 @@ import { MobileHeader } from './MobileHeader';
 import { DarkModeToggle } from './DarkModeToggle';
 import { NewsletterForm } from './NewsletterForm';
 import { SearchSubscribeToggle } from './SearchSubscribeToggle';
+import { Archive } from './Archive';
 import { fetchAboutPage, transformAboutPageToBlogPost } from '../lib/aboutPageService';
 import { LinkedinIcon } from 'lucide-react';
 import { sanityClient, POSTS_QUERY, CATEGORIES_QUERY, LINK_CARDS_QUERY } from '../lib/sanityClient';
@@ -662,11 +663,11 @@ export function BlogLayout() {
             {/* Desktop Header - shows on large screens and up only */}
             <div className="hidden lg:block mb-8 relative">
               {isLinkMode ? (
-                <div className="w-full max-w-5xl mx-auto">
-                  <h1 className="text-3xl font-bold text-gray-800 dark:text-white">
+                <div className="w-full max-w-5xl mx-auto md:pl-[60px]">
+                  <h1 className="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white">
                     <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
                   </h1>
-                  <p className="text-gray-600 dark:text-gray-400 mt-2">
+                  <p className="text-gray-600 dark:text-gray-400 text-lg mt-2">
                     A few of my favorite blogs—well worth your time and attention.
                   </p>
                 </div>
@@ -684,7 +685,7 @@ export function BlogLayout() {
                     </div>
                     <div className="hidden md:flex bg-white dark:bg-gray-800 rounded-lg p-4 shadow-sm items-center flex-shrink-0 ml-5">
                       <div className="flex items-center gap-3">
-                        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-1.5 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
+                        <a href="https://www.linkedin.com/in/brendanbockes" target="_blank" rel="noopener noreferrer" className="p-1.5 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
                           <LinkedinIcon className="w-5 h-5" />
                         </a>
                         <div className="w-px h-5 bg-gray-300 dark:bg-gray-600"></div>
@@ -721,13 +722,13 @@ export function BlogLayout() {
                 </div>
               </div>
             ) : (
-              <div className="hidden md:flex lg:hidden justify-between items-center mb-6">
+              <div className="hidden md:flex lg:hidden justify-between items-center mb-6" style={{ paddingLeft: '60px' }}>
                 <div className="flex-1 flex justify-start">
                   <div className="w-full">
                     <h1 className="text-2xl font-bold text-gray-800 dark:text-white text-left">
                       <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
                     </h1>
-                    <p className="text-gray-600 dark:text-gray-400 mt-1 text-left">
+                    <p className="text-gray-600 dark:text-gray-400 text-lg mt-1 text-left">
                       A few of my favorite blogs—well worth your time and attention.
                     </p>
                   </div>
@@ -764,7 +765,7 @@ export function BlogLayout() {
                 </div>
               </div>
             ) : (
-              <div className="md:hidden mb-6">
+              <div className="md:hidden mb-6 px-4">
                 <div>
                   <h1 className="text-xl font-bold text-gray-800 dark:text-white text-left">
                     <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
@@ -797,13 +798,15 @@ export function BlogLayout() {
             {!(isLinkMode ? linkLoading : loading) && !(isLinkMode ? linkError : error) && (
               <>
                 {isLinkMode ? (
-                  <div className="w-full max-w-5xl mx-auto">
+                  <div className="w-full max-w-5xl mx-auto md:pl-[60px]">
                     <div className={`grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2`} style={{ width: '90%' }}>
                       {filteredPosts.map((linkCard: any) => (
                         <LinkCard key={linkCard._id} linkCard={linkCard} />
                       ))}
                     </div>
                   </div>
+                ) : location.pathname === '/archive' ? (
+                  <Archive />
                 ) : (
                   <div className="w-full max-w-4xl mx-auto md:pl-[60px] px-4 md:px-0" style={{ paddingTop: '10px' }}>
                     {/* Show single post if on a post route, otherwise show all visible posts */}

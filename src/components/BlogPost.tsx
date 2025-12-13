@@ -175,7 +175,7 @@ export function BlogPost({ post }: BlogPostProps) {
   return (
     <article className="w-full last:mb-0" style={{ marginBottom: '100px' }}>
       <div className="mb-[18px]">
-        <h1 className="text-3xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
+        <h1 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
           <Link 
             to={getPostLink()}
             className="hover:underline transition-all"
@@ -204,6 +204,16 @@ export function BlogPost({ post }: BlogPostProps) {
                 boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)'
               }}
             />
+            {/* See all posts button for about page with headshot */}
+            <div className="mt-6 flex justify-center">
+              <Link
+                to="/"
+                className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium"
+              >
+                <ArrowLeft className="w-4 h-4" />
+                See all posts
+              </Link>
+            </div>
           </div>
           <div className="flex-1 prose prose-lg max-w-none dark:prose-invert max-w-full md:max-w-[650px]">
             <div className="markdown-content text-17px">
@@ -436,8 +446,8 @@ export function BlogPost({ post }: BlogPostProps) {
             </div>
           )}
           
-          {/* See all posts button - only show on single post pages */}
-          {isSinglePostPage && (
+          {/* See all posts button - show on single post pages and about page */}
+          {(isSinglePostPage || post.id === 'about') && (
             <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
               <Link
                 to="/"
