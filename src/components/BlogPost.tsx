@@ -111,6 +111,15 @@ export function BlogPost({ post }: BlogPostProps) {
   const { isDarkMode } = useTheme();
   const location = useLocation();
   
+  // Debug: Log psContent for about page
+  React.useEffect(() => {
+    if (post?.id === 'about') {
+      console.log('🔍 BlogPost - About page psContent:', post.psContent);
+      console.log('🔍 BlogPost - About page psContent length:', post.psContent?.length);
+      console.log('🔍 BlogPost - About page full post:', post);
+    }
+  }, [post]);
+  
   // Check if we're on a single post page (not homepage)
   const isSinglePostPage = location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/';
 
@@ -189,8 +198,8 @@ export function BlogPost({ post }: BlogPostProps) {
       </div>
       
       {post.id === 'about' && post.headshot ? (
-        <div className="flex flex-col md:flex-row gap-6 md:gap-8 mb-6 items-start">
-          <div className="flex-shrink-0 md:mt-2" style={{ flexBasis: 'auto' }}>
+        <div className="flex flex-col min-[900px]:flex-row gap-6 min-[900px]:gap-8 mb-6 items-start">
+          <div className="flex-shrink-0 min-[900px]:mt-2" style={{ flexBasis: 'auto' }}>
             <img 
               src={post.headshot}
               alt={post.headshotAlt || 'Headshot'}
@@ -215,7 +224,7 @@ export function BlogPost({ post }: BlogPostProps) {
               </Link>
             </div>
           </div>
-          <div className="flex-1 prose prose-lg max-w-none dark:prose-invert max-w-full md:max-w-[650px]">
+          <div className="flex-1 prose prose-lg max-w-none dark:prose-invert max-w-full min-[900px]:max-w-[650px]">
             <div className="markdown-content text-17px">
               <PortableText 
                 value={post.content}
@@ -286,6 +295,40 @@ export function BlogPost({ post }: BlogPostProps) {
                 }}
               />
             </div>
+            
+            {/* Colophon (P.S. section) for About page with headshot - appears after main content */}
+            {post.id === 'about' && post.psContent && (Array.isArray(post.psContent) ? post.psContent.length > 0 : true) && (
+              <>
+                <div className="border-t border-gray-200 dark:border-gray-700 mt-8 mb-6 opacity-60"></div>
+                <div className="w-full max-w-[650px] prose prose-lg max-w-none dark:prose-invert">
+                  <div className="markdown-content text-17px">
+                    <PortableText 
+                      value={post.psContent}
+                      components={{
+                        block: {
+                          normal: ({children}) => <p className="text-gray-600 dark:text-gray-400 leading-relaxed mb-4 text-17px">{children}</p>,
+                          blockquote: ({children}) => (
+                            <blockquote className="border-l-4 border-gray-300 dark:border-gray-600 pl-4 italic text-gray-500 dark:text-gray-500 mb-4 text-17px opacity-80">
+                              {children}
+                            </blockquote>
+                          ),
+                        },
+                        list: {
+                          bullet: ({children}) => <ul className="list-disc list-inside mb-4 space-y-2">{children}</ul>,
+                        },
+                        listItem: {
+                          bullet: ({children}) => <li className="text-gray-600 dark:text-gray-400 text-17px">{children}</li>,
+                        },
+                        marks: {
+                          strong: ({children}) => <strong className="font-bold text-gray-700 dark:text-gray-300">{children}</strong>,
+                          em: ({children}) => <em className="italic text-gray-600 dark:text-gray-400">{children}</em>,
+                        },
+                      }}
+                    />
+                  </div>
+                </div>
+              </>
+            )}
           </div>
         </div>
       ) : (
@@ -390,15 +433,72 @@ export function BlogPost({ post }: BlogPostProps) {
             }}
           />
           
+          {/* Colophon (P.S. section) for About page without headshot - appears after main content */}
+          {post.id === 'about' && post.psContent && (Array.isArray(post.psContent) ? post.psContent.length > 0 : true) && (
+            <>
+              <div className="border-t border-gray-200 dark:border-gray-700 mt-8 mb-6 opacity-60"></div>
+              <div className="w-full max-w-[650px] prose prose-lg max-w-none dark:prose-invert">
+                <div className="markdown-content text-17px">
+                  <PortableText 
+                    value={post.psContent}
+                    components={{
+                      block: {
+                        normal: ({children}) => <p className="text-gray-600 dark:text-gray-400 leading-relaxed mb-4 text-17px">{children}</p>,
+                        blockquote: ({children}) => (
+                          <blockquote className="border-l-4 border-gray-300 dark:border-gray-600 pl-4 italic text-gray-500 dark:text-gray-500 mb-4 text-17px opacity-80">
+                            {children}
+                          </blockquote>
+                        ),
+                      },
+                      list: {
+                        bullet: ({children}) => <ul className="list-disc list-inside mb-4 space-y-2">{children}</ul>,
+                      },
+                      listItem: {
+                        bullet: ({children}) => <li className="text-gray-600 dark:text-gray-400 text-17px">{children}</li>,
+                      },
+                      marks: {
+                        strong: ({children}) => <strong className="font-bold text-gray-700 dark:text-gray-300">{children}</strong>,
+                        em: ({children}) => <em className="italic text-gray-600 dark:text-gray-400">{children}</em>,
+                      },
+                    }}
+                  />
+                </div>
+              </div>
+            </>
+          )}
+          
           {/* Social Media Share Section */}
           {post.id !== 'about' && post.id !== '404' && (
-            <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
-              <div className="flex items-center gap-3 mb-4">
+            <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700" style={{ marginBottom: '-50px' }}>
+              {/* Date and See all posts button row - on mobile/tablet (460px to 749px) */}
+              <div className="relative min-[460px]:block max-[749px]:block min-[750px]:hidden max-[459px]:hidden">
+                <div className="text-gray-600 dark:text-gray-400 text-sm flex-shrink-0">
+                  {formatDate(post.publishedAt || post.created_at)}
+                </div>
+                {isSinglePostPage && (
+                  <Link
+                    to="/"
+                    className="absolute right-0 top-0 inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium"
+                  >
+                    <ArrowLeft className="w-4 h-4" />
+                    See all posts
+                  </Link>
+                )}
+              </div>
+              {/* Date only - on very small screens (below 460px) */}
+              <div className="max-[459px]:block min-[460px]:hidden">
+                <div className="text-gray-600 dark:text-gray-400 text-sm text-right">
+                  {formatDate(post.publishedAt || post.created_at)}
+                </div>
+              </div>
+              {/* Date only - on desktop */}
+              <div className="hidden min-[750px]:block">
                 <div className="text-gray-600 dark:text-gray-400 text-sm">
                   {formatDate(post.publishedAt || post.created_at)}
                 </div>
               </div>
-              <div className="flex items-center gap-2 flex-wrap social-share-buttons">
+              {/* Social share buttons */}
+              <div className="mt-4 flex items-center gap-2 flex-wrap social-share-buttons min-[750px]:mb-0 max-[459px]:justify-end">
                 <a
                   href={shareUrls.linkedin}
                   target="_blank"
@@ -443,12 +543,24 @@ export function BlogPost({ post }: BlogPostProps) {
                   <MailIcon className="w-4 h-4" />
                 </a>
               </div>
+              {/* See all posts button - show on desktop and very small screens (below 460px) */}
+              {isSinglePostPage && (
+                <div className="mt-4 max-[459px]:block min-[460px]:max-[749px]:hidden min-[750px]:block max-[459px]:text-right">
+                  <Link
+                    to="/"
+                    className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium"
+                  >
+                    <ArrowLeft className="w-4 h-4" />
+                    See all posts
+                  </Link>
+                </div>
+              )}
             </div>
           )}
           
-          {/* See all posts button - show on single post pages and about page */}
-          {(isSinglePostPage || post.id === 'about') && (
-            <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
+          {/* See all posts button - show on about page only */}
+          {post.id === 'about' && (
+            <div className="mt-8">
               <Link
                 to="/"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium"

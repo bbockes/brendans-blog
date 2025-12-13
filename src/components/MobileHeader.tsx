@@ -17,7 +17,7 @@ export function MobileHeader({ onMenuToggle }: MobileHeaderProps) {
             src={`/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
             alt="Brendan's Blog Logo" 
             className="block h-auto object-contain"
-            style={{ maxWidth: '200px', width: 'auto', height: 'auto', display: 'block', transform: 'scale(0.95)' }}
+            style={{ maxWidth: '205px', width: 'auto', height: 'auto', display: 'block', transform: 'scale(0.98)' }}
             onError={(e) => {
               console.error('Failed to load logo image:', e.currentTarget.src);
               // Fallback to text if image fails

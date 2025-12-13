@@ -798,8 +798,8 @@ export function BlogLayout() {
             {!(isLinkMode ? linkLoading : loading) && !(isLinkMode ? linkError : error) && (
               <>
                 {isLinkMode ? (
-                  <div className="w-full max-w-5xl mx-auto md:pl-[60px]">
-                    <div className={`grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2`} style={{ width: '90%' }}>
+                  <div className="w-full max-w-5xl mx-auto px-4 md:px-0 md:pl-[60px]">
+                    <div className={`grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2`} style={{ width: '100%' }}>
                       {filteredPosts.map((linkCard: any) => (
                         <LinkCard key={linkCard._id} linkCard={linkCard} />
                       ))}

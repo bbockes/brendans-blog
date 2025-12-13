@@ -112,6 +112,15 @@ export function BlogModal({
   onClose
 }) {
   const { isDarkMode } = useTheme();
+  
+  // Debug: Log psContent for about page
+  React.useEffect(() => {
+    if (post?.id === 'about') {
+      console.log('🔍 About page psContent:', post.psContent);
+      console.log('🔍 About page psContent length:', post.psContent?.length);
+      console.log('🔍 About page full post:', post);
+    }
+  }, [post]);
 
   // Add structured data when modal opens
   React.useEffect(() => {
@@ -351,6 +360,40 @@ export function BlogModal({
               />
               </div>
             </div>
+            
+            {/* Colophon (P.S. section) for About page with headshot - appears after main content */}
+            {post.id === 'about' && post.psContent && (Array.isArray(post.psContent) ? post.psContent.length > 0 : true) && (
+              <>
+                <div className="border-t border-gray-200 dark:border-gray-700 mt-8 mb-4"></div>
+                <div className="w-full max-w-[530px] prose prose-lg max-w-none dark:prose-invert">
+                  <div className="markdown-content text-17px">
+                    <PortableText 
+                      value={post.psContent}
+                      components={{
+                        block: {
+                          normal: ({children}) => <p className="text-gray-800 dark:text-gray-200 leading-relaxed mb-4 text-17px">{children}</p>,
+                          blockquote: ({children}) => (
+                            <blockquote className="border-l-4 border-gray-300 dark:border-gray-600 pl-4 italic text-gray-700 dark:text-gray-300 mb-4 text-17px">
+                              {children}
+                            </blockquote>
+                          ),
+                        },
+                        list: {
+                          bullet: ({children}) => <ul className="list-disc list-inside mb-4 space-y-2">{children}</ul>,
+                        },
+                        listItem: {
+                          bullet: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px">{children}</li>,
+                        },
+                        marks: {
+                          strong: ({children}) => <strong className="font-bold text-gray-900 dark:text-white">{children}</strong>,
+                          em: ({children}) => <em className="italic text-gray-800 dark:text-gray-200">{children}</em>,
+                        },
+                      }}
+                    />
+                  </div>
+                </div>
+              </>
+            )}
           </div>
           ) : (
           <div className="prose prose-lg max-w-none dark:prose-invert">
@@ -463,6 +506,40 @@ export function BlogModal({
                 }}
               />
             </div>
+            
+            {/* Colophon (P.S. section) for About page without headshot - appears after main content */}
+            {post.id === 'about' && post.psContent && (Array.isArray(post.psContent) ? post.psContent.length > 0 : true) && (
+              <>
+                <div className="border-t border-gray-200 dark:border-gray-700 mt-8 mb-4"></div>
+                <div className="w-full max-w-[530px] prose prose-lg max-w-none dark:prose-invert">
+                  <div className="markdown-content text-17px">
+                    <PortableText 
+                      value={post.psContent}
+                      components={{
+                        block: {
+                          normal: ({children}) => <p className="text-gray-800 dark:text-gray-200 leading-relaxed mb-4 text-17px">{children}</p>,
+                          blockquote: ({children}) => (
+                            <blockquote className="border-l-4 border-gray-300 dark:border-gray-600 pl-4 italic text-gray-700 dark:text-gray-300 mb-4 text-17px">
+                              {children}
+                            </blockquote>
+                          ),
+                        },
+                        list: {
+                          bullet: ({children}) => <ul className="list-disc list-inside mb-4 space-y-2">{children}</ul>,
+                        },
+                        listItem: {
+                          bullet: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px">{children}</li>,
+                        },
+                        marks: {
+                          strong: ({children}) => <strong className="font-bold text-gray-900 dark:text-white">{children}</strong>,
+                          em: ({children}) => <em className="italic text-gray-800 dark:text-gray-200">{children}</em>,
+                        },
+                      }}
+                    />
+                  </div>
+                </div>
+              </>
+            )}
           </div>
           )}
               
@@ -543,42 +620,6 @@ export function BlogModal({
                     </div>
                   </div>
                 </div>
-              )}
-              
-              {/* P.S. section for About page - now appears after subscribe form */}
-              {post.id === 'about' && post.psContent && (
-                <>
-                  <div className="border-t border-gray-200 dark:border-gray-700 mt-8 mb-4"></div>
-                  <div className="w-full max-w-[530px] mb-4">
-                    <img 
-                      src={isDarkMode ? "/read_time_dark-mode.png" : "/read_time.png"}
-                      alt="Read time icon example" 
-                      className="w-full max-w-[550px] sm:max-w-[550px] md:max-w-[480px] lg:max-w-[520px] h-auto rounded-lg mx-auto"
-                    />
-                  </div>
-                  <div className="w-full max-w-[530px] prose prose-lg max-w-none dark:prose-invert">
-                    <div className="markdown-content text-17px">
-                      <PortableText 
-                        value={post.psContent}
-                        components={{
-                          block: {
-                            normal: ({children}) => <p className="text-gray-800 dark:text-gray-200 leading-relaxed mb-4 text-17px">{children}</p>,
-                          },
-                          list: {
-                            bullet: ({children}) => <ul className="list-disc list-inside mb-4 space-y-2">{children}</ul>,
-                          },
-                          listItem: {
-                            bullet: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px">{children}</li>,
-                          },
-                          marks: {
-                            strong: ({children}) => <strong className="font-bold text-gray-900 dark:text-white">{children}</strong>,
-                            em: ({children}) => <em className="italic text-gray-800 dark:text-gray-200">{children}</em>,
-                          },
-                        }}
-                      />
-                    </div>
-                  </div>
-                </>
               )}
             </div>
           </div>
