@@ -296,7 +296,7 @@ function parseInlineContent(element) {
   let markDefs = [];
   let markDefIndex = 0;
   
-  function processNode(node, isFirst = false, isLast = false, prevSibling = null, nextSibling = null) {
+  function processNode(node, inheritedMarks = [], isFirst = false, isLast = false, prevSibling = null, nextSibling = null) {
     if (node.nodeType === 3) {
       // Text node - preserve spaces around links
       let text = node.textContent || '';
@@ -323,19 +323,19 @@ function parseInlineContent(element) {
       }
       
       if (text) {
-        children.push({ _type: 'span', text: text, marks: [] });
+        children.push({ _type: 'span', text: text, marks: [...inheritedMarks] });
       }
     } else if (node.nodeType === 1) {
       // Element node
       const tagName = node.tagName?.toLowerCase();
-      const marks = [];
+      const currentMarks = [...inheritedMarks];
       
       if (tagName === 'strong' || tagName === 'b') {
-        marks.push('strong');
+        currentMarks.push('strong');
       } else if (tagName === 'em' || tagName === 'i') {
-        marks.push('em');
+        currentMarks.push('em');
       } else if (tagName === 'code') {
-        marks.push('code');
+        currentMarks.push('code');
       }
       
       if (tagName === 'a') {
@@ -351,11 +351,11 @@ function parseInlineContent(element) {
           children.push({
             _type: 'span',
             text: text,
-            marks: [...marks, markKey],
+            marks: [...currentMarks, markKey],
           });
         }
       } else {
-        // Process child nodes recursively
+        // Process child nodes recursively, passing down accumulated marks
         const childNodes = Array.from(node.childNodes);
         if (childNodes.length === 0) {
           // Empty element, might be a line break
@@ -366,7 +366,7 @@ function parseInlineContent(element) {
           childNodes.forEach((child, index) => {
             const prevSibling = index > 0 ? childNodes[index - 1] : null;
             const nextSibling = index < childNodes.length - 1 ? childNodes[index + 1] : null;
-            processNode(child, index === 0, index === childNodes.length - 1, prevSibling, nextSibling);
+            processNode(child, currentMarks, index === 0, index === childNodes.length - 1, prevSibling, nextSibling);
           });
         }
       }
@@ -377,7 +377,7 @@ function parseInlineContent(element) {
   childNodes.forEach((node, index) => {
     const prevSibling = index > 0 ? childNodes[index - 1] : null;
     const nextSibling = index < childNodes.length - 1 ? childNodes[index + 1] : null;
-    processNode(node, index === 0, index === childNodes.length - 1, prevSibling, nextSibling);
+    processNode(node, [], index === 0, index === childNodes.length - 1, prevSibling, nextSibling);
   });
   
   return { children, markDefs };

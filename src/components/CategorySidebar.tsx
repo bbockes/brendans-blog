@@ -10,6 +10,14 @@ interface Post {
   [key: string]: any;
 }
 
+interface LinkCard {
+  _id: string;
+  title: string;
+  hook: any[] | string;
+  image: string;
+  url: string;
+}
+
 interface CategorySidebarProps {
   categories: Array<{ name: string; color: string }>;
   selectedCategory: string;
@@ -22,6 +30,7 @@ interface CategorySidebarProps {
   posts?: Post[];
   onPostClick?: (post: Post) => void;
   onLogoClick?: () => void;
+  linkCards?: LinkCard[];
 }
 
 export function CategorySidebar({
@@ -35,7 +44,8 @@ export function CategorySidebar({
   onClose,
   posts = [],
   onPostClick,
-  onLogoClick
+  onLogoClick,
+  linkCards = []
 }: CategorySidebarProps) {
   const { isDarkMode, toggleDarkMode } = useTheme();
   const navigate = useNavigate();
@@ -135,24 +145,73 @@ export function CategorySidebar({
           )}
           
           {/* Best of the blog section */}
-          {!isLinkMode && posts.length > 0 && onPostClick && (
+          {!isLinkMode && posts.length > 0 && onPostClick && (() => {
+            // Define the posts to show
+            const favoritePostTitles = [
+              'Language is leverage',
+              'Ships in the night',
+              'You\'re missing out',
+              'Technical sophistication'
+            ];
+            
+            // Filter posts by title and exclude the ones to remove
+            const excludedTitles = ['Time and death', 'Service fatigue'];
+            const favoritePosts = favoritePostTitles
+              .map(title => posts.find(post => post.title === title))
+              .filter(post => post !== undefined && !excludedTitles.includes(post.title))
+              // Sort by publication date, newest first
+              .sort((a, b) => {
+                const dateA = new Date(a.publishedAt || a.created_at || 0).getTime();
+                const dateB = new Date(b.publishedAt || b.created_at || 0).getTime();
+                return dateB - dateA; // Descending order (newest first)
+              });
+            
+            return favoritePosts.length > 0 ? (
+              <div className="mb-8" style={{ paddingTop: '10px' }}>
+                <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Best of the blog</h2>
+                <div className="space-y-3">
+                  {favoritePosts.map((post) => {
+                    return (
+                      <button
+                        key={post.id}
+                        onClick={() => {
+                          onPostClick(post);
+                          if (isMobile && onClose) {
+                            onClose();
+                          }
+                        }}
+                        className="w-full text-left text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                      >
+                        {post.title}
+                      </button>
+                    );
+                  })}
+                </div>
+              </div>
+            ) : null;
+          })()}
+          
+          {/* Blogroll section */}
+          {isLinkMode && linkCards.length > 0 && (
             <div className="mb-8" style={{ paddingTop: '10px' }}>
-              <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Best of the blog</h2>
+              <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">All blogs</h2>
               <div className="space-y-3">
-                {posts.slice(0, 3).map((post) => {
+                {linkCards.map((linkCard) => {
                   return (
-                    <button
-                      key={post.id}
+                    <a
+                      key={linkCard._id}
+                      href={linkCard.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       onClick={() => {
-                        onPostClick(post);
                         if (isMobile && onClose) {
                           onClose();
                         }
                       }}
-                      className="w-full text-left text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                      className="block w-full text-left text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
                     >
-                      {post.title}
-                    </button>
+                      {linkCard.title}
+                    </a>
                   );
                 })}
               </div>
@@ -162,17 +221,17 @@ export function CategorySidebar({
           {/* Work with Brendan section */}
           {!isLinkMode && (
             <div className="mb-8">
-              <h2 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Work with Brendan</h2>
+              <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Work with Brendan</h2>
               <div className="space-y-3">
                 <a
                   href="https://brendan-bockes.webflow.io/" target="_blank" rel="noopener noreferrer"
-                  className="block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                  className="block text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
                 >
                   Web Strategy & Design
                 </a>
                 <a
                   href="https://www.clippings.me/users/brendanbockes" target="_blank" rel="noopener noreferrer"
-                  className="block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                  className="block text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
                 >
                   Copywriting
                 </a>
@@ -180,7 +239,7 @@ export function CategorySidebar({
                   href="https://www.linkedin.com/in/brendanbockes"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="block text-sm text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                  className="block text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
                 >
                   Linkedin
                 </a>

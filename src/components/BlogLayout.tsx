@@ -10,7 +10,7 @@ import { NewsletterForm } from './NewsletterForm';
 import { SearchSubscribeToggle } from './SearchSubscribeToggle';
 import { fetchAboutPage, transformAboutPageToBlogPost } from '../lib/aboutPageService';
 import { LinkedinIcon } from 'lucide-react';
-import { sanityClient, POSTS_QUERY, CATEGORIES_QUERY, LINK_CARDS_QUERY, LINK_CARD_CATEGORIES_QUERY } from '../lib/sanityClient';
+import { sanityClient, POSTS_QUERY, CATEGORIES_QUERY, LINK_CARDS_QUERY } from '../lib/sanityClient';
 import { slugify, findPostBySlug, filterPostsBySearchQuery, extractFirstSentence, extractSentenceWithMatch } from '../utils/slugify';
 import { generateMetaDescription, generatePageTitle, DEFAULT_OG_IMAGE } from '../utils/seoUtils.js';
 import { getCategoryColor } from '../utils/categoryColorUtils';
@@ -40,10 +40,10 @@ interface Post {
 
 interface LinkCard {
   _id: string;
-  hook: string;
+  title: string;
+  hook: any[] | string;
   image: string;
   url: string;
-  category?: string;
 }
 
 interface Category {
@@ -112,7 +112,6 @@ export function BlogLayout() {
   const [posts, setPosts] = useState<Post[]>([]);
   const [linkCards, setLinkCards] = useState<LinkCard[]>([]);
   const [categories, setCategories] = useState<Category[]>([]);
-  const [linkCategories, setLinkCategories] = useState<Category[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
   const [linkLoading, setLinkLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);
@@ -209,21 +208,6 @@ export function BlogLayout() {
         // Fetch link cards from Sanity
         const linkCardsData = await sanityClient.fetch(LINK_CARDS_QUERY);
         setLinkCards(linkCardsData);
-
-        // Fetch link categories from Sanity
-        const linkCategoriesData = await sanityClient.fetch(LINK_CARD_CATEGORIES_QUERY);
-        
-        // Extract unique categories and format them with colors
-        const uniqueLinkCategories = [...new Set(linkCategoriesData.map((item: any) => item.category).filter(Boolean))] as string[];
-        const formattedLinkCategories: Category[] = [
-          { name: 'All', color: getCategoryColor('All') },
-          ...uniqueLinkCategories.map((schemaCategory) => ({
-            name: getCategoryDisplayName(schemaCategory),
-            color: getCategoryColor(schemaCategory)
-          }))
-        ];
-
-        setLinkCategories(formattedLinkCategories);
       } catch (err: any) {
         console.error('❌ Error fetching link data:', err);
         setLinkError(err.message);
@@ -411,23 +395,32 @@ export function BlogLayout() {
   // Filter posts by category and search query
   const filteredPosts = useMemo(() => {
     if (isLinkMode) {
-      // Filter link cards
-      let filtered;
-      if (selectedCategory === 'All') {
-        filtered = linkCards;
-      } else {
-        // Convert display name back to schema category for filtering
-        const schemaCategory = getSchemaCategory(selectedCategory);
-        filtered = linkCards.filter((card: LinkCard) => card.category === schemaCategory);
-      }
+      // Filter link cards - no category filtering, only search
+      let filtered = linkCards;
       
       // Apply search filter if there's a search query
       if (searchQuery.trim()) {
         const searchTerm = searchQuery.toLowerCase().trim();
-        filtered = filtered.filter((card: LinkCard) => 
-          card.hook.toLowerCase().includes(searchTerm) ||
-          (card.category && card.category.toLowerCase().includes(searchTerm))
-        );
+        filtered = filtered.filter((card: LinkCard) => {
+          // Extract text from hook (handles both string and Portable Text array)
+          let hookText = '';
+          if (typeof card.hook === 'string') {
+            hookText = card.hook;
+          } else if (Array.isArray(card.hook)) {
+            hookText = card.hook
+              .filter((block: any) => block._type === 'block')
+              .map((block: any) => {
+                if (!block.children || !Array.isArray(block.children)) return '';
+                return block.children
+                  .filter((child: any) => child._type === 'span' && child.text)
+                  .map((child: any) => child.text)
+                  .join(' ');
+              })
+              .join(' ');
+          }
+          return hookText.toLowerCase().includes(searchTerm) || 
+                 card.title.toLowerCase().includes(searchTerm);
+        });
       }
       
       return filtered;
@@ -624,15 +617,16 @@ export function BlogLayout() {
       {/* Desktop/Tablet Sidebar - shows on medium screens and up */}
       <div className="hidden md:block flex-shrink-0">
         <CategorySidebar 
-          categories={isLinkMode ? linkCategories : categories} 
+          categories={categories} 
           selectedCategory={selectedCategory} 
           onCategorySelect={handleCategorySelect} 
           onAboutClick={handleAboutClick}
           isLinkMode={isLinkMode}
           onToggleLinkMode={handleToggleMode}
-          posts={posts.slice(0, 3)}
+          posts={posts}
           onPostClick={handlePostClick}
           onLogoClick={handleLogoClick}
+          linkCards={linkCards}
         />
       </div>
 
@@ -641,7 +635,7 @@ export function BlogLayout() {
         <div className="md:hidden fixed inset-0 bg-black bg-opacity-50 z-40" onClick={toggleMobileMenu}>
           <div className="fixed right-0 top-0 h-full w-80 bg-white dark:bg-gray-800 shadow-lg" onClick={(e) => e.stopPropagation()}>
             <CategorySidebar 
-              categories={isLinkMode ? linkCategories : categories} 
+              categories={categories} 
               selectedCategory={selectedCategory} 
               onCategorySelect={handleCategorySelect} 
               onAboutClick={handleAboutClick}
@@ -667,9 +661,18 @@ export function BlogLayout() {
           <div className="max-w-7xl mx-auto w-full">
             {/* Desktop Header - shows on large screens and up only */}
             <div className="hidden lg:block mb-8 relative">
-              <div className="w-full max-w-4xl mx-auto" style={{ paddingLeft: '60px' }}>
-                <div className="flex items-center">
-                  {!isLinkMode ? (
+              {isLinkMode ? (
+                <div className="w-full max-w-5xl mx-auto">
+                  <h1 className="text-3xl font-bold text-gray-800 dark:text-white">
+                    <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
+                  </h1>
+                  <p className="text-gray-600 dark:text-gray-400 mt-2">
+                    A few of my favorite blogs—well worth your time and attention.
+                  </p>
+                </div>
+              ) : (
+                <div className="w-full max-w-4xl mx-auto" style={{ paddingLeft: '60px' }}>
+                  <div className="flex items-center">
                     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm flex items-center overflow-hidden" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px' }}>
                       <div className="px-4 py-4 w-full">
                         <SearchSubscribeToggle 
@@ -679,29 +682,18 @@ export function BlogLayout() {
                         />
                       </div>
                     </div>
-                  ) : (
-                    <div className="flex justify-start items-center" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px' }}>
-                      <div>
-                        <h1 className="text-3xl font-bold text-gray-800 dark:text-white">
-                          <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
-                        </h1>
-                        <p className="text-gray-600 dark:text-gray-400 mt-2">
-                          A few of my favorite blogs—well worth your time and attention.
-                        </p>
+                    <div className="hidden md:flex bg-white dark:bg-gray-800 rounded-lg p-4 shadow-sm items-center flex-shrink-0 ml-5">
+                      <div className="flex items-center gap-3">
+                        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-1.5 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
+                          <LinkedinIcon className="w-5 h-5" />
+                        </a>
+                        <div className="w-px h-5 bg-gray-300 dark:bg-gray-600"></div>
+                        <DarkModeToggle />
                       </div>
-                    </div>
-                  )}
-                  <div className="hidden md:flex bg-white dark:bg-gray-800 rounded-lg p-4 shadow-sm items-center flex-shrink-0 ml-5">
-                    <div className="flex items-center gap-3">
-                      <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-1.5 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
-                        <LinkedinIcon className="w-5 h-5" />
-                      </a>
-                      <div className="w-px h-5 bg-gray-300 dark:bg-gray-600"></div>
-                      <DarkModeToggle />
                     </div>
                   </div>
                 </div>
-              </div>
+              )}
             </div>
 
             {/* Tablet Subscribe Section - shows on medium screens only */}
@@ -731,24 +723,26 @@ export function BlogLayout() {
             ) : (
               <div className="hidden md:flex lg:hidden justify-between items-center mb-6">
                 <div className="flex-1 flex justify-start">
-                  <div>
-                    <h1 className="text-2xl font-bold text-gray-800 dark:text-white">
+                  <div className="w-full">
+                    <h1 className="text-2xl font-bold text-gray-800 dark:text-white text-left">
                       <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
                     </h1>
-                    <p className="text-gray-600 dark:text-gray-400 mt-1">
+                    <p className="text-gray-600 dark:text-gray-400 mt-1 text-left">
                       A few of my favorite blogs—well worth your time and attention.
                     </p>
                   </div>
                 </div>
-                <div className="bg-white dark:bg-gray-800 rounded-lg p-4 shadow-sm flex-shrink-0">
-                  <div className="flex items-center gap-3">
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-1.5 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
-                      <LinkedinIcon className="w-5 h-5" />
-                    </a>
-                    <div className="w-px h-5 bg-gray-300 dark:bg-gray-600"></div>
-                    <DarkModeToggle />
+                {!isLinkMode && (
+                  <div className="bg-white dark:bg-gray-800 rounded-lg p-4 shadow-sm flex-shrink-0">
+                    <div className="flex items-center gap-3">
+                      <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-1.5 text-gray-600 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors">
+                        <LinkedinIcon className="w-5 h-5" />
+                      </a>
+                      <div className="w-px h-5 bg-gray-300 dark:bg-gray-600"></div>
+                      <DarkModeToggle />
+                    </div>
                   </div>
-                </div>
+                )}
               </div>
             )}
 
@@ -803,10 +797,12 @@ export function BlogLayout() {
             {!(isLinkMode ? linkLoading : loading) && !(isLinkMode ? linkError : error) && (
               <>
                 {isLinkMode ? (
-                  <div className={`grid gap-6 w-full grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3`}>
-                    {filteredPosts.map((linkCard: any) => (
-                      <LinkCard key={linkCard._id} linkCard={linkCard} />
-                    ))}
+                  <div className="w-full max-w-5xl mx-auto">
+                    <div className={`grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2`} style={{ width: '90%' }}>
+                      {filteredPosts.map((linkCard: any) => (
+                        <LinkCard key={linkCard._id} linkCard={linkCard} />
+                      ))}
+                    </div>
                   </div>
                 ) : (
                   <div className="w-full max-w-4xl mx-auto md:pl-[60px] px-4 md:px-0" style={{ paddingTop: '10px' }}>
@@ -847,7 +843,7 @@ export function BlogLayout() {
                               key={post.id} 
                               className="mb-8 pb-8 border-b border-gray-200 dark:border-gray-700 last:border-b-0"
                             >
-                              <h2 className="text-2xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2">
+                              <h2 className="text-3xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2">
                                 <button
                                   onClick={() => handlePostClick(post)}
                                   className="hover:underline transition-all text-left"
