@@ -111,7 +111,7 @@ async function prerender() {
       slug: post.slug?.current || slugify(post.title)
     }));
     
-    const baseUrl = process.env.NETLIFY_URL || process.env.DEPLOY_PRIME_URL || 'https://brendansblog.netlify.app';
+    const baseUrl = process.env.NETLIFY_URL || process.env.DEPLOY_PRIME_URL || 'https://blog.brendanbockes.com';
     
     console.log('📝 Generating static HTML files...');
     

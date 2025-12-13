@@ -1,5 +1,5 @@
 # Robots.txt for Brendan's Blog
-# https://superproductive.magic-patterns.com
+# https://blog.brendanbockes.com
 
 User-agent: *
 Allow: /
@@ -16,7 +16,7 @@ Allow: /posts/
 Allow: /about
 
 # Sitemap location
-Sitemap: https://superproductive.magic-patterns.com/sitemap.xml
+Sitemap: https://blog.brendanbockes.com/sitemap.xml
 
 # Crawl delay (optional - be respectful to search engines)
 Crawl-delay: 1

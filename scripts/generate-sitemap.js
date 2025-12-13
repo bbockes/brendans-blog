@@ -35,7 +35,7 @@ const POSTS_QUERY = `*[_type == "post" && defined(slug.current)] | order(publish
 }`;
 
 // Base URL - uses Netlify environment variables or falls back to default
-const BASE_URL = process.env.NETLIFY_URL || process.env.DEPLOY_PRIME_URL || 'https://brendansblog.netlify.app';
+const BASE_URL = process.env.NETLIFY_URL || process.env.DEPLOY_PRIME_URL || 'https://blog.brendanbockes.com';
 
 // Generate XML sitemap content
 function generateSitemapXML(urls) {
