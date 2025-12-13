@@ -57,5 +57,7 @@ export const ABOUT_PAGE_QUERY = `*[_type == "aboutPage"][0] {
   readTime,
   content,
   psContent,
-  "image": image.asset->url
+  "image": image.asset->url,
+  "headshot": headshot.asset->url,
+  "headshotAlt": headshot.alt
 }`;

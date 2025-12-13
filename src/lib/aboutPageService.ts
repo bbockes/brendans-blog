@@ -12,6 +12,8 @@ export interface AboutPageData {
       url: string;
     };
   };
+  headshot?: string;
+  headshotAlt?: string;
 }
 
 export async function fetchAboutPage(): Promise<AboutPageData | null> {
@@ -41,6 +43,8 @@ export function transformAboutPageToBlogPost(aboutPageData: AboutPageData): any 
     category: 'About',
     readTime: aboutPageData.readTime,
     image: aboutPageData.image?.asset?.url || 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=400&h=250&fit=crop',
+    headshot: aboutPageData.headshot,
+    headshotAlt: aboutPageData.headshotAlt,
     content: aboutPageData.content, // Keep main content separate
     psContent: aboutPageData.psContent, // Keep P.S. content separate for modal display
     slug: 'about',

@@ -21,6 +21,23 @@ export const aboutPageType = defineType({
       validation: (rule) => rule.required(),
     }),
     defineField({
+      name: 'headshot',
+      title: 'Headshot',
+      type: 'image',
+      description: 'Small headshot image displayed directly under the header',
+      options: {
+        hotspot: true,
+      },
+      fields: [
+        {
+          name: 'alt',
+          type: 'string',
+          title: 'Alternative text',
+          description: 'Important for SEO and accessibility.',
+        },
+      ],
+    }),
+    defineField({
       name: 'content',
       title: 'Main Content',
       type: 'array',

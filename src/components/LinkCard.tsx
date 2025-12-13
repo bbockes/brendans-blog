@@ -13,13 +13,6 @@ interface LinkCardProps {
 }
 
 export function LinkCard({ linkCard }: LinkCardProps) {
-  // Debug: log the hook data structure
-  React.useEffect(() => {
-    if (linkCard._id) {
-      console.log('LinkCard hook data:', linkCard._id, linkCard.hook, typeof linkCard.hook, Array.isArray(linkCard.hook));
-    }
-  }, [linkCard]);
-
   const handleClick = () => {
     window.open(linkCard.url, '_blank', 'noopener,noreferrer');
   };

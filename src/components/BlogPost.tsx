@@ -188,7 +188,98 @@ export function BlogPost({ post }: BlogPostProps) {
         )}
       </div>
       
-      <div className="prose prose-lg max-w-none dark:prose-invert max-w-full md:max-w-[650px] mr-0 md:mr-20">
+      {post.id === 'about' && post.headshot ? (
+        <div className="flex flex-col md:flex-row gap-6 md:gap-8 mb-6 items-start">
+          <div className="flex-shrink-0 md:mt-2" style={{ flexBasis: 'auto' }}>
+            <img 
+              src={post.headshot}
+              alt={post.headshotAlt || 'Headshot'}
+              className="rounded-lg w-auto h-auto"
+              style={{ 
+                maxWidth: '272px', 
+                maxHeight: '272px', 
+                width: 'auto', 
+                height: 'auto',
+                transform: 'rotate(-0.5deg)',
+                boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)'
+              }}
+            />
+          </div>
+          <div className="flex-1 prose prose-lg max-w-none dark:prose-invert max-w-full md:max-w-[650px]">
+            <div className="markdown-content text-17px">
+              <PortableText 
+                value={post.content}
+                components={{
+                  block: {
+                    h1: ({children}) => <h1 className="text-3xl font-bold text-gray-900 dark:text-white mb-6 mt-8">{children}</h1>,
+                    h2: ({children}) => <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4 mt-6">{children}</h2>,
+                    h3: ({children}) => <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3 mt-5">{children}</h3>,
+                    normal: ({children}) => <p className="text-gray-800 dark:text-gray-200 leading-relaxed mb-4 text-17px">{children}</p>,
+                    blockquote: ({children}) => (
+                      <blockquote className="border-l-4 border-gray-300 dark:border-gray-600 pl-4 italic text-gray-700 dark:text-gray-300 mb-4 text-17px">
+                        {children}
+                      </blockquote>
+                    ),
+                  },
+                  marks: {
+                    strong: ({children}) => <strong className="font-bold text-gray-900 dark:text-white">{children}</strong>,
+                    em: ({children}) => <em className="italic text-gray-800 dark:text-gray-200">{children}</em>,
+                    code: ({children}) => <InlineCodeBlock>{children}</InlineCodeBlock>,
+                    link: ({children, value}) => (
+                      <a 
+                        href={value?.href}
+                        className="text-[#6184ED] dark:text-[#809FFF] hover:text-[#4a6bd8] dark:hover:text-[#9bb3ff] underline transition-colors cursor-pointer" 
+                        {...(value?.href?.startsWith('/') || value?.href?.startsWith('.') || !value?.href?.includes('://') 
+                          ? {} 
+                          : { 
+                              target: "_blank", 
+                              rel: "noopener noreferrer" 
+                            }
+                        )}
+                      >
+                        {children}
+                      </a>
+                    ),
+                  },
+                  list: {
+                    bullet: ({children}) => <ul className="list-disc list-inside mb-4 space-y-2">{children}</ul>,
+                    number: ({children}) => <ol className="list-decimal list-inside mb-4 space-y-2">{children}</ol>,
+                  },
+                  listItem: {
+                    bullet: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px">{children}</li>,
+                    number: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px">{children}</li>,
+                  },
+                  types: {
+                    image: ({value}) => (
+                      <ResponsiveImage
+                        src={value?.asset?.url} 
+                        alt={value?.alt || ''} 
+                        className="w-full !max-w-none mx-[-10] md:mx-[-22] h-auto rounded-lg shadow-md mb-4 pt-[5px] pb-[10px]"
+                        isModal={true}
+                      />
+                    ),
+                    code: ({value}) => (
+                      <div className="relative mb-6">
+                        {value?.filename && (
+                          <div className="bg-gray-200 dark:bg-gray-600 px-4 py-2 rounded-t-lg border-b border-gray-300 dark:border-gray-500">
+                            <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
+                              {value.filename}
+                            </span>
+                          </div>
+                        )}
+                        <pre className={`bg-gray-900 dark:bg-gray-950 text-gray-100 p-4 rounded-lg ${value?.filename ? 'rounded-t-none' : ''} overflow-x-auto text-17px leading-relaxed`} style={{ fontFamily: 'inherit' }}>
+                          <code>{value?.code || ''}</code>
+                        </pre>
+                      </div>
+                    ),
+                  },
+                }}
+              />
+            </div>
+          </div>
+        </div>
+      ) : (
+        <div className="prose prose-lg max-w-none dark:prose-invert max-w-full md:max-w-[650px] mr-0 md:mr-20">
         <div className="markdown-content text-17px">
           <PortableText 
             value={post.content}
@@ -358,7 +449,8 @@ export function BlogPost({ post }: BlogPostProps) {
             </div>
           )}
         </div>
-      </div>
+        </div>
+      )}
     </article>
   );
 }
