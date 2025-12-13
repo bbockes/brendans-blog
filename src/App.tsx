@@ -86,6 +86,8 @@ export function App() {
             <Route path="/about" element={<BlogLayout />} />
             <Route path="/about/" element={<BlogLayout />} />
             <Route path="/archive" element={<BlogLayout />} />
+            <Route path="/blogroll" element={<BlogLayout />} />
+            <Route path="/blogroll/" element={<BlogLayout />} />
             <Route path="/404" element={<BlogLayout />} />
             <Route path="*" element={<Navigate to="/404" replace />} />
           </Routes>

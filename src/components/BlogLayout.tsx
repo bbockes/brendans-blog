@@ -336,7 +336,18 @@ export function BlogLayout() {
       // Reset visible posts count when navigating to homepage
       setVisiblePostsCount(5);
     }
-  }, [slug, posts, navigate, location.pathname]);
+    
+    // Handle blogroll route
+    if (location.pathname === '/blogroll' || location.pathname === '/blogroll/') {
+      setIsLinkMode(true);
+      setSelectedPost(null);
+      setSelectedCategory('All');
+      setSearchQuery('');
+    } else {
+      // Turn off link mode when navigating away from blogroll
+      setIsLinkMode(false);
+    }
+  }, [slug, posts, navigate, location.pathname, isLinkMode]);
 
   // Debug selectedPost changes
   useEffect(() => {
@@ -577,7 +588,15 @@ export function BlogLayout() {
   };
 
   const handleToggleMode = () => {
-    setIsLinkMode(!isLinkMode);
+    if (isLinkMode) {
+      // If in link mode, navigate to home
+      navigate('/');
+      setIsLinkMode(false);
+    } else {
+      // If not in link mode, navigate to blogroll
+      navigate('/blogroll');
+      setIsLinkMode(true);
+    }
     setSelectedCategory('All'); // Reset category when switching modes
     setSearchQuery(''); // Clear search when switching modes
     // Scroll to top when switching modes

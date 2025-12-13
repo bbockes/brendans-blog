@@ -50,6 +50,9 @@ export function CategorySidebar({
   const { isDarkMode, toggleDarkMode } = useTheme();
   const navigate = useNavigate();
   const location = useLocation();
+  const isAboutPage = !isLinkMode && (location.pathname === '/about' || location.pathname === '/about/');
+  const isArchivePage = !isLinkMode && location.pathname === '/archive';
+  const isBlogrollPage = location.pathname === '/blogroll' || location.pathname === '/blogroll/';
   const [logoError, setLogoError] = useState(false);
 
   const handleAboutClick = () => {
@@ -235,7 +238,11 @@ export function CategorySidebar({
                       onClose();
                     }
                   }}
-                  className="block w-full text-left text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                  className={`block w-full text-left text-base transition-colors ${
+                    isBlogrollPage
+                      ? 'text-gray-900 dark:text-white font-semibold'
+                      : 'text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white'
+                  }`}
                 >
                   Blogroll
                 </button>
@@ -261,7 +268,11 @@ export function CategorySidebar({
         )}
         <button 
           onClick={handleAboutClick}
-          className="w-full mb-3 px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-blue-50/30 hover:border-blue-400 dark:hover:bg-blue-900/20 dark:hover:border-blue-500 transition-all duration-200"
+          className={`w-full mb-3 px-6 py-2 bg-transparent border-2 rounded-lg font-medium transition-all duration-200 ${
+            isAboutPage 
+              ? 'bg-blue-50/30 border-blue-400 dark:bg-blue-900/20 dark:border-blue-500 text-gray-900 dark:text-white' 
+              : 'border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-blue-50/30 hover:border-blue-400 dark:hover:bg-blue-900/20 dark:hover:border-blue-500'
+          }`}
         >
           About
         </button>
@@ -276,7 +287,11 @@ export function CategorySidebar({
               onClose();
             }
           }}
-          className="w-full mb-3 px-6 py-2 bg-transparent border-2 border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg font-medium hover:bg-blue-50/30 hover:border-blue-400 dark:hover:bg-blue-900/20 dark:hover:border-blue-500 transition-all duration-200 flex items-center justify-center gap-2"
+          className={`w-full mb-3 px-6 py-2 bg-transparent border-2 rounded-lg font-medium transition-all duration-200 flex items-center justify-center gap-2 ${
+            isArchivePage 
+              ? 'bg-blue-50/30 border-blue-400 dark:bg-blue-900/20 dark:border-blue-500 text-gray-900 dark:text-white' 
+              : 'border-gray-400 dark:border-gray-600 text-gray-700 dark:text-gray-300 hover:bg-blue-50/30 hover:border-blue-400 dark:hover:bg-blue-900/20 dark:hover:border-blue-500'
+          }`}
         >
           <ArchiveIcon className="w-4 h-4" />
           Archive
