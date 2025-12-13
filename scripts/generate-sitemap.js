@@ -19,7 +19,7 @@ import('./build-env.js');
 
 // Sanity client configuration
 const sanityClient = createClient({
-  projectId: process.env.VITE_SANITY_PROJECT_ID || '2osuh55w',
+  projectId: process.env.VITE_SANITY_PROJECT_ID || 'wxzoc64y',
   dataset: process.env.VITE_SANITY_DATASET || 'production',
   apiVersion: process.env.VITE_SANITY_API_VERSION || '2023-12-01',
   useCdn: true,
@@ -34,8 +34,8 @@ const POSTS_QUERY = `*[_type == "post" && defined(slug.current)] | order(publish
   _updatedAt
 }`;
 
-// Base URL - update this to match your actual domain
-const BASE_URL = 'https://superproductive.magic-patterns.com';
+// Base URL - uses Netlify environment variables or falls back to default
+const BASE_URL = process.env.NETLIFY_URL || process.env.DEPLOY_PRIME_URL || 'https://brendansblog.netlify.app';
 
 // Generate XML sitemap content
 function generateSitemapXML(urls) {

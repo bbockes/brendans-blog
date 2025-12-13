@@ -31,13 +31,13 @@ export function generateMetaDescription(post) {
   
   // Special case for about page
   if (post && post.id === 'about') {
-    return 'Learn more about Brendan's Blog, the personal blog of Brendan Bockes.';
+    return 'Learn more about Brendan\'s Blog, the personal blog of Brendan Bockes.';
   }
   
   return post.excerpt || 
          post.subheader || 
          (post.content ? extractTextFromContent(post.content) : '') ||
-         'A post from Brendan's Blog, the personal blog of Brendan Bockes.';
+         'A post from Brendan\'s Blog, the personal blog of Brendan Bockes.';
 }
 
 // Generate page title

@@ -24,7 +24,7 @@ import('./build-env.js');
 
 // Sanity client configuration
 const sanityClient = createClient({
-  projectId: process.env.VITE_SANITY_PROJECT_ID || '2osuh55w',
+  projectId: process.env.VITE_SANITY_PROJECT_ID || 'wxzoc64y',
   dataset: process.env.VITE_SANITY_DATASET || 'production',
   apiVersion: process.env.VITE_SANITY_API_VERSION || '2023-12-01',
   useCdn: true,
@@ -111,7 +111,7 @@ async function prerender() {
       slug: post.slug?.current || slugify(post.title)
     }));
     
-    const baseUrl = 'https://superproductive.magic-patterns.com'; // Update this to your actual domain
+    const baseUrl = process.env.NETLIFY_URL || process.env.DEPLOY_PRIME_URL || 'https://brendansblog.netlify.app';
     
     console.log('📝 Generating static HTML files...');
     
