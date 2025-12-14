@@ -107,18 +107,27 @@ async function generateSitemap() {
     // Generate XML
     const sitemapXML = generateSitemapXML(urls);
     
-    // Write sitemap to public directory
+    // Write sitemap to dist directory (where it will be deployed)
+    // Also write to public for local development
+    const distDir = path.join(__dirname, '..', 'dist');
     const publicDir = path.join(__dirname, '..', 'public');
-    const sitemapPath = path.join(publicDir, 'sitemap.xml');
+    const distSitemapPath = path.join(distDir, 'sitemap.xml');
+    const publicSitemapPath = path.join(publicDir, 'sitemap.xml');
     
-    // Ensure public directory exists
+    // Ensure directories exist
+    if (!fs.existsSync(distDir)) {
+      fs.mkdirSync(distDir, { recursive: true });
+    }
     if (!fs.existsSync(publicDir)) {
       fs.mkdirSync(publicDir, { recursive: true });
     }
     
-    fs.writeFileSync(sitemapPath, sitemapXML, 'utf8');
+    // Write to both dist (for deployment) and public (for local dev)
+    fs.writeFileSync(distSitemapPath, sitemapXML, 'utf8');
+    fs.writeFileSync(publicSitemapPath, sitemapXML, 'utf8');
     console.log(`✅ Generated sitemap with ${urls.length} URLs`);
-    console.log(`📁 Sitemap saved to: ${sitemapPath}`);
+    console.log(`📁 Sitemap saved to: ${distSitemapPath}`);
+    console.log(`📁 Sitemap also saved to: ${publicSitemapPath}`);
     
     // Log URLs for verification
     console.log('\n📋 Sitemap URLs:');
