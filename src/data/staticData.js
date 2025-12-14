@@ -4,9 +4,9 @@
 
 export const notFoundPost = {
   id: '404',
-  title: '404',
-  excerpt: 'Looks like that page doesn\'t exist. Let\'s get you back on track.',
-  subheader: 'Looks like that page doesn\'t exist. Let\'s get you back on track.',
+  title: 'Uh-oh. Looks like that page doesn\'t exist.',
+  excerpt: '',
+  subheader: '',
   category: 'Errors',
   readTime: '1 min',
   image: 'https://images.unsplash.com/photo-1594736797933-d0d92e2d0b3d?w=400&h=250&fit=crop',

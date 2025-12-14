@@ -195,18 +195,6 @@ export function BlogPost({ post }: BlogPostProps) {
         {(post.subheader || post.excerpt) && post.id !== 'about' && (
           <p className="text-gray-600 dark:text-gray-400 text-lg">{post.subheader || post.excerpt}</p>
         )}
-        {/* CTA button for 404 page in header */}
-        {post.id === '404' && (
-          <div className="mt-4">
-            <Link
-              to="/"
-              className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium"
-            >
-              <ArrowLeft className="w-4 h-4" />
-              Return to Homepage
-            </Link>
-          </div>
-        )}
       </div>
       
       {post.id === 'about' && post.headshot ? (
