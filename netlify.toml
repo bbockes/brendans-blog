@@ -10,16 +10,7 @@
   to = "/posts/:splat"
   status = 301
 
-# Redirect Netlify domain to custom domain (SEO)
-# This redirects all requests from brendansblog.netlify.app to blog.brendanbockes.com
-[[redirects]]
-  from = "/*"
-  to = "https://blog.brendanbockes.com/:splat"
-  status = 301
-  force = true
-  conditions = {Host = ["brendansblog.netlify.app"]}
-
-# SPA fallback for client-side routing (only for custom domain)
+# SPA fallback for client-side routing
 [[redirects]]
   from = "/*"
   to = "/index.html"

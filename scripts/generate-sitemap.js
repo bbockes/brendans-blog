@@ -34,8 +34,11 @@ const POSTS_QUERY = `*[_type == "post" && defined(slug.current)] | order(publish
   _updatedAt
 }`;
 
-// Base URL - uses Netlify environment variables or falls back to default
-const BASE_URL = process.env.NETLIFY_URL || process.env.DEPLOY_PRIME_URL || 'https://blog.brendanbockes.com';
+// Base URL - use production domain for sitemap
+// Check if this is a production deployment, otherwise use custom domain
+const BASE_URL = (process.env.CONTEXT === 'production' || !process.env.CONTEXT) 
+  ? 'https://blog.brendanbockes.com'
+  : (process.env.DEPLOY_PRIME_URL || process.env.NETLIFY_URL || 'https://blog.brendanbockes.com');
 
 // Generate XML sitemap content
 function generateSitemapXML(urls) {

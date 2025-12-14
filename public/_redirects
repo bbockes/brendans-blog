@@ -1,6 +1,11 @@
 # Redirect trailing slashes to non-trailing slash URLs for posts only
 /posts/*/ /posts/:splat 301
 
+# Redirect Netlify domain to custom domain (SEO)
+# This must come before the SPA fallback
+https://brendansblog.netlify.app/* https://blog.brendanbockes.com/:splat 301!
+https://main--brendansblog.netlify.app/* https://blog.brendanbockes.com/:splat 301!
+
 # Fallback to SPA for client-side routing
 # React router will handle both /about and /about/ routes
 /* /index.html 200

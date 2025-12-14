@@ -111,7 +111,10 @@ async function prerender() {
       slug: post.slug?.current || slugify(post.title)
     }));
     
-    const baseUrl = process.env.NETLIFY_URL || process.env.DEPLOY_PRIME_URL || 'https://blog.brendanbockes.com';
+    // Use production domain for prerendering
+    const baseUrl = (process.env.CONTEXT === 'production' || !process.env.CONTEXT)
+      ? 'https://blog.brendanbockes.com'
+      : (process.env.DEPLOY_PRIME_URL || process.env.NETLIFY_URL || 'https://blog.brendanbockes.com');
     
     console.log('📝 Generating static HTML files...');
     
