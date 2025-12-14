@@ -93,11 +93,11 @@ interface BlogSchema {
 // Default organization data
 const ORGANIZATION_DATA = {
   name: "Brendan's Blog",
-  url: "https://superproductive.magic-patterns.com",
+  url: "https://blog.brendanbockes.com",
   description: "The personal blog of Brendan Bockes. Thoughts on productivity, technology, and building.",
-  logo: "https://superproductive.magic-patterns.com/logo.png",
+  logo: "https://blog.brendanbockes.com/logo.png",
   sameAs: [
-    "https://linkedin.com/company/super-productive" // Update with actual social media URLs
+    // Update with actual social media URLs if you have them
   ]
 };
 
