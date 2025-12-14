@@ -422,7 +422,7 @@ export function BlogLayout() {
     if (isLinkMode) return;
     
     const isHomePage = location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive';
-    const isSinglePostPage = location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/';
+    const isSinglePostPage = location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/' || location.pathname === '/404';
     
     // Only attach observer on homepage when showing list of posts (not single post)
     if (!isHomePage || selectedPost || isSinglePostPage) {
@@ -771,7 +771,7 @@ export function BlogLayout() {
                 ) : (
                   <div className="w-full max-w-4xl mx-auto md:pl-[60px] px-4 md:px-0" style={{ paddingTop: '10px' }}>
                     {/* Show single post if on a post route, otherwise show all visible posts */}
-                    {selectedPost && (location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/') ? (
+                    {selectedPost && (location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/' || location.pathname === '/404') ? (
                       <div key={selectedPost.id} id={`post-${selectedPost.slug?.current || selectedPost.slug || selectedPost.id}`}>
                         <BlogPost post={selectedPost} />
                       </div>
