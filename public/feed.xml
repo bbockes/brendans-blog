@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Brendan&apos;s Blog</title>
+    <link>https://blog.brendanbockes.com</link>
+    <description>The personal blog of Brendan Bockes. Thoughts on productivity, technology, and building.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Dec 2025 20:53:19 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 20:53:19 GMT</pubDate>
+    <ttl>60</ttl>
+    <atom:link href="https://blog.brendanbockes.com/feed.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://blog.brendanbockes.com/logo.png</url>
+      <title>Brendan&apos;s Blog</title>
+      <link>https://blog.brendanbockes.com</link>
+    </image>
+  <item>
+    <title>Language is leverage</title>
+    <link>https://blog.brendanbockes.com/posts/language-is-leverage</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/language-is-leverage</guid>
+    <pubDate>Mon, 20 Oct 2025 20:37:19 GMT</pubDate>
+    <description>Everyone knows that ChatGPT communicates in natural language. That’s why we can ask just about anything in plain English and get an answer back. But here’s something I’ve learned recently: using language effectively is just as important when asking an AI to do other tasks—like writing code or gen...</description>
+
+  </item>
+  <item>
+    <title>Service fatigue</title>
+    <link>https://blog.brendanbockes.com/posts/service-fatigue</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/service-fatigue</guid>
+    <pubDate>Wed, 03 Sep 2025 08:52:30 GMT</pubDate>
+    <description>If your customer support staff is rude, your customers will feel it. That might cause your customers to be rude back—which makes it  more likely  your staff will snap, and on it goes. That’s why it pays to hire people with a high degree of emotional maturity, so you can count on your team to not ...</description>
+
+  </item>
+  <item>
+    <title>Mindful messaging</title>
+    <link>https://blog.brendanbockes.com/posts/mindful-messaging</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/mindful-messaging</guid>
+    <pubDate>Tue, 02 Sep 2025 10:17:27 GMT</pubDate>
+    <description>You’re texting a PM over chat. What do you say? What do you point to? You’re presenting a new feature to a room full of people who don’t do your job. What do you show them? What do you tell them? Too often, we forget that the people listening rarely have all the information we have—or the context...</description>
+
+  </item>
+  <item>
+    <title>Our ai future</title>
+    <link>https://blog.brendanbockes.com/posts/our-ai-future</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/our-ai-future</guid>
+    <pubDate>Fri, 29 Aug 2025 09:41:28 GMT</pubDate>
+    <description>I consider myself an early adopter when it comes to AI tools. I started using ChatGPT in early 2023. And Claude not long after. This year, I’ve discovered a range of new tools:  NotebookLM ,  Manus ,  Magic Patterns ,  Bolt ,  Windsurf ,  Cursor  and more.  It’s incredible to see what you can cre...</description>
+
+  </item>
+  <item>
+    <title>Time and death</title>
+    <link>https://blog.brendanbockes.com/posts/time-and-death</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/time-and-death</guid>
+    <pubDate>Wed, 27 Aug 2025 21:37:00 GMT</pubDate>
+    <description>I recently celebrated my 35th birthday. I also watched  Roadrunner —Morgan Neville’s masterful bio-doc of Anthony Bourdain—just a few days earlier. It got me thinking about life and death and the strange way we measure time: in birthdays, in milestones, in the passing of people we admire. So I de...</description>
+
+  </item>
+  <item>
+    <title>Twinkle twinkle</title>
+    <link>https://blog.brendanbockes.com/posts/twinkle-twinkle</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/twinkle-twinkle</guid>
+    <pubDate>Fri, 22 Aug 2025 09:32:15 GMT</pubDate>
+    <description>Quick: What’s the acronym for using a fire extinguisher correctly? Time’s up. Unless you&apos;re a fireman, it’s rare to know that PASS–Pull, Aim, Squeeze, and Sweep–is the prescribed way to safely extinguish a fire, and the reason is simple. It’s not drilled into us. If anything, it’s buried in workp...</description>
+
+  </item>
+  <item>
+    <title>Forged credibility</title>
+    <link>https://blog.brendanbockes.com/posts/forged-credibility</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/forged-credibility</guid>
+    <pubDate>Thu, 21 Aug 2025 10:13:26 GMT</pubDate>
+    <description>Something I’ve discovered: Whenever a person or company feels the need to announce that they&apos;ve won an award or say that other people have said nice things about them, they usually made it up themselves. There are exceptions of course, like testimonials on a landing page, but most of the time, wh...</description>
+
+  </item>
+  <item>
+    <title>Betting with bots</title>
+    <link>https://blog.brendanbockes.com/posts/betting-with-bots</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/betting-with-bots</guid>
+    <pubDate>Tue, 19 Aug 2025 09:14:20 GMT</pubDate>
+    <description>Jotform’s built the  infrastructure  to make a fortune by helping automating customer service. Their platform lets anyone create an AI chatbot that can be easily embedded on a website or integrated with Gmail, SMS, social media, and more. It’s a game-changer for marketing agencies—a soon-to-be st...</description>
+
+  </item>
+  <item>
+    <title>Not long ago I worked as an seo</title>
+    <link>https://blog.brendanbockes.com/posts/not-long-ago-i-worked-as-an-seo</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/not-long-ago-i-worked-as-an-seo</guid>
+    <pubDate>Mon, 18 Aug 2025 09:24:39 GMT</pubDate>
+    <description>That typically meant writing blogs with the right keywords (and the right amount of keywords) about who knows what–taken mainly from stuff I read on the net. I’d spend hours researching topics I had no background in, trying to sound like an expert while juggling search intent, keyword density, an...</description>
+
+  </item>
+  <item>
+    <title>You&apos;re missing out</title>
+    <link>https://blog.brendanbockes.com/posts/youre-missing-out</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/youre-missing-out</guid>
+    <pubDate>Sat, 16 Aug 2025 11:10:28 GMT</pubDate>
+    <description>Given the endless tirade of choices we have, you’re absolutely, positively, guaranteed to miss out on something. Because making a choice means saying no to thousands of other things. The question isn’t  what are you missing? It’s  what’s worth missing everything else for? Missing out is inevitabl...</description>
+
+  </item>
+  <item>
+    <title>Technical sophistication</title>
+    <link>https://blog.brendanbockes.com/posts/technical-sophistication</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/technical-sophistication</guid>
+    <pubDate>Fri, 15 Aug 2025 09:45:21 GMT</pubDate>
+    <description>Michael Hartl, author of the uber-popular  Learn Enough to Be Dangerous web development tutorials  has a word for the ability to figure out how to solve technical problems on your way to effectively using computers, software, and, of course, code. Technical sophistication, as he calls it, is the ...</description>
+
+  </item>
+  <item>
+    <title>Measuring impact</title>
+    <link>https://blog.brendanbockes.com/posts/measuring-impact</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/measuring-impact</guid>
+    <pubDate>Thu, 14 Aug 2025 09:41:21 GMT</pubDate>
+    <description>Steve Jobs and Tony Fadell built a product that over a billion people use every day. Sergey Brin and Larry Page print money with a platform that millions rely on daily. And Sam Altman, Dario Amodei, and Aravind Srinivas (among others) aren&apos;t far behind. Building projects that are used so widely i...</description>
+
+  </item>
+  <item>
+    <title>Ship happens</title>
+    <link>https://blog.brendanbockes.com/posts/ship-happens</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/ship-happens</guid>
+    <pubDate>Wed, 30 Jul 2025 09:32:04 GMT</pubDate>
+    <description>Running a business is a lot like captaining a ship. At least, that’s how it feels to me. You could be at the helm of the biggest, most luxurious ocean liner in the world—but if you treat your crew poorly, what’s the point? No one will want to be on board. Morale sinks, and everyone’s experience s...</description>
+
+  </item>
+  <item>
+    <title>Comfortable problems</title>
+    <link>https://blog.brendanbockes.com/posts/comfortable-problems</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/comfortable-problems</guid>
+    <pubDate>Sun, 08 Jun 2025 09:55:20 GMT</pubDate>
+    <description>I just finished reading Michael Easter’s book,  The Comfort Crisis , which is a great read even if you’re not an extreme adventurer or fitness enthusiast, as the title might suggest. His premise is simple: Our modern world is full of comforts that, despite making our lives easier and more enjoyab...</description>
+
+  </item>
+  <item>
+    <title>Outdated assessments</title>
+    <link>https://blog.brendanbockes.com/posts/outdated-assessments</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/outdated-assessments</guid>
+    <pubDate>Fri, 06 Jun 2025 09:57:16 GMT</pubDate>
+    <description>Teachers go to wild lengths to stop students from cheating—even making them install surveillance software ( malware ) that locks their browser and monitors their screen, webcam, and search history.  If the point was academic integrity, maybe that would make sense. But the point is not academic in...</description>
+
+  </item>
+  <item>
+    <title>Ten years from now</title>
+    <link>https://blog.brendanbockes.com/posts/ten-years-from-now</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/ten-years-from-now</guid>
+    <pubDate>Fri, 25 Apr 2025 09:45:24 GMT</pubDate>
+    <description>Assume that:  
+ 
+ AI is as common as electricity—built into nearly every product, app, and service Most people rely on smart AI companions to manage tasks, organize their life, and help make daily decisions Virtual and augmented reality are mainstream—used for work, learning, shopping, and hangin...</description>
+
+  </item>
+  <item>
+    <title>Its like magic but with a lot of</title>
+    <link>https://blog.brendanbockes.com/posts/its-like-magic-but-with-a-lot-of</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/its-like-magic-but-with-a-lot-of</guid>
+    <pubDate>Thu, 24 Apr 2025 09:02:21 GMT</pubDate>
+    <description>I spent last week perusing  Mozilla’s MDN Web Docs  learning about how the web actually works. In case you were wondering, the technology that powers this blog, that enables anyone to seamlessly send and receive email, and that delivers all the content you interact with online every day is nothin...</description>
+
+  </item>
+  <item>
+    <title>Rules for saving money while traveling</title>
+    <link>https://blog.brendanbockes.com/posts/rules-for-saving-money-while-traveling</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/rules-for-saving-money-while-traveling</guid>
+    <pubDate>Thu, 17 Apr 2025 09:28:22 GMT</pubDate>
+    <description>Bring snacks. You&apos;d be surprised how many things you can bring through security. Never buy food at the airport. It’s always overpriced. If you don&apos;t know how much something cost, ask. Always. If you&apos;re the only customer in a venue, don&apos;t buy from there. They&apos;re bad news. To minimize travel, find ...</description>
+
+  </item>
+  <item>
+    <title>Urgent accountability</title>
+    <link>https://blog.brendanbockes.com/posts/urgent-accountability</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/urgent-accountability</guid>
+    <pubDate>Mon, 14 Apr 2025 09:02:53 GMT</pubDate>
+    <description>Tracking changes in a centralized dashboard–using Jira for example–is a great way to create a trail of changes and ensure accountability. But if something’s urgent and you want to get someone’s immediate attention, it doesn’t help to rely on dashboard updates themselves. In those cases, DMs over ...</description>
+
+  </item>
+  <item>
+    <title>Time to pause</title>
+    <link>https://blog.brendanbockes.com/posts/time-to-pause</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/time-to-pause</guid>
+    <pubDate>Sat, 12 Apr 2025 11:11:37 GMT</pubDate>
+    <description>If you sit outside nearly any subway stop in a big city, you&apos;ll quickly pick up the sound of cars honking nearby. It happens is waves. One starts and then another. Pretty soon it&apos;s three or five or ten. It&apos;s a cacophony. Occasionally, it lasts so long that it sounds like one long drone. One quest...</description>
+
+  </item>
+  <item>
+    <title>Waiting rooms</title>
+    <link>https://blog.brendanbockes.com/posts/waiting-rooms</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/waiting-rooms</guid>
+    <pubDate>Thu, 10 Apr 2025 10:09:46 GMT</pubDate>
+    <description>Every time I&apos;m in a waiting room I feel the urge to write. And this week, I sat in two. Marketers talk an awful lot about how to get how get customers in the proverbial door. And organizations spend a ton heeding their advice. Yet many organizations fall short when the prospect has  arrived . Wai...</description>
+
+  </item>
+  <item>
+    <title>Meetings and listening</title>
+    <link>https://blog.brendanbockes.com/posts/meetings-and-listening</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/meetings-and-listening</guid>
+    <pubDate>Thu, 03 Apr 2025 09:52:50 GMT</pubDate>
+    <description>Meetings are a bane on many productive workers. They’re also a bore. That’s usually because most of the things that are said in meetings could be easily summarized in a sentence in an email, or a slew of bullet points in an addendum. But also, often because, if you’re in a large meeting, it is ra...</description>
+
+  </item>
+  <item>
+    <title>Coffee genre</title>
+    <link>https://blog.brendanbockes.com/posts/coffee-genre</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/coffee-genre</guid>
+    <pubDate>Sat, 22 Feb 2025 11:27:30 GMT</pubDate>
+    <description>We don’t often think of coffee shops as having genres. But of course, they do. Dunkin’ and Starbucks serve coffee, but they’re not the same thing. One is optimized for speed and routine. The other sells an experience. Same product, different genre. Genres exist everywhere. They help us navigate t...</description>
+
+  </item>
+  <item>
+    <title>Avoiding words</title>
+    <link>https://blog.brendanbockes.com/posts/avoiding-words</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/avoiding-words</guid>
+    <pubDate>Fri, 21 Feb 2025 10:20:52 GMT</pubDate>
+    <description>Words shape the way we think. But lately, some words seem to be off-limits, even feared. Take diversity. It’s not just about people—it’s about ideas, experiences, and approaches. Or equity. It&apos;s what happens when we avoid false proxies and give everyone a fair chance. And inclusion? That&apos;s what m...</description>
+
+  </item>
+  <item>
+    <title>Taking a different route</title>
+    <link>https://blog.brendanbockes.com/posts/taking-a-different-route</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/taking-a-different-route</guid>
+    <pubDate>Fri, 14 Feb 2025 10:47:49 GMT</pubDate>
+    <description>Matt Green , who quit his job to walk every street of all five boroughs of New York City, says that many people aren’t acutely aware of their surroundings–even within the spaces they occupy every day. Only when you intentionally take a different path do you begin to notice all the streets, sights...</description>
+
+  </item>
+  <item>
+    <title>Artificial voices</title>
+    <link>https://blog.brendanbockes.com/posts/artificial-voices</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/artificial-voices</guid>
+    <pubDate>Thu, 13 Feb 2025 09:23:59 GMT</pubDate>
+    <description>Descript has a neat feature where you can create an  artificial voice  by reciting a simple script. You provide a sample of a voice, and Descript uses AI to generate a realistic synthetic version. This allows you to edit audio by simply typing text, and the AI will read it in your voice. It’s not...</description>
+
+  </item>
+  <item>
+    <title>One person one thing</title>
+    <link>https://blog.brendanbockes.com/posts/one-person-one-thing</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/one-person-one-thing</guid>
+    <pubDate>Tue, 14 Jan 2025 09:35:40 GMT</pubDate>
+    <description>Homelessness is an incredibly complex, systemic problem that requires a multi-faceted, long-term approach that addresses both immediate needs and underlying causes. It’s far too complex for any one person to solve alone. That’s why the following technique–which can be applied to any complex probl...</description>
+
+  </item>
+  <item>
+    <title>Just 7 years</title>
+    <link>https://blog.brendanbockes.com/posts/just-7-years</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/just-7-years</guid>
+    <pubDate>Thu, 09 Jan 2025 22:44:38 GMT</pubDate>
+    <description>If you look at the founders of Facebook, Twitter, Instagram, Doordash, Instacart, and Medium.com, you&apos;ll notice something striking: it took them less than a decade to go from novice coders to founders of some of the world’s most successful tech companies. If you do the math, it took them an avera...</description>
+
+  </item>
+  <item>
+    <title>Goals and buffers</title>
+    <link>https://blog.brendanbockes.com/posts/goals-and-buffers</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/goals-and-buffers</guid>
+    <pubDate>Tue, 07 Jan 2025 09:43:44 GMT</pubDate>
+    <description>Building buffers for your goals is a great way to increase the likelihood of actually achieving them, without getting discouraged by setbacks. Instead of saying “I’ll do this everyday” and feeling bad when we inevitably slip up, we can give ourselves permission to miss a day and cut ourselves som...</description>
+
+  </item>
+  <item>
+    <title>Mission vs outcomes</title>
+    <link>https://blog.brendanbockes.com/posts/mission-vs-outcomes</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/mission-vs-outcomes</guid>
+    <pubDate>Sat, 21 Dec 2024 09:47:42 GMT</pubDate>
+    <description>Mom’s Organic Market’s mission is “to protect and restore the environment.” It’s interesting they don’t say “to stop all pollution&quot; or &quot;to offset their carbon footprint by 50%.” A mission is aspirational and actionable, but unlike a goal, flexible enough to guide long-term efforts. And, because i...</description>
+
+  </item>
+  <item>
+    <title>Comments in context</title>
+    <link>https://blog.brendanbockes.com/posts/comments-in-context</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/comments-in-context</guid>
+    <pubDate>Fri, 06 Dec 2024 11:29:52 GMT</pubDate>
+    <description>Sometimes, changing the medium can make for a clearer message. If you’re trying to tell someone something about something they need to see, it pays to pair your comments with a visual. That’s where tools like  Cleanshot  (for Mac) and  Jumpshare  (for Windows) can help. These tools allow you to q...</description>
+
+  </item>
+  <item>
+    <title>Immaterial wealth</title>
+    <link>https://blog.brendanbockes.com/posts/immaterial-wealth</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/immaterial-wealth</guid>
+    <pubDate>Thu, 05 Dec 2024 10:26:35 GMT</pubDate>
+    <description>There are lots of things money can buy. Products, appliances, subscriptions, gear… And then there are experiences–fleeting yet priceless moments that stay with you. It can be hard to rationalize buying things that are short-lived. But sometimes, the value of a thing isn’t in what it does, but in ...</description>
+
+  </item>
+  <item>
+    <title>You&apos;ve got mail</title>
+    <link>https://blog.brendanbockes.com/posts/youve-got-mail</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/youve-got-mail</guid>
+    <pubDate>Fri, 08 Nov 2024 09:59:52 GMT</pubDate>
+    <description>It’s pretty obvious that email only works as an efficient communication device if you actually read the emails people send you. That’s why it’s helpful to keep your inbox clear–so you see what’s new the moment it arrives. It’s a constant chore that’s worth the effort– because  it allows you to re...</description>
+
+  </item>
+  <item>
+    <title>Unwrapping nostalgia</title>
+    <link>https://blog.brendanbockes.com/posts/unwrapping-nostalgia</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/unwrapping-nostalgia</guid>
+    <pubDate>Thu, 31 Oct 2024 10:24:42 GMT</pubDate>
+    <description>It turns out it&apos;s astonishingly difficult to make homemade Sour Patch Kids. Just ask Claire Saffitz from Bon Appétit.  She knows. I&apos;m sure the same could be said for dozens of candies we grew up with—the same confections we&apos;ll likely treat our kids to this Halloween. Yes, sweets aren’t good for y...</description>
+
+  </item>
+  <item>
+    <title>Small and unsustainable</title>
+    <link>https://blog.brendanbockes.com/posts/small-and-unsustainable</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/small-and-unsustainable</guid>
+    <pubDate>Wed, 30 Oct 2024 09:08:33 GMT</pubDate>
+    <description>Brian Chesky often recounts how the idea for Airbnb came about when he and his co-founder Joe Gebbia decided to rent out air mattresses in their apartment during a design conference in San Francisco. They created a simple website to advertise the space, and to their surprise, it attracted guests....</description>
+
+  </item>
+  <item>
+    <title>Keeping buying and forgoing</title>
+    <link>https://blog.brendanbockes.com/posts/keeping-buying-and-forgoing</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/keeping-buying-and-forgoing</guid>
+    <pubDate>Fri, 25 Oct 2024 09:51:19 GMT</pubDate>
+    <description>If the joy you get from owning something is greater than how much you&apos;d get if you sold it, it&apos;s obvious that you should keep it. A simple house plant might sell for a few dollars (or a few hundred) but if it makes you happy to see it, how much it costs is irrelevant. If it adds more to your life...</description>
+
+  </item>
+  <item>
+    <title>Rethinking coffee</title>
+    <link>https://blog.brendanbockes.com/posts/rethinking-coffee</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/rethinking-coffee</guid>
+    <pubDate>Tue, 22 Oct 2024 08:52:57 GMT</pubDate>
+    <description>If you ever get coffee from one of those old, commercial drip machines (the kind you might find at a gas station or a diner), it usually tastes a little burnt at the edges with an almost astringent quality. The boldness is jarring, like a slap in the face from a sleep-deprived barista. Here’s som...</description>
+
+  </item>
+  <item>
+    <title>Passing the puck</title>
+    <link>https://blog.brendanbockes.com/posts/passing-the-puck</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/passing-the-puck</guid>
+    <pubDate>Sat, 19 Oct 2024 08:38:48 GMT</pubDate>
+    <description>I went to a professional hockey game for the first time. Something I noticed is that instead of “hogging the puck” (as what tends to occur in other sports) hockey players will pass the puck way out into the open, anticipating that their teammates will be in the right position to receive it. There...</description>
+
+  </item>
+  <item>
+    <title>Code and convenience</title>
+    <link>https://blog.brendanbockes.com/posts/code-and-convenience</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/code-and-convenience</guid>
+    <pubDate>Fri, 18 Oct 2024 09:28:52 GMT</pubDate>
+    <description>Here’s something that’s obvious that many software developers overlook: when it comes to software, people value convenience above pretty much all else. If a tool is only slightly more difficult to embrace because it has limits inherent in its design, many users may hesitate to use it frequently. ...</description>
+
+  </item>
+  <item>
+    <title>A simplified version</title>
+    <link>https://blog.brendanbockes.com/posts/a-simplified-version</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/a-simplified-version</guid>
+    <pubDate>Thu, 17 Oct 2024 11:03:37 GMT</pubDate>
+    <description>Humans are notoriously bad at communicating things in plain language, in a manner that’s easy to read and comprehend. We’re so bad at it, in fact, that’s it’s all but guaranteed that most AIs can do it better and faster than any of us. That’s why if you want to get someone to do something, asking...</description>
+
+  </item>
+  <item>
+    <title>False proxies and tech</title>
+    <link>https://blog.brendanbockes.com/posts/false-proxies-and-tech</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/false-proxies-and-tech</guid>
+    <pubDate>Mon, 14 Oct 2024 11:03:59 GMT</pubDate>
+    <description>A few months ago, I had a conversation with a hiring manager at an association outside D.C. You’ve definitely heard of them. They’re known for setting the bar when it comes to fair hiring. Or, at least, claiming that they do. The thing is, at no point in the five weeks between when I applied for ...</description>
+
+  </item>
+  <item>
+    <title>When willpower falters</title>
+    <link>https://blog.brendanbockes.com/posts/when-willpower-falters</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/when-willpower-falters</guid>
+    <pubDate>Sun, 13 Oct 2024 09:03:39 GMT</pubDate>
+    <description>Something I&apos;ve picked up on over 34 years of living is that I rarely have the willpower to avoid the things I know I should when I&apos;m stressed, bored, or lonely. Fortunately, I don&apos;t feel those emotions all the time. But I experience them often enough that I could potentially undo a lot of progres...</description>
+
+  </item>
+  <item>
+    <title>Observational statements</title>
+    <link>https://blog.brendanbockes.com/posts/observational-statements</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/observational-statements</guid>
+    <pubDate>Sat, 12 Oct 2024 10:05:54 GMT</pubDate>
+    <description>We’re often told that making assumptions about people is usually the wrong way to build rapport, since it often leads to misconceptions and unfair judgements. That&apos;s because making assumptions (without asking questions) can blind us to who the person really, truly is. But if you’re making convers...</description>
+
+  </item>
+  <item>
+    <title>Ad blockers and authenticity</title>
+    <link>https://blog.brendanbockes.com/posts/ad-blockers-and-authenticity</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/ad-blockers-and-authenticity</guid>
+    <pubDate>Fri, 11 Oct 2024 09:11:50 GMT</pubDate>
+    <description>I went to a marketing conference a few weeks ago and met a bunch of people, including a few paid media specialists. Something I would have liked to ask was whether any of them used ad blockers to hide the ads that other marketers have created. Everyone else does. By now, it seems like a common pr...</description>
+
+  </item>
+  <item>
+    <title>AI skills</title>
+    <link>https://blog.brendanbockes.com/posts/ai-skills</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/ai-skills</guid>
+    <pubDate>Thu, 10 Oct 2024 08:31:50 GMT</pubDate>
+    <description>I recently read how  a program in Ireland  is equipping people in rural areas with essential “AI skills.” To say nothing of the program itself, I&apos;m not sure &quot;skills&quot; is the right word. Perhaps &quot;literacy&quot; might be more fitting? Understanding  how it works  is certainly worth the investment. As man...</description>
+
+  </item>
+  <item>
+    <title>Peter parker bruce banner clark kent</title>
+    <link>https://blog.brendanbockes.com/posts/peter-parker-bruce-banner-clark-kent</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/peter-parker-bruce-banner-clark-kent</guid>
+    <pubDate>Wed, 09 Oct 2024 10:20:59 GMT</pubDate>
+    <description>Lots of superheroes have alliterative names (names that use the same initial letter or sound for both their first and last name). They also have alter egos, complex backstories, and superhuman powers or skills. But that’s not what makes them a hero. It’s far simpler. It’s standing up for what’s r...</description>
+
+  </item>
+  <item>
+    <title>A little dose of empathy</title>
+    <link>https://blog.brendanbockes.com/posts/a-little-dose-of-empathy</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/a-little-dose-of-empathy</guid>
+    <pubDate>Tue, 08 Oct 2024 09:11:50 GMT</pubDate>
+    <description>One of the easiest ways to increase the percentage of people who sign up for your newsletter is to make the CTA–your “call to action”–resonate with them. So, “Sign up for my newsletter” becomes “Get the best marketing tips to boost your business–delivered weekly” or “Get a weekly roundup of the h...</description>
+
+  </item>
+  <item>
+    <title>Personal sites</title>
+    <link>https://blog.brendanbockes.com/posts/personal-sites</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/personal-sites</guid>
+    <pubDate>Sat, 05 Oct 2024 08:55:49 GMT</pubDate>
+    <description>A friend asked for my thoughts on making personal sites, so I thought I would share some notes: Personal websites are, at best, a place to point your friends and potential clients. So you don’t don’t need tons of fancy features or high-priced hosting packages. If you want a page that’s nothing bu...</description>
+
+  </item>
+  <item>
+    <title>Whats bothering you</title>
+    <link>https://blog.brendanbockes.com/posts/whats-bothering-you</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/whats-bothering-you</guid>
+    <pubDate>Fri, 04 Oct 2024 11:05:57 GMT</pubDate>
+    <description>Here’s a simple exercise that might save you countless hours of sleep. Take out your phone. Go to the app store and download  Otter .  Otter is a transcription and note-taking app that helps users capture spoken content. It’s made for meetings, lectures, and interviews, but can also be used for p...</description>
+
+  </item>
+  <item>
+    <title>Reading between the lines</title>
+    <link>https://blog.brendanbockes.com/posts/reading-between-the-lines</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/reading-between-the-lines</guid>
+    <pubDate>Wed, 02 Oct 2024 09:26:51 GMT</pubDate>
+    <description>The old adage that not making a choice is still making one applies perfectly to how we communicate. Because what remains unsaid can carry just as much weight as our words. Consider how it feels when someone asks a simple carry-on question like “Where do you live?” or “What do you do?” and doesn’t...</description>
+
+  </item>
+  </channel>
+</rss>
