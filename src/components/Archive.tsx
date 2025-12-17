@@ -269,7 +269,7 @@ export function Archive() {
       <div className="mt-8">
         <Link
           to="/"
-          className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium"
+          className="see-all-posts-button inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium text-base"
         >
           <ArrowLeft className="w-4 h-4" />
           See all posts

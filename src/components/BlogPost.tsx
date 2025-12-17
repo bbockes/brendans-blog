@@ -217,7 +217,7 @@ export function BlogPost({ post }: BlogPostProps) {
             <div className="mt-6 flex justify-center">
               <Link
                 to="/"
-                className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium"
+                className="see-all-posts-button inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium text-base"
               >
                 <ArrowLeft className="w-4 h-4" />
                 See all posts
@@ -472,13 +472,13 @@ export function BlogPost({ post }: BlogPostProps) {
             <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700" style={{ marginBottom: '-50px' }}>
               {/* Date and See all posts button row - on mobile/tablet (460px to 749px) */}
               <div className="relative min-[460px]:block max-[749px]:block min-[750px]:hidden max-[459px]:hidden">
-                <div className="text-gray-600 dark:text-gray-400 text-sm flex-shrink-0">
+                <div className="text-gray-600 dark:text-gray-400 text-base flex-shrink-0">
                   {formatDate(post.publishedAt || post.created_at)}
                 </div>
                 {isSinglePostPage && (
                   <Link
                     to="/"
-                    className="absolute right-0 top-0 inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium"
+                    className="see-all-posts-button absolute right-0 top-0 inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium text-sm"
                   >
                     <ArrowLeft className="w-4 h-4" />
                     See all posts
@@ -487,13 +487,13 @@ export function BlogPost({ post }: BlogPostProps) {
               </div>
               {/* Date only - on very small screens (below 460px) */}
               <div className="max-[459px]:block min-[460px]:hidden">
-                <div className="text-gray-600 dark:text-gray-400 text-sm text-right">
+                <div className="text-gray-600 dark:text-gray-400 text-base text-right">
                   {formatDate(post.publishedAt || post.created_at)}
                 </div>
               </div>
               {/* Date only - on desktop */}
               <div className="hidden min-[750px]:block">
-                <div className="text-gray-600 dark:text-gray-400 text-sm">
+                <div className="text-gray-600 dark:text-gray-400 text-base">
                   {formatDate(post.publishedAt || post.created_at)}
                 </div>
               </div>
@@ -548,7 +548,7 @@ export function BlogPost({ post }: BlogPostProps) {
                 <div className="mt-4 max-[459px]:block min-[460px]:max-[749px]:hidden min-[750px]:block max-[459px]:text-right">
                   <Link
                     to="/"
-                    className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium"
+                    className="see-all-posts-button inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium text-base"
                   >
                     <ArrowLeft className="w-4 h-4" />
                     See all posts
@@ -563,7 +563,7 @@ export function BlogPost({ post }: BlogPostProps) {
             <div className="mt-8">
               <Link
                 to="/"
-                className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium"
+                className="see-all-posts-button inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium text-base"
               >
                 <ArrowLeft className="w-4 h-4" />
                 See all posts

@@ -33,7 +33,7 @@ export function LinkCard({ linkCard }: LinkCardProps) {
         {/* Hover overlay - visible on mobile, hover on desktop */}
         <div className="absolute inset-0 bg-black bg-opacity-85 md:bg-opacity-0 md:group-hover:bg-opacity-85 transition-all duration-300 flex items-center justify-center">
           <div className="opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-300 px-4">
-            <div className="text-white text-center leading-relaxed" style={{ fontSize: '20px' }}>
+            <div className="text-white text-center leading-relaxed link-card-hover-text" style={{ fontSize: '20px' }}>
               {/* Show title on mobile, hook on desktop hover */}
               <span className="md:hidden">{linkCard.title}</span>
               <div className="hidden md:block">

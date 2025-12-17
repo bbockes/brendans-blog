@@ -55,6 +55,12 @@
     font-family: Georgia, 'Times New Roman', serif;
   }
   
+  /* Ensure italicized links maintain the same blue color as regular links */
+  .markdown-content a em,
+  .markdown-content a em.italic {
+    color: inherit !important;
+  }
+  
   /* Ensure buttons, sidebar, nav, and UI elements use sans-serif */
   button,
   nav,
@@ -70,6 +76,18 @@
   /* Keep code blocks in sans-serif */
   .markdown-content code,
   .markdown-content pre {
+    font-family: 'Avenir Next', 'Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  }
+  
+  /* Georgia (serif) for blogroll card hover text */
+  .link-card-hover-text,
+  .link-card-hover-text span,
+  .link-card-hover-text p {
+    font-family: Georgia, 'Times New Roman', serif;
+  }
+  
+  /* Avenir Next for "See all posts" buttons */
+  .see-all-posts-button {
     font-family: 'Avenir Next', 'Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
   }
 
