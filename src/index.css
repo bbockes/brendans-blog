@@ -36,8 +36,40 @@
     font-display: swap;
   }
 
-  /* Set default font family */
+  /* Set default font family - sans-serif for UI elements */
   html {
+    font-family: 'Avenir Next', 'Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  }
+  
+  /* Avenir Next for headers (h1, h2, h3, h4, h5, h6) */
+  h1, h2, h3, h4, h5, h6,
+  .font-heading {
+    font-family: 'Avenir Next', 'Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  }
+  
+  /* Georgia (serif) for blog body text only - paragraphs and text within markdown content */
+  .markdown-content,
+  .markdown-content p,
+  .markdown-content li,
+  .markdown-content span:not(code) {
+    font-family: Georgia, 'Times New Roman', serif;
+  }
+  
+  /* Ensure buttons, sidebar, nav, and UI elements use sans-serif */
+  button,
+  nav,
+  [role="navigation"],
+  header,
+  .category-sidebar,
+  .mobile-header,
+  .newsletter-form,
+  .search-subscribe-toggle {
+    font-family: 'Avenir Next', 'Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  }
+  
+  /* Keep code blocks in sans-serif */
+  .markdown-content code,
+  .markdown-content pre {
     font-family: 'Avenir Next', 'Avenir', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
   }
 
@@ -58,7 +90,7 @@
 /* Custom font size for blog content */
 @layer utilities {
   .text-17px {
-    font-size: 20px;
+    font-size: 21px;
   }
 }
 
