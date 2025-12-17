@@ -9,9 +9,35 @@ export const sanityClient = createClient({
   stega: {
     enabled: false, // Disable stega encoding for production
   },
+  // Add request tag for better CDN caching
+  requestTagPrefix: 'blog',
 });
 
+// Simple in-memory cache for queries
+const queryCache = new Map<string, { data: any; timestamp: number }>();
+const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
+
+// Cached fetch wrapper
+export async function cachedFetch<T>(query: string, params?: any): Promise<T> {
+  const cacheKey = `${query}:${JSON.stringify(params || {})}`;
+  const cached = queryCache.get(cacheKey);
+  
+  // Return cached data if it's still valid
+  if (cached && Date.now() - cached.timestamp < CACHE_TTL) {
+    return cached.data as T;
+  }
+  
+  // Fetch fresh data
+  const data = await sanityClient.fetch<T>(query, params || {});
+  
+  // Cache the result
+  queryCache.set(cacheKey, { data, timestamp: Date.now() });
+  
+  return data;
+}
+
 // GROQ queries
+// Optimized query - fetch only needed fields, use efficient ordering
 export const POSTS_QUERY = `*[_type == "post" && defined(slug.current)] | order(publishedAt desc) {
   _id,
   title,

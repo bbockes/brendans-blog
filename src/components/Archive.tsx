@@ -2,7 +2,7 @@ import { useState, useMemo, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import { ChevronDown, ChevronRight, ArrowLeft } from 'lucide-react';
-import { sanityClient, POSTS_QUERY } from '../lib/sanityClient';
+import { cachedFetch, POSTS_QUERY } from '../lib/sanityClient';
 import { slugify } from '../utils/slugify';
 
 interface Post {
@@ -39,7 +39,7 @@ export function Archive() {
   useEffect(() => {
     async function fetchPosts() {
       try {
-        const postsData = await sanityClient.fetch(POSTS_QUERY);
+        const postsData = await cachedFetch(POSTS_QUERY);
         const transformedPosts = postsData.map(post => ({
           ...post,
           id: post._id,

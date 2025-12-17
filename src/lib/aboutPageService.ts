@@ -1,4 +1,4 @@
-import { sanityClient, ABOUT_PAGE_QUERY } from './sanityClient';
+import { cachedFetch, ABOUT_PAGE_QUERY } from './sanityClient';
 
 export interface AboutPageData {
   _id: string;
@@ -18,7 +18,7 @@ export interface AboutPageData {
 
 export async function fetchAboutPage(): Promise<AboutPageData | null> {
   try {
-    const aboutPage = await sanityClient.fetch(ABOUT_PAGE_QUERY);
+    const aboutPage = await cachedFetch<AboutPageData>(ABOUT_PAGE_QUERY);
     
     if (aboutPage) {
       console.log('✅ About page fetched successfully:', aboutPage.title);

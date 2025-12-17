@@ -12,7 +12,7 @@ import { Archive } from './Archive';
 import { fetchAboutPage, transformAboutPageToBlogPost } from '../lib/aboutPageService';
 import { notFoundPost } from '../data/staticData';
 import { LinkedinIcon } from 'lucide-react';
-import { sanityClient, POSTS_QUERY, CATEGORIES_QUERY, LINK_CARDS_QUERY } from '../lib/sanityClient';
+import { cachedFetch, POSTS_QUERY, CATEGORIES_QUERY, LINK_CARDS_QUERY } from '../lib/sanityClient';
 import { slugify, findPostBySlug, filterPostsBySearchQuery, extractFirstSentence, extractSentenceWithMatch } from '../utils/slugify';
 import { generateMetaDescription, generatePageTitle, DEFAULT_OG_IMAGE } from '../utils/seoUtils.js';
 import { getCategoryColor } from '../utils/categoryColorUtils';
@@ -161,8 +161,12 @@ export function BlogLayout() {
       setLoading(true);
       
       try {
-        // Fetch posts from Sanity
-        const postsData = await sanityClient.fetch(POSTS_QUERY);
+        // Fetch posts and categories in parallel for faster loading
+        // Use cached fetch to avoid redundant requests
+        const [postsData, categoriesData] = await Promise.all([
+          cachedFetch(POSTS_QUERY),
+          cachedFetch(CATEGORIES_QUERY)
+        ]);
         
         // Transform Sanity data to match expected format
         const transformedPosts = postsData.map(post => ({
@@ -174,9 +178,6 @@ export function BlogLayout() {
         }));
 
         setPosts(transformedPosts);
-
-        // Fetch categories from Sanity
-        const categoriesData = await sanityClient.fetch(CATEGORIES_QUERY);
         
         // Extract unique categories and format them with colors
         const uniqueCategories = [...new Set(categoriesData.map(item => item.category).filter(Boolean))];
@@ -207,8 +208,8 @@ export function BlogLayout() {
       setLinkLoading(true);
       
       try {
-        // Fetch link cards from Sanity
-        const linkCardsData = await sanityClient.fetch(LINK_CARDS_QUERY);
+        // Fetch link cards from Sanity with caching
+        const linkCardsData = await cachedFetch(LINK_CARDS_QUERY);
         setLinkCards(linkCardsData);
       } catch (err: any) {
         console.error('❌ Error fetching link data:', err);
