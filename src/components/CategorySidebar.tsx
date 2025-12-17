@@ -157,8 +157,8 @@ export function CategorySidebar({
             // Define the posts to show
             const favoritePostTitles = [
               'Language is leverage',
+              'Mindful messaging',
               'Ships in the night',
-              'You\'re missing out',
               'Technical sophistication'
             ];
             

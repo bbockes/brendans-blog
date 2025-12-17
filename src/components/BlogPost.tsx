@@ -261,12 +261,12 @@ export function BlogPost({ post }: BlogPostProps) {
                     ),
                   },
                   list: {
-                    bullet: ({children}) => <ul className="list-disc list-inside mb-4 space-y-2">{children}</ul>,
-                    number: ({children}) => <ol className="list-decimal list-inside mb-4 space-y-2">{children}</ol>,
+                    bullet: ({children}) => <ul className="list-disc list-outside mb-4 space-y-2 ml-6">{children}</ul>,
+                    number: ({children}) => <ol className="list-decimal list-outside mb-4 space-y-2 ml-6">{children}</ol>,
                   },
                   listItem: {
-                    bullet: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px">{children}</li>,
-                    number: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px">{children}</li>,
+                    bullet: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px pl-2">{children}</li>,
+                    number: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px pl-2">{children}</li>,
                   },
                   types: {
                     image: ({value}) => (
@@ -314,10 +314,10 @@ export function BlogPost({ post }: BlogPostProps) {
                           ),
                         },
                         list: {
-                          bullet: ({children}) => <ul className="list-disc list-inside mb-4 space-y-2">{children}</ul>,
+                          bullet: ({children}) => <ul className="list-disc list-outside mb-4 space-y-2 ml-6">{children}</ul>,
                         },
                         listItem: {
-                          bullet: ({children}) => <li className="text-gray-600 dark:text-gray-400 text-17px">{children}</li>,
+                          bullet: ({children}) => <li className="text-gray-600 dark:text-gray-400 text-17px pl-2">{children}</li>,
                         },
                         marks: {
                           strong: ({children}) => <strong className="font-bold text-gray-700 dark:text-gray-300">{children}</strong>,
@@ -368,14 +368,14 @@ export function BlogPost({ post }: BlogPostProps) {
                   </a>
                 ),
               },
-              list: {
-                bullet: ({children}) => <ul className="list-disc list-inside mb-4 space-y-2">{children}</ul>,
-                number: ({children}) => <ol className="list-decimal list-inside mb-4 space-y-2">{children}</ol>,
-              },
-              listItem: {
-                bullet: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px">{children}</li>,
-                number: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px">{children}</li>,
-              },
+                list: {
+                  bullet: ({children}) => <ul className="list-disc list-outside mb-4 space-y-2 ml-6">{children}</ul>,
+                  number: ({children}) => <ol className="list-decimal list-outside mb-4 space-y-2 ml-6">{children}</ol>,
+                },
+                listItem: {
+                  bullet: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px pl-2">{children}</li>,
+                  number: ({children}) => <li className="text-gray-800 dark:text-gray-200 text-17px pl-2">{children}</li>,
+                },
               types: {
                 image: ({value}) => (
                   <ResponsiveImage
@@ -451,10 +451,10 @@ export function BlogPost({ post }: BlogPostProps) {
                         ),
                       },
                       list: {
-                        bullet: ({children}) => <ul className="list-disc list-inside mb-4 space-y-2">{children}</ul>,
+                        bullet: ({children}) => <ul className="list-disc list-outside mb-4 space-y-2 ml-6">{children}</ul>,
                       },
                       listItem: {
-                        bullet: ({children}) => <li className="text-gray-600 dark:text-gray-400 text-17px">{children}</li>,
+                        bullet: ({children}) => <li className="text-gray-600 dark:text-gray-400 text-17px pl-2">{children}</li>,
                       },
                       marks: {
                         strong: ({children}) => <strong className="font-bold text-gray-700 dark:text-gray-300">{children}</strong>,
