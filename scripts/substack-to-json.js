@@ -23,9 +23,24 @@ import { JSDOM } from 'jsdom';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Helper function to decode HTML entities
+function decodeHtmlEntities(text) {
+  if (!text) return text;
+  // Use a temporary element to decode HTML entities
+  const dom = new JSDOM('');
+  const document = dom.window.document;
+  const textarea = document.createElement('textarea');
+  textarea.innerHTML = text;
+  return textarea.value;
+}
+
 // Helper function to clean title - remove leading numbers and fix capitalization
+// Preserves apostrophes and other punctuation
 function cleanTitle(title) {
   if (!title) return title;
+  
+  // Decode HTML entities first (e.g., &apos; -> ', &#39; -> ')
+  title = decodeHtmlEntities(title);
   
   // Remove leading numbers and dots (e.g., "148828092.ships In The Night" -> "ships In The Night")
   title = title.replace(/^\d+\.?\s*/, '');
@@ -34,11 +49,14 @@ function cleanTitle(title) {
   title = title.trim();
   
   // Capitalize first word, lowercase the rest
+  // But preserve apostrophes and contractions (it's, you're, I'm, etc.)
   if (title.length > 0) {
     const words = title.split(/\s+/);
     if (words.length > 0) {
+      // Capitalize first word, preserving apostrophes
       words[0] = words[0].charAt(0).toUpperCase() + words[0].slice(1).toLowerCase();
       for (let i = 1; i < words.length; i++) {
+        // Lowercase the word, preserving apostrophes and other punctuation
         words[i] = words[i].toLowerCase();
       }
       title = words.join(' ');
@@ -403,7 +421,15 @@ function parseSubstackHTML(htmlContent, fileName = '', postsCSV = new Map()) {
     const element = document.querySelector(selector);
     if (element) {
       title = element.getAttribute('content') || '';
-      if (title) break;
+      // Decode HTML entities in meta content
+      if (title) {
+        const dom = new JSDOM('');
+        const doc = dom.window.document;
+        const textarea = doc.createElement('textarea');
+        textarea.innerHTML = title;
+        title = textarea.value;
+        break;
+      }
     }
   }
   
