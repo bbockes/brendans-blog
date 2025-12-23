@@ -549,6 +549,12 @@ export function BlogLayout() {
   };
 
   const handleLogoClick = () => {
+    // Clear search query if on homepage and search is active
+    const isHomePage = location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive';
+    if (isHomePage && searchQuery.trim()) {
+      handleSearch('');
+    }
+    
     // Scroll to top of the scrollable container
     if (scrollableContainerRef.current) {
       scrollableContainerRef.current.scrollTo({ top: 0, behavior: 'smooth' });
@@ -617,7 +623,7 @@ export function BlogLayout() {
       <main className="flex-1 flex flex-col min-w-0 w-full">
         {/* Mobile Header - only shows on small screens */}
         <div className="md:hidden flex-shrink-0">
-          <MobileHeader onMenuToggle={toggleMobileMenu} />
+          <MobileHeader onMenuToggle={toggleMobileMenu} onLogoClick={handleLogoClick} />
         </div>
 
         <div ref={scrollableContainerRef} className="flex-1 p-4 md:p-8 overflow-y-auto w-full">
@@ -642,6 +648,7 @@ export function BlogLayout() {
                           className="w-full" 
                           onSearch={handleSearch}
                           placeholder="Never miss a post! Get free email updates"
+                          searchQuery={searchQuery}
                         />
                       </div>
                     </div>
@@ -669,6 +676,7 @@ export function BlogLayout() {
                         className="w-full"
                         onSearch={handleSearch}
                         placeholder="Enter your email address"
+                        searchQuery={searchQuery}
                       />
                     </div>
                   </div>
@@ -718,6 +726,7 @@ export function BlogLayout() {
                       className="w-full mobile-search-toggle"
                       onSearch={handleSearch}
                       placeholder="Enter your email address"
+                      searchQuery={searchQuery}
                     />
                     <NewsletterForm 
                       className="w-full mobile-newsletter-fallback hidden"
@@ -809,12 +818,22 @@ export function BlogLayout() {
                               className="mb-8 pb-8 border-b border-gray-200 dark:border-gray-700 last:border-b-0"
                             >
                               <h2 className="text-3xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2">
-                                <button
-                                  onClick={() => handlePostClick(post)}
-                                  className="hover:underline transition-all text-left"
+                                <a
+                                  href={`/posts/${postSlug}`}
+                                  onClick={(e) => {
+                                    // Check for CMD (Mac) or Ctrl (Windows/Linux) key
+                                    if (e.metaKey || e.ctrlKey) {
+                                      // Let the default behavior happen (open in new tab)
+                                      return;
+                                    }
+                                    // Prevent default navigation and use React Router
+                                    e.preventDefault();
+                                    handlePostClick(post);
+                                  }}
+                                  className="hover:underline transition-all text-left cursor-pointer"
                                 >
                                   {highlightText(post.title)}
-                                </button>
+                                </a>
                               </h2>
                               {matchingSentence && (
                                 <p className="text-gray-600 dark:text-gray-400 text-lg">

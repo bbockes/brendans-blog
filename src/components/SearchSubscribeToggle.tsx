@@ -10,6 +10,7 @@ interface SearchSubscribeToggleProps {
   inputClassName?: string;
   buttonClassName?: string;
   onSearch?: (query: string) => void;
+  searchQuery?: string; // External search query to sync with
 }
 
 export function SearchSubscribeToggle({
@@ -18,13 +19,26 @@ export function SearchSubscribeToggle({
   className = "",
   inputClassName = "",
   buttonClassName = "",
-  onSearch
+  onSearch,
+  searchQuery = ''
 }: SearchSubscribeToggleProps) {
   const [isSearchMode, setIsSearchMode] = useState(false);
   const [inputValue, setInputValue] = useState('');
   const { isLoading, isSuccess, error, subscribe, reset } = useNewsletter();
   const { width } = useWindowSize();
   const inputRef = useRef<HTMLInputElement>(null);
+  const lastSearchQueryRef = useRef<string>('');
+
+  // Sync input value with external searchQuery when in search mode
+  // This allows external components (like logo click) to clear the search
+  useEffect(() => {
+    if (isSearchMode && searchQuery === '' && lastSearchQueryRef.current !== '') {
+      // searchQuery was cleared externally (e.g., logo click)
+      // Clear the input to match
+      setInputValue('');
+    }
+    lastSearchQueryRef.current = searchQuery;
+  }, [searchQuery, isSearchMode]);
 
   // Reset success state after 3 seconds
   useEffect(() => {
