@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { XIcon, MoonIcon, SunIcon, Archive as ArchiveIcon } from 'lucide-react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { useTheme } from '../contexts/ThemeContext';
@@ -54,6 +54,30 @@ export function CategorySidebar({
   const isArchivePage = !isLinkMode && location.pathname === '/archive';
   const isBlogrollPage = location.pathname === '/blogroll' || location.pathname === '/blogroll/';
   const [logoError, setLogoError] = useState(false);
+  const scrollContainerRef = useRef<HTMLDivElement>(null);
+  const [showBottomFade, setShowBottomFade] = useState(false);
+
+  const updateBottomFade = () => {
+    const el = scrollContainerRef.current;
+    if (!el) return;
+    // Show fade only when there is more content below the current scroll position
+    const atBottom = el.scrollTop + el.clientHeight >= el.scrollHeight - 4;
+    const canScroll = el.scrollHeight > el.clientHeight + 4;
+    setShowBottomFade(canScroll && !atBottom);
+  };
+
+  useEffect(() => {
+    // Only needed on mobile where the sidebar is a scrollable sheet
+    if (!isMobile) return;
+    // Defer until layout is stable
+    const t = window.setTimeout(updateBottomFade, 0);
+    window.addEventListener('resize', updateBottomFade);
+    return () => {
+      window.clearTimeout(t);
+      window.removeEventListener('resize', updateBottomFade);
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isMobile, posts.length, linkCards.length, isLinkMode]);
 
   const handleAboutClick = () => {
     onAboutClick();
@@ -113,8 +137,14 @@ export function CategorySidebar({
         </div>
       )}
 
-      <div className="flex-1 overflow-y-auto">
-        <div className="p-6">
+      {/* Scrollable content area */}
+      <div className="flex-1 relative flex flex-col min-h-0">
+        <div
+          ref={scrollContainerRef}
+          className="flex-1 overflow-y-auto min-h-0"
+          onScroll={isMobile ? updateBottomFade : undefined}
+        >
+          <div className={`p-6 ${isMobile ? 'pb-10' : ''}`}>
           {!isMobile && (
             <>
               {!logoError ? (
@@ -250,6 +280,11 @@ export function CategorySidebar({
             </div>
           </div>
         </div>
+        </div>
+        {/* Fade pinned to bottom of the scroll viewport (mobile only), hidden when user is at the bottom */}
+        {isMobile && showBottomFade && (
+          <div className="absolute bottom-0 left-0 right-0 h-14 pointer-events-none bg-gradient-to-b from-transparent via-white/40 to-white dark:via-gray-800/40 dark:to-gray-800" />
+        )}
       </div>
       
       <div className="p-6 pt-0 flex-shrink-0">

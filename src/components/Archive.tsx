@@ -159,14 +159,14 @@ export function Archive() {
 
   if (loading) {
     return (
-      <div className="w-full max-w-4xl mx-auto px-4 py-8">
+      <div className="w-full max-w-4xl mx-auto px-[14px] py-8">
         <div className="text-center text-gray-600 dark:text-gray-400">Loading archive...</div>
       </div>
     );
   }
 
   return (
-    <div className="w-full max-w-4xl mx-auto md:pl-[60px] px-4 md:px-0" style={{ paddingTop: '10px', paddingBottom: '100px' }}>
+    <div className="w-full max-w-4xl mx-auto md:pl-[60px] px-[14px] md:px-0" style={{ paddingTop: '10px', paddingBottom: '100px' }}>
       <div className="mb-8">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-2">
           Archive

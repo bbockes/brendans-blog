@@ -612,7 +612,7 @@ export function BlogLayout() {
               onToggleLinkMode={handleToggleMode}
               isMobile={true}
               onClose={toggleMobileMenu}
-              posts={posts.slice(0, 3)}
+              posts={posts}
               onPostClick={handlePostClick}
               onLogoClick={handleLogoClick}
             />
@@ -626,7 +626,7 @@ export function BlogLayout() {
           <MobileHeader onMenuToggle={toggleMobileMenu} onLogoClick={handleLogoClick} />
         </div>
 
-        <div ref={scrollableContainerRef} className="flex-1 p-4 md:p-8 overflow-y-auto w-full">
+        <div ref={scrollableContainerRef} className="flex-1 px-[14px] py-4 md:p-8 overflow-y-auto w-full">
           <div className="max-w-7xl mx-auto w-full">
             {/* Desktop Header - shows on large screens and up only */}
             <div className="hidden lg:block mb-8 relative">
@@ -736,7 +736,7 @@ export function BlogLayout() {
                 </div>
               </div>
             ) : (
-              <div className="md:hidden mb-6 px-4">
+              <div className="md:hidden mb-6 px-[14px]">
                 <div>
                   <h1 className="text-xl font-bold text-gray-800 dark:text-white text-left">
                     <span className="text-[#6184ED] dark:text-[#809FFF]">Blogs you know.</span> <span className="text-gray-800 dark:text-gray-200">Blogs you don't.</span>
@@ -769,7 +769,7 @@ export function BlogLayout() {
             {!(isLinkMode ? linkLoading : loading) && !(isLinkMode ? linkError : error) && (
               <>
                 {isLinkMode ? (
-                  <div className="w-full max-w-5xl mx-auto px-4 md:px-0 md:pl-[60px]">
+                  <div className="w-full max-w-5xl mx-auto px-[14px] md:px-0 md:pl-[60px]">
                     <div className={`grid gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2`} style={{ width: '100%' }}>
                       {filteredPosts.map((linkCard: any) => (
                         <LinkCard key={linkCard._id} linkCard={linkCard} />
@@ -779,7 +779,7 @@ export function BlogLayout() {
                 ) : location.pathname === '/archive' ? (
                   <Archive />
                 ) : (
-                  <div className="w-full max-w-4xl mx-auto md:pl-[60px] px-4 md:px-0" style={{ paddingTop: '10px' }}>
+                  <div className="w-full max-w-4xl mx-auto md:pl-[60px] px-[14px] md:px-0" style={{ paddingTop: '10px' }}>
                     {/* Show single post if on a post route, otherwise show all visible posts */}
                     {selectedPost && (location.pathname.startsWith('/posts/') || location.pathname === '/about' || location.pathname === '/about/' || location.pathname === '/404') ? (
                       <div key={selectedPost.id} id={`post-${selectedPost.slug?.current || selectedPost.slug || selectedPost.id}`}>

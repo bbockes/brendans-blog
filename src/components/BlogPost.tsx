@@ -213,8 +213,8 @@ export function BlogPost({ post }: BlogPostProps) {
                 boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)'
               }}
             />
-            {/* See all posts button for about page with headshot */}
-            <div className="mt-6 flex justify-center">
+            {/* See all posts button (tablet/desktop only) */}
+            <div className="mt-6 hidden md:flex justify-center">
               <Link
                 to="/"
                 className="see-all-posts-button inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium text-base"
@@ -329,6 +329,17 @@ export function BlogPost({ post }: BlogPostProps) {
                 </div>
               </>
             )}
+
+            {/* See all posts button (mobile only) — at the very bottom of the About page */}
+            <div className="mt-8 md:hidden">
+              <Link
+                to="/"
+                className="see-all-posts-button inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium text-base"
+              >
+                <ArrowLeft className="w-4 h-4" />
+                See all posts
+              </Link>
+            </div>
           </div>
         </div>
       ) : (
