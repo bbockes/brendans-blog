@@ -141,6 +141,7 @@ export function CategorySidebar({
       <div className="flex-1 relative flex flex-col min-h-0">
         <div
           ref={scrollContainerRef}
+          data-testid="category-sidebar-scroll-container"
           className="flex-1 overflow-y-auto min-h-0"
           onScroll={isMobile ? updateBottomFade : undefined}
         >
@@ -283,7 +284,10 @@ export function CategorySidebar({
         </div>
         {/* Fade pinned to bottom of the scroll viewport (mobile only), hidden when user is at the bottom */}
         {isMobile && showBottomFade && (
-          <div className="absolute bottom-0 left-0 right-0 h-14 pointer-events-none bg-gradient-to-b from-transparent via-white/40 to-white dark:via-gray-800/40 dark:to-gray-800" />
+          <div
+            data-testid="category-sidebar-bottom-fade"
+            className="absolute bottom-0 left-0 right-0 h-14 pointer-events-none bg-gradient-to-b from-transparent via-white/40 to-white dark:via-gray-800/40 dark:to-gray-800"
+          />
         )}
       </div>
       

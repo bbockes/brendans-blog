@@ -214,7 +214,10 @@ export function BlogPost({ post }: BlogPostProps) {
               }}
             />
             {/* See all posts button (tablet/desktop only) */}
-            <div className="mt-6 hidden md:flex justify-center">
+            <div
+              className="mt-6 hidden md:flex justify-center"
+              data-testid="about-desktop-see-all-posts"
+            >
               <Link
                 to="/"
                 className="see-all-posts-button inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium text-base"
@@ -331,7 +334,10 @@ export function BlogPost({ post }: BlogPostProps) {
             )}
 
             {/* See all posts button (mobile only) — at the very bottom of the About page */}
-            <div className="mt-8 md:hidden">
+            <div
+              className="mt-8 md:hidden"
+              data-testid="about-mobile-see-all-posts"
+            >
               <Link
                 to="/"
                 className="see-all-posts-button inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium text-base"
