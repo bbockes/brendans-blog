@@ -5,8 +5,8 @@
     <link>https://blog.brendanbockes.com</link>
     <description>The personal blog of Brendan Bockes. Thoughts on productivity, technology, and building.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Dec 2025 17:55:27 GMT</lastBuildDate>
-    <pubDate>Wed, 31 Dec 2025 17:55:27 GMT</pubDate>
+    <lastBuildDate>Wed, 31 Dec 2025 19:39:29 GMT</lastBuildDate>
+    <pubDate>Wed, 31 Dec 2025 19:39:29 GMT</pubDate>
     <ttl>60</ttl>
     <atom:link href="https://blog.brendanbockes.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -15,12 +15,36 @@
       <link>https://blog.brendanbockes.com</link>
     </image>
   <item>
+    <title>Decision scales</title>
+    <link>https://blog.brendanbockes.com/posts/decision-scales</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/decision-scales</guid>
+    <pubDate>Wed, 31 Dec 2025 18:14:21 GMT</pubDate>
+    <description>All decisions fall on a scale of importance. Every choice either moves you closer to your goal or it doesn’t. That goal might be monetary, but it doesn’t have to be—what matters is that it’s an outcome you want. Because of that, every decision has a weight. Some actions move you closer to your go...</description>
+
+    <content:encoded><![CDATA[<p>All decisions fall on a scale of importance.</p>
+<p>Every choice either moves you closer to your goal or it doesn’t. That goal might be monetary, but it doesn’t have to be—what matters is that it’s an outcome you want.</p>
+<p>Because of that, every decision has a weight. Some actions move you closer to your goal, while others barely nudge the needle. Piling up too many low-impact tasks eats time that could’ve been spent on the things that matter.</p>
+<p>Alas, the hallmark of a great decision maker (and a great leader) is the ability to recognize this difference.</p>
+<p>You can’t treat every decision the same. You can’t act like you have unlimited time or resources—even if it feels like you do.</p>
+<p>You have to acknowledge that you can’t possibly do everything. And if you try to win at being busy, you’ll inevitably trade depth for motion—and motion alone won’t get you to your goal.</p>
+<p>Doing a “good enough,” not-perfect job on the less important stuff is often the smartest way to clear space for the work that actually moves you forward. It’s not easy—you’ll feel the pull to do it all and polish everything—but that’s exactly why it matters.</p>
+<p>It's how you become a driver of outcomes instead of a manager of tasks.</p>]]></content:encoded>
+  </item>
+  <item>
     <title>Language is leverage</title>
     <link>https://blog.brendanbockes.com/posts/language-is-leverage</link>
     <guid isPermaLink="true">https://blog.brendanbockes.com/posts/language-is-leverage</guid>
     <pubDate>Mon, 20 Oct 2025 20:37:19 GMT</pubDate>
     <description>Everyone knows that ChatGPT communicates in natural language. That’s why we can ask just about anything in plain English and get an answer back. But here’s something I’ve learned recently: using language effectively is just as important when asking an AI to do other tasks—like writing code or gen...</description>
 
+    <content:encoded><![CDATA[<p>Everyone knows that ChatGPT communicates in natural language.</p>
+<p>That’s why we can ask just about anything in plain English and get an answer back.</p>
+<p>But here’s something I’ve learned recently: using language effectively is just as important when asking an AI to do other tasks—like writing code or generating video—as it is when asking it to write a well-crafted paragraph.</p>
+<p>“Vibe coding” is taking the web by storm. It’s exciting to tell an AI to “make me a to-do app” and watch it generate working code. But using AI to speak code is only half the battle.</p>
+<p>The other half is knowing enough about coding to speak <em>its</em> language—well enough to guide your pair programmer into building exactly what you want.</p>
+<p>You can’t do that successfully without knowing the basics—what the code’s doing, what the AI is building, and how to tweak or debug it when things go horribly wrong.</p>
+<p>Language is leverage. Whether you’re writing a blog, talking to a group, or prompting an AI, your ability to express ideas clearly shapes the outcome.</p>
+<p>The better you are with words, the more precisely you can think, build, and influence—whether your audience is human or machine.</p>]]></content:encoded>
   </item>
   <item>
     <title>Service fatigue</title>
@@ -29,6 +53,12 @@
     <pubDate>Wed, 03 Sep 2025 08:52:30 GMT</pubDate>
     <description>If your customer support staff is rude, your customers will feel it. That might cause your customers to be rude back—which makes it  more likely  your staff will snap, and on it goes. That’s why it pays to hire people with a high degree of emotional maturity, so you can count on your team to not ...</description>
 
+    <content:encoded><![CDATA[<p>If your customer support staff is rude, your customers will feel it.</p>
+<p>That might cause your customers to be rude back—which makes it <em>more likely</em> your staff will snap, and on it goes.</p>
+<p>That’s why it pays to hire people with a high degree of emotional maturity, so you can count on your team to not do things like sound condescending. </p>
+<p>But it pays even more to give those folks a break when they need it, to pay them fairly, and to work hard to make their experience at work a good one. </p>
+<p>Service is a cycle. How you treat your team can ripple out to every customer touchpoint—be it physical or digital—and make or break your customer experience.</p>
+<p>Invest in your people, and they’ll invest in your customers. Don’t, and you might find your service—or your reputation—paying the price.</p>]]></content:encoded>
   </item>
   <item>
     <title>Mindful messaging</title>
@@ -37,6 +67,17 @@
     <pubDate>Tue, 02 Sep 2025 10:17:27 GMT</pubDate>
     <description>You’re texting a PM over chat. What do you say? What do you point to? You’re presenting a new feature to a room full of people who don’t do your job. What do you show them? What do you tell them? Too often, we forget that the people listening rarely have all the information we have—or the context...</description>
 
+    <content:encoded><![CDATA[<p>You’re texting a PM over chat.</p>
+<p>What do you say? What do you point to?</p>
+<p>You’re presenting a new feature to a room full of people who don’t do your job.</p>
+<p>What do you show them? What do you tell them?</p>
+<p>Too often, we forget that the people listening rarely have all the information we have—or the context we take for granted.</p>
+<p>We assume they know what we know—especially the obvious parts.</p>
+<p>We also forget that how we communicate—what we choose to say, how we say it, and how we present it—is an experience in itself.</p>
+<p>That experience can be poor, satisfactory, or it can be delightful—if we put in the effort to make it so.</p>
+<p>It helps to study the best speakers; to watch how they communicate visually and verbally. Observing their pacing helps too.</p>
+<p>Remember: you’re never just passing along information. Whether you’re sharing your work or asking a question, you’re shaping how others understand, feel, and engage with what you have to say.</p>
+<p>As with most things we make, it pays to be a little intentional—because even small choices in how we communicate can make a big difference.</p>]]></content:encoded>
   </item>
   <item>
     <title>Our ai future</title>
@@ -45,6 +86,15 @@
     <pubDate>Fri, 29 Aug 2025 09:41:28 GMT</pubDate>
     <description>I consider myself an early adopter when it comes to AI tools.  I started using ChatGPT in early 2023. And Claude not long after.  This year, I’ve discovered a range of new tools:  NotebookLM ,  Manus ,  Magic Patterns ,  Bolt ,  Windsurf ,  Cursor  and more.  It’s incredible to see what you can c...</description>
 
+    <content:encoded><![CDATA[<p>I consider myself an early adopter when it comes to AI tools. </p>
+<p>I started using ChatGPT in early 2023. And Claude not long after. </p>
+<p>This year, I’ve discovered a range of new tools: <a href="https://notebooklm.google/">NotebookLM</a>, <a href="http://Manus">Manus</a>, <a href="https://www.magicpatterns.com/">Magic Patterns</a>, <a href="https://bolt.new/">Bolt</a>, <a href="https://windsurf.com/">Windsurf</a>, <a href="https://cursor.com/en">Cursor</a> and more. </p>
+<p>It’s incredible to see what you can create today–and mind boggling to think where we’re headed. </p>
+<p>It’s true that AI will be able to perform almost any white-collar job in the near future. But it’s also true it will unlock entirely new kinds of work that don’t yet exist.</p>
+<p>Just as the internet gave rise to social media, eCommerce, and AI itself, AI will reshape the landscape in ways we can scarcely imagine.</p>
+<p>This much is true: the challenge—and the opportunity—isn’t just in asking what jobs will be replaced, but in asking what new forms of value, creativity, and collaboration will emerge.</p>
+<p>The people who thrive won’t be the ones competing with AI, but the ones learning how to build with it. To pivot fast, to ignore sunk costs, and to adapt as the tools evolve. </p>
+<p>The real differentiator won’t be access to the technology (that’s becoming democratized), but the creativity, judgment, and speed with which we apply it.</p>]]></content:encoded>
   </item>
   <item>
     <title>Time and death</title>
@@ -53,6 +103,22 @@
     <pubDate>Wed, 27 Aug 2025 21:37:00 GMT</pubDate>
     <description>I recently celebrated my 35th birthday. I also watched  Roadrunner —Morgan Neville’s masterful bio-doc of Anthony Bourdain—just a few days earlier. It got me thinking about life and death and the strange way we measure time: in birthdays, in milestones, in the passing of people we admire. So I de...</description>
 
+    <content:encoded><![CDATA[<p>I recently celebrated my 35th birthday.</p>
+<p>I also watched <a href="https://en.wikipedia.org/wiki/Roadrunner:_A_Film_About_Anthony_Bourdain"><em>Roadrunner</em></a>—Morgan Neville’s masterful bio-doc of Anthony Bourdain—just a few days earlier.</p>
+<p>It got me thinking about life and death and the strange way we measure time: in birthdays, in milestones, in the passing of people we admire. So I decided to pick up Seneca’s <a href="https://dn790008.ca.archive.org/0/items/SenecaOnTheShortnessOfLife/Seneca%20on%20the%20Shortness%20of%20Life.pdf"><em>On the Shortness of Life</em></a>, a book that stares straight at the fact that our days are numbered.</p>
+<p>Reading it after watching Bourdain felt fitting—two different voices, two thousand years apart, both pressing the same point: life is long enough if you know how to use it.</p>
+<p>I’m 35, and having a blog, it seems only natural to write a post about what I’ve learned, to catalog a list of life lessons. But I don’t have all the answers. And I’ve certainly not used <em>all </em>of my previous 12,775 days wisely.</p>
+<p>So, I thought I’d do something different: I asked ChatGPT to rewrite a few of my favorite of Seneca’s hard-won truths in Bourdain’s restless, unapologetic voice. </p>
+<p>The passages below aren’t a roadmap—but they are provocations that can hit hard if you let them. Notions to aspire to, wrestle with, and maybe actually live by.</p>
+<ol>
+<li><strong>Life isn’t too short. </strong>We just blow most of it away—hours lost staring at screens, waiting in airports, keeping up appearances at jobs we hate. Then one day we look up and wonder where all the days went.</li>
+<li><strong>The days feel endless when you’re alive in them.</strong> Slurping noodles at midnight, laughing until your ribs hurt with friends, saying yes when every instinct says no. You can stretch a life into something big and unforgettable, but only if you show up and live it.</li>
+<li><strong>We panic about death, about sickness, about getting old — but then live like we’ve got a million tomorrows to burn.</strong> We order another round, skip the hard conversation, put off the thing we claim we want most. It’s absurd. Time doesn’t care about your plans.</li>
+<li><strong>Someday is a scam. </strong>Someday is where dreams go to die. You want to travel, to write, to tell someone you love them? Do it. Otherwise, you’ll just keep scrolling, waiting, watching life pass you by.</li>
+<li><strong>We hold our money close but toss our time around like it’s worthless. </strong>Endless meetings, pointless conversations, obligations we never signed up for. Meanwhile, the things that actually matter get whatever time is left.</li>
+<li><strong>We’re hooked on the next thing. </strong>The next trip. The next project. The next weekend. Meanwhile, tonight’s meal goes cold on the table. The moment you’re in — this sip, this laugh, this taste — is all there is. Stop looking past it.</li>
+<li><strong>The past is carved in stone, the future’s a big cosmic joke, and the present? That’s the sliver we’ve got to work with.</strong> It’s messy, it’s loud, it’s unpredictable, but it’s real. You either live here — now — or you don’t live at all.</li>
+</ol>]]></content:encoded>
   </item>
   <item>
     <title>Twinkle twinkle</title>
@@ -61,6 +127,16 @@
     <pubDate>Fri, 22 Aug 2025 09:32:15 GMT</pubDate>
     <description>Quick: What’s the acronym for using a fire extinguisher correctly? Time’s up. Unless you&apos;re a fireman, it’s rare to know that PASS–Pull, Aim, Squeeze, and Sweep–is the prescribed way to safely extinguish a fire, and the reason is simple.  It’s not drilled into us. If anything, it’s buried in work...</description>
 
+    <content:encoded><![CDATA[<p>Quick: What’s the acronym for using a fire extinguisher correctly?</p>
+<p><em>Time’s up.</em></p>
+<p>Unless you're a fireman, it’s rare to know that PASS–Pull, Aim, Squeeze, and Sweep–is the prescribed way to safely extinguish a fire, and the reason is simple. </p>
+<p>It’s not drilled into us. If anything, it’s buried in workplace safety manuals, mentioned briefly during orientation, and then forgotten until there’s smoke in the air.</p>
+<p>Not like stop, drop and roll–which, despite <em>not</em> being an acronym, people seem to remember from the time they’re five. Reason being the rhyme is short and sticky–and repeated often enough it lives permanently in our heads.</p>
+<p><em>That’s</em> the power of repetition and simplicity. Messages that are easy to say and picture–when repeated–are impossible to forget. That’s why you can hum the tune of the alphabet song, recite “Twinkle, Twinkle,” or instantly recall “stop, drop, and roll,” decades later. </p>
+<p>PASS never had the same cultural push, and so most people draw a blank when they need it most.</p>
+<p>The same goes for other critical safety procedures we draw a blank on. CPR steps, exit routes, proper ladder safety–if we don't rehearse them (let alone make them easy to remember) they fade from memory entirely. </p>
+<p>The fix is simple: Say it aloud, make it memorable (and/or make rhyme) and repeat it ad nauseum. </p>
+<p>The more you hear it, the more likely it’ll become second nature–which is exactly what you want when seconds count.</p>]]></content:encoded>
   </item>
   <item>
     <title>Forged credibility</title>
@@ -69,6 +145,11 @@
     <pubDate>Thu, 21 Aug 2025 10:13:26 GMT</pubDate>
     <description>Something I’ve discovered: Whenever a person or company feels the need to announce that they&apos;ve won an award or say that other people have said nice things about them, they usually made it up themselves. There are exceptions of course, like testimonials on a landing page, but most of the time, wh...</description>
 
+    <content:encoded><![CDATA[<p>Something I’ve discovered: Whenever a person or company feels the need to announce that they've won an award or say that other people have said nice things about them, they usually made it up themselves.</p>
+<p>There are exceptions of course, like testimonials on a landing page, but most of the time, when you read it in an ad or see it on TV, it's because they’re trying to borrow credibility they haven’t earned.</p>
+<p>Word of mouth works as a social currency because the people doing the talking are our friends, and because the trust isn’t manufactured—it's <em>earned</em>.</p>
+<p>In contrast, when you have to broadcast your praise, it's typically a symptom there’s an absence of organic support. </p>
+<p>It’s like laughing at your own joke—sometimes it works, but most of the time, it just feels forced.</p>]]></content:encoded>
   </item>
   <item>
     <title>Betting with bots</title>
@@ -77,6 +158,18 @@
     <pubDate>Tue, 19 Aug 2025 09:14:20 GMT</pubDate>
     <description>Jotform’s built the  infrastructure  to make a fortune by helping automating customer service. Their platform lets anyone create an AI chatbot that can be easily embedded on a website or integrated with Gmail, SMS, social media, and more. It’s a game-changer for marketing agencies—a soon-to-be st...</description>
 
+    <content:encoded><![CDATA[<p>Jotform’s built the <a href="https://www.jotform.com/ai/agents/">infrastructure</a> to make a fortune by helping automating customer service.</p>
+<p>Their platform lets anyone create an AI chatbot that can be easily embedded on a website or integrated with Gmail, SMS, social media, and more.</p>
+<p>It’s a game-changer for marketing agencies—a soon-to-be staple service.</p>
+<p>Set up, manage, and maintain these bots for your clients, and you’ve got a recurring revenue stream. You could even have an <a href="https://manus.im/home">agentic bot</a> crawl a website, build the knowledge base, and suggest the right buttons, actions, and personas.</p>
+<p>But, here’s the catch: What happens when it breaks?</p>
+<p>Picture this: the chatbot says, “I’m here to help! Please share your email if you want me to forward your request.”</p>
+<p>And then… nothing happens. The system doesn’t notify anyone.</p>
+<p>Now you’ve got frustrated customers asking why there wasn’t a follow-up, or an angry client wondering why their chatbot isn’t doing what you promised.</p>
+<p>Good luck explaining that one.</p>
+<p>The potential here is massive. The opportunity is real. But if and when it breaks, <em>you’re</em> the one who takes the hit.</p>
+<p>Is automating customer service the future? Certainly. Is it also fraught with risk? You bet.</p>
+<p>The question to ask: <em>When should you be willing to take the chance?</em></p>]]></content:encoded>
   </item>
   <item>
     <title>Not long ago I worked as an seo</title>
@@ -85,6 +178,17 @@
     <pubDate>Mon, 18 Aug 2025 09:24:39 GMT</pubDate>
     <description>That typically meant writing blogs with the right keywords (and the right amount of keywords) about who knows what–taken mainly from stuff I read on the net. I’d spend hours researching topics I had no background in, trying to sound like an expert while juggling search intent, keyword density, an...</description>
 
+    <content:encoded><![CDATA[<p>That typically meant writing blogs with the right keywords (and the right amount of keywords) about who knows what–taken mainly from stuff I read on the net.</p>
+<p>I’d spend hours researching topics I had no background in, trying to sound like an expert while juggling search intent, keyword density, and Google’s ever-changing algorithm.</p>
+<p>Now that AI has gone full throttle, SEO’s have been quick to acknowledge that the same strategy doesn’t quite cut it anymore (if it ever did.) AI Visibility Optimization (AIVO), one of <a href="https://www.reddit.com/r/seogrowth/comments/1mm3pxd/can_we_come_up_with_a_better_name_for/">many similar acronyms</a>, is the new frontier—helping content show up in AI-driven search. </p>
+<p>Fortunately, it doesn’t take an SEO guru to help you master the basics—<a href="https://www.perplexity.ai/search/how-can-i-get-my-website-to-ra-_Wq9nR0hQp2J9cWvcus3uA#0">Perplexity</a> can give you the lowdown. But in case you want the TL;DR, you’ll be pleasantly surprised to know it’s probably a lot like traditional SEO, with a twist.</p>
+<p>Just like search engines, AI values content that’s clear, relevant, and genuinely helpful; it just wants it packaged in a way that’s easy for parsing and interpretation.</p>
+<p>Q&amp;A, <a href="https://www.perplexity.ai/search/how-can-i-get-my-website-to-ra-_Wq9nR0hQp2J9cWvcus3uA#2">I’ve read</a>, works well as a content format, because it directly addresses common questions in a clear, scannable way that both users and AI can digest. Pair it with some headings, semantic markup, structured data, and yes, internal and external links, and you’ve got a solid foundation. </p>
+<p>The real question is, where to get the answers?</p>
+<p>If you’re still relying on writers to guess answers from Google, you’re missing out on the real expertise that only your clients can provide.</p>
+<p><em>What to do instead?</em> Rather than hire writers to create content about subjects they know little about, why not have them speak with credible experts directly? Then you can create content from their answers, add a brief summary for each one, and format it as an AMA-style post. </p>
+<p>Simple. Straightforward. Effective. </p>
+<p>Try as you might, nothing beats authentic insights straight from the source—real expertise is the only thing that AI can’t replace. And it’s just the thing humans connect with, trust, and keep coming back for.</p>]]></content:encoded>
   </item>
   <item>
     <title>You&apos;re missing out</title>
@@ -93,6 +197,15 @@
     <pubDate>Sat, 16 Aug 2025 11:10:28 GMT</pubDate>
     <description>Given the endless tirade of choices we have, you’re absolutely, positively, guaranteed to miss out on something.  Because making a choice means saying no to thousands of other things. The question isn’t  what are you missing? It’s  what’s worth missing everything else for? Missing out is inevitab...</description>
 
+    <content:encoded><![CDATA[<p>Given the endless tirade of choices we have, you’re absolutely, positively, guaranteed to miss out on something. </p>
+<p>Because making a choice means saying no to thousands of other things.</p>
+<p>The question isn’t <em>what are you missing?</em></p>
+<p>It’s <em>what’s worth missing everything else for?</em></p>
+<p>Missing out is inevitable. FOMO is a choice. </p>
+<p>You can either spend your life peeking over fences, scrolling through everyone else’s feed, second-guessing your own decisions,</p>
+<p>Or you can make a choice and stand by it.</p>
+<p>You can’t have it all.</p>
+<p>But you can choose something worth having.</p>]]></content:encoded>
   </item>
   <item>
     <title>Technical sophistication</title>
@@ -101,6 +214,20 @@
     <pubDate>Fri, 15 Aug 2025 09:45:21 GMT</pubDate>
     <description>Michael Hartl, author of the uber-popular  Learn Enough to Be Dangerous  web development tutorials has a word for the ability to figure out how to solve technical problems on your way to effectively using computers, software, and, of course, code. Technical sophistication, as he calls it, is the ...</description>
 
+    <content:encoded><![CDATA[<p>Michael Hartl, author of the uber-popular <em>Learn Enough to Be Dangerous</em> web development tutorials has a word for the ability to figure out how to solve technical problems on your way to effectively using computers, software, and, of course, code.</p>
+<p>Technical sophistication, as he calls it, is the technical equivalent of knowing how to adapt quickly in the face of new challenges.</p>
+<p>It’s a soft skill that involves habitually doing lots of things that can help you navigate technical challenges, efficiently and confidently. Things like:</p>
+<ul>
+<li>Looking something up (a tutorial perhaps)</li>
+<li>Using help menus</li>
+<li>Learning keyboard shortcuts</li>
+<li>Googling error messages</li>
+<li>Knowing when to simply reboot a system</li>
+<li>And generally not panicking when encountering something new</li>
+</ul>
+<p>Of course, now that AI can tell you exactly what to do, technical sophistication means knowing how to ask the right questions, interpret the answers, and apply them wisely — all while keeping your head.</p>
+<p>AI can show you how to use just about any program, any tool, or any coding language—not to mention troubleshoot your specific errors and issues—but it can’t make you better at defaulting to using it to solve problems when the situation calls for it.</p>
+<p>Alas. There are simply <em>no excuses</em> for not developing your own technical sophistication, but you have to make the effort to practice by way of prompting, experimenting, and exploring new tools and techniques <em>on your own.</em></p>]]></content:encoded>
   </item>
   <item>
     <title>Measuring impact</title>
@@ -109,6 +236,15 @@
     <pubDate>Thu, 14 Aug 2025 09:41:21 GMT</pubDate>
     <description>Steve Jobs and Tony Fadell built a product that over a billion people use every day. Sergey Brin and Larry Page print money with a platform that millions rely on daily. And Sam Altman, Dario Amodei, and Aravind Srinivas (among others) aren&apos;t far behind.  Building projects that are used so widely ...</description>
 
+    <content:encoded><![CDATA[<p>Steve Jobs and Tony Fadell built a product that over a billion people use every day.</p>
+<p>Sergey Brin and Larry Page print money with a platform that millions rely on daily.</p>
+<p>And Sam Altman, Dario Amodei, and Aravind Srinivas (among others) aren't far behind. </p>
+<p>Building projects that are used so widely is an outstanding way to spend one's days and leave a mark on the world. But just because your project isn’t as big or ambitious doesn’t mean it isn’t worth pursuing.</p>
+<p>Even a small project can change lives—be it an app, a blog, a personal hobby, a small ‘unsuccessful’ nonprofit, or even a job that feels like it’s just paying the bills.</p>
+<p>It’s easy to measure activity—what with users and downloads and queries and clicks.</p>
+<p><em>It's much harder to measure impact.</em></p>
+<p>Impact is ephemeral. It unfolds quietly, beyond what any dashboard can track, while subtly shaping thoughts, habits, and decisions in ways you may never see. </p>
+<p>Don’t feel bad because your project’s small, super niche, or unprofitable. Often, the work that seems invisible or overlooked is <em>exactly</em> what the world most needs, but simply isn’t yet <a href="https://chatgpt.com/share/689c9f64-4fb8-8001-a49d-7395197200cf">prepared</a> to appreciate. </p>]]></content:encoded>
   </item>
   <item>
     <title>Ship happens</title>
@@ -117,6 +253,18 @@
     <pubDate>Wed, 30 Jul 2025 09:32:04 GMT</pubDate>
     <description>Running a business is a lot like captaining a ship. At least, that’s how it feels to me. You could be at the helm of the biggest, most luxurious ocean liner in the world—but if you treat your crew poorly, what’s the point? No one will want to be on board. Morale sinks, and everyone’s experience s...</description>
 
+    <content:encoded><![CDATA[<p>Running a business is a lot like captaining a ship.</p>
+<p><em>At least, that’s how it feels to me.</em></p>
+<p>You could be at the helm of the biggest, most luxurious ocean liner in the world—but if you treat your crew poorly, what’s the point?</p>
+<p>No one will want to be on board. Morale sinks, and everyone’s experience suffers.</p>
+<p>Or consider, of all things, mutiny. If you’ve tossed even a small portion of your crew overboard without warning or a raft—what’s stopping the rest from jumping ship or even turning against you?</p>
+<p>Contrast that with a small, sturdy tugboat. Maybe it’s not flashy, but the crew gets along.</p>
+<p>People enjoy working together.</p>
+<p>The camaraderie makes everything—from scrubbing the decks to preparing meals—smoother, lighter, and more meaningful.</p>
+<p>Then there’s the question of your cargo.</p>
+<p>What are you hauling? Is it valuable, something worth protecting and delivering with care? Or are you simply a container ship turning a blind eye to what’s inside—maybe even looking the other way at shady dealings?</p>
+<p>These are useful metaphors because of what they mean and what they suggest.</p>
+<p>Because it’s not just about the size and shine of the ship (or even where you're going). It’s how you sail it, who you sail it with, and the change you’re making—the wake you leave behind.</p>]]></content:encoded>
   </item>
   <item>
     <title>Comfortable problems</title>
@@ -125,6 +273,14 @@
     <pubDate>Sun, 08 Jun 2025 09:55:20 GMT</pubDate>
     <description>I just finished reading Michael Easter’s book,  The Comfort Crisis , which is a great read even if you’re not an extreme adventurer or fitness enthusiast, as the title might suggest. His premise is simple: Our modern world is full of comforts that, despite making our lives easier and more enjoyab...</description>
 
+    <content:encoded><![CDATA[<p>I just finished reading Michael Easter’s book, <a href="https://www.amazon.com/Comfort-Crisis-Embrace-Discomfort-Reclaim/dp/0593138767"><em>The Comfort Crisis</em></a>, which is a great read even if you’re not an extreme adventurer or fitness enthusiast, as the title might suggest.</p>
+<p>His premise is simple: Our modern world is full of comforts that, despite making our lives easier and more enjoyable, can also make us forget how good we have it and contribute to many of the problems that threaten our happiness and wellbeing.</p>
+<p>It got me thinking about the level of comfort I’ve allowed myself to settle into and whether that comfort is actually serving me in my own life. In the process, I thought up a simple exercise to help me evaluate my relationship with comfort, one that I think might benefit others as well. </p>
+<p>It’s pretty simple. Open a word doc and write down, as best you can, all the ‘problems’ you’re encountering right now or things that are causing you to worry. They could be aches and pains, a broken faucet, paying down your credit card, or even just feeling uninspired at work. Big or small, write them all down without filtering or judging.</p>
+<p>Then, for every item on your list, ask yourself–is this a third world problem or a first world problem masquerading as something worse?</p>
+<p>In other words, is this issue truly threatening your well-being, safety, or ability to live? Or is it a discomfort dressed up as a crisis because I’ve become so used to ease and predictability?</p>
+<p>It’s a powerful reframe. By calling it out for what it is, you strip away the drama and start to see the challenge for what it is: something that might be uncomfortable, but also manageable, even growth-inducing.</p>
+<p>Because if you’re lucky enough to be reading this post at all (on a smartphone or a pc) it’s likely that most of your problems aren’t about survival — they’re about comfort, control, or expectation. It's usually not a crisis. It's a reminder — to appreciate how good you have it.</p>]]></content:encoded>
   </item>
   <item>
     <title>Outdated assessments</title>
@@ -133,6 +289,23 @@
     <pubDate>Fri, 06 Jun 2025 09:57:16 GMT</pubDate>
     <description>Teachers go to wild lengths to stop students from cheating—even making them install surveillance software ( malware ) that locks their browser and monitors their screen, webcam, and search history.  If the point was academic integrity, maybe that would make sense.  But the point is not academic i...</description>
 
+    <content:encoded><![CDATA[<p>Teachers go to wild lengths to stop students from cheating—even making them install surveillance software (<a href="https://www.reddit.com/r/ucf/comments/kwc9r0/honorlock_an_unethical_invasion_of_privacy/">malware</a>) that locks their browser and monitors their screen, webcam, and search history. </p>
+<p>If the point was academic integrity, maybe that would make sense. </p>
+<p>But the point is not academic integrity. </p>
+<p>The point of taking a test—<em>and going to school itself</em>—should be learning. </p>
+<p>And life is an open book test. </p>
+<p>At work, you Google things. You check your notes. You use AI tools. You collaborate. </p>
+<p>In school, we often punish those behaviors.</p>
+<p>We should be teaching students how to think, how to find reliable information, and how solve real-world problems using the tools that are available. </p>
+<p>Instead, we trap them in a controlled environment and pretend that’s how the world works. </p>
+<p>Like—I don’t know—asking them open-ended questions in real-time.</p>
+<p>Letting them explain concepts in their own words.</p>
+<p>Watching how they solve problems, and giving them the time and space to make mistakes, rethink, and try again.</p>
+<p><em>That’s</em> what school is for. Not regurgitating facts.But learning how to learn.</p>
+<p>Learning how to think.</p>
+<p>Learning how to listen, question, and make things better.</p>
+<p>The problem isn’t cheating, and the solution isn’t surveillance.</p>
+<p>The problem is outdated assessments. And the real solution? <em>Rethinking how we do it.</em></p>]]></content:encoded>
   </item>
   <item>
     <title>Ten years from now</title>
@@ -141,6 +314,18 @@
     <pubDate>Fri, 25 Apr 2025 09:45:24 GMT</pubDate>
     <description>Assume that:  AI is as common as electricity—built into nearly every product, app, and service Most people rely on smart AI companions to manage tasks, organize their life, and help make daily decisions Virtual and augmented reality are mainstream—used for work, learning, shopping, and hanging ou...</description>
 
+    <content:encoded><![CDATA[<p>Assume that: </p>
+<ul>
+<li>AI is as common as electricity—built into nearly every product, app, and service</li>
+<li>Most people rely on smart AI companions to manage tasks, organize their life, and help make daily decisions</li>
+<li>Virtual and augmented reality are mainstream—used for work, learning, shopping, and hanging out</li>
+<li>Cities are full of self-driving vehicles, and personal car ownership is on the decline</li>
+<li>Education is mostly online and personalized—AI tutors adapt to how each person learns best</li>
+<li>Health care is proactive—your devices track your health in real time and warn you before something goes wrong</li>
+<li>Climate-related disasters—fires, floods, droughts, extreme heat—are regular and expected across all regions</li>
+<li>Most countries have banned gas-powered cars, and electric vehicles are the default</li>
+</ul>
+<p>What then?</p>]]></content:encoded>
   </item>
   <item>
     <title>Its like magic but with a lot of</title>
@@ -149,6 +334,12 @@
     <pubDate>Thu, 24 Apr 2025 09:02:21 GMT</pubDate>
     <description>I spent last week perusing  Mozilla’s MDN Web Docs  learning about how the web actually works. In case you were wondering, the technology that powers this blog, that enables anyone to seamlessly send and receive email, and that delivers all the content you interact with online every day is nothin...</description>
 
+    <content:encoded><![CDATA[<p>I spent last week perusing <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works">Mozilla’s MDN Web Docs</a> learning about how the web actually works.</p>
+<p>In case you were wondering, the technology that powers this blog, that enables anyone to seamlessly send and receive email, and that delivers all the content you interact with online every day is nothing short of amazing. And yet many people don't have a clue how any of it works behind the scenes. </p>
+<p>Paul Graham, avid blogger and founder of Y Combinator, says that people seeking breakthrough startup ideas should go to the edge of a domain or industry, live in the future, and bring it back to the present. </p>
+<p>Because it turns out that reusable rockets, large language models, and even the web share something in common: they all rely on complex, innovative systems that seem like magic until you break them down. </p>
+<p>When you dig into how it really works, you begin to see the intricate web of engineering and design that makes it all possible. And when you can do that, you’ll be much more likely to spot the next breakthrough. </p>
+<p>Understanding the systems that power technology can give you a glimpse into the future—and into the innovations that are just on the horizon.</p>]]></content:encoded>
   </item>
   <item>
     <title>Rules for saving money while traveling</title>
@@ -157,6 +348,14 @@
     <pubDate>Thu, 17 Apr 2025 09:28:22 GMT</pubDate>
     <description>Bring snacks. You&apos;d be surprised how many things you can bring through security. Never buy food at the airport. It’s always overpriced. If you don&apos;t know how much something cost, ask.  Always .  If you&apos;re the only customer in a venue, don&apos;t buy from there. They&apos;re bad news.  To minimize travel, f...</description>
 
+    <content:encoded><![CDATA[<ul>
+<li>Bring snacks. You'd be surprised how many things you can bring through security.</li>
+<li>Never buy food at the airport. It’s always overpriced.</li>
+<li>If you don't know how much something cost, ask. <em>Always</em>. </li>
+<li>If you're the only customer in a venue, don't buy from there. They're bad news. </li>
+<li>To minimize travel, find a place to stay that's close to where you'll be walking. And double-check too, as objects on a map tend to be further out than they appear.</li>
+<li>Read the description or the fine print, especially with regard to noise and fees. Better yet, ask ChatGPT to call out these things for you. </li>
+</ul>]]></content:encoded>
   </item>
   <item>
     <title>Urgent accountability</title>
@@ -165,6 +364,11 @@
     <pubDate>Mon, 14 Apr 2025 09:02:53 GMT</pubDate>
     <description>Tracking changes in a centralized dashboard–using Jira for example–is a great way to create a trail of changes and ensure accountability.  But if something’s urgent and you want to get someone’s immediate attention, it doesn’t help to rely on dashboard updates themselves.  In those cases, DMs ove...</description>
 
+    <content:encoded><![CDATA[<p>Tracking changes in a centralized dashboard–using Jira for example–is a great way to create a trail of changes and ensure accountability. </p>
+<p>But if something’s urgent and you want to get someone’s immediate attention, it doesn’t help to rely on dashboard updates themselves. </p>
+<p>In those cases, DMs over chat, or emails–when the update is a little less urgent or requires more information–can be a more effective way to get someone's attention.</p>
+<p>It pays when remote teams acknowledge the benefit of adopting and utilizing both methods, ideally in tandem.</p>
+<p>While centralized platforms are great for tracking overall progress, failing to combine them with more immediate communication tools (like instant messages or emails) can actually slow things down. By not addressing urgent matters quickly and clearly, you risk making the process less efficient, not more.</p>]]></content:encoded>
   </item>
   <item>
     <title>Time to pause</title>
@@ -173,6 +377,17 @@
     <pubDate>Sat, 12 Apr 2025 11:11:37 GMT</pubDate>
     <description>If you sit outside nearly any subway stop in a big city, you&apos;ll quickly pick up the sound of cars honking nearby. It happens is waves. One starts and then another. Pretty soon it&apos;s three or five or ten.  It&apos;s a cacophony. Occasionally, it lasts so long that it sounds like one long drone. One ques...</description>
 
+    <content:encoded><![CDATA[<p>If you sit outside nearly any subway stop in a big city, you'll quickly pick up the sound of cars honking nearby.</p>
+<p>It happens is waves. One starts and then another. Pretty soon it's three or five or ten. </p>
+<p>It's a cacophony. Occasionally, it lasts so long that it sounds like one long drone.</p>
+<p>One question to ponder is: Are they happy sitting, waiting, honking?</p>
+<p>Is wherever they're going worth the wait?</p>
+<p>A better question: Are they hoping to feel better once they've arrived at wherever they're intending to go? </p>
+<p>If so, why not just feel better now?</p>
+<p>Why not decide that this doesn’t have to be suffering?</p>
+<p>Hoping to get somewhere else faster doesn’t make things better for anyone. It steals the chance to notice, to sit in silence with things as they are, and to not do—not fix, not force, not flee.</p>
+<p>Just to <em>be</em>.</p>
+<p>Sometimes the most radical act is to do nothing.</p>]]></content:encoded>
   </item>
   <item>
     <title>Waiting rooms</title>
@@ -181,6 +396,13 @@
     <pubDate>Thu, 10 Apr 2025 10:09:46 GMT</pubDate>
     <description>Every time I&apos;m in a waiting room I feel the urge to write.  And this week, I sat in two. Marketers talk an awful lot about how to get how get customers in the proverbial door. And organizations spend a ton heeding their advice. Yet many organizations fall short when the prospect has  arrived .  W...</description>
 
+    <content:encoded><![CDATA[<p>Every time I'm in a waiting room I feel the urge to write. </p>
+<p>And this week, I sat in two.</p>
+<p>Marketers talk an awful lot about how to get how get customers in the proverbial door. And organizations spend a ton heeding their advice.</p>
+<p>Yet many organizations fall short when the prospect has <em>arrived</em>. </p>
+<p>Waiting, perhaps patiently, for their turn to partake in the service they're offering. </p>
+<p>I wonder why most don't think that finding ways to expedite that process (or capitalize on it) is time or money well spent.</p>
+<p>If it gets them in door <em>and keeps them coming back</em> it's usually worth making it a priority.</p>]]></content:encoded>
   </item>
   <item>
     <title>Meetings and listening</title>
@@ -189,6 +411,14 @@
     <pubDate>Thu, 03 Apr 2025 09:52:50 GMT</pubDate>
     <description>Meetings are a bane on many productive workers. They’re also a bore.  That’s usually because most of the things that are said in meetings could be easily summarized in a sentence in an email, or a slew of bullet points in an addendum. But also, often because, if you’re in a large meeting, it is r...</description>
 
+    <content:encoded><![CDATA[<p>Meetings are a bane on many productive workers. They’re also a bore. </p>
+<p>That’s usually because most of the things that are said in meetings could be easily summarized in a sentence in an email, or a slew of bullet points in an addendum. But also, often because, if you’re in a large meeting, it is rare that <em>everyone</em> has something to say that’s directly related to you.</p>
+<p>So we doze off, we check our email or our phones, and we ‘mentally escape’ while waiting for our turn to speak—or for the meeting to end.</p>
+<p>At the same time–we’re openly aware of our poor listening skills, our general lack of empathy, and our need to see the big picture–to understand fully how what everyone is working on fits together and contributes to the larger goal. </p>
+<p>Hence a simple hack that might make your meetings more engaging–and that will certainly improve your listening skills: whenever you’re in a meeting, open a separate doc, and, anytime anyone speaks, write a summary of what they say. </p>
+<p>Not what you hear word for word, but what they mean to say–what they probably should have said if they’d had the time to organize their thoughts. </p>
+<p>It’ll force you to process what they’re saying, filter out the fluff and focus on the core message. And by translating what’s said into clear concise points, you’ll be better able to understand the big picture and the relevance of what each person has said.</p>
+<p>I can’t promise it’ll transform every meeting from a tedious time-sink to a meaningful session, but it can at least make for a productive use of the time you do spend in them.</p>]]></content:encoded>
   </item>
   <item>
     <title>Coffee genre</title>
@@ -197,6 +427,15 @@
     <pubDate>Sat, 22 Feb 2025 11:27:30 GMT</pubDate>
     <description>We don’t often think of coffee shops as having genres. But of course, they do. Dunkin’ and Starbucks serve coffee, but they’re not the same thing. One is optimized for speed and routine. The other sells an experience. Same product, different genre. Genres exist everywhere. They help us navigate t...</description>
 
+    <content:encoded><![CDATA[<p>We don’t often think of coffee shops as having genres. But of course, they do.</p>
+<p>Dunkin’ and Starbucks serve coffee, but they’re not the same thing. One is optimized for speed and routine. The other sells an experience. Same product, different genre.</p>
+<p>Genres exist everywhere. They help us navigate the world. We don’t confuse a Hallmark movie with a Richard Curtis rom-com–even if they both tell love stories. A dive bar and a speakeasy both serve drinks, but they attract different people with different expectations.</p>
+<p>The question is: what genre are you creating? And is that the genre your customers believe they’re in?</p>
+<p>Are you running a third-wave, hand-crafted, pour-over café that draws in connoisseurs? Or a high-energy, drive-thru-only coffee stand that thrives on speed? </p>
+<p>Are you building a business that invites people to slow down and savor, or one that fuels their rush to work?</p>
+<p>The mistake isn’t in choosing the wrong genre—it’s in not choosing one at all.</p>
+<p>A diner with bottomless coffee has a different promise than a café that sells $7 lattes. </p>
+<p>Neither is better, but each is better for someone.</p>]]></content:encoded>
   </item>
   <item>
     <title>Avoiding words</title>
@@ -205,6 +444,12 @@
     <pubDate>Fri, 21 Feb 2025 10:20:52 GMT</pubDate>
     <description>Words shape the way we think. But lately, some words seem to be off-limits, even feared. Take diversity. It’s not just about people—it’s about ideas, experiences, and approaches. Or equity. It&apos;s what happens when we avoid false proxies and give everyone a fair chance.  And inclusion? That&apos;s what ...</description>
 
+    <content:encoded><![CDATA[<p>Words shape the way we think. But lately, some words seem to be off-limits, even feared.</p>
+<p>Take diversity. It’s not just about people—it’s about ideas, experiences, and approaches.</p>
+<p>Or equity. It's what happens when we avoid false proxies and give everyone a fair chance. </p>
+<p>And inclusion? That's what makes things richer. A bonus track on an album. A surprise twist in a story. The inclusion of fresh ideas in a brainstorm.</p>
+<p>These words don’t need disclaimers. They need the courage to use them with intent.</p>
+<p>Avoiding them only narrows the possibilities.</p>]]></content:encoded>
   </item>
   <item>
     <title>Taking a different route</title>
@@ -213,6 +458,10 @@
     <pubDate>Fri, 14 Feb 2025 10:47:49 GMT</pubDate>
     <description>Matt Green , who quit his job to walk every street of all five boroughs of New York City, says that many people aren’t acutely aware of their surroundings–even within the spaces they occupy every day. Only when you intentionally take a different path do you begin to notice all the streets, sights...</description>
 
+    <content:encoded><![CDATA[<p><a href="https://imjustwalkin.com/">Matt Green</a>, who quit his job to walk every street of all five boroughs of New York City, says that many people aren’t acutely aware of their surroundings–even within the spaces they occupy every day.</p>
+<p>Only when you intentionally take a different path do you begin to notice all the streets, sights, and stories that have been hiding in plain sight.</p>
+<p>This is probably true for other things as well. Like the goings on at work, or the tools we use everyday, or the people we’re surrounded by. We often only notice what we encounter. Everything else fades from view.</p>
+<p>Just like wandering down an unfamiliar path, taking a fresh look at our daily surroundings—whether in our jobs, relationships, or habits—can open us up to new insights and opportunities we might have otherwise missed.</p>]]></content:encoded>
   </item>
   <item>
     <title>Artificial voices</title>
@@ -221,6 +470,13 @@
     <pubDate>Thu, 13 Feb 2025 09:23:59 GMT</pubDate>
     <description>Descript has a neat feature where you can create an  artificial voice  by reciting a simple script. You provide a sample of a voice, and Descript uses AI to generate a realistic synthetic version. This allows you to edit audio by simply typing text, and the AI will read it in your voice. It’s not...</description>
 
+    <content:encoded><![CDATA[<p>Descript has a neat feature where you can create an <a href="https://www.descript.com/ai-voices">artificial voice</a> by reciting a simple script.</p>
+<p>You provide a sample of a voice, and Descript uses AI to generate a realistic synthetic version. This allows you to edit audio by simply typing text, and the AI will read it in your voice.</p>
+<p>It’s not perfect. <em>Yet</em>. It doesn't always capture every nuance perfectly, and sometimes the generated voice can miss certain inflections or sound a bit robotic.</p>
+<p>The audio generated by Google’s new NotebookLM “audio overview” feature--which features two AI generated voices, one male and one female, who explain concepts in a podcast-esque dialog–is, however, <em>astonishingly</em> realistic.</p>
+<p>Here’s a <a href="https://notebooklm.google.com/notebook/30c725cc-c480-4e5b-ad9f-7dbe0851d383/audio">five-minute clip</a> of the pair reciting Descript’s voice training statement, and then explaining why the vocal exercise is crucial for mastering natural speech.</p>
+<p>It’s scary good. And it raises a lot of questions about what happens when a synthetic voice sounds exactly like a human.</p>
+<p>Today is the worst that AI will ever be. We need to be cognizant of the challenges it brings as we embrace the potential that tomorrow’s AI holds.</p>]]></content:encoded>
   </item>
   <item>
     <title>One person one thing</title>
@@ -229,6 +485,13 @@
     <pubDate>Tue, 14 Jan 2025 09:35:40 GMT</pubDate>
     <description>Homelessness is an incredibly complex, systemic problem that requires a multi-faceted, long-term approach that addresses both immediate needs and underlying causes.  It’s far too complex for any one person to solve alone.  That’s why the following technique–which can be applied to any complex pro...</description>
 
+    <content:encoded><![CDATA[<p>Homelessness is an incredibly complex, systemic problem that requires a multi-faceted, long-term approach that addresses both immediate needs and underlying causes. </p>
+<p>It’s far too complex for any one person to solve alone. </p>
+<p>That’s why the following technique–which can be applied to any complex problem–can be so helpful. </p>
+<p>Consider this notion: Given <em>all</em> the things we can do to combat this problem, what’s one thing that one person can do that might have the highest leverage in addressing it?</p>
+<p>And then we ask it again and again and again. </p>
+<p>Suddenly, the complex problem of homelessness becomes advocating for systemic change. Advocating for policy reform becomes building relationships with local lawmakers. And building a relationship with a local elected official becomes scheduling a face-to-face meeting with someone to discuss a specific policy. </p>
+<p>One action–done repeatedly–is all it takes. Made possible by asking “what’s one thing I can do?” until you arrive at a single concrete action you can take that leverages your time and effort in the greatest possible way.</p>]]></content:encoded>
   </item>
   <item>
     <title>Just 7 years</title>
@@ -237,6 +500,12 @@
     <pubDate>Thu, 09 Jan 2025 22:44:38 GMT</pubDate>
     <description>If you look at the founders of Facebook, Twitter, Instagram, Doordash, Instacart, and Medium.com, you&apos;ll notice something striking: it took them less than a decade to go from novice coders to founders of some of the world’s most successful tech companies. If you do the math, it took them an avera...</description>
 
+    <content:encoded><![CDATA[<p>If you look at the founders of Facebook, Twitter, Instagram, Doordash, Instacart, and Medium.com, you'll notice something striking: it took them less than a decade to go from novice coders to founders of some of the world’s most successful tech companies.</p>
+<p>If you do the math, it took them an average of 7 years to go from learning the basics of programming to disrupting entire industries.</p>
+<p>Two lessons here. </p>
+<p>One, 7 years is a long time. But in the grand scheme of life, 7 years is surprisingly short. If all it takes is 7 years of practice to go from novice to founder of a billion-dollar company, then more people shouldn’t overlook coding (or anything else!) as a career path. Because, regardless of when you’re starting, you likely have the potential to acquire the skills to launch something impactful. </p>
+<p>Two, the power of compounding effort. Progress doesn’t happen overnight, but with consistent effort, the results compound in ways you might not initially expect. Mark Zuckerberg founded Facebook six years after launching several other projects–many of which were duds. If he hadn't kept building imperfect apps and learning from each one, Facebook may never have existed. </p>
+<p>The more you build, the more you learn. The more you learn, the better you become, and the more you’ll realize what’s possible. It’s that understanding, paired with the ability to make it happen, that enables people to have an idea and turn it into reality. </p>]]></content:encoded>
   </item>
   <item>
     <title>Goals and buffers</title>
@@ -245,6 +514,18 @@
     <pubDate>Tue, 07 Jan 2025 09:43:44 GMT</pubDate>
     <description>Building buffers for your goals is a great way to increase the likelihood of actually achieving them, without getting discouraged by setbacks.  Instead of saying “I’ll do this everyday” and feeling bad when we inevitably slip up, we can give ourselves permission to miss a day and cut ourselves so...</description>
 
+    <content:encoded><![CDATA[<p>Building buffers for your goals is a great way to increase the likelihood of actually achieving them, without getting discouraged by setbacks. </p>
+<p>Instead of saying “I’ll do this everyday” and feeling bad when we inevitably slip up, we can give ourselves permission to miss a day and cut ourselves some slack. Then we can bounce back with enthusiasm tomorrow. </p>
+<p>This approach keeps us focused on progress, rather than perfection, and increases our chances of sustained success.</p>
+<p>Alas. Here’s a few ideas for building buffers into your own goals this year, inspired by some of my own.  </p>
+<ul>
+<li>Instead of committing to flossing everyday, you can commit to flossing every other day. </li>
+<li>Instead of not eating sugar and flour for every meal of every day, you can allow ourselves a cheat treat once a week or two. You can also set boundaries around what types of treats you indulge in (for example, extra dark chocolate instead of chocolate cake.)</li>
+<li>Instead of aiming for intense workouts every day, you can incorporate “active rest days.” For example, some days of the week could be reserved for stretching, yoga, or walking—giving you the flexibility to rest while staying active.</li>
+<li>Instead of committing to <em>always</em> talking to a stranger when you’re out and about, you could commit to talking to one at least one a week. Or you could set a goal to strike up a conversation in every outing, with permission to skip it if your social battery is at 1%. </li>
+<li>Instead of posting a blog every day, you could commit to posting once or twice a week to start—acknowledging that writing takes time, life gets busy, and creativity–like it or not–tends to ebb and flow.</li>
+</ul>
+<p>[Hat tip to <a href="https://www.instagram.com/researchdoodles/p/DCUfXQlPjyD/?img_index=1">Marissa Shandell</a> for the original idea.]</p>]]></content:encoded>
   </item>
   <item>
     <title>Mission vs outcomes</title>
@@ -253,6 +534,11 @@
     <pubDate>Sat, 21 Dec 2024 09:47:42 GMT</pubDate>
     <description>Mom’s Organic Market’s mission is “to protect and restore the environment.” It’s interesting they don’t say “to stop all pollution&quot; or &quot;to offset their carbon footprint by 50%.” A mission is aspirational and actionable, but unlike a goal, flexible enough to guide long-term efforts.  And, because ...</description>
 
+    <content:encoded><![CDATA[<p>Mom’s Organic Market’s mission is “to protect and restore the environment.”</p>
+<p>It’s interesting they don’t say “to stop all pollution" or "to offset their carbon footprint by 50%.”</p>
+<p>A mission is aspirational and actionable, but unlike a goal, flexible enough to guide long-term efforts. </p>
+<p>And, because it’s not dependent on outside forces, Mom’s can stay true to its purpose even in the face of changing circumstances.</p>
+<p>It’s not about what numbers they hit or what someone else <em>didn’t</em> do–it’s about the consistent, ongoing commitment to making a positive impact. </p>]]></content:encoded>
   </item>
   <item>
     <title>Comments in context</title>
@@ -261,6 +547,12 @@
     <pubDate>Fri, 06 Dec 2024 11:29:52 GMT</pubDate>
     <description>Sometimes, changing the medium can make for a clearer message.  If you’re trying to tell someone something about something they need to see, it pays to pair your comments with a visual.  That’s where tools like  Cleanshot  (for Mac) and  Jumpshare  (for Windows) can help. These tools allow you to...</description>
 
+    <content:encoded><![CDATA[<p>Sometimes, changing the medium can make for a clearer message. </p>
+<p>If you’re trying to tell someone something about something they need to see, it pays to pair your comments with a visual. </p>
+<p>That’s where tools like <a href="https://cleanshot.com/">Cleanshot</a> (for Mac) and <a href="https://jumpshare.com/">Jumpshare</a> (for Windows) can help. These tools allow you to quickly capture screenshots, annotate them, and share them with a simple link, making it much easier to communicate what you’re seeing.  </p>
+<p>Same goes for comments in design files–in Figma, Miro, or Sketch. Adding comments directly on the design itself can make feedback more precise and actionable.</p>
+<p>These days, it’s not enough to point out a problem or suggest a change--that ambiguity only creates friction (and wastes everyone’s time). </p>
+<p>By putting your comments in context, you can bypass the confusion, the guesswork, and the need for clarifications from the start.</p>]]></content:encoded>
   </item>
   <item>
     <title>Immaterial wealth</title>
@@ -269,6 +561,12 @@
     <pubDate>Thu, 05 Dec 2024 10:26:35 GMT</pubDate>
     <description>There are lots of things money can buy.   Products, appliances, subscriptions, gear… And then there are experiences–fleeting yet priceless moments that stay with you. It can be hard to rationalize buying things that are short-lived. But sometimes, the value of a thing isn’t in what it does, but i...</description>
 
+    <content:encoded><![CDATA[<p>There are lots of things money can buy.  </p>
+<p><em>Products, appliances, subscriptions, gear…</em></p>
+<p>And then there are experiences–fleeting yet priceless moments that stay with you.</p>
+<p>It can be hard to rationalize buying things that are short-lived. But sometimes, the value of a thing isn’t in what it does, but in the impression it has on us.</p>
+<p>More often than not, it’s not what you own, but what you've done and where you've been that enriches your life. And so traveling to new places, or trying new things, or spending time with those we care about is money well spent. </p>
+<p>It’s a type of wealth that can’t be measured in dollars and cents, yet only seems to increase in value as time passes.</p>]]></content:encoded>
   </item>
   <item>
     <title>You&apos;ve got mail</title>
@@ -277,6 +575,12 @@
     <pubDate>Fri, 08 Nov 2024 09:59:52 GMT</pubDate>
     <description>It’s pretty obvious that email only works as an efficient communication device if you actually read the emails people send you.  That’s why it’s helpful to keep your inbox clear–so you see what’s new the moment it arrives. It’s a constant chore that’s worth the effort– because  it allows you to r...</description>
 
+    <content:encoded><![CDATA[<p>It’s pretty obvious that email only works as an efficient communication device if you actually read the emails people send you. </p>
+<p>That’s why it’s helpful to keep your inbox clear–so you see what’s new the moment it arrives. It’s a constant chore that’s worth the effort–<em>because</em> it allows you to respond promptly. </p>
+<p>Doing what many people do–lazily ignoring the incoming–ironically makes things harder. Important updates are buried. Forgotten tasks create unnecessary stress. And ‘checking the mail’ becomes a dreaded task instead of a quick and painless one.</p>
+<p>My advice? Flag everything you’re going to need to read today. Put important things that are pending within a month in a separate folder for later review. And archive everything else—you can always search for it later.  </p>
+<p>Keep it clean and tidy, and check it twice a day. (Or, don’t check your email at all.)</p>
+<p>Beats getting lost in the clutter. </p>]]></content:encoded>
   </item>
   <item>
     <title>Unwrapping nostalgia</title>
@@ -285,6 +589,12 @@
     <pubDate>Thu, 31 Oct 2024 10:24:42 GMT</pubDate>
     <description>It turns out it&apos;s astonishingly difficult to make homemade Sour Patch Kids. Just ask Claire Saffitz from Bon Appétit.  She knows. I&apos;m sure the same could be said for dozens of candies we grew up with—the same confections we&apos;ll likely treat our kids to this Halloween.  Yes, sweets aren’t good for ...</description>
 
+    <content:encoded><![CDATA[<p>It turns out it's astonishingly difficult to make homemade Sour Patch Kids.</p>
+<p>Just ask Claire Saffitz from Bon Appétit. <em>She knows.</em></p>
+<p>I'm sure the same could be said for dozens of candies we grew up with—the same confections we'll likely treat our kids to this Halloween. </p>
+<p>Yes, sweets aren’t good for you. And no, not even if you make them from scratch. Unless you delight in DIY and relish in recreating the impossible, there’s little health benefit in making homemade versions. Sugar’s still sugar, and the indulgence is still there. </p>
+<p>But maybe that’s the point—it’s okay for treats to be treats. Sometimes, the joy of savoring something (anything) outweighs the need for it to be healthy, or productive.</p>
+<p>After all, nothing’s quite like the gooey goodness of a store-bought gummy or the flavor of your favorite chocolate bar. So I say eat your fill—at least on Halloween.</p>]]></content:encoded>
   </item>
   <item>
     <title>Small and unsustainable</title>
@@ -293,6 +603,13 @@
     <pubDate>Wed, 30 Oct 2024 09:08:33 GMT</pubDate>
     <description>Brian Chesky often recounts how the idea for Airbnb came about when he and his co-founder Joe Gebbia decided to rent out air mattresses in their apartment during a design conference in San Francisco.  They created a simple website to advertise the space, and to their surprise, it attracted guests...</description>
 
+    <content:encoded><![CDATA[<p>Brian Chesky often recounts how the idea for Airbnb came about when he and his co-founder Joe Gebbia decided to rent out air mattresses in their apartment during a design conference in San Francisco. </p>
+<p>They created a simple website to advertise the space, and to their surprise, it attracted guests. </p>
+<p>It worked <em>because</em> it was small and unsustainable. They didn’t have the resources, money, or time to scale their operations, so they focused on providing a personalized experience for a few people. </p>
+<p>That’s what enabled them to engage directly with their earliest adopters–and (arguably) what allowed them to succeed later–because they were then able to get real-world on-the-ground feedback directly from their guests. </p>
+<p>This hands-on, grassroots approach to testing ideas is what founders mean when they say “do things that don’t scale.” Because by creating a viable product that works for a small number of people, you can learn what works and what doesn’t almost immediately. And then, you can make iterative improvements on top of that to not only make it work for <em>more</em> people, but create a stronger value proposition than you would if you tried to scale too quickly.</p>
+<p>The method isn’t sustainable in the long run, but it’s not supposed to be. What it is is a crucial moment of discovery where you can deeply understand your core customers’ pain points and preferences, and design a solution that addresses them.</p>
+<p>Design is but a reflection of our understanding of the needs of our users, and having a ritual for doing just that–with the smallest possible investment of resources for the smallest viable audience–can yield profound insights. </p>]]></content:encoded>
   </item>
   <item>
     <title>Keeping buying and forgoing</title>
@@ -301,6 +618,13 @@
     <pubDate>Fri, 25 Oct 2024 09:51:19 GMT</pubDate>
     <description>If the joy you get from owning something is greater than how much you&apos;d get if you sold it, it&apos;s obvious that you should keep it.  A simple house plant might sell for a few dollars (or a few hundred) but if it makes you happy to see it, how much it costs is irrelevant. If it adds more to your lif...</description>
 
+    <content:encoded><![CDATA[<p>If the joy you get from owning something is greater than how much you'd get if you sold it, it's obvious that you should keep it. </p>
+<p>A simple house plant might sell for a few dollars (or a few hundred) but if it makes you happy to see it, how much it costs is irrelevant. If it adds more to your life than what you’d gain from letting it go, it’s usually worth keeping.</p>
+<p>Of course, people often make the opposite choice all the time. They buy things that don't make them happy and hold on to things that, if they got rid of, might actually improve their lives.</p>
+<p>Many people value the act of having money in the bank more than many of the things that money can buy. And yet some of those people continue to shop out of boredom or habit without ever asking why. </p>
+<p>What's money for? What can we do with it, and what can't we? </p>
+<p>It's a useful exercise to ask these questions and others like them. Because money, of course, is a tool-one that's mostly made up. </p>
+<p>What matters is the story we tell ourselves about it, and how we use it to enrich and enhance our lives.</p>]]></content:encoded>
   </item>
   <item>
     <title>Rethinking coffee</title>
@@ -309,6 +633,14 @@
     <pubDate>Tue, 22 Oct 2024 08:52:57 GMT</pubDate>
     <description>If you ever get coffee from one of those old, commercial drip machines (the kind you might find at a gas station or a diner), it usually tastes a little burnt at the edges with an almost astringent quality. The boldness is jarring, like a slap in the face from a sleep-deprived barista.  Here’s so...</description>
 
+    <content:encoded><![CDATA[<p>If you ever get coffee from one of those old, commercial drip machines (the kind you might find at a gas station or a diner), it usually tastes a little burnt at the edges with an almost astringent quality.</p>
+<p>The boldness is jarring, like a slap in the face from a sleep-deprived barista. </p>
+<p>Here’s something you might not know: coffee is <em>not</em> supposed to taste that way. The reason it does is because these antiquated machines are just that. They make the water too hot, they brew it for too long, and they over-extract the flavor–making for a bitter and one-dimensional cup.  </p>
+<p><em>It’s gross.</em></p>
+<p>But that doesn't stop millions of people from drinking the stuff daily. Because grabbing a coffee from 7-Eleven is normal, while <a href="https://www.youtube.com/watch?v=O9YnLFrM7Fs">carefully selecting</a> your beans, and <a href="https://www.youtube.com/watch?v=rxR34mURRJE">brewing a fresh cup</a> at home is not. </p>
+<p>For many, the former is the “regular kind”–the kind tainted with nostalgia–while the latter is a luxury and a lifestyle. While <em>other people</em> wouldn’t be caught a day drinking what everyone else considers normal—eager not to settle with what’s convenient.</p>
+<p>Sure. Drinking better than regular coffee is snobbish. But it's also about savoring life and respecting the craft. And if you're going to drink it everyday, why wouldn't you want to enjoy it to its fullest?</p>
+<p>Just something to think about when it comes to choosing the things we buy, do, and consume. Especially when that something is (or isn’t) familiar. </p>]]></content:encoded>
   </item>
   <item>
     <title>Passing the puck</title>
@@ -317,6 +649,11 @@
     <pubDate>Sat, 19 Oct 2024 08:38:48 GMT</pubDate>
     <description>I went to a professional hockey game for the first time.  Something I noticed is that instead of “hogging the puck” (as what tends to occur in other sports) hockey players will pass the puck way out into the open, anticipating that their teammates will be in the right position to receive it.  The...</description>
 
+    <content:encoded><![CDATA[<p>I went to a professional hockey game for the first time. </p>
+<p>Something I noticed is that instead of “hogging the puck” (as what tends to occur in other sports) hockey players will pass the puck way out into the open, anticipating that their teammates will be in the right position to receive it. </p>
+<p>There’s a lot of ways to make that into a metaphor about collaboration and teamwork. But it’s not just about working together and being aware of those around us–it’s an apt reminder that sometimes, when the going gets tough, the best move might be to let go of what seems to be working and put your faith in the process of trying something new.</p>
+<p>Clinging to what feels familiar sure feels comfortable, but it can blind us to possibilities we don’t yet know exist. </p>
+<p>Holding onto the puck for too long can leave us corned, causing us to lose possession entirely. Whereas sharing the puck and passing it can increase our chances of scoring. </p>]]></content:encoded>
   </item>
   <item>
     <title>Code and convenience</title>
@@ -325,6 +662,12 @@
     <pubDate>Fri, 18 Oct 2024 09:28:52 GMT</pubDate>
     <description>Here’s something that’s obvious that many software developers overlook: when it comes to software, people value convenience above pretty much all else.  If a tool is only slightly more difficult to embrace because it has limits inherent in its design, many users may hesitate to use it frequently....</description>
 
+    <content:encoded><![CDATA[<p>Here’s something that’s obvious that many software developers overlook: when it comes to software, people value convenience above pretty much all else. </p>
+<p>If a tool is only slightly more difficult to embrace because it has limits inherent in its design, many users may hesitate to use it frequently. Especially when another, easier-to-adopt solution exists.</p>
+<p>Case in point. <a href="https://audiopen.ai/">Audiopen</a> is a little harder to bake into my workflow than <a href="https://otter.ai/">Otter</a>, since the former is web-based and the latter is native. I have to remember to click my bookmark to then login and use it, whereas Otter is merely a swipe and a tap away. </p>
+<p>I’ve also seen a surge of “I will make your writing better in every way” apps come and go as of late. Some of them are useful. But it takes more than moment to make use of them. In contrast, what makes Grammarly so sticky is that it sits in your browser and lives in all your writing apps. You don’t have to think to use it–it’s just there.</p>
+<p>And, of course, watching a movie on Netflix is a lot more convenient than plugging a DVD into your player, <em>and</em> going to the store to buy or rent a movie yourself. </p>
+<p>Ultimately, the success of a tool hinges on its ability to fit effortlessly into its users' lives. If a product can streamline a process or eliminate hurdles, it will certainly be tried and talked about. But only if it’s that <em>and</em> easy to embrace does it stand a chance of being adopted and retained.</p>]]></content:encoded>
   </item>
   <item>
     <title>A simplified version</title>
@@ -333,6 +676,11 @@
     <pubDate>Thu, 17 Oct 2024 11:03:37 GMT</pubDate>
     <description>Humans are notoriously bad at communicating things in plain language, in a manner that’s easy to read and comprehend. We’re so bad at it, in fact, that’s it’s all but guaranteed that most AIs can do it better and faster than any of us.  That’s why if you want to get someone to do something, askin...</description>
 
+    <content:encoded><![CDATA[<p>Humans are notoriously bad at communicating things in plain language, in a manner that’s easy to read and comprehend.</p>
+<p>We’re so bad at it, in fact, that’s it’s all but guaranteed that most AIs can do it better and faster than any of us. </p>
+<p>That’s why if you want to get someone to do something, asking an LLM to give you a simplified version of your original is almost always a better play.</p>
+<p>ChatGPT, for example, can churn out a “less overwhelming and easier to comprehend” version of your original, so that everything you write–be it an email, record, or report–comes across clearly. </p>
+<p>It’s easier than waiting to find out if your message was well received or was tainted with confusion.  And it's faster than having to clarify what you wrote after you sent it.</p>]]></content:encoded>
   </item>
   <item>
     <title>False proxies and tech</title>
@@ -341,6 +689,16 @@
     <pubDate>Mon, 14 Oct 2024 11:03:59 GMT</pubDate>
     <description>A few months ago, I had a conversation with a hiring manager at an association outside D.C. You’ve definitely heard of them. They’re known for setting the bar when it comes to fair hiring. Or, at least, claiming that they do. The thing is, at no point in the five weeks between when I applied for ...</description>
 
+    <content:encoded><![CDATA[<p>A few months ago, I had a conversation with a hiring manager at an association outside D.C.</p>
+<p>You’ve definitely heard of them.</p>
+<p>They’re known for setting the bar when it comes to fair hiring. Or, at least, claiming that they do.</p>
+<p>The thing is, at no point in the five weeks between when I applied for the job and when I was asked to come in for a final third-round interview did they accurately assess my performance. </p>
+<p>They could have easily asked me to take a test using Typeform. Or, perhaps, give me a take-home assignment to gauge my skills.</p>
+<p>You can’t claim to practice equitable hiring unless you’re brave enough to ignore false proxies—the things we use to gauge a person’s ability to perform a task without actually asking them to do it.</p>
+<p>Things like where they went to school and where they last worked, or even what they said they've done on their resume. </p>
+<p>Resumes don’t tell the full story. And interview skills, for better or worse, rarely reflect someone’s potential. </p>
+<p>Equitable hiring requires a deeper assessment of someone’s actual abilities and potential contributions, beyond surface-level indicators like educational background or previous roles. It's about ensuring that every candidate has a fair opportunity to demonstrate their skills and suitability for a role, rather than relying on assumptions or unreliable markers of success.</p>
+<p>There’s never been an easier time to design an accurate assessment and evaluate it for multiple pre-vetted candidates, at scale. AI can do most of the work for us, but it’s employers to make it happen. </p>]]></content:encoded>
   </item>
   <item>
     <title>When willpower falters</title>
@@ -349,6 +707,12 @@
     <pubDate>Sun, 13 Oct 2024 09:03:39 GMT</pubDate>
     <description>Something I&apos;ve picked up on over 34 years of living is that I rarely have the willpower to avoid the things I know I should when I&apos;m stressed, bored, or lonely. Fortunately, I don&apos;t feel those emotions all the time. But I experience them often enough that I could potentially undo a lot of progres...</description>
 
+    <content:encoded><![CDATA[<p>Something I've picked up on over 34 years of living is that I rarely have the willpower to avoid the things I know I should when I'm stressed, bored, or lonely.</p>
+<p>Fortunately, I don't feel those emotions all the time. But I experience them often enough that I could potentially undo a lot of progress if I continue to give in to those impulses. </p>
+<p>What I’ve realized is that willpower alone isn’t always enough—because we all have our moments, we all have bad days—and it's impractical to think we'll be perfect all the time. </p>
+<p>Better, I think, to acknowledge that consistency matters more than streaks. And that self-compassion is a better approach than the kind of criticism that lets you off the hook. </p>
+<p>Instead of spiraling, the combination of "I'm not perfect" and "it's okay to stumble" makes for a powerful mindset shift. And, with it, the freedom to move forward with renewed determination, knowing that what we do next is more important than what just happened. </p>
+<p>Progress, after all, is a journey, and for more people than most, it's rarely a linear path.</p>]]></content:encoded>
   </item>
   <item>
     <title>Observational statements</title>
@@ -357,6 +721,14 @@
     <pubDate>Sat, 12 Oct 2024 10:05:54 GMT</pubDate>
     <description>We’re often told that making assumptions about people is usually the wrong way to build rapport, since it often leads to misconceptions and unfair judgements. That&apos;s because making assumptions (without asking questions) can blind us to who the person really, truly is. But if you’re making convers...</description>
 
+    <content:encoded><![CDATA[<p>We’re often told that making assumptions about people is usually the wrong way to build rapport, since it often leads to misconceptions and unfair judgements.</p>
+<p>That's because making assumptions (without asking questions) can blind us to who the person really, truly is.</p>
+<p>But if you’re making conversation and you want to probe deeper, making observations (<em>with an open mind</em>) can be a potent tool. Because while questions can certainly open the door to deeper conversations, casual observations–like commenting on someone’s outfit or guessing someone’s plans–can act as light, non-threatening icebreakers.</p>
+<p>If you assume right, it shows you’re observant. While if you assume wrong, it can lead to a playful correction and clarification, which can make for good conversation.</p>
+<p>Of course, you might think that you can’t possibly come up with much to talk about someone, based solely and squarely on their appearance alone, but that’s because we often overlook all the things that a person in a place suggests.</p>
+<p>Sure, you can comment on their clothing, their hairstyle, their accessories, and, of course, their physique. But what about their posture? Their body language? Their facial expressions or their voice or their mood?</p>
+<p>What does it look like they’re doing? Where does it look like they’re going? Do they compliment or contrast with their surroundings? <em>Say so!</em></p>
+<p>There’s certainly a lot more to know about a person than their appearance might suggest. But there’s also loads you can gather from what meets the eye at first glance–if only you’re willing to see the details that paint that more vivid picture. </p>]]></content:encoded>
   </item>
   <item>
     <title>Ad blockers and authenticity</title>
@@ -365,6 +737,14 @@
     <pubDate>Fri, 11 Oct 2024 09:11:50 GMT</pubDate>
     <description>I went to a marketing conference a few weeks ago and met a bunch of people, including a few paid media specialists. Something I would have liked to ask was whether any of them used ad blockers to hide the ads that other marketers have created. Everyone else does. By now, it seems like a common pr...</description>
 
+    <content:encoded><![CDATA[<p>I went to a marketing conference a few weeks ago and met a bunch of people, including a few paid media specialists.</p>
+<p>Something I would have liked to ask was whether any of them used ad blockers to hide the ads that other marketers have created.</p>
+<p>Everyone else does. By now, it seems like a common practice. So I’d hazard a guess that the only folks who <em>aren’t</em> doing it might be the advertisers themselves.</p>
+<p>Of course, if that were true, it could be because of a certain bias—that causes them to view ads not as an annoying assault to our attention, but as a certain form of art.</p>
+<p>But, if they <em>are </em>blocking ads, what does that say about the effectiveness of their own flavor of marketing? Do they really think other people are going to be persuaded, let alone see the thing they're promoting via an ad?</p>
+<p>The fact that influencer marketing is on the rise suggests that authenticity is the new currency of engagement. That the content that works is content that resonates; what feels genuine and relatable. </p>
+<p>Given the maelstrom of ads and our skepticism of the press, it’s not enough to simply spray and pray any longer–even with targeted ads. </p>
+<p>The world has changed. People aren’t the same. And connection (not interruption) is the path forward. </p>]]></content:encoded>
   </item>
   <item>
     <title>AI skills</title>
@@ -373,6 +753,13 @@
     <pubDate>Thu, 10 Oct 2024 08:31:50 GMT</pubDate>
     <description>I recently read how  a program in Ireland  is equipping people in rural areas with essential “AI skills.” To say nothing of the program itself, I&apos;m not sure &quot;skills&quot; is the right word. Perhaps &quot;literacy&quot; might be more fitting? Understanding  how it works  is certainly worth the investment. As man...</description>
 
+    <content:encoded><![CDATA[<p>I recently read how <a href="https://news.microsoft.com/source/emea/features/leaving-no-one-behind-ireland-ai-tools-innkeepers-weavers-florists/">a program in Ireland</a> is equipping people in rural areas with essential “AI skills.”</p>
+<p>To say nothing of the program itself, I'm not sure "skills" is the right word. Perhaps "literacy" might be more fitting?</p>
+<p>Understanding <a href="https://seths.blog/2024/10/yes-but-how-does-it-work/">how it works</a> is certainly worth the investment. As many folks aren’t using AI because they’re afraid of what it might do or become, when it’s more than perfectly benign. </p>
+<p>And knowing the tools—both the <a href="https://theresanaiforthat.com/">myriad of applications available</a> and how to leverage them to enhance everyday tasks—can significantly empower people from all walks of life. </p>
+<p>From automating mundane chores to perfecting a blog like this one, familiarity can open doors not previously possible. </p>
+<p>But skills? No, we don’t need skills. We need people who are engaged and enrolled on the journey of exploration. </p>
+<p>Who are curious enough to try a new tool, even when they're not "good" at it yet, to figure out how they can use it to solve their problem. </p>]]></content:encoded>
   </item>
   <item>
     <title>Peter parker bruce banner clark kent</title>
@@ -381,6 +768,13 @@
     <pubDate>Wed, 09 Oct 2024 10:20:59 GMT</pubDate>
     <description>Lots of superheroes have alliterative names (names that use the same initial letter or sound for both their first and last name). They also have alter egos, complex backstories, and superhuman powers or skills.  But that’s not what makes them a hero. It’s far simpler.  It’s standing up for what’s...</description>
 
+    <content:encoded><![CDATA[<p>Lots of superheroes have alliterative names (names that use the same initial letter or sound for both their first and last name).</p>
+<p>They also have alter egos, complex backstories, and superhuman powers or skills. </p>
+<p><em>But that’s not what makes them a hero.</em></p>
+<p>It’s far simpler. </p>
+<p>It’s standing up for what’s right, making sacrifices for the greater good. </p>
+<p>Being a leader without a title. Inspiring others through their actions rather than words.</p>
+<p>Heroes aren’t defined by their powers. They’re defined by their choices; by their courage.</p>]]></content:encoded>
   </item>
   <item>
     <title>A little dose of empathy</title>
@@ -389,6 +783,10 @@
     <pubDate>Tue, 08 Oct 2024 09:11:50 GMT</pubDate>
     <description>One of the easiest ways to increase the percentage of people who sign up for your newsletter is to make the CTA–your “call to action”–resonate with them.  So, “Sign up for my newsletter” becomes “Get the best marketing tips to boost your business–delivered weekly” or “Get a weekly roundup of the ...</description>
 
+    <content:encoded><![CDATA[<p>One of the easiest ways to increase the percentage of people who sign up for your newsletter is to make the CTA–your “call to action”–resonate with them. </p>
+<p>So, “Sign up for my newsletter” becomes “Get the best marketing tips to boost your business–delivered weekly” or “Get a weekly roundup of the hottest topics in tech.”</p>
+<p>Of course, it’s not just CTAs that could use the empathy treatment, but almost anything we could hope to make or promote or sell. </p>
+<p>Asking “what can it do for them?,” and designing from that angle, is loads more effective than the selfish alternative. And guess what? It creates a more compelling reason to do the thing you want them to from the start.</p>]]></content:encoded>
   </item>
   <item>
     <title>Personal sites</title>
@@ -397,6 +795,14 @@
     <pubDate>Sat, 05 Oct 2024 08:55:49 GMT</pubDate>
     <description>A friend asked for my thoughts on making personal sites, so I thought I would share some notes: Personal websites are, at best, a place to point your friends and potential clients.  So you don’t don’t need tons of fancy features or high-priced hosting packages.  If you want a page that’s nothing ...</description>
 
+    <content:encoded><![CDATA[<p>A friend asked for my thoughts on making personal sites, so I thought I would share some notes:</p>
+<p>Personal websites are, at best, a place to point your friends and potential clients. </p>
+<p>So you don’t don’t need tons of fancy features or high-priced hosting packages. </p>
+<p>If you want a page that’s nothing but a small bio with links to all your stuff (social platforms, music, portfolio, etc.) <a href="https://linktr.ee/s/templates/">Linktree</a> is a good option since it’s free. </p>
+<p>And if you want a site with more content (i.e. text, photos, videos) it’s best to go with <a href="https://carrd.co/">Carrd</a>. You can choose from a bunch of templates and design it the way you like–without knowing how to code. Plus, if you want to set up a domain name it’s only $19/year.  </p>
+<p>If you’re a designer and are looking for something more robust, go with <a href="https://webflow.com/?r=0">Webflow</a>. If you’re a writer, go with <a href="https://wordpress.com/">Wordpress</a> (or Substack), since they won’t charge you more for a simple CMS.</p>
+<p>And please, don’t pay extra to make your site go faster or rank higher. You would do better to think harder about the content you provide, and (maybe) test whether your users actually care to navigate your site. </p>
+<p>Ask what it’s for. And answer back with a tool that serves your purpose.</p>]]></content:encoded>
   </item>
   <item>
     <title>Whats bothering you</title>
@@ -405,14 +811,21 @@
     <pubDate>Fri, 04 Oct 2024 11:05:57 GMT</pubDate>
     <description>Here’s a simple exercise that might save you countless hours of sleep.  Take out your phone. Go to the app store and download  Otter .  Otter is a transcription and note-taking app that helps users capture spoken content. It’s made for meetings, lectures, and interviews, but can also be used for ...</description>
 
-  </item>
-  <item>
-    <title>Reading between the lines</title>
-    <link>https://blog.brendanbockes.com/posts/reading-between-the-lines</link>
-    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/reading-between-the-lines</guid>
-    <pubDate>Wed, 02 Oct 2024 09:26:51 GMT</pubDate>
-    <description>The old adage that not making a choice is still making one applies perfectly to how we communicate.  Because what remains unsaid can carry just as much weight as our words. Consider how it feels when someone asks a simple carry-on question like “Where do you live?” or “What do you do?” and doesn’...</description>
-
+    <content:encoded><![CDATA[<p>Here’s a simple exercise that might save you countless hours of sleep. </p>
+<p>Take out your phone. Go to the app store and download <a href="https://otter.ai/integrations/mobile">Otter</a>. </p>
+<p><em>Otter is a transcription and note-taking app that helps users capture spoken content. It’s made for meetings, lectures, and interviews, but can also be used for private one-on-one chats with yourself.</em></p>
+<p>Open the app. Press the blue record icon. Now talk. </p>
+<p>Talk about your worries. Your anxieties. Whatever is on your mind. Have a private conversation with yourself wherever you feel comfortable. </p>
+<p>Press the rectangular stop button to save your chat. Then click on it from the main screen of the app to review your transcription. </p>
+<p>Read the outline. Then close the app. </p>
+<p>Wait a week or a month. Then open the app. </p>
+<p>Reread the outline. Even better, play the recording and listen to your voice. </p>
+<p>Has your perspective shifted?</p>
+<p>Have your anxieties resolved over time? </p>
+<p>Or, are the same old worries <em>still </em>troubling you?</p>
+<p>You might notice that what was once weighing you down is now a forgotten thought, while some concerns might still echo.</p>
+<p>Whatever the case, capturing your thoughts can be a great way to acknowledge your growth (and your capacity for resilience) if it’s the former, while giving you clarity on what needs further attention if it’s the latter.</p>
+<p>A useful tool to help you proactively manage stress and anxiety (and identify patterns and triggers) for the cost of sitting alone with yourself. </p>]]></content:encoded>
   </item>
   </channel>
 </rss>

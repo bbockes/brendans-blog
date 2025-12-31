@@ -54,6 +54,19 @@ function escapeXml(text) {
     .replace(/'/g, '&apos;');
 }
 
+// Escape XML entities in text content but preserve HTML tags
+// Used for content that will be wrapped in CDATA
+// CDATA allows raw HTML, so we only need to escape & and handle ]]>
+function escapeXmlText(text) {
+  if (!text) return '';
+  let escaped = String(text)
+    // Escape & but not already-escaped entities
+    .replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+  // Replace ]]> with ]]]]><![CDATA[> to prevent premature CDATA closure
+  escaped = escaped.replace(/]]>/g, ']]]]><![CDATA[>');
+  return escaped;
+}
+
 function guessMimeTypeFromUrl(url) {
   if (!url) return 'application/octet-stream';
   try {
@@ -98,6 +111,133 @@ function extractTextFromContent(content) {
   return text;
 }
 
+// Convert Portable Text to HTML for RSS content:encoded
+function portableTextToHTML(content) {
+  if (!Array.isArray(content)) return '';
+  
+  const htmlParts = [];
+  let currentListType = null;
+  
+  content.forEach(block => {
+    if (block._type === 'block') {
+      const style = block.style || 'normal';
+      const children = block.children || [];
+      const markDefs = block.markDefs || [];
+      
+      // Process children to handle marks (bold, italic, links, etc.)
+      const processChild = (child) => {
+        if (child._type !== 'span' || !child.text) return '';
+        
+        // Escape text content but preserve HTML structure
+        let text = escapeXmlText(child.text);
+        const marks = child.marks || [];
+        
+        // Check for link first (it should wrap other marks)
+        let linkHref = null;
+        marks.forEach(mark => {
+          if (typeof mark === 'string' && mark.startsWith('link-')) {
+            const linkDef = markDefs.find(def => def._key === mark);
+            if (linkDef && linkDef.href) {
+              // Escape URL but preserve structure
+              linkHref = String(linkDef.href).replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+            }
+          }
+        });
+        
+        // Apply other marks (strong, em, code)
+        marks.forEach(mark => {
+          if (typeof mark === 'string' && !mark.startsWith('link-')) {
+            if (mark === 'strong') {
+              text = `<strong>${text}</strong>`;
+            } else if (mark === 'em') {
+              text = `<em>${text}</em>`;
+            } else if (mark === 'code') {
+              text = `<code>${text}</code>`;
+            }
+          }
+        });
+        
+        // Wrap in link if present
+        if (linkHref) {
+          text = `<a href="${linkHref}">${text}</a>`;
+        }
+        
+        return text;
+      };
+      
+      const processedChildren = children.map(processChild).join('');
+      
+      // Handle lists
+      if (block.listItem) {
+        const listType = block.listItem;
+        if (currentListType !== listType) {
+          if (currentListType) {
+            htmlParts.push(`</${currentListType === 'bullet' ? 'ul' : 'ol'}>`);
+          }
+          currentListType = listType;
+          htmlParts.push(`<${listType === 'bullet' ? 'ul' : 'ol'}>`);
+        }
+        htmlParts.push(`<li>${processedChildren}</li>`);
+      } else {
+        // Close list if we were in one
+        if (currentListType) {
+          htmlParts.push(`</${currentListType === 'bullet' ? 'ul' : 'ol'}>`);
+          currentListType = null;
+        }
+        
+        // Wrap in appropriate HTML tag based on style
+        if (style === 'h1' && processedChildren) {
+          htmlParts.push(`<h1>${processedChildren}</h1>`);
+        } else if (style === 'h2' && processedChildren) {
+          htmlParts.push(`<h2>${processedChildren}</h2>`);
+        } else if (style === 'h3' && processedChildren) {
+          htmlParts.push(`<h3>${processedChildren}</h3>`);
+        } else if (style === 'h4' && processedChildren) {
+          htmlParts.push(`<h4>${processedChildren}</h4>`);
+        } else if (style === 'blockquote' && processedChildren) {
+          htmlParts.push(`<blockquote>${processedChildren}</blockquote>`);
+        } else if (style === 'normal' && processedChildren) {
+          htmlParts.push(`<p>${processedChildren}</p>`);
+        }
+      }
+    } else if (block._type === 'image') {
+      // Close list if we were in one
+      if (currentListType) {
+        htmlParts.push(`</${currentListType === 'bullet' ? 'ul' : 'ol'}>`);
+        currentListType = null;
+      }
+      
+      const imageUrl = block.asset?.url || block.url || '';
+      const alt = block.alt || '';
+      if (imageUrl) {
+        const escapedUrl = String(imageUrl).replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+        const escapedAlt = escapeXmlText(alt);
+        htmlParts.push(`<img src="${escapedUrl}" alt="${escapedAlt}" />`);
+      }
+    } else if (block._type === 'code' || block._type === 'codeBlock') {
+      // Close list if we were in one
+      if (currentListType) {
+        htmlParts.push(`</${currentListType === 'bullet' ? 'ul' : 'ol'}>`);
+        currentListType = null;
+      }
+      
+      const code = block.code?.code || block.code || '';
+      const language = block.code?.language || '';
+      const codeEscaped = escapeXmlText(code);
+      if (codeEscaped) {
+        htmlParts.push(`<pre><code${language ? ` class="language-${language}"` : ''}>${codeEscaped}</code></pre>`);
+      }
+    }
+  });
+  
+  // Close any remaining list
+  if (currentListType) {
+    htmlParts.push(`</${currentListType === 'bullet' ? 'ul' : 'ol'}>`);
+  }
+  
+  return htmlParts.join('\n');
+}
+
 // Format date to RFC 822 format for RSS
 function formatRSSDate(date) {
   if (!date) return new Date().toUTCString();
@@ -132,6 +272,12 @@ function generateRSSXML(posts) {
       ? `    <enclosure url="${escapeXml(post.image)}" type="${guessMimeTypeFromUrl(post.image)}" />`
       : '';
     
+    // Generate full HTML content for content:encoded
+    const fullContent = post.content ? portableTextToHTML(post.content) : '';
+    const contentEncoded = fullContent 
+      ? `    <content:encoded><![CDATA[${fullContent}]]></content:encoded>`
+      : '';
+    
     return `  <item>
     <title>${escapeXml(post.title)}</title>
     <link>${postUrl}</link>
@@ -139,6 +285,7 @@ function generateRSSXML(posts) {
     <pubDate>${pubDate}</pubDate>
     <description>${escapeXml(description)}</description>
 ${imageTag}
+${contentEncoded}
   </item>`;
   }).join('\n');
   
