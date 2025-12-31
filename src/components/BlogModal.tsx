@@ -44,6 +44,47 @@ function CopyButton({ code, filename }: { code: string; filename?: string }) {
   );
 }
 
+// Helper function to fix internal links that should point to /posts/slug
+function fixInternalLink(href: string | undefined): string | undefined {
+  if (!href) return href;
+  
+  // List of paths that should NOT be prefixed with /posts/
+  const excludedPaths = ['/posts/', '/about', '/archive', '/blogroll', '/404', '/'];
+  
+  try {
+    // Check if it's a full URL
+    if (href.includes('://')) {
+      const url = new URL(href);
+      const currentOrigin = window.location.origin;
+      
+      // If it's the same domain and path looks like /slug (not /posts/slug)
+      if (url.origin === currentOrigin) {
+        const path = url.pathname;
+        // Check if it's not already /posts/ and not in excluded paths
+        if (!path.startsWith('/posts/') && !excludedPaths.some(excluded => path === excluded || path.startsWith(excluded + '/'))) {
+          // It's likely a blog post slug, prepend /posts/
+          return `${url.origin}/posts${path}${url.search}${url.hash}`;
+        }
+      }
+      return href;
+    }
+    
+    // Handle relative paths
+    if (href.startsWith('/')) {
+      // Check if it's not already /posts/ and not in excluded paths
+      if (!href.startsWith('/posts/') && !excludedPaths.some(excluded => href === excluded || href.startsWith(excluded + '/'))) {
+        // It's likely a blog post slug, prepend /posts/
+        return `/posts${href}`;
+      }
+    }
+    
+    return href;
+  } catch (e) {
+    // If URL parsing fails, return original href
+    return href;
+  }
+}
+
 // Inline code component with copy feedback
 function InlineCodeBlock({ children }: { children: React.ReactNode }) {
   const [copied, setCopied] = React.useState(false);
@@ -269,30 +310,33 @@ export function BlogModal({
                     strong: ({children}) => <strong className="font-bold text-gray-900 dark:text-white">{children}</strong>,
                     em: ({children}) => <em className="italic text-gray-800 dark:text-gray-200">{children}</em>,
                     code: ({children}) => <InlineCodeBlock>{children}</InlineCodeBlock>,
-                    link: ({children, value}) => (
-                      <a 
-                        href={value?.href}
-                        className="text-[#6184ED] dark:text-[#809FFF] hover:text-[#4a6bd8] dark:hover:text-[#9bb3ff] underline transition-colors cursor-pointer" 
-                        {...(value?.href?.startsWith('/') || value?.href?.startsWith('.') || !value?.href?.includes('://') 
-                          ? { 
-                              onClick: (e) => {
-                                e.preventDefault();
-                                onClose();
-                                // Small delay to ensure modal closes before navigation
-                                setTimeout(() => {
-                                  window.location.href = value.href;
-                                }, 100);
+                    link: ({children, value}) => {
+                      const fixedHref = fixInternalLink(value?.href);
+                      return (
+                        <a 
+                          href={fixedHref}
+                          className="text-[#6184ED] dark:text-[#809FFF] hover:text-[#4a6bd8] dark:hover:text-[#9bb3ff] underline transition-colors cursor-pointer" 
+                          {...(fixedHref?.startsWith('/') || fixedHref?.startsWith('.') || !fixedHref?.includes('://') 
+                            ? { 
+                                onClick: (e) => {
+                                  e.preventDefault();
+                                  onClose();
+                                  // Small delay to ensure modal closes before navigation
+                                  setTimeout(() => {
+                                    window.location.href = fixedHref || value?.href || '';
+                                  }, 100);
+                                }
                               }
-                            }
-                          : { 
-                              target: "_blank", 
-                              rel: "noopener noreferrer" 
-                            }
-                        )}
-                      >
-                        {children}
-                      </a>
-                    ),
+                            : { 
+                                target: "_blank", 
+                                rel: "noopener noreferrer" 
+                              }
+                          )}
+                        >
+                          {children}
+                        </a>
+                      );
+                    },
                   },
                   list: {
                     bullet: ({children}) => <ul className="list-disc list-outside mb-4 space-y-2 ml-6">{children}</ul>,
@@ -416,30 +460,33 @@ export function BlogModal({
                     strong: ({children}) => <strong className="font-bold text-gray-900 dark:text-white">{children}</strong>,
                     em: ({children}) => <em className="italic text-gray-800 dark:text-gray-200">{children}</em>,
                     code: ({children}) => <InlineCodeBlock>{children}</InlineCodeBlock>,
-                    link: ({children, value}) => (
-                      <a 
-                        href={value?.href}
-                        className="text-[#6184ED] dark:text-[#809FFF] hover:text-[#4a6bd8] dark:hover:text-[#9bb3ff] underline transition-colors cursor-pointer" 
-                        {...(value?.href?.startsWith('/') || value?.href?.startsWith('.') || !value?.href?.includes('://') 
-                          ? { 
-                              onClick: (e) => {
-                                e.preventDefault();
-                                onClose();
-                                // Small delay to ensure modal closes before navigation
-                                setTimeout(() => {
-                                  window.location.href = value.href;
-                                }, 100);
+                    link: ({children, value}) => {
+                      const fixedHref = fixInternalLink(value?.href);
+                      return (
+                        <a 
+                          href={fixedHref}
+                          className="text-[#6184ED] dark:text-[#809FFF] hover:text-[#4a6bd8] dark:hover:text-[#9bb3ff] underline transition-colors cursor-pointer" 
+                          {...(fixedHref?.startsWith('/') || fixedHref?.startsWith('.') || !fixedHref?.includes('://') 
+                            ? { 
+                                onClick: (e) => {
+                                  e.preventDefault();
+                                  onClose();
+                                  // Small delay to ensure modal closes before navigation
+                                  setTimeout(() => {
+                                    window.location.href = fixedHref || value?.href || '';
+                                  }, 100);
+                                }
                               }
-                            }
-                          : { 
-                              target: "_blank", 
-                              rel: "noopener noreferrer" 
-                            }
-                        )}
-                      >
-                        {children}
-                      </a>
-                    ),
+                            : { 
+                                target: "_blank", 
+                                rel: "noopener noreferrer" 
+                              }
+                          )}
+                        >
+                          {children}
+                        </a>
+                      );
+                    },
                   },
                   list: {
                     bullet: ({children}) => <ul className="list-disc list-outside mb-4 space-y-2 ml-6">{children}</ul>,
