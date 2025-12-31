@@ -54,6 +54,32 @@ function escapeXml(text) {
     .replace(/'/g, '&apos;');
 }
 
+function guessMimeTypeFromUrl(url) {
+  if (!url) return 'application/octet-stream';
+  try {
+    const { pathname } = new URL(url);
+    const ext = pathname.split('.').pop()?.toLowerCase();
+    switch (ext) {
+      case 'jpg':
+      case 'jpeg':
+        return 'image/jpeg';
+      case 'png':
+        return 'image/png';
+      case 'gif':
+        return 'image/gif';
+      case 'webp':
+        return 'image/webp';
+      case 'svg':
+        return 'image/svg+xml';
+      default:
+        return 'image/*';
+    }
+  } catch {
+    // If it's not a valid absolute URL, fall back gracefully
+    return 'image/*';
+  }
+}
+
 // Extract text from Portable Text content for description
 function extractTextFromContent(content) {
   if (!Array.isArray(content)) return '';
@@ -103,7 +129,7 @@ function generateRSSXML(posts) {
     }
     
     const imageTag = post.image 
-      ? `    <enclosure url="${escapeXml(post.image)}" type="image/jpeg" />`
+      ? `    <enclosure url="${escapeXml(post.image)}" type="${guessMimeTypeFromUrl(post.image)}" />`
       : '';
     
     return `  <item>

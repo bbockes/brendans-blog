@@ -5,6 +5,18 @@
 [build.environment]
   NODE_VERSION = "20"
 
+[[headers]]
+  for = "/feed.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/sitemap.xml"
+  [headers.values]
+    Content-Type = "application/xml; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
 [[redirects]]
   from = "/posts/*/"
   to = "/posts/:splat"

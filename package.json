@@ -4,10 +4,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "npx vite",
-    "build": "npx vite build && node scripts/generate-sitemap.js && node scripts/generate-rss.js && node scripts/prerender.js",
+    "dev": "vite",
+    "build": "vite build && node scripts/generate-sitemap.js && node scripts/generate-rss.js && node scripts/prerender.js",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
-    "preview": "npx vite preview",
+    "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
