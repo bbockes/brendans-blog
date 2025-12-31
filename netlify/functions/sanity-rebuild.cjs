@@ -1,21 +1,15 @@
 /**
- * Sanity → Netlify rebuild bridge
+ * Sanity → Netlify rebuild bridge (CommonJS)
  *
- * Why: RSS + sitemap are generated at build time from Sanity content.
- * This function lets Sanity trigger a Netlify build immediately after publish.
+ * Some Netlify setups are picky about ESM in Functions when the repo is "type: module".
+ * Using .cjs makes this function deploy reliably.
  *
- * Configure in Netlify env:
- * - NETLIFY_BUILD_HOOK_URL: Netlify build hook URL (create in Netlify UI)
- * - SANITY_WEBHOOK_SECRET: shared secret you also set on the Sanity webhook
- *
- * Configure in Sanity:
- * - Webhook URL: https://<your-domain>/.netlify/functions/sanity-rebuild
- * - Header: x-webhook-secret: <SANITY_WEBHOOK_SECRET>
- * - Triggers: create/update/delete (at least update on publish)
+ * Netlify env vars:
+ * - NETLIFY_BUILD_HOOK_URL
+ * - SANITY_WEBHOOK_SECRET (optional, but recommended)
  */
 
-export const handler = async (event) => {
-  // Only allow POST requests (Sanity webhooks are POST)
+exports.handler = async function handler(event) {
   if (event.httpMethod !== 'POST') {
     return {
       statusCode: 405,
@@ -25,12 +19,12 @@ export const handler = async (event) => {
   }
 
   const expectedSecret = process.env.SANITY_WEBHOOK_SECRET;
+  const headers = event.headers || {};
   const providedSecret =
-    event.headers?.['x-webhook-secret'] ||
-    event.headers?.['X-Webhook-Secret'] ||
-    event.queryStringParameters?.secret;
+    headers['x-webhook-secret'] ||
+    headers['X-Webhook-Secret'] ||
+    (event.queryStringParameters && event.queryStringParameters.secret);
 
-  // If a secret is configured, require it
   if (expectedSecret && providedSecret !== expectedSecret) {
     return {
       statusCode: 401,
@@ -61,7 +55,7 @@ export const handler = async (event) => {
         body: JSON.stringify({
           error: 'Failed to trigger Netlify build',
           status: resp.status,
-          details: text?.slice(0, 500),
+          details: (text || '').slice(0, 500),
         }),
       };
     }
@@ -77,7 +71,7 @@ export const handler = async (event) => {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         error: 'Unexpected error triggering Netlify build',
-        message: err instanceof Error ? err.message : String(err),
+        message: err && err.message ? err.message : String(err),
       }),
     };
   }
