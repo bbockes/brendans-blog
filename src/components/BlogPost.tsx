@@ -533,7 +533,7 @@ export function BlogPost({ post }: BlogPostProps) {
           
           {/* Social Media Share Section */}
           {post.id !== 'about' && post.id !== '404' && (
-            <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700" style={{ marginBottom: '-50px' }}>
+            <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
               {/* Date and See all posts button row - on mobile/tablet (460px to 749px) */}
               <div className="relative min-[460px]:block max-[749px]:block min-[750px]:hidden max-[459px]:hidden">
                 <div className="text-gray-600 dark:text-gray-400 text-base flex-shrink-0">

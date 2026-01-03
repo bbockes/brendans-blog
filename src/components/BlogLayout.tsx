@@ -861,7 +861,7 @@ export function BlogLayout() {
                     ) : (
                       <>
                         {visiblePosts.map((post: any) => (
-                          <div key={post.id} id={`post-${post.slug?.current || post.slug || post.id}`}>
+                          <div key={post.id} id={`post-${post.slug?.current || post.slug || post.id}`} className="mb-[36px]">
                             <BlogPost post={post} />
                           </div>
                         ))}
