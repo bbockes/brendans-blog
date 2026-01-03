@@ -95,7 +95,7 @@ const ORGANIZATION_DATA = {
   name: "Brendan's Blog",
   url: "https://blog.brendanbockes.com",
   description: "The personal blog of Brendan Bockes. Thoughts on productivity, technology, and building.",
-  logo: "https://blog.brendanbockes.com/logo.png",
+    logo: "https://blog.brendanbockes.com/images/logo.png",
   sameAs: [
     // Update with actual social media URLs if you have them
   ]

@@ -64,8 +64,8 @@ export function generatePageTitle(post) {
   return `${post.title} | Brendan's Blog`;
 }
 
-// Default OG image (lives in /public so it is served from the site root)
-export const DEFAULT_OG_IMAGE = '/OG-image.png';
+// Default OG image (lives in /public/images so it is served from the site root)
+export const DEFAULT_OG_IMAGE = '/images/OG-image.png';
 
 function toAbsoluteUrl(possiblyRelativeUrl, pageUrl) {
   if (!possiblyRelativeUrl) return possiblyRelativeUrl;

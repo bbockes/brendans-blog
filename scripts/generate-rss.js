@@ -301,7 +301,7 @@ ${contentEncoded}
     <ttl>60</ttl>
     <atom:link href="${BASE_URL}/feed.xml" rel="self" type="application/rss+xml" />
     <image>
-      <url>${BASE_URL}/logo.png</url>
+      <url>${BASE_URL}/images/logo.png</url>
       <title>${escapeXml(siteTitle)}</title>
       <link>${BASE_URL}</link>
     </image>

@@ -57,7 +57,7 @@ export function MobileHeader({ onMenuToggle, onLogoClick }: MobileHeaderProps) {
       <div className="flex justify-between items-center">
         <div onClick={(e) => { e.stopPropagation(); handleLogoClick(); }} className="cursor-pointer">
           <img 
-            src={`/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
+            src={`/images/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
             alt="Brendan's Blog Logo" 
             className="block h-auto object-contain"
             style={{ maxWidth: '170px', width: 'auto', height: 'auto', display: 'block', transform: 'scale(0.98)' }}

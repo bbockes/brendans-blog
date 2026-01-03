@@ -10,7 +10,7 @@
     <ttl>60</ttl>
     <atom:link href="https://blog.brendanbockes.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
-      <url>https://blog.brendanbockes.com/logo.png</url>
+      <url>https://blog.brendanbockes.com/images/logo.png</url>
       <title>Brendan&apos;s Blog</title>
       <link>https://blog.brendanbockes.com</link>
     </image>

@@ -157,7 +157,7 @@ export function CategorySidebar({
                     style={{ background: 'transparent', border: 'none', padding: 0 }}
                   >
                     <img 
-                      src={`/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
+                      src={`/images/${isDarkMode ? 'dark-mode-logo.png' : 'logo.png'}`}
                       alt="Brendan's Blog Logo" 
                       className="block h-auto object-contain"
                       style={{ display: 'block', maxWidth: '205px', width: 'auto', height: 'auto', transform: 'scale(0.98) translateX(-12px)' }}

@@ -9,7 +9,7 @@ export const notFoundPost = {
   subheader: '',
   category: 'Errors',
   readTime: '1 min',
-  image: '/OG-image.png',
+  image: '/images/OG-image.png',
   slug: '404',
   content: [
     {
@@ -54,7 +54,7 @@ export const aboutPost = {
   excerpt: '',
   category: 'About',
   readTime: '1 min',
-  image: '/OG-image.png',
+  image: '/images/OG-image.png',
   content: [
     {
       _type: 'block',
