@@ -9,7 +9,7 @@ export const notFoundPost = {
   subheader: '',
   category: 'Errors',
   readTime: '1 min',
-  image: 'https://images.unsplash.com/photo-1594736797933-d0d92e2d0b3d?w=400&h=250&fit=crop',
+  image: '/OG-image.png',
   slug: '404',
   content: [
     {
@@ -54,7 +54,7 @@ export const aboutPost = {
   excerpt: '',
   category: 'About',
   readTime: '1 min',
-  image: 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=400&h=250&fit=crop',
+  image: '/OG-image.png',
   content: [
     {
       _type: 'block',

@@ -51,6 +51,9 @@ function generateHTML(title, metaTags, baseHTML) {
   
   // Replace the title
   html = html.replace(/<title>.*?<\/title>/i, `<title>${escapeHtml(title)}</title>`);
+
+  // If we've already injected prerender SEO tags before, remove them to avoid duplicates
+  html = html.replace(/<!-- prerender-seo:start -->[\s\S]*?<!-- prerender-seo:end -->\s*/g, '');
   
   // Find the closing </head> tag and insert our meta tags before it
   html = html.replace('</head>', `    ${metaTags}\n  </head>`);

@@ -5,8 +5,8 @@
     <link>https://blog.brendanbockes.com</link>
     <description>The personal blog of Brendan Bockes. Thoughts on productivity, technology, and building.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Dec 2025 19:39:29 GMT</lastBuildDate>
-    <pubDate>Wed, 31 Dec 2025 19:39:29 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 23:01:48 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 23:01:48 GMT</pubDate>
     <ttl>60</ttl>
     <atom:link href="https://blog.brendanbockes.com/feed.xml" rel="self" type="application/rss+xml" />
     <image>
@@ -14,6 +14,34 @@
       <title>Brendan&apos;s Blog</title>
       <link>https://blog.brendanbockes.com</link>
     </image>
+  <item>
+    <title>Money, the things money can buy, and the means to get it</title>
+    <link>https://blog.brendanbockes.com/posts/the things money can buy</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/the things money can buy</guid>
+    <pubDate>Sat, 03 Jan 2026 22:22:37 GMT</pubDate>
+    <description>It turns out that money, the things it can buy, and the means to acquire it tend to be what  most people  say they’d wish for if a Genie granted them a single wish. Ironic, then, that so many people who already have these things don’t appreciate them. That they feel miserable over what they think...</description>
+
+    <content:encoded><![CDATA[<p>It turns out that money, the things it can buy, and the means to acquire it tend to be what most people say they’d wish for if a Genie granted them a single wish.</p>
+<p>Ironic, then, that so many people who already have these things don’t appreciate them. That they feel miserable over what they think they lack. That they want and need and strive for <em>more</em> money, for <em>more</em> possessions, or <em>more</em> luck.</p>
+<p>If you can’t define “enough,” you’ll always feel like you’re falling short—even when you already have more than you once hoped for.</p>]]></content:encoded>
+  </item>
+  <item>
+    <title>Flying blind</title>
+    <link>https://blog.brendanbockes.com/posts/flying-blind</link>
+    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/flying-blind</guid>
+    <pubDate>Thu, 01 Jan 2026 17:07:30 GMT</pubDate>
+    <description>Henry Ford was right said when he said you’re right whether you think you can or you can’t. It’s worth taking a step back to think about the implications. People who naively believe they’re capable often put themselves in the very positions that enable them to pull off amazing feats. They create ...</description>
+
+    <content:encoded><![CDATA[<p>Henry Ford was right said when he said you’re right whether you think you can or you can’t.</p>
+<p>It’s worth taking a step back to think about the implications.</p>
+<p>People who naively believe they’re capable often put themselves in the very positions that enable them to pull off amazing feats. They create self-fulfilling prophecies that can last a lifetime.</p>
+<p>On the other hand, people who lack faith in their abilities or view themselves as hapless victims of their circumstances typically don’t take the necessary risks that lead to success.</p>
+<p>There’s certainly a great deal of luck involved when it comes to any sort of achievement, but you also need to make the most of the opportunities available to you, and the only way to do that consistently is by believing in your ability to create forward motion with what you <em>already</em> have.</p>
+<p>The opposite is also true: if you believe you’re going to fail no matter what, you’ll be tempted to avoid risks, much less take the actions you might otherwise take to ensure a successful outcome. You'll be much more likely to make excuses or find reasons to give up, because in your mind, the outcome is already predetermined.</p>
+<p>The lesson? <em>Believe in yourself.</em> Be positive, not in the sense of that everything will always go smoothly, but in your ability to create the conditions you want—by persistently doing the things you need to make a collision with success certain.</p>
+<p>More importantly, when you don’t believe that you can (or have the ability to do so) take a step back and consider <em>why</em> you think or feel that way. Have a long discussion with yourself (or your therapist), over several days or weeks, about how and why these self-limiting thoughts and fears came to be, and whether there's real-world data to support them.</p>
+<p>Oftentimes, it’s not who you are that holds you back. It’s who you naïvely or unconsciously think you’re not.</p>]]></content:encoded>
+  </item>
   <item>
     <title>Decision scales</title>
     <link>https://blog.brendanbockes.com/posts/decision-scales</link>
@@ -787,45 +815,6 @@
 <p>So, “Sign up for my newsletter” becomes “Get the best marketing tips to boost your business–delivered weekly” or “Get a weekly roundup of the hottest topics in tech.”</p>
 <p>Of course, it’s not just CTAs that could use the empathy treatment, but almost anything we could hope to make or promote or sell. </p>
 <p>Asking “what can it do for them?,” and designing from that angle, is loads more effective than the selfish alternative. And guess what? It creates a more compelling reason to do the thing you want them to from the start.</p>]]></content:encoded>
-  </item>
-  <item>
-    <title>Personal sites</title>
-    <link>https://blog.brendanbockes.com/posts/personal-sites</link>
-    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/personal-sites</guid>
-    <pubDate>Sat, 05 Oct 2024 08:55:49 GMT</pubDate>
-    <description>A friend asked for my thoughts on making personal sites, so I thought I would share some notes: Personal websites are, at best, a place to point your friends and potential clients.  So you don’t don’t need tons of fancy features or high-priced hosting packages.  If you want a page that’s nothing ...</description>
-
-    <content:encoded><![CDATA[<p>A friend asked for my thoughts on making personal sites, so I thought I would share some notes:</p>
-<p>Personal websites are, at best, a place to point your friends and potential clients. </p>
-<p>So you don’t don’t need tons of fancy features or high-priced hosting packages. </p>
-<p>If you want a page that’s nothing but a small bio with links to all your stuff (social platforms, music, portfolio, etc.) <a href="https://linktr.ee/s/templates/">Linktree</a> is a good option since it’s free. </p>
-<p>And if you want a site with more content (i.e. text, photos, videos) it’s best to go with <a href="https://carrd.co/">Carrd</a>. You can choose from a bunch of templates and design it the way you like–without knowing how to code. Plus, if you want to set up a domain name it’s only $19/year.  </p>
-<p>If you’re a designer and are looking for something more robust, go with <a href="https://webflow.com/?r=0">Webflow</a>. If you’re a writer, go with <a href="https://wordpress.com/">Wordpress</a> (or Substack), since they won’t charge you more for a simple CMS.</p>
-<p>And please, don’t pay extra to make your site go faster or rank higher. You would do better to think harder about the content you provide, and (maybe) test whether your users actually care to navigate your site. </p>
-<p>Ask what it’s for. And answer back with a tool that serves your purpose.</p>]]></content:encoded>
-  </item>
-  <item>
-    <title>Whats bothering you</title>
-    <link>https://blog.brendanbockes.com/posts/whats-bothering-you</link>
-    <guid isPermaLink="true">https://blog.brendanbockes.com/posts/whats-bothering-you</guid>
-    <pubDate>Fri, 04 Oct 2024 11:05:57 GMT</pubDate>
-    <description>Here’s a simple exercise that might save you countless hours of sleep.  Take out your phone. Go to the app store and download  Otter .  Otter is a transcription and note-taking app that helps users capture spoken content. It’s made for meetings, lectures, and interviews, but can also be used for ...</description>
-
-    <content:encoded><![CDATA[<p>Here’s a simple exercise that might save you countless hours of sleep. </p>
-<p>Take out your phone. Go to the app store and download <a href="https://otter.ai/integrations/mobile">Otter</a>. </p>
-<p><em>Otter is a transcription and note-taking app that helps users capture spoken content. It’s made for meetings, lectures, and interviews, but can also be used for private one-on-one chats with yourself.</em></p>
-<p>Open the app. Press the blue record icon. Now talk. </p>
-<p>Talk about your worries. Your anxieties. Whatever is on your mind. Have a private conversation with yourself wherever you feel comfortable. </p>
-<p>Press the rectangular stop button to save your chat. Then click on it from the main screen of the app to review your transcription. </p>
-<p>Read the outline. Then close the app. </p>
-<p>Wait a week or a month. Then open the app. </p>
-<p>Reread the outline. Even better, play the recording and listen to your voice. </p>
-<p>Has your perspective shifted?</p>
-<p>Have your anxieties resolved over time? </p>
-<p>Or, are the same old worries <em>still </em>troubling you?</p>
-<p>You might notice that what was once weighing you down is now a forgotten thought, while some concerns might still echo.</p>
-<p>Whatever the case, capturing your thoughts can be a great way to acknowledge your growth (and your capacity for resilience) if it’s the former, while giving you clarity on what needs further attention if it’s the latter.</p>
-<p>A useful tool to help you proactively manage stress and anxiety (and identify patterns and triggers) for the cost of sitting alone with yourself. </p>]]></content:encoded>
   </item>
   </channel>
 </rss>

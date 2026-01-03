@@ -24,13 +24,18 @@ export function extractTextFromContent(content) {
 
 // Generate meta description from post data
 export function generateMetaDescription(post) {
+  // Homepage (no post)
+  if (!post) {
+    return "The personal blog of Brendan Bockes. Thoughts on productivity, technology, and building.";
+  }
+  
   // Special case for 404 page
-  if (post && post.id === '404') {
+  if (post.id === '404') {
     return 'Uh-oh. Looks like that page doesn\'t exist.';
   }
   
   // Special case for about page
-  if (post && post.id === 'about') {
+  if (post.id === 'about') {
     return 'Learn more about Brendan\'s Blog, the personal blog of Brendan Bockes.';
   }
   
@@ -59,17 +64,40 @@ export function generatePageTitle(post) {
   return `${post.title} | Brendan's Blog`;
 }
 
-// Default OG image URL
-export const DEFAULT_OG_IMAGE = 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&h=630&fit=crop';
+// Default OG image (lives in /public so it is served from the site root)
+export const DEFAULT_OG_IMAGE = '/OG-image.png';
+
+function toAbsoluteUrl(possiblyRelativeUrl, pageUrl) {
+  if (!possiblyRelativeUrl) return possiblyRelativeUrl;
+
+  // Already absolute (http/https)
+  if (/^https?:\/\//i.test(possiblyRelativeUrl)) return possiblyRelativeUrl;
+
+  // Attempt to resolve relative URLs against the current page URL
+  try {
+    const u = new URL(pageUrl);
+    // Absolute path on current origin
+    if (possiblyRelativeUrl.startsWith('/')) {
+      return `${u.origin}${possiblyRelativeUrl}`;
+    }
+    // Relative path (e.g. "images/x.png")
+    return new URL(possiblyRelativeUrl, u.origin + u.pathname).toString();
+  } catch {
+    // If we can't parse pageUrl, fall back to returning original string
+    return possiblyRelativeUrl;
+  }
+}
 
 // Generate Open Graph meta tags HTML
 export function generateOGMetaTags(post, url) {
-  const title = post ? post.title : "Brendan's Blog";
-  const description = post ? generateMetaDescription(post) : "The personal blog of Brendan Bockes. Thoughts on productivity, technology, and building.";
-  const image = post?.image || DEFAULT_OG_IMAGE;
+  // Use the same SEO title and description functions for consistency
+  const title = generatePageTitle(post);
+  const description = generateMetaDescription(post);
+  const image = toAbsoluteUrl(post?.image || DEFAULT_OG_IMAGE, url);
   const type = post ? 'article' : 'website';
   
   let metaTags = `
+    <!-- prerender-seo:start -->
     <meta property="og:title" content="${escapeHtml(title)}" />
     <meta property="og:description" content="${escapeHtml(description)}" />
     <meta property="og:type" content="${type}" />
@@ -86,7 +114,8 @@ export function generateOGMetaTags(post, url) {
     <meta name="twitter:image" content="${image}" />
     <meta name="twitter:image:alt" content="${escapeHtml(title)}" />
     
-    <meta name="description" content="${escapeHtml(description)}" />`;
+    <meta name="description" content="${escapeHtml(description)}" />
+    <!-- prerender-seo:end -->`;
   
   // Add article-specific meta tags
   if (post) {
