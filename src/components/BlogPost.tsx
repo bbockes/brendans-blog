@@ -224,7 +224,7 @@ export function BlogPost({ post }: BlogPostProps) {
 
   return (
     <article className="w-full last:mb-0" style={{ marginBottom: '100px' }}>
-      <div className="mb-[18px]">
+      <div className="mb-[18px] max-w-full md:max-w-[650px]">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
           <Link 
             to={getPostLink()}
