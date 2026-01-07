@@ -569,25 +569,23 @@ export function BlogLayout() {
   return (
     <div className="flex h-screen w-full overflow-x-hidden">
       {/* Desktop/Tablet Sidebar - shows on medium screens and up */}
-      {categories.length > 0 && (
-        <div className="hidden md:block flex-shrink-0">
-          <CategorySidebar 
-            categories={categories} 
-            selectedCategory={selectedCategory} 
-            onCategorySelect={handleCategorySelect} 
-            onAboutClick={handleAboutClick}
-            isLinkMode={isLinkMode}
-            onToggleLinkMode={handleToggleMode}
-            posts={posts}
-            onPostClick={handlePostClick}
-            onLogoClick={handleLogoClick}
-            linkCards={linkCards}
-          />
-        </div>
-      )}
+      <div className="hidden md:block flex-shrink-0">
+        <CategorySidebar 
+          categories={categories} 
+          selectedCategory={selectedCategory} 
+          onCategorySelect={handleCategorySelect} 
+          onAboutClick={handleAboutClick}
+          isLinkMode={isLinkMode}
+          onToggleLinkMode={handleToggleMode}
+          posts={posts}
+          onPostClick={handlePostClick}
+          onLogoClick={handleLogoClick}
+          linkCards={linkCards}
+        />
+      </div>
 
       {/* Mobile Menu Overlay - only shows on small screens */}
-      {isMobileMenuOpen && categories.length > 0 && (
+      {isMobileMenuOpen && (
         <div className="md:hidden fixed inset-0 bg-black bg-opacity-50 z-40" onClick={toggleMobileMenu}>
           <div className="fixed right-0 top-0 h-full w-80 bg-white dark:bg-gray-800 shadow-lg" onClick={(e) => e.stopPropagation()}>
             <CategorySidebar 
