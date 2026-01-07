@@ -38,7 +38,8 @@ export async function cachedFetch<T>(query: string, params?: any): Promise<T> {
 
 // GROQ queries
 // Optimized query - fetch only needed fields, use efficient ordering
-export const POSTS_QUERY = `*[_type == "post" && defined(slug.current)] | order(publishedAt desc) {
+// Filter out future-dated posts to enable scheduling based on publishedAt date
+export const POSTS_QUERY = `*[_type == "post" && defined(slug.current) && publishedAt <= now()] | order(publishedAt desc) {
   _id,
   title,
   slug,
@@ -51,11 +52,11 @@ export const POSTS_QUERY = `*[_type == "post" && defined(slug.current)] | order(
   subheader
 }`;
 
-export const CATEGORIES_QUERY = `*[_type == "post" && defined(category)] | order(category asc) {
+export const CATEGORIES_QUERY = `*[_type == "post" && defined(category) && publishedAt <= now()] | order(category asc) {
   category
 }`;
 
-export const POST_BY_SLUG_QUERY = `*[_type == "post" && slug.current == $slug][0] {
+export const POST_BY_SLUG_QUERY = `*[_type == "post" && slug.current == $slug && publishedAt <= now()][0] {
   _id,
   title,
   slug,

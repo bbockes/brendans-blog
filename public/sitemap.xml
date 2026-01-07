@@ -7,13 +7,13 @@
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://blog.brendanbockes.com</loc>
-    <lastmod>2026-01-03</lastmod>
+    <lastmod>2026-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://blog.brendanbockes.com/about</loc>
-    <lastmod>2026-01-03</lastmod>
+    <lastmod>2026-01-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6685,7 +6685,7 @@
   </url>
   <url>
     <loc>https://blog.brendanbockes.com/posts/beautiful-tables</loc>
-    <lastmod>2025-12-17</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

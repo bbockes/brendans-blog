@@ -30,8 +30,8 @@ const sanityClient = createClient({
   useCdn: true,
 });
 
-// GROQ queries
-const POSTS_QUERY = `*[_type == "post" && defined(slug.current)] | order(publishedAt desc) {
+// GROQ queries - filter out future-dated posts to enable scheduling
+const POSTS_QUERY = `*[_type == "post" && defined(slug.current) && publishedAt <= now()] | order(publishedAt desc) {
   _id,
   title,
   slug,
