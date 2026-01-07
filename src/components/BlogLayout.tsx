@@ -12,7 +12,7 @@ import { Archive } from './Archive';
 import { fetchAboutPage, transformAboutPageToBlogPost } from '../lib/aboutPageService';
 import { notFoundPost } from '../data/staticData';
 import { LinkedinIcon } from 'lucide-react';
-import { cachedFetch, POSTS_QUERY, CATEGORIES_QUERY, LINK_CARDS_QUERY } from '../lib/sanityClient';
+import { cachedFetch, POSTS_QUERY, LINK_CARDS_QUERY } from '../lib/sanityClient';
 import { slugify, findPostBySlug, filterPostsBySearchQuery, extractFirstSentence, extractSentenceWithMatch } from '../utils/slugify';
 import { generateMetaDescription, generatePageTitle, DEFAULT_OG_IMAGE } from '../utils/seoUtils.js';
 import { getCategoryColor } from '../utils/categoryColorUtils';
@@ -161,12 +161,8 @@ export function BlogLayout() {
       setLoading(true);
       
       try {
-        // Fetch posts and categories in parallel for faster loading
-        // Use cached fetch to avoid redundant requests
-        const [postsData, categoriesData] = await Promise.all([
-          cachedFetch(POSTS_QUERY),
-          cachedFetch(CATEGORIES_QUERY)
-        ]);
+        // Fetch posts from Sanity
+        const postsData = await cachedFetch(POSTS_QUERY);
         
         // Transform Sanity data to match expected format
         const transformedPosts = postsData.map(post => ({
@@ -179,17 +175,8 @@ export function BlogLayout() {
 
         setPosts(transformedPosts);
         
-        // Extract unique categories and format them with colors
-        const uniqueCategories = [...new Set(categoriesData.map(item => item.category).filter(Boolean))];
-        const formattedCategories = [
-          { name: 'All', color: getCategoryColor('All') },
-          ...uniqueCategories.map(categoryName => ({
-            name: categoryName,
-            color: getCategoryColor(categoryName)
-          }))
-        ];
-
-        setCategories(formattedCategories);
+        // Categories removed - set to empty array
+        setCategories([]);
       } catch (err: any) {
         console.error('❌ Error fetching blog data:', err);
         setError(err.message);
@@ -381,10 +368,8 @@ export function BlogLayout() {
       return filtered;
     }
     
-    // Filter blog posts (existing logic)
-    let filtered = selectedCategory === 'All' 
-      ? posts 
-      : posts.filter((post: Post) => post.category === selectedCategory);
+    // Filter blog posts - category filtering removed
+    let filtered = posts;
     
     // Apply search filter if there's a search query
     if (searchQuery.trim()) {
@@ -584,23 +569,25 @@ export function BlogLayout() {
   return (
     <div className="flex h-screen w-full overflow-x-hidden">
       {/* Desktop/Tablet Sidebar - shows on medium screens and up */}
-      <div className="hidden md:block flex-shrink-0">
-        <CategorySidebar 
-          categories={categories} 
-          selectedCategory={selectedCategory} 
-          onCategorySelect={handleCategorySelect} 
-          onAboutClick={handleAboutClick}
-          isLinkMode={isLinkMode}
-          onToggleLinkMode={handleToggleMode}
-          posts={posts}
-          onPostClick={handlePostClick}
-          onLogoClick={handleLogoClick}
-          linkCards={linkCards}
-        />
-      </div>
+      {categories.length > 0 && (
+        <div className="hidden md:block flex-shrink-0">
+          <CategorySidebar 
+            categories={categories} 
+            selectedCategory={selectedCategory} 
+            onCategorySelect={handleCategorySelect} 
+            onAboutClick={handleAboutClick}
+            isLinkMode={isLinkMode}
+            onToggleLinkMode={handleToggleMode}
+            posts={posts}
+            onPostClick={handlePostClick}
+            onLogoClick={handleLogoClick}
+            linkCards={linkCards}
+          />
+        </div>
+      )}
 
       {/* Mobile Menu Overlay - only shows on small screens */}
-      {isMobileMenuOpen && (
+      {isMobileMenuOpen && categories.length > 0 && (
         <div className="md:hidden fixed inset-0 bg-black bg-opacity-50 z-40" onClick={toggleMobileMenu}>
           <div className="fixed right-0 top-0 h-full w-80 bg-white dark:bg-gray-800 shadow-lg" onClick={(e) => e.stopPropagation()}>
             <CategorySidebar 
@@ -892,15 +879,15 @@ export function BlogLayout() {
                 <div className="text-gray-600 dark:text-gray-400">
                   {isLinkMode ? (
                     searchQuery.trim() ? (
-                      `No links found for "${searchQuery}"${selectedCategory !== 'All' ? ` in "${selectedCategory}" category` : ''}.`
+                      `No links found for "${searchQuery}".`
                     ) : (
-                      selectedCategory === 'All' ? 'No links found.' : `No links found in "${selectedCategory}" category.`
+                      'No links found.'
                     )
                   ) : (
                     searchQuery.trim() ? (
-                      `No posts found for "${searchQuery}"${selectedCategory !== 'All' ? ` in "${selectedCategory}" category` : ''}.`
+                      `No posts found for "${searchQuery}".`
                     ) : (
-                      selectedCategory === 'All' ? 'No posts found. Make sure to add some blog posts in your Sanity studio!' : `No posts found in "${selectedCategory}" category.`
+                      'No posts found. Make sure to add some blog posts in your Sanity studio!'
                     )
                   )}
                 </div>

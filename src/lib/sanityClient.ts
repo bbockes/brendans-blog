@@ -44,7 +44,6 @@ export const POSTS_QUERY = `*[_type == "post" && defined(slug.current) && publis
   title,
   slug,
   excerpt,
-  category,
   readTime,
   publishedAt,
   content,
@@ -52,8 +51,8 @@ export const POSTS_QUERY = `*[_type == "post" && defined(slug.current) && publis
   subheader
 }`;
 
-export const CATEGORIES_QUERY = `*[_type == "post" && defined(category) && publishedAt <= now()] | order(category asc) {
-  category
+export const CATEGORIES_QUERY = `*[_type == "post" && publishedAt <= now()] | order(_createdAt desc) {
+  _id
 }`;
 
 export const POST_BY_SLUG_QUERY = `*[_type == "post" && slug.current == $slug && publishedAt <= now()][0] {
@@ -61,7 +60,6 @@ export const POST_BY_SLUG_QUERY = `*[_type == "post" && slug.current == $slug &&
   title,
   slug,
   excerpt,
-  category,
   readTime,
   publishedAt,
   content,

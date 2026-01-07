@@ -203,7 +203,6 @@ async function transformPost(post, dryRun = false) {
       current: post.slug,
     },
     publishedAt: post.publishedAt,
-    category: post.category || 'Writing', // Default category
     content: contentWithKeys,
   };
   

@@ -251,9 +251,11 @@ export function BlogModal({
                   <ClockIcon className="w-4 h-4" />
                   {formatReadTime(post.read_time || post.readTime)}
                 </div>
-                <span className={`px-3 py-1 rounded-full text-sm font-medium text-white ${getCategoryColor(post.category)}`}>
-                  {post.category}
-                </span>
+                {post.category && (
+                  <span className={`px-3 py-1 rounded-full text-sm font-medium text-white ${getCategoryColor(post.category)}`}>
+                    {post.category}
+                  </span>
+                )}
               </div>
             )}
             <h1 className="text-3xl md:text-3xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">

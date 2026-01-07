@@ -36,7 +36,6 @@ const POSTS_QUERY = `*[_type == "post" && defined(slug.current) && publishedAt <
   title,
   slug,
   excerpt,
-  category,
   readTime,
   publishedAt,
   content,

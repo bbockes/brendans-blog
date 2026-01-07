@@ -34,9 +34,11 @@ export function BlogCard({
             <ClockIcon className="w-4 h-4" />
             {formatReadTime(post.read_time || post.readTime)}
           </div>
-          <span className={`px-2 py-1 rounded-full text-xs font-medium text-white ${getCategoryColor(post.category)}`}>
-            {post.category}
-          </span>
+          {post.category && (
+            <span className={`px-2 py-1 rounded-full text-xs font-medium text-white ${getCategoryColor(post.category)}`}>
+              {post.category}
+            </span>
+          )}
         </div>
       </div>
       <div className="p-4">

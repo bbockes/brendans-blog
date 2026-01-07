@@ -30,26 +30,6 @@ export const postType = defineType({
       validation: (rule) => rule.required(),
     }),
     defineField({
-      name: 'category',
-      title: 'Category',
-      type: 'string',
-      options: {
-        list: [
-          { title: 'Writing', value: 'Writing' },
-          { title: 'Learning', value: 'Learning' },
-          { title: 'Planning', value: 'Planning' },
-          { title: 'Building', value: 'Building' },
-          { title: 'Creativity', value: 'Creativity' },
-          { title: 'Growth', value: 'Growth' },
-          { title: 'Focus', value: 'Focus' },
-          { title: 'Communication', value: 'Communication' },
-          { title: 'Thinking', value: 'Thinking' },
-          { title: 'Shortcuts', value: 'Shortcuts' },
-        ],
-      },
-      validation: (rule) => rule.required(),
-    }),
-    defineField({
       name: 'content',
       title: 'Content',
       type: 'array',
