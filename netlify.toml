@@ -25,6 +25,12 @@
   to = "/posts/:splat"
   status = 301
 
+# Dynamic RSS feed - routes to Netlify function for real-time updates
+[[redirects]]
+  from = "/feed.xml"
+  to = "/.netlify/functions/rss-feed"
+  status = 200
+
 # SPA fallback for client-side routing
 [[redirects]]
   from = "/*"
