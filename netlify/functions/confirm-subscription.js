@@ -151,7 +151,7 @@ export const handler = async (event, context) => {
 function renderSuccessPage(email, alreadySubscribed) {
   const message = alreadySubscribed 
     ? "You're already subscribed! No need to confirm again."
-    : "You've successfully subscribed to the newsletter!";
+    : "You've successfully subscribed!";
 
   return `
     <!DOCTYPE html>
@@ -167,8 +167,8 @@ function renderSuccessPage(email, alreadySubscribed) {
             box-sizing: border-box;
           }
           body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Avenir Next', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #4f9deb 100%);
             min-height: 100vh;
             display: flex;
             align-items: center;
@@ -193,24 +193,6 @@ function renderSuccessPage(email, alreadySubscribed) {
             align-items: center;
             justify-content: center;
             margin: 0 auto 24px;
-          }
-          .checkmark {
-            width: 40px;
-            height: 40px;
-            border: 4px solid white;
-            border-radius: 50%;
-            position: relative;
-          }
-          .checkmark::after {
-            content: '';
-            position: absolute;
-            width: 12px;
-            height: 20px;
-            border: solid white;
-            border-width: 0 4px 4px 0;
-            top: 6px;
-            left: 10px;
-            transform: rotate(45deg);
           }
           h1 {
             color: #1a1a1a;
@@ -251,7 +233,9 @@ function renderSuccessPage(email, alreadySubscribed) {
       <body>
         <div class="container">
           <div class="icon">
-            <div class="checkmark"></div>
+            <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M20 30.5L12 22.5L14.5 20L20 25.5L33.5 12L36 14.5L20 30.5Z" fill="white" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
           </div>
           <h1>Subscription Confirmed!</h1>
           <p>${message}</p>
@@ -278,8 +262,8 @@ function renderErrorPage(message) {
             box-sizing: border-box;
           }
           body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            font-family: 'Avenir Next', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #4f9deb 100%);
             min-height: 100vh;
             display: flex;
             align-items: center;

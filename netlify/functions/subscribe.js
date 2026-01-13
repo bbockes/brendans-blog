@@ -138,7 +138,7 @@ export const handler = async (event, context) => {
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>Confirm Your Subscription</title>
           </head>
-          <body style="margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; background-color: #f5f5f5;">
+          <body style="margin: 0; padding: 0; font-family: 'Avenir Next', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; background-color: #f5f5f5;">
             <table role="presentation" style="width: 100%; border-collapse: collapse;">
               <tr>
                 <td align="center" style="padding: 40px 0;">
@@ -149,7 +149,7 @@ export const handler = async (event, context) => {
                           Confirm Your Subscription
                         </h1>
                         <p style="margin: 0 0 30px 0; color: #4a5568; font-size: 16px; line-height: 1.6;">
-                          Thanks for subscribing to the newsletter! Click the button below to confirm your email address and start receiving updates.
+                          Thanks for subscribing to Brendan's Blog! Click the button below to confirm your email address and start receiving updates.
                         </p>
                         <table role="presentation" style="margin: 0 auto;">
                           <tr>
