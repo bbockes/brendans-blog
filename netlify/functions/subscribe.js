@@ -1,4 +1,5 @@
 import 'dotenv/config';
+import { Resend } from 'resend';
 
 export const handler = async (event, context) => {
   // Only allow POST requests
@@ -49,17 +50,17 @@ export const handler = async (event, context) => {
       };
     }
 
-    // Get EmailOctopus credentials from environment variables
-    const apiKey = process.env.EMAILOCTOPUS_API_KEY;
-    const listId = process.env.EMAILOCTOPUS_LIST_ID;
+    // Get Resend credentials from environment variables
+    const apiKey = process.env.RESEND_API_KEY;
+    const audienceId = process.env.RESEND_AUDIENCE_ID;
     
     console.log('Environment Variables:', {
-      EMAILOCTOPUS_API_KEY: apiKey ? `${apiKey.substring(0, 5)}...${apiKey.substring(apiKey.length - 3)}` : 'NOT FOUND',
-      EMAILOCTOPUS_LIST_ID: listId || 'NOT FOUND'
+      RESEND_API_KEY: apiKey ? `${apiKey.substring(0, 5)}...${apiKey.substring(apiKey.length - 3)}` : 'NOT FOUND',
+      RESEND_AUDIENCE_ID: audienceId || 'NOT FOUND'
     });
 
-    if (!apiKey || !listId) {
-      console.error('Missing EmailOctopus configuration');
+    if (!apiKey || !audienceId) {
+      console.error('Missing Resend configuration');
       return {
         statusCode: 500,
         headers,
@@ -67,49 +68,39 @@ export const handler = async (event, context) => {
       };
     }
 
-    // Prepare the request body for EmailOctopus
-    const requestBody = new URLSearchParams();
-    requestBody.append('api_key', apiKey);
-    requestBody.append('email_address', trimmedEmail);
-    // Set status for double opt-in
-    requestBody.append('status', 'PENDING');
-    
-    // Add any custom fields if needed
-    // requestBody.append('fields[FirstName]', 'John');
-    // requestBody.append('fields[LastName]', 'Doe');
+    // Initialize Resend client
+    const resend = new Resend(apiKey);
 
-    console.log('Sending to EmailOctopus:', {
-      listId,
-      email: `${trimmedEmail.substring(0, 2)}...@...${trimmedEmail.split('@')[1]}`,
-      endpoint: `https://emailoctopus.com/api/1.6/lists/${listId}/contacts`
+    console.log('Adding contact to Resend audience:', {
+      audienceId,
+      email: `${trimmedEmail.substring(0, 2)}...@...${trimmedEmail.split('@')[1]}`
     });
 
-    const response = await fetch(`https://emailoctopus.com/api/1.6/lists/${listId}/contacts`, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/x-www-form-urlencoded'
-      },
-      body: requestBody.toString()
+    // Add contact to Resend audience
+    const response = await resend.contacts.create({
+      email: trimmedEmail,
+      audienceId: audienceId,
+      unsubscribed: false
     });
 
-    const responseData = await response.json().catch(() => ({}));
-    
-    if (!response.ok) {
-      console.error('EmailOctopus API error:', {
-        status: response.status,
-        statusText: response.statusText,
-        error: responseData.error
-      });
-
+    // Check for errors in the response
+    if (response.error) {
+      console.error('Resend API error:', response.error);
+      
       let errorMessage = 'Failed to subscribe to newsletter';
-      if (response.status === 401) {
-        errorMessage = 'Invalid API key';
-      } else if (responseData.error?.message) {
-        errorMessage = responseData.error.message;
+      
+      // Handle specific Resend error codes
+      if (response.error.message) {
+        errorMessage = response.error.message;
+        
+        // Make error messages more user-friendly
+        if (errorMessage.includes('already exists') || errorMessage.includes('duplicate')) {
+          errorMessage = 'This email is already subscribed to the newsletter!';
+        }
       }
 
       return {
-        statusCode: response.status,
+        statusCode: 400,
         headers,
         body: JSON.stringify({ error: errorMessage })
       };
@@ -121,19 +112,31 @@ export const handler = async (event, context) => {
       headers,
       body: JSON.stringify({ 
         success: true, 
-        message: 'Please check your email to confirm your subscription!' 
+        message: 'Successfully subscribed to the newsletter!' 
       })
     };
 
   } catch (err) {
     console.error('Newsletter subscription error:', err);
     
+    // Handle specific error cases
+    let errorMessage = 'An unexpected error occurred. Please try again later.';
+    
+    if (err.message) {
+      errorMessage = err.message;
+      
+      // Make error messages more user-friendly
+      if (errorMessage.includes('already exists') || errorMessage.includes('duplicate')) {
+        errorMessage = 'This email is already subscribed to the newsletter!';
+      } else if (errorMessage.includes('Invalid email')) {
+        errorMessage = 'Please enter a valid email address';
+      }
+    }
+    
     return {
       statusCode: 500,
       headers,
-      body: JSON.stringify({ 
-        error: 'An unexpected error occurred. Please try again later.' 
-      })
+      body: JSON.stringify({ error: errorMessage })
     };
   }
 };
