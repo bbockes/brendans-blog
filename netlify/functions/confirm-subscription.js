@@ -102,44 +102,71 @@ export const handler = async (event, context) => {
 
     console.log('Adding confirmed contact to Resend audience:', email);
 
-    // First, try to find if the contact already exists
-    let contactId = null;
-    try {
-      const { data: existingContacts } = await resend.contacts.list({
-        audienceId: audienceId
-      });
-
-      if (existingContacts?.data) {
-        const existingContact = existingContacts.data.find(
-          contact => contact.email.toLowerCase() === email.toLowerCase()
-        );
-        
-        if (existingContact) {
-          contactId = existingContact.id;
-          console.log('Contact already exists, will remove and re-add to update subscription date');
-          
-          // Remove the existing contact
-          await resend.contacts.remove({
-            audienceId: audienceId,
-            id: contactId
-          });
-          
-          console.log('Removed existing contact:', email);
-        }
-      }
-    } catch (checkError) {
-      console.warn('Could not check for existing contact:', checkError);
-      // Continue anyway - will handle duplicate error if needed
-    }
-
-    // Add contact to Resend audience (fresh subscription date)
-    const response = await resend.contacts.create({
+    // Try to add contact - if they already exist, we'll remove and re-add them
+    let response = await resend.contacts.create({
       email: email,
       audienceId: audienceId,
       unsubscribed: false
     });
 
-    // Check for errors
+    // If contact already exists, remove and re-add to update subscription date
+    if (response.error && 
+        (response.error.message?.includes('already exists') || 
+         response.error.message?.includes('duplicate') ||
+         response.error.message?.includes('Contact already exists'))) {
+      
+      console.log('Contact already exists, removing and re-adding to update subscription date:', email);
+      
+      try {
+        // First, get the contact ID by listing and finding the contact
+        const { data: contacts } = await resend.contacts.list({
+          audienceId: audienceId
+        });
+        
+        const existingContact = contacts?.data?.find(
+          c => c.email.toLowerCase() === email.toLowerCase()
+        );
+        
+        if (existingContact && existingContact.id) {
+          console.log('Found existing contact with ID:', existingContact.id);
+          
+          // Remove the contact
+          const removeResult = await resend.contacts.remove({
+            audienceId: audienceId,
+            id: existingContact.id
+          });
+          
+          console.log('Removed existing contact:', email);
+          
+          // Re-add the contact with fresh subscription date
+          response = await resend.contacts.create({
+            email: email,
+            audienceId: audienceId,
+            unsubscribed: false
+          });
+          
+          console.log('Re-added contact with updated subscription date:', email);
+        } else {
+          console.error('Could not find contact ID for:', email);
+          // Return success anyway since they're already subscribed
+          return {
+            statusCode: 200,
+            headers,
+            body: renderSuccessPage(email, true)
+          };
+        }
+      } catch (removeError) {
+        console.error('Error removing and re-adding contact:', removeError);
+        // Return success anyway since they're already subscribed
+        return {
+          statusCode: 200,
+          headers,
+          body: renderSuccessPage(email, true)
+        };
+      }
+    }
+
+    // Check for other errors
     if (response.error) {
       console.error('Resend API error:', response.error);
       
