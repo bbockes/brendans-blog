@@ -6,6 +6,9 @@
 https://brendansblog.netlify.app/* https://blog.brendanbockes.com/:splat 301!
 https://main--brendansblog.netlify.app/* https://blog.brendanbockes.com/:splat 301!
 
+# Redirect www subdomain to non-www
+https://www.blog.brendanbockes.com/* https://blog.brendanbockes.com/:splat 301!
+
 # Fallback to SPA for client-side routing
 # React router will handle both /about and /about/ routes
 /* /index.html 200
