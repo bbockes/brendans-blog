@@ -221,8 +221,11 @@ function renderSuccessPage(email, alreadySubscribed) {
             color: white;
             padding: 14px 32px;
             border-radius: 6px;
+            border: none;
             text-decoration: none;
             font-weight: 600;
+            font-size: 16px;
+            cursor: pointer;
             transition: background 0.2s;
           }
           .button:hover {
@@ -240,8 +243,22 @@ function renderSuccessPage(email, alreadySubscribed) {
           <h1>Subscription Confirmed!</h1>
           <p>${message}</p>
           <div class="email">${email}</div>
-          <a href="/" class="button">Return to Blog</a>
+          <button class="button" onclick="window.close()">Close this tab</button>
         </div>
+        <script>
+          // If window.close() doesn't work (some browsers block it), 
+          // provide a fallback to redirect to the blog
+          setTimeout(function() {
+            var button = document.querySelector('.button');
+            button.onclick = function() {
+              window.close();
+              // Fallback: if tab doesn't close after 100ms, redirect to blog
+              setTimeout(function() {
+                window.location.href = '/';
+              }, 100);
+            };
+          }, 0);
+        </script>
       </body>
     </html>
   `;
