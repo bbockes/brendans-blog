@@ -48,6 +48,14 @@ Add the following environment variables to your Netlify site:
    
    - **Variable Name:** `RESEND_AUDIENCE_ID`
      - **Value:** Your Audience ID from step 2
+   
+   - **Variable Name:** `RESEND_FROM_EMAIL`
+     - **Value:** Your verified sender email (e.g., `newsletter@yourdomain.com`)
+     - **Note:** This email must be verified in Resend
+   
+   - **Variable Name:** `CONFIRMATION_SECRET`
+     - **Value:** A random secret string (e.g., generate with `openssl rand -hex 32`)
+     - **Purpose:** Used to sign confirmation tokens securely
 
 4. Click "Save"
 
@@ -69,13 +77,26 @@ Netlify will automatically build and deploy your changes.
 1. Visit your blog
 2. Enter an email address in the subscribe form (top of the page)
 3. Click "Subscribe"
-4. Check your Resend dashboard to verify the contact was added to your audience
+4. **Check your email inbox** for the confirmation email
+5. Click the "Confirm Subscription" button in the email
+6. You should see a success page
+7. Check your Resend dashboard to verify the contact was added to your audience
 
-## How It Works
+## How It Works (Double Opt-In)
 
 1. **User subscribes**: When a user enters their email and clicks "Subscribe", the form sends a POST request to your Netlify function
-2. **Netlify function**: The function validates the email and adds it to your Resend audience using the Audiences API
-3. **Resend audience**: The email is stored in your Resend audience, which you can use to send newsletters
+2. **Confirmation email sent**: The function sends a beautiful HTML confirmation email with a secure token
+3. **User clicks confirmation link**: The link takes them to the confirmation endpoint
+4. **Token validated**: The system verifies the token is valid and not expired (24-hour expiration)
+5. **Added to audience**: The email is added to your Resend audience
+6. **Success page displayed**: User sees a confirmation page and is redirected back to your blog
+
+### Why Double Opt-In?
+
+- **Better deliverability**: Email providers trust lists built with confirmed subscribers
+- **Higher engagement**: Subscribers are genuinely interested
+- **Reduces spam complaints**: Only people who want emails are subscribed
+- **Compliant**: Meets best practices for email marketing
 
 ## Sending Newsletters
 
@@ -98,13 +119,24 @@ You can also send one-off campaigns using Resend:
 ## Troubleshooting
 
 ### "Server configuration error"
-- Make sure you've added both `RESEND_API_KEY` and `RESEND_AUDIENCE_ID` to Netlify
+- Make sure you've added all required environment variables to Netlify:
+  - `RESEND_API_KEY`
+  - `RESEND_AUDIENCE_ID`
+  - `RESEND_FROM_EMAIL`
+  - `CONFIRMATION_SECRET`
 - Verify the environment variables are spelled correctly
 - Redeploy your site after adding environment variables
 
-### "This email is already subscribed"
-- This is expected behavior - Resend prevents duplicate subscriptions
-- The user is already in your audience
+### Confirmation email not received
+- Check spam/junk folder
+- Verify `RESEND_FROM_EMAIL` is a verified sender in Resend
+- Check Netlify function logs for email sending errors
+- Make sure you haven't exceeded Resend's rate limits
+
+### "Invalid confirmation link"
+- Link may have expired (24-hour expiration)
+- Token may be corrupted (copy full URL)
+- Ask user to subscribe again
 
 ### Subscriptions not appearing in Resend
 1. Check the Netlify function logs:
@@ -115,11 +147,20 @@ You can also send one-off campaigns using Resend:
 
 ## Additional Features
 
-### Double Opt-In (Optional)
-If you want to implement double opt-in (where users must confirm their email):
-1. When adding contacts, you can send a confirmation email
-2. Only add them to your main audience after they click the confirmation link
-3. This requires additional setup with Resend's email sending API
+### Customizing the Confirmation Email
+
+The confirmation email is defined in `netlify/functions/subscribe.js`. You can customize:
+- Email subject
+- HTML template design
+- Button text and styling
+- Email copy
+
+### Customizing Confirmation Pages
+
+The success and error pages are in `netlify/functions/confirm-subscription.js`. You can customize:
+- Page design and styling
+- Success/error messages
+- Redirect behavior
 
 ### Unsubscribe Management
 Resend automatically handles unsubscribes:
@@ -136,6 +177,15 @@ Resend automatically handles unsubscribes:
 ## Notes
 
 - The frontend code remains unchanged - all changes are backend only
-- Subscribers are added immediately (no email confirmation required)
-- If you want email confirmation, you'll need to implement double opt-in (see "Additional Features" above)
+- **Double opt-in is now enabled** - users must confirm their email before being added to the audience
+- Confirmation tokens expire after 24 hours for security
 - The old EmailOctopus configuration has been removed
+- Make sure to verify your sender email in Resend before testing
+
+## Security Features
+
+- Tokens are cryptographically signed using HMAC-SHA256
+- Tokens expire after 24 hours
+- Email validation on both client and server side
+- Duplicate subscription prevention
+- CORS protection enabled
