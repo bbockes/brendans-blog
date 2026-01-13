@@ -76,33 +76,8 @@ export const handler = async (event, context) => {
     // Initialize Resend client
     const resend = new Resend(apiKey);
 
-    // Check if email already exists in audience
-    try {
-      const { data: existingContacts } = await resend.contacts.list({
-        audienceId: audienceId
-      });
-
-      if (existingContacts?.data) {
-        const emailExists = existingContacts.data.some(
-          contact => contact.email.toLowerCase() === trimmedEmail.toLowerCase()
-        );
-
-        if (emailExists) {
-          console.log('Email already subscribed:', trimmedEmail);
-          return {
-            statusCode: 200,
-            headers,
-            body: JSON.stringify({ 
-              success: true, 
-              message: 'This email is already subscribed!' 
-            })
-          };
-        }
-      }
-    } catch (checkError) {
-      console.warn('Could not check for existing subscription:', checkError);
-      // Continue anyway - will handle duplicate error later if needed
-    }
+    // Note: We allow re-subscription to update the subscription date
+    // The confirmation handler will remove and re-add the contact if they already exist
 
     // Generate confirmation token (email + timestamp + secret)
     const secret = process.env.CONFIRMATION_SECRET || 'your-secret-key-change-this';

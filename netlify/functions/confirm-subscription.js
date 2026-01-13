@@ -102,7 +102,37 @@ export const handler = async (event, context) => {
 
     console.log('Adding confirmed contact to Resend audience:', email);
 
-    // Add contact to Resend audience
+    // First, try to find if the contact already exists
+    let contactId = null;
+    try {
+      const { data: existingContacts } = await resend.contacts.list({
+        audienceId: audienceId
+      });
+
+      if (existingContacts?.data) {
+        const existingContact = existingContacts.data.find(
+          contact => contact.email.toLowerCase() === email.toLowerCase()
+        );
+        
+        if (existingContact) {
+          contactId = existingContact.id;
+          console.log('Contact already exists, will remove and re-add to update subscription date');
+          
+          // Remove the existing contact
+          await resend.contacts.remove({
+            audienceId: audienceId,
+            id: contactId
+          });
+          
+          console.log('Removed existing contact:', email);
+        }
+      }
+    } catch (checkError) {
+      console.warn('Could not check for existing contact:', checkError);
+      // Continue anyway - will handle duplicate error if needed
+    }
+
+    // Add contact to Resend audience (fresh subscription date)
     const response = await resend.contacts.create({
       email: email,
       audienceId: audienceId,
@@ -113,17 +143,6 @@ export const handler = async (event, context) => {
     if (response.error) {
       console.error('Resend API error:', response.error);
       
-      // Handle duplicate subscription gracefully
-      if (response.error.message?.includes('already exists') || 
-          response.error.message?.includes('duplicate')) {
-        console.log('Email already subscribed:', email);
-        return {
-          statusCode: 200,
-          headers,
-          body: renderSuccessPage(email, true)
-        };
-      }
-
       return {
         statusCode: 500,
         headers,
