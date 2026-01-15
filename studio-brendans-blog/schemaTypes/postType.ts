@@ -26,7 +26,19 @@ export const postType = defineType({
       name: 'publishedAt',
       title: 'Published at',
       type: 'datetime',
-      initialValue: () => new Date().toISOString(),
+      initialValue: () => {
+        const now = new Date();
+        // Set to 3:00 AM in local timezone
+        const threeAM = new Date(now);
+        threeAM.setHours(3, 0, 0, 0);
+        
+        // If it's already past 3 AM today, default to 3 AM tomorrow
+        if (now > threeAM) {
+          threeAM.setDate(threeAM.getDate() + 1);
+        }
+        
+        return threeAM.toISOString();
+      },
       validation: (rule) => rule.required(),
     }),
     defineField({
