@@ -1,14 +1,16 @@
 import React from 'react';
-import { MenuIcon } from 'lucide-react';
+import { MenuIcon, Search } from 'lucide-react';
 import { useTheme } from '../contexts/ThemeContext';
 import { useNavigate, useLocation } from 'react-router-dom';
 
 interface MobileHeaderProps {
   onMenuToggle: () => void;
   onLogoClick?: () => void;
+  onSearchToggle?: () => void;
+  isSearchMode?: boolean;
 }
 
-export function MobileHeader({ onMenuToggle, onLogoClick }: MobileHeaderProps) {
+export function MobileHeader({ onMenuToggle, onLogoClick, onSearchToggle, isSearchMode = false }: MobileHeaderProps) {
   const { isDarkMode } = useTheme();
   const navigate = useNavigate();
   const location = useLocation();
@@ -70,13 +72,35 @@ export function MobileHeader({ onMenuToggle, onLogoClick }: MobileHeaderProps) {
             }}
           />
         </div>
-        <button
-          onClick={(e) => { e.stopPropagation(); onMenuToggle(); }}
-          className="p-1.5 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
-          aria-label="Open menu"
-        >
-          <MenuIcon className="w-5 h-5 text-gray-700 dark:text-gray-300" />
-        </button>
+        <div className="flex items-center gap-2">
+          {onSearchToggle && (
+            <button
+              onClick={(e) => { 
+                e.stopPropagation(); 
+                onSearchToggle(); 
+              }}
+              className={`mobile-header-search-icon p-1.5 rounded-lg transition-colors ${
+                isSearchMode 
+                  ? 'bg-blue-100 dark:bg-blue-900/30 hover:bg-blue-200 dark:hover:bg-blue-900/50' 
+                  : 'hover:bg-gray-100 dark:hover:bg-gray-700'
+              }`}
+              aria-label="Toggle search"
+            >
+              <Search className={`w-5 h-5 ${
+                isSearchMode 
+                  ? 'text-blue-600 dark:text-blue-400' 
+                  : 'text-gray-700 dark:text-gray-300'
+              }`} />
+            </button>
+          )}
+          <button
+            onClick={(e) => { e.stopPropagation(); onMenuToggle(); }}
+            className="p-1.5 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+            aria-label="Open menu"
+          >
+            <MenuIcon className="w-5 h-5 text-gray-700 dark:text-gray-300" />
+          </button>
+        </div>
       </div>
     </header>
   );

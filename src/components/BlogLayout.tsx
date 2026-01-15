@@ -123,6 +123,7 @@ export function BlogLayout() {
   const [searchQuery, setSearchQuery] = useState<string>('');
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState<boolean>(false);
   const [isLinkMode, setIsLinkMode] = useState<boolean>(false);
+  const [isSearchMode, setIsSearchMode] = useState<boolean>(false);
   const [aboutPageData, setAboutPageData] = useState<Post | null>(null);
   const [aboutPageLoading, setAboutPageLoading] = useState<boolean>(false);
   const [visiblePostsCount, setVisiblePostsCount] = useState<number>(5); // Start with 5 posts
@@ -477,6 +478,8 @@ export function BlogLayout() {
     console.log('🔗 Navigating to slug:', postSlug);
     // Reset visible posts count to prevent infinite scroll from interfering
     setVisiblePostsCount(5);
+    // Clear search query when navigating to a post (but keep search mode active)
+    setSearchQuery('');
     // Force scroll to top before navigation
     if (scrollableContainerRef.current) {
       scrollableContainerRef.current.scrollTop = 0;
@@ -566,6 +569,10 @@ export function BlogLayout() {
     setIsMobileMenuOpen(!isMobileMenuOpen);
   };
 
+  const toggleSearchMode = () => {
+    setIsSearchMode(!isSearchMode);
+  };
+
   return (
     <div className="flex h-screen w-full overflow-x-hidden">
       {/* Desktop/Tablet Sidebar - shows on medium screens and up */}
@@ -608,7 +615,12 @@ export function BlogLayout() {
       <main className="flex-1 flex flex-col min-w-0 w-full">
         {/* Mobile Header - only shows on small screens */}
         <div className="md:hidden flex-shrink-0">
-          <MobileHeader onMenuToggle={toggleMobileMenu} onLogoClick={handleLogoClick} />
+          <MobileHeader 
+            onMenuToggle={toggleMobileMenu} 
+            onLogoClick={handleLogoClick}
+            onSearchToggle={toggleSearchMode}
+            isSearchMode={isSearchMode}
+          />
         </div>
 
         <div ref={scrollableContainerRef} className="flex-1 px-[14px] py-4 md:p-8 overflow-y-auto w-full">
@@ -629,12 +641,15 @@ export function BlogLayout() {
                   <div className="flex items-center">
                     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm flex items-center overflow-hidden" style={{ width: '600px', maxWidth: '600px', minWidth: '600px', minHeight: '64px' }}>
                       <div className="px-4 py-4 w-full">
-                        <SearchSubscribeToggle 
-                          className="w-full" 
-                          onSearch={handleSearch}
-                          placeholder="Never miss a post! Get free email updates"
-                          searchQuery={searchQuery}
-                        />
+                      <SearchSubscribeToggle 
+                        key={`desktop-${isSearchMode}`}
+                        className="w-full" 
+                        onSearch={handleSearch}
+                        placeholder="Never miss a post! Get free email updates"
+                        searchQuery={searchQuery}
+                        isSearchMode={isSearchMode}
+                        onToggleMode={toggleSearchMode}
+                      />
                       </div>
                     </div>
                     <div className="hidden md:flex bg-white dark:bg-gray-800 rounded-lg p-4 shadow-sm items-center flex-shrink-0 ml-5">
@@ -658,10 +673,13 @@ export function BlogLayout() {
                   <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm overflow-hidden flex-1 tablet-subscribe-container">
                     <div className="px-4 py-4">
                       <SearchSubscribeToggle 
+                        key={`tablet-${isSearchMode}`}
                         className="w-full"
                         onSearch={handleSearch}
                         placeholder="Enter your email address"
                         searchQuery={searchQuery}
+                        isSearchMode={isSearchMode}
+                        onToggleMode={toggleSearchMode}
                       />
                     </div>
                   </div>
@@ -708,10 +726,13 @@ export function BlogLayout() {
                 <div className="bg-white dark:bg-gray-800 rounded-lg shadow-sm overflow-hidden">
                   <div className="px-4 py-4">
                     <SearchSubscribeToggle 
+                      key={`mobile-${isSearchMode}`}
                       className="w-full mobile-search-toggle"
                       onSearch={handleSearch}
                       placeholder="Enter your email address"
                       searchQuery={searchQuery}
+                      isSearchMode={isSearchMode}
+                      onToggleMode={toggleSearchMode}
                     />
                     <NewsletterForm 
                       className="w-full mobile-newsletter-fallback hidden"
@@ -762,7 +783,7 @@ export function BlogLayout() {
                     </div>
                   </div>
                 ) : location.pathname === '/archive' ? (
-                  <Archive />
+                  <Archive searchQuery={searchQuery} />
                 ) : (
                   <div className="w-full max-w-4xl mx-auto md:pl-[60px] px-[14px] md:px-0" style={{ paddingTop: '10px' }}>
                     {/* Show single post if on a post route, otherwise show all visible posts */}

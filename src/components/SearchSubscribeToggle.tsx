@@ -11,6 +11,8 @@ interface SearchSubscribeToggleProps {
   buttonClassName?: string;
   onSearch?: (query: string) => void;
   searchQuery?: string; // External search query to sync with
+  isSearchMode?: boolean; // External control of search mode
+  onToggleMode?: () => void; // Callback when mode is toggled
 }
 
 export function SearchSubscribeToggle({
@@ -20,14 +22,20 @@ export function SearchSubscribeToggle({
   inputClassName = "",
   buttonClassName = "",
   onSearch,
-  searchQuery = ''
+  searchQuery = '',
+  isSearchMode: externalIsSearchMode,
+  onToggleMode: externalOnToggleMode
 }: SearchSubscribeToggleProps) {
-  const [isSearchMode, setIsSearchMode] = useState(false);
+  const [internalIsSearchMode, setInternalIsSearchMode] = useState(false);
   const [inputValue, setInputValue] = useState('');
   const { isLoading, isSuccess, error, subscribe, reset } = useNewsletter();
   const { width } = useWindowSize();
   const inputRef = useRef<HTMLInputElement>(null);
   const lastSearchQueryRef = useRef<string>('');
+  
+  // Use external control if provided, otherwise use internal state
+  const isSearchMode = externalIsSearchMode !== undefined ? externalIsSearchMode : internalIsSearchMode;
+  const setIsSearchMode = externalOnToggleMode ? () => externalOnToggleMode() : setInternalIsSearchMode;
 
   // Sync input value with external searchQuery when in search mode
   // This allows external components (like logo click) to clear the search
@@ -83,15 +91,18 @@ export function SearchSubscribeToggle({
   };
 
   const toggleMode = () => {
-    const newMode = !isSearchMode;
-    setIsSearchMode(newMode);
-    
     // Clear input and search when switching away from search mode
     if (isSearchMode && onSearch) {
       setInputValue('');
       onSearch('');
     }
-    // Don't clear input when switching to search mode - let user continue typing
+    
+    // Toggle the mode
+    if (externalOnToggleMode) {
+      externalOnToggleMode();
+    } else {
+      setInternalIsSearchMode(!isSearchMode);
+    }
   };
 
   // Determine search placeholder based on screen size

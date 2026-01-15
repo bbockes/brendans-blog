@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import { ChevronDown, ChevronRight, ArrowLeft } from 'lucide-react';
 import { cachedFetch, POSTS_QUERY } from '../lib/sanityClient';
-import { slugify } from '../utils/slugify';
+import { slugify, filterPostsBySearchQuery } from '../utils/slugify';
 
 interface Post {
   id: string;
@@ -28,7 +28,11 @@ interface MonthData {
   posts: Post[];
 }
 
-export function Archive() {
+interface ArchiveProps {
+  searchQuery?: string;
+}
+
+export function Archive({ searchQuery = '' }: ArchiveProps) {
   const [posts, setPosts] = useState<Post[]>([]);
   const [loading, setLoading] = useState(true);
   const [expandedYears, setExpandedYears] = useState<Set<number>>(new Set());
@@ -66,9 +70,14 @@ export function Archive() {
 
   // Group posts by year and month
   const archiveData = useMemo(() => {
+    // Filter posts by search query first
+    const filteredPosts = searchQuery.trim() 
+      ? filterPostsBySearchQuery(posts, searchQuery)
+      : posts;
+    
     const yearMap = new Map<number, Map<number, Post[]>>();
     
-    posts.forEach(post => {
+    filteredPosts.forEach(post => {
       const dateStr = post.publishedAt || post.created_at;
       if (!dateStr) return;
       
@@ -113,7 +122,7 @@ export function Archive() {
       .sort((a, b) => b.year - a.year); // Reverse chronological (newest year first)
     
     return yearData;
-  }, [posts]);
+  }, [posts, searchQuery]);
 
   const toggleYear = (year: number) => {
     setExpandedYears(prev => {
@@ -178,7 +187,9 @@ export function Archive() {
 
       {archiveData.length === 0 ? (
         <div className="text-center text-gray-600 dark:text-gray-400 py-12">
-          No posts found in the archive.
+          {searchQuery.trim() 
+            ? `No posts found for "${searchQuery}".`
+            : 'No posts found in the archive.'}
         </div>
       ) : (
         <div className="space-y-1">
