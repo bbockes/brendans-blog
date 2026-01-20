@@ -126,7 +126,7 @@ export function BlogLayout() {
   const [isSearchMode, setIsSearchMode] = useState<boolean>(false);
   const [aboutPageData, setAboutPageData] = useState<Post | null>(null);
   const [aboutPageLoading, setAboutPageLoading] = useState<boolean>(false);
-  const [visiblePostsCount, setVisiblePostsCount] = useState<number>(5); // Start with 5 posts
+  const [visiblePostsCount, setVisiblePostsCount] = useState<number>(3); // Start with 3 posts for faster LCP
   const postsPerLoad = 5; // Load 5 more posts at a time
   const observerTarget = useRef<HTMLDivElement>(null);
   const filteredPostsRef = useRef<any[]>([]);
@@ -252,20 +252,20 @@ export function BlogLayout() {
       if (post) {
         console.log('✅ Found post, setting selectedPost:', post.title);
         // Reset visible posts count when navigating to a post
-        setVisiblePostsCount(5);
+        setVisiblePostsCount(3);
         setSelectedPost(post);
       } else {
         console.log('❌ Post not found, redirecting to home');
         // Post not found, redirect to home
         navigate('/', { replace: true });
         setSelectedPost(null);
-        setVisiblePostsCount(5);
+        setVisiblePostsCount(3);
       }
     } else if (location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive') {
       console.log('🏠 On home page, clearing selectedPost');
       setSelectedPost(null);
       // Reset visible posts count when navigating to homepage
-      setVisiblePostsCount(5);
+      setVisiblePostsCount(3);
     }
     
     // Handle blogroll route
@@ -289,7 +289,7 @@ export function BlogLayout() {
   // Scroll to top when route changes - handle both post pages and homepage
   useLayoutEffect(() => {
     // Always reset visible posts count on route change to prevent infinite scroll issues
-    setVisiblePostsCount(5);
+    setVisiblePostsCount(3);
     
     // Scroll to top immediately (synchronously before paint)
     // Scroll the scrollable container (the div with overflow-y-auto)
@@ -477,7 +477,7 @@ export function BlogLayout() {
     const postSlug = post.slug?.current || post.slug || slugify(post.title);
     console.log('🔗 Navigating to slug:', postSlug);
     // Reset visible posts count to prevent infinite scroll from interfering
-    setVisiblePostsCount(5);
+    setVisiblePostsCount(3);
     // Clear search query when navigating to a post (but keep search mode active)
     setSearchQuery('');
     // Force scroll to top before navigation
