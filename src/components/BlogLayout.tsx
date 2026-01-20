@@ -21,6 +21,7 @@ import {
   generateOrganizationSchema, 
   generateWebSiteSchema, 
   generateBlogSchema,
+  generatePersonSchema,
   insertMultipleStructuredData 
 } from '../utils/schemaUtils';
 
@@ -126,7 +127,7 @@ export function BlogLayout() {
   const [isSearchMode, setIsSearchMode] = useState<boolean>(false);
   const [aboutPageData, setAboutPageData] = useState<Post | null>(null);
   const [aboutPageLoading, setAboutPageLoading] = useState<boolean>(false);
-  const [visiblePostsCount, setVisiblePostsCount] = useState<number>(3); // Start with 3 posts for faster LCP
+  const [visiblePostsCount, setVisiblePostsCount] = useState<number>(2); // Start with 2 posts for faster LCP
   const postsPerLoad = 5; // Load 5 more posts at a time
   const observerTarget = useRef<HTMLDivElement>(null);
   const filteredPostsRef = useRef<any[]>([]);
@@ -252,20 +253,20 @@ export function BlogLayout() {
       if (post) {
         console.log('✅ Found post, setting selectedPost:', post.title);
         // Reset visible posts count when navigating to a post
-        setVisiblePostsCount(3);
+        setVisiblePostsCount(2);
         setSelectedPost(post);
       } else {
         console.log('❌ Post not found, redirecting to home');
         // Post not found, redirect to home
         navigate('/', { replace: true });
         setSelectedPost(null);
-        setVisiblePostsCount(3);
+        setVisiblePostsCount(2);
       }
     } else if (location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive') {
       console.log('🏠 On home page, clearing selectedPost');
       setSelectedPost(null);
       // Reset visible posts count when navigating to homepage
-      setVisiblePostsCount(3);
+      setVisiblePostsCount(2);
     }
     
     // Handle blogroll route
@@ -286,10 +287,27 @@ export function BlogLayout() {
     console.log('🎯 selectedPost full object:', selectedPost);
   }, [selectedPost]);
 
+  // Add structured data for homepage
+  useEffect(() => {
+    const isHomePage = location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive';
+    const isBlogrollPage = location.pathname === '/blogroll' || location.pathname === '/blogroll/';
+    
+    // Only add schemas on homepage when no post is selected
+    if (isHomePage && !selectedPost && !isBlogrollPage) {
+      const schemas = [
+        generateOrganizationSchema(),
+        generateWebSiteSchema(),
+        generateBlogSchema(),
+        generatePersonSchema()
+      ];
+      insertMultipleStructuredData(schemas);
+    }
+  }, [location.pathname, selectedPost]);
+
   // Scroll to top when route changes - handle both post pages and homepage
   useLayoutEffect(() => {
     // Always reset visible posts count on route change to prevent infinite scroll issues
-    setVisiblePostsCount(3);
+    setVisiblePostsCount(2);
     
     // Scroll to top immediately (synchronously before paint)
     // Scroll the scrollable container (the div with overflow-y-auto)
@@ -477,7 +495,7 @@ export function BlogLayout() {
     const postSlug = post.slug?.current || post.slug || slugify(post.title);
     console.log('🔗 Navigating to slug:', postSlug);
     // Reset visible posts count to prevent infinite scroll from interfering
-    setVisiblePostsCount(3);
+    setVisiblePostsCount(2);
     // Clear search query when navigating to a post (but keep search mode active)
     setSearchQuery('');
     // Force scroll to top before navigation
@@ -866,9 +884,9 @@ export function BlogLayout() {
                       </div>
                     ) : (
                       <>
-                        {visiblePosts.map((post: any) => (
+                        {visiblePosts.map((post: any, index: number) => (
                           <div key={post.id} id={`post-${post.slug?.current || post.slug || post.id}`} className="mb-[36px]">
-                            <BlogPost post={post} />
+                            <BlogPost post={post} priority={index === 0} />
                           </div>
                         ))}
                         {/* Infinite scroll trigger */}

@@ -95,9 +95,18 @@ const ORGANIZATION_DATA = {
   name: "Brendan's Blog",
   url: "https://blog.brendanbockes.com",
   description: "The personal blog of Brendan Bockes. Thoughts on productivity, technology, and building.",
-    logo: "https://blog.brendanbockes.com/images/logo.png",
+  logo: "https://blog.brendanbockes.com/images/logo.png",
   sameAs: [
-    // Update with actual social media URLs if you have them
+    "https://www.linkedin.com/in/brendanbockes"
+  ]
+};
+
+// Person data for author schema
+const PERSON_DATA = {
+  name: "Brendan Bockes",
+  url: "https://blog.brendanbockes.com",
+  sameAs: [
+    "https://www.linkedin.com/in/brendanbockes"
   ]
 };
 
@@ -150,6 +159,21 @@ export function generateOrganizationSchema(): OrganizationSchema {
     logo: ORGANIZATION_DATA.logo,
     description: ORGANIZATION_DATA.description,
     sameAs: ORGANIZATION_DATA.sameAs
+  };
+}
+
+/**
+ * Generate Person schema for the blog author
+ */
+export function generatePersonSchema(): any {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name: PERSON_DATA.name,
+    url: PERSON_DATA.url,
+    sameAs: PERSON_DATA.sameAs,
+    jobTitle: "Writer, Builder, Thinker",
+    description: "Personal blog about productivity, technology, and building."
   };
 }
 
@@ -211,8 +235,9 @@ export function generateBlogPostSchema(post: BlogPost, postUrl: string): BlogPos
     description: description,
     image: post.image,
     author: {
-      "@type": "Organization", // Using Organization since this is a company blog
-      name: ORGANIZATION_DATA.name
+      "@type": "Person",
+      name: PERSON_DATA.name,
+      url: PERSON_DATA.url
     },
     publisher: {
       "@type": "Organization",
@@ -286,8 +311,9 @@ export function generateHowToSchema(post: BlogPost, postUrl: string): any {
     tool: steps.tools,
     step: steps.instructions,
     author: {
-      "@type": "Organization",
-      name: ORGANIZATION_DATA.name
+      "@type": "Person",
+      name: PERSON_DATA.name,
+      url: PERSON_DATA.url
     },
     publisher: {
       "@type": "Organization",
@@ -322,8 +348,9 @@ export function generateReviewSchema(post: BlogPost, postUrl: string): any {
       operatingSystem: "Web, iOS, Android" // Default, could be customized per tool
     },
     author: {
-      "@type": "Organization",
-      name: ORGANIZATION_DATA.name
+      "@type": "Person",
+      name: PERSON_DATA.name,
+      url: PERSON_DATA.url
     },
     publisher: {
       "@type": "Organization",
@@ -371,8 +398,9 @@ export function generateSoftwareApplicationSchema(post: BlogPost, postUrl: strin
     review: {
       "@type": "Review",
       author: {
-        "@type": "Organization",
-        name: ORGANIZATION_DATA.name
+        "@type": "Person",
+        name: PERSON_DATA.name,
+        url: PERSON_DATA.url
       },
       datePublished: post.publishedAt || post.created_at || new Date().toISOString(),
       headline: post.title,
@@ -440,8 +468,9 @@ export function generateFAQSchema(post: BlogPost, postUrl: string): any {
     url: postUrl,
     datePublished: post.publishedAt || post.created_at || new Date().toISOString(),
     author: {
-      "@type": "Organization",
-      name: ORGANIZATION_DATA.name
+      "@type": "Person",
+      name: PERSON_DATA.name,
+      url: PERSON_DATA.url
     }
   };
 }

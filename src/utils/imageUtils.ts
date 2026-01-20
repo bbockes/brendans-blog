@@ -148,7 +148,12 @@ export function supportsWebP(): Promise<boolean> {
 /**
  * Generate fallback image props with JPEG format for older browsers
  */
-export function getImagePropsWithFallback(imageUrl: string, alt: string, isModal: boolean = false) {
+export function getImagePropsWithFallback(
+  imageUrl: string, 
+  alt: string, 
+  isModal: boolean = false,
+  priority: boolean = false
+) {
   const sizes = isModal ? MODAL_IMAGE_SIZES : BLOG_CARD_SIZES;
   const sizesAttr = isModal 
     ? '(max-width: 640px) 500px, (max-width: 1024px) 800px, (max-width: 1280px) 1200px, 1600px'
@@ -158,7 +163,8 @@ export function getImagePropsWithFallback(imageUrl: string, alt: string, isModal
     return {
       src: imageUrl,
       alt,
-      loading: 'lazy' as const
+      loading: (priority ? 'eager' : 'lazy') as 'eager' | 'lazy',
+      ...(priority && { fetchpriority: 'high' as const })
     };
   }
 
@@ -167,7 +173,8 @@ export function getImagePropsWithFallback(imageUrl: string, alt: string, isModal
     srcSet: generateSrcSet(imageUrl, sizes, 'webp'),
     sizes: sizesAttr,
     alt,
-    loading: 'lazy' as const,
+    loading: (priority ? 'eager' : 'lazy') as 'eager' | 'lazy',
+    ...(priority && { fetchpriority: 'high' as const }),
     // Fallback for browsers that don't support WebP
     onError: (e: React.SyntheticEvent<HTMLImageElement>) => {
       const img = e.currentTarget;

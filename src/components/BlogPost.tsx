@@ -146,9 +146,10 @@ function fixInternalLink(href: string | undefined): string | undefined {
 
 interface BlogPostProps {
   post: any;
+  priority?: boolean; // Whether this is the first post (for LCP optimization)
 }
 
-export function BlogPost({ post }: BlogPostProps) {
+export function BlogPost({ post, priority = false }: BlogPostProps) {
   const { isDarkMode } = useTheme();
   const location = useLocation();
   
@@ -322,6 +323,7 @@ export function BlogPost({ post }: BlogPostProps) {
                         alt={value?.alt || ''} 
                         className="w-full !max-w-none mx-[-10] md:mx-[-22] h-auto rounded-lg shadow-md mb-4 pt-[5px] pb-[10px]"
                         isModal={true}
+                        priority={priority}
                       />
                     ),
                     code: ({value}) => (
@@ -447,6 +449,7 @@ export function BlogPost({ post }: BlogPostProps) {
                     alt={value?.alt || ''} 
                     className="w-full !max-w-none mx-[-10] md:mx-[-22] h-auto rounded-lg shadow-md mb-4 pt-[5px] pb-[10px]"
                     isModal={true}
+                    priority={priority}
                   />
                 ),
                 code: ({value}) => (

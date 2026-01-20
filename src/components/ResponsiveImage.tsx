@@ -6,6 +6,7 @@ interface ResponsiveImageProps {
   alt: string;
   className?: string;
   isModal?: boolean;
+  priority?: boolean;
   style?: React.CSSProperties;
   onClick?: () => void;
 }
@@ -19,10 +20,11 @@ export function ResponsiveImage({
   alt, 
   className = '', 
   isModal = false,
+  priority = false,
   style,
   onClick
 }: ResponsiveImageProps) {
-  const imageProps = getImagePropsWithFallback(src, alt, isModal);
+  const imageProps = getImagePropsWithFallback(src, alt, isModal, priority);
 
   return (
     <img
