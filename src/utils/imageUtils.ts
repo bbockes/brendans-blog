@@ -19,15 +19,16 @@ interface ResponsiveImageOptions {
 }
 
 // Define standard image sizes for different breakpoints
+// Smaller sizes for mobile to improve LCP
 const BLOG_CARD_SIZES: ImageSizes = {
-  mobile: 400,   // Small screens
+  mobile: 320,   // Small screens - reduced for faster mobile LCP
   tablet: 600,   // Medium screens  
   desktop: 800,  // Large screens
   large: 1200    // Extra large screens
 };
 
 const MODAL_IMAGE_SIZES: ImageSizes = {
-  mobile: 500,   // Small screens
+  mobile: 400,   // Small screens - reduced for faster mobile LCP
   tablet: 800,   // Medium screens
   desktop: 1200, // Large screens
   large: 1600    // Extra large screens
@@ -80,9 +81,10 @@ export function generateSrcSet(baseUrl: string, sizes: ImageSizes, format: 'webp
     return baseUrl; // Return original URL if not a Sanity image
   }
 
+  // Lower quality for mobile to improve LCP
   const srcSetEntries = [
-    `${generateSanityImageUrl(baseUrl, sizes.mobile, { format, quality: 85 })} ${sizes.mobile}w`,
-    `${generateSanityImageUrl(baseUrl, sizes.tablet, { format, quality: 85 })} ${sizes.tablet}w`,
+    `${generateSanityImageUrl(baseUrl, sizes.mobile, { format, quality: 70 })} ${sizes.mobile}w`,
+    `${generateSanityImageUrl(baseUrl, sizes.tablet, { format, quality: 80 })} ${sizes.tablet}w`,
     `${generateSanityImageUrl(baseUrl, sizes.desktop, { format, quality: 85 })} ${sizes.desktop}w`,
     `${generateSanityImageUrl(baseUrl, sizes.large, { format, quality: 85 })} ${sizes.large}w`
   ];
@@ -156,31 +158,36 @@ export function getImagePropsWithFallback(
 ) {
   const sizes = isModal ? MODAL_IMAGE_SIZES : BLOG_CARD_SIZES;
   const sizesAttr = isModal 
-    ? '(max-width: 640px) 500px, (max-width: 1024px) 800px, (max-width: 1280px) 1200px, 1600px'
-    : '(max-width: 640px) 400px, (max-width: 1024px) 600px, (max-width: 1280px) 800px, 1200px';
+    ? '(max-width: 640px) 400px, (max-width: 1024px) 800px, (max-width: 1280px) 1200px, 1600px'
+    : '(max-width: 640px) 320px, (max-width: 1024px) 600px, (max-width: 1280px) 800px, 1200px';
 
   if (!imageUrl || !imageUrl.includes('sanity')) {
     return {
       src: imageUrl,
       alt,
       loading: (priority ? 'eager' : 'lazy') as 'eager' | 'lazy',
-      ...(priority && { fetchpriority: 'high' as const })
+      ...(priority && { fetchpriority: 'high' as const }),
+      decoding: (priority ? 'sync' : 'async') as 'sync' | 'async'
     };
   }
 
+  // Use mobile-optimized quality for priority images
+  const priorityQuality = priority ? 70 : 85;
+
   return {
-    src: generateSanityImageUrl(imageUrl, sizes.desktop, { format: 'webp', quality: 85 }),
+    src: generateSanityImageUrl(imageUrl, sizes.mobile, { format: 'webp', quality: priorityQuality }),
     srcSet: generateSrcSet(imageUrl, sizes, 'webp'),
     sizes: sizesAttr,
     alt,
     loading: (priority ? 'eager' : 'lazy') as 'eager' | 'lazy',
+    decoding: (priority ? 'sync' : 'async') as 'sync' | 'async',
     ...(priority && { fetchpriority: 'high' as const }),
     // Fallback for browsers that don't support WebP
     onError: (e: React.SyntheticEvent<HTMLImageElement>) => {
       const img = e.currentTarget;
       if (img.src.includes('format=webp')) {
         // Switch to JPEG if WebP fails
-        img.src = generateSanityImageUrl(imageUrl, sizes.desktop, { format: 'jpg', quality: 85 });
+        img.src = generateSanityImageUrl(imageUrl, sizes.mobile, { format: 'jpg', quality: priorityQuality });
         img.srcSet = generateSrcSet(imageUrl, sizes, 'jpg');
       }
     }

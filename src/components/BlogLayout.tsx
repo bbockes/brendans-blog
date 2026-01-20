@@ -17,6 +17,7 @@ import { slugify, findPostBySlug, filterPostsBySearchQuery, extractFirstSentence
 import { generateMetaDescription, generatePageTitle, DEFAULT_OG_IMAGE } from '../utils/seoUtils.js';
 import { getCategoryColor } from '../utils/categoryColorUtils';
 import { getCategoryDisplayName, getSchemaCategory } from '../utils/categoryMappingUtils';
+import { useWindowSize } from '../hooks/useWindowSize';
 import { 
   generateOrganizationSchema, 
   generateWebSiteSchema, 
@@ -111,6 +112,12 @@ export function BlogLayout() {
   const navigate = useNavigate();
   const { slug } = useParams();
   const location = useLocation();
+  const { width } = useWindowSize();
+  
+  // Determine initial post count based on screen size
+  // Mobile (< 768px): 1 post, Desktop: 2 posts
+  const isMobile = width < 768;
+  const initialPostCount = isMobile ? 1 : 2;
   
   const [posts, setPosts] = useState<Post[]>([]);
   const [linkCards, setLinkCards] = useState<LinkCard[]>([]);
@@ -127,7 +134,7 @@ export function BlogLayout() {
   const [isSearchMode, setIsSearchMode] = useState<boolean>(false);
   const [aboutPageData, setAboutPageData] = useState<Post | null>(null);
   const [aboutPageLoading, setAboutPageLoading] = useState<boolean>(false);
-  const [visiblePostsCount, setVisiblePostsCount] = useState<number>(2); // Start with 2 posts for faster LCP
+  const [visiblePostsCount, setVisiblePostsCount] = useState<number>(initialPostCount);
   const postsPerLoad = 5; // Load 5 more posts at a time
   const observerTarget = useRef<HTMLDivElement>(null);
   const filteredPostsRef = useRef<any[]>([]);
@@ -253,20 +260,20 @@ export function BlogLayout() {
       if (post) {
         console.log('✅ Found post, setting selectedPost:', post.title);
         // Reset visible posts count when navigating to a post
-        setVisiblePostsCount(2);
+        setVisiblePostsCount(initialPostCount);
         setSelectedPost(post);
       } else {
         console.log('❌ Post not found, redirecting to home');
         // Post not found, redirect to home
         navigate('/', { replace: true });
         setSelectedPost(null);
-        setVisiblePostsCount(2);
+        setVisiblePostsCount(initialPostCount);
       }
     } else if (location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive') {
       console.log('🏠 On home page, clearing selectedPost');
       setSelectedPost(null);
       // Reset visible posts count when navigating to homepage
-      setVisiblePostsCount(2);
+      setVisiblePostsCount(initialPostCount);
     }
     
     // Handle blogroll route
@@ -307,7 +314,7 @@ export function BlogLayout() {
   // Scroll to top when route changes - handle both post pages and homepage
   useLayoutEffect(() => {
     // Always reset visible posts count on route change to prevent infinite scroll issues
-    setVisiblePostsCount(2);
+    setVisiblePostsCount(initialPostCount);
     
     // Scroll to top immediately (synchronously before paint)
     // Scroll the scrollable container (the div with overflow-y-auto)
@@ -495,7 +502,7 @@ export function BlogLayout() {
     const postSlug = post.slug?.current || post.slug || slugify(post.title);
     console.log('🔗 Navigating to slug:', postSlug);
     // Reset visible posts count to prevent infinite scroll from interfering
-    setVisiblePostsCount(2);
+    setVisiblePostsCount(initialPostCount);
     // Clear search query when navigating to a post (but keep search mode active)
     setSearchQuery('');
     // Force scroll to top before navigation

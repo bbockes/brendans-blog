@@ -6,13 +6,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     <!-- Preconnect to Sanity CDN for faster data loading -->
-    <link rel="preconnect" href="https://wxzoc64y.api.sanity.io" />
+    <link rel="preconnect" href="https://wxzoc64y.api.sanity.io" crossorigin />
     <link rel="dns-prefetch" href="https://wxzoc64y.api.sanity.io" />
-    <link rel="preconnect" href="https://cdn.sanity.io" />
+    <link rel="preconnect" href="https://cdn.sanity.io" crossorigin />
     <link rel="dns-prefetch" href="https://cdn.sanity.io" />
     
     <link rel="alternate" type="application/rss+xml" title="Brendan's Blog RSS Feed" href="/feed.xml" />
     <title>Brendan's Blog</title>
+    
+    <!-- Critical CSS inlining hint for build tools -->
+    <style>
+      /* Prevent layout shift */
+      #root { min-height: 100vh; }
+      /* Font loading optimization */
+      @font-face {
+        font-family: 'Avenir Next';
+        font-display: swap;
+      }
+    </style>
   </head>
   <body>
     <div id="root"></div>
