@@ -15,7 +15,7 @@ export const sanityClient = createClient({
 
 // Simple in-memory cache for queries
 const queryCache = new Map<string, { data: any; timestamp: number }>();
-const CACHE_TTL = 5 * 60 * 1000; // 5 minutes
+const CACHE_TTL = 60 * 60 * 1000; // 1 hour (blog content doesn't change frequently)
 
 // Cached fetch wrapper
 export async function cachedFetch<T>(query: string, params?: any): Promise<T> {
@@ -39,6 +39,7 @@ export async function cachedFetch<T>(query: string, params?: any): Promise<T> {
 // GROQ queries
 // Optimized query - fetch only needed fields, use efficient ordering
 // Filter out future-dated posts to enable scheduling based on publishedAt date
+// Note: We fetch content here because homepage shows full posts, not just previews
 export const POSTS_QUERY = `*[_type == "post" && defined(slug.current) && publishedAt <= now()] | order(publishedAt desc) {
   _id,
   title,
@@ -47,7 +48,7 @@ export const POSTS_QUERY = `*[_type == "post" && defined(slug.current) && publis
   readTime,
   publishedAt,
   content,
-  "image": image.asset->url,
+  "image": image.asset->url + "?w=1200&auto=format&q=80",
   subheader
 }`;
 
@@ -63,7 +64,7 @@ export const POST_BY_SLUG_QUERY = `*[_type == "post" && slug.current == $slug &&
   readTime,
   publishedAt,
   content,
-  "image": image.asset->url,
+  "image": image.asset->url + "?w=1200&auto=format&q=80",
   subheader
 }`;
 
@@ -71,7 +72,7 @@ export const LINK_CARDS_QUERY = `*[_type == "linkCard"] | order(_createdAt asc) 
   _id,
   title,
   hook,
-  "image": image.asset->url,
+  "image": image.asset->url + "?w=600&auto=format&q=80",
   url
 }`;
 
@@ -86,7 +87,7 @@ export const ABOUT_PAGE_QUERY = `*[_type == "aboutPage"][0] {
   readTime,
   content,
   psContent,
-  "image": image.asset->url,
-  "headshot": headshot.asset->url,
+  "image": image.asset->url + "?w=1200&auto=format&q=80",
+  "headshot": headshot.asset->url + "?w=600&auto=format&q=80",
   "headshotAlt": headshot.alt
 }`;

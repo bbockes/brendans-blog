@@ -39,7 +39,7 @@ const POSTS_QUERY = `*[_type == "post" && defined(slug.current) && publishedAt <
   readTime,
   publishedAt,
   content,
-  "image": image.asset->url,
+  "image": image.asset->url + "?w=1200&auto=format&q=80",
   subheader
 }`;
 
