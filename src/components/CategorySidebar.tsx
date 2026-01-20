@@ -223,7 +223,7 @@ export function CategorySidebar({
                             onClose();
                           }
                         }}
-                        className="w-full text-left text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                        className="w-full text-left text-base text-gray-700 dark:text-gray-300 hover:text-[#6184ED] dark:hover:text-[#809FFF] transition-colors"
                       >
                         {post.title}
                       </button>
@@ -240,7 +240,7 @@ export function CategorySidebar({
             <div className="space-y-3">
               <a
                 href="https://brendan-bockes.webflow.io/" target="_blank" rel="noopener noreferrer"
-                className="block text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                className="block text-base text-gray-700 dark:text-gray-300 hover:text-[#6184ED] dark:hover:text-[#809FFF] transition-colors"
               >
                 Web Strategy & Design
               </a>
@@ -248,7 +248,7 @@ export function CategorySidebar({
                 href="https://www.linkedin.com/in/brendanbockes"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="block text-base text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white transition-colors"
+                className="block text-base text-gray-700 dark:text-gray-300 hover:text-[#6184ED] dark:hover:text-[#809FFF] transition-colors"
               >
                 Linkedin
               </a>
@@ -272,7 +272,7 @@ export function CategorySidebar({
                   className={`block w-full text-left text-base transition-colors ${
                     isBlogrollPage
                       ? 'text-gray-900 dark:text-white font-semibold'
-                      : 'text-gray-700 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white'
+                      : 'text-gray-700 dark:text-gray-300 hover:text-[#6184ED] dark:hover:text-[#809FFF]'
                   }`}
                 >
                   Blogroll
