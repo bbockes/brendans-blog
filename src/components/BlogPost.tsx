@@ -225,19 +225,33 @@ export function BlogPost({ post, priority = false }: BlogPostProps) {
 
   return (
     <article className="w-full last:mb-0" style={{ marginBottom: '100px' }}>
-      <div className="mb-[18px] max-w-full md:max-w-[650px]">
-        <h1 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
-          <Link 
-            to={getPostLink()}
-            className="hover:underline transition-all"
-          >
-            {post.title}
-          </Link>
-        </h1>
-        {(post.subheader || post.excerpt) && post.id !== 'about' && (
-          <p className="text-gray-600 dark:text-gray-400 text-lg">{post.subheader || post.excerpt}</p>
-        )}
-      </div>
+      {/* Show heading above content for non-about pages, or for about page on mobile only */}
+      {post.id !== 'about' || !post.headshot ? (
+        <div className="mb-[18px] max-w-full md:max-w-[650px]">
+          <h1 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
+            <Link 
+              to={getPostLink()}
+              className="hover:underline transition-all"
+            >
+              {post.title}
+            </Link>
+          </h1>
+          {(post.subheader || post.excerpt) && post.id !== 'about' && (
+            <p className="text-gray-600 dark:text-gray-400 text-lg">{post.subheader || post.excerpt}</p>
+          )}
+        </div>
+      ) : (
+        <div className="min-[900px]:hidden mb-[18px] max-w-full md:max-w-[650px]">
+          <h1 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
+            <Link 
+              to={getPostLink()}
+              className="hover:underline transition-all"
+            >
+              {post.title}
+            </Link>
+          </h1>
+        </div>
+      )}
       
       {post.id === 'about' && post.headshot ? (
         <div className="flex flex-col min-[900px]:flex-row gap-6 min-[900px]:gap-8 mb-6 items-start">
@@ -255,21 +269,19 @@ export function BlogPost({ post, priority = false }: BlogPostProps) {
                 boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)'
               }}
             />
-            {/* See all posts button (tablet/desktop only) */}
-            <div
-              className="mt-6 hidden md:flex justify-center"
-              data-testid="about-desktop-see-all-posts"
-            >
-              <Link
-                to="/"
-                className="see-all-posts-button inline-flex items-center justify-center gap-2 px-6 py-3 bg-gray-900 dark:bg-gray-800 text-white rounded-lg hover:bg-blue-600 dark:hover:bg-blue-600 transition-colors font-medium text-base"
-              >
-                <ArrowLeft className="w-4 h-4" />
-                See all posts
-              </Link>
-            </div>
           </div>
           <div className="flex-1 prose prose-lg max-w-none dark:prose-invert max-w-full min-[900px]:max-w-[650px]">
+            {/* Show heading inline with text on desktop (900px+) */}
+            <div className="hidden min-[900px]:block mb-[18px]">
+              <h1 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-2 pt-[5px]">
+                <Link 
+                  to={getPostLink()}
+                  className="hover:underline transition-all"
+                >
+                  {post.title}
+                </Link>
+              </h1>
+            </div>
             <div className="markdown-content text-17px">
               <PortableText 
                 value={post.content}
@@ -379,10 +391,10 @@ export function BlogPost({ post, priority = false }: BlogPostProps) {
               </>
             )}
 
-            {/* See all posts button (mobile only) — at the very bottom of the About page */}
+            {/* See all posts button — at the very bottom of the About page */}
             <div
-              className="mt-8 md:hidden"
-              data-testid="about-mobile-see-all-posts"
+              className="mt-8"
+              data-testid="about-see-all-posts"
             >
               <Link
                 to="/"
