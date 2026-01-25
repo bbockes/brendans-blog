@@ -239,7 +239,7 @@ export function CategorySidebar({
             <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Work with Brendan</h2>
             <div className="space-y-3">
               <a
-                href="https://brendan-bockes.webflow.io/" target="_blank" rel="noopener noreferrer"
+                href="https://brendanbockes.com" target="_blank" rel="noopener noreferrer"
                 className="block text-base text-gray-700 dark:text-gray-300 hover:text-[#6184ED] dark:hover:text-[#809FFF] transition-colors"
               >
                 Web Strategy & Design

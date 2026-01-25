@@ -11,7 +11,7 @@ import { SearchSubscribeToggle } from './SearchSubscribeToggle';
 import { Archive } from './Archive';
 import { fetchAboutPage, transformAboutPageToBlogPost } from '../lib/aboutPageService';
 import { notFoundPost } from '../data/staticData';
-import { LinkedinIcon } from 'lucide-react';
+import { LinkedinIcon, ArrowUp } from 'lucide-react';
 import { cachedFetch, POSTS_QUERY, LINK_CARDS_QUERY } from '../lib/sanityClient';
 import { slugify, findPostBySlug, filterPostsBySearchQuery, extractFirstSentence, extractSentenceWithMatch } from '../utils/slugify';
 import { generateMetaDescription, generatePageTitle, DEFAULT_OG_IMAGE } from '../utils/seoUtils.js';
@@ -139,6 +139,7 @@ export function BlogLayout() {
   const observerTarget = useRef<HTMLDivElement>(null);
   const filteredPostsRef = useRef<any[]>([]);
   const scrollableContainerRef = useRef<HTMLDivElement>(null);
+  const [showBackToTop, setShowBackToTop] = useState<boolean>(false);
 
   // Function to get category color based on name
   const getCategoryColor = (categoryName) => {
@@ -420,6 +421,20 @@ export function BlogLayout() {
     filteredPostsRef.current = filteredPosts as any[];
   }, [filteredPosts]);
 
+  // Track scroll position to show/hide back to top button
+  useEffect(() => {
+    const scrollContainer = scrollableContainerRef.current;
+    if (!scrollContainer) return;
+
+    const handleScroll = () => {
+      // Show button when scrolled past 300px
+      setShowBackToTop(scrollContainer.scrollTop > 300);
+    };
+
+    scrollContainer.addEventListener('scroll', handleScroll, { passive: true });
+    return () => scrollContainer.removeEventListener('scroll', handleScroll);
+  }, []);
+
   // Visible posts for infinite scroll (only for blog posts, not link mode)
   const visiblePosts = useMemo(() => {
     if (isLinkMode) {
@@ -596,6 +611,12 @@ export function BlogLayout() {
 
   const toggleSearchMode = () => {
     setIsSearchMode(!isSearchMode);
+  };
+
+  const scrollToTopOfPage = () => {
+    if (scrollableContainerRef.current) {
+      scrollableContainerRef.current.scrollTo({ top: 0, behavior: 'smooth' });
+    }
   };
 
   return (
@@ -941,6 +962,17 @@ export function BlogLayout() {
         </div>
       </main>
 
+      {/* Back to top button - only show on desktop homepage when scrolled */}
+      {showBackToTop && !isMobile && !selectedPost && (location.pathname === '/' || location.pathname === '/super_productive/' || location.pathname === '/super_productive') && (
+        <button
+          onClick={scrollToTopOfPage}
+          className="hidden md:flex fixed bottom-8 right-8 bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 px-4 py-3 rounded-lg shadow-lg hover:shadow-xl transition-all duration-200 items-center gap-2 border border-gray-200 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-700 z-50 font-medium"
+          aria-label="Back to top"
+        >
+          <ArrowUp className="w-4 h-4" />
+          <span>Back to top</span>
+        </button>
+      )}
     </div>
   );
 }
