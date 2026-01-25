@@ -48,7 +48,7 @@ export const POSTS_QUERY = `*[_type == "post" && defined(slug.current) && publis
   readTime,
   publishedAt,
   content,
-  "image": image.asset->url + "?w=1200&auto=format&q=80",
+  "image": image.asset->url,
   subheader
 }`;
 
@@ -64,7 +64,7 @@ export const POST_BY_SLUG_QUERY = `*[_type == "post" && slug.current == $slug &&
   readTime,
   publishedAt,
   content,
-  "image": image.asset->url + "?w=1200&auto=format&q=80",
+  "image": image.asset->url,
   subheader
 }`;
 
@@ -72,7 +72,7 @@ export const LINK_CARDS_QUERY = `*[_type == "linkCard"] | order(_createdAt asc) 
   _id,
   title,
   hook,
-  "image": image.asset->url + "?w=600&auto=format&q=80",
+  "image": image.asset->url,
   url
 }`;
 
@@ -87,7 +87,7 @@ export const ABOUT_PAGE_QUERY = `*[_type == "aboutPage"][0] {
   readTime,
   content,
   psContent,
-  "image": image.asset->url + "?w=1200&auto=format&q=80",
-  "headshot": headshot.asset->url + "?w=600&auto=format&q=80",
+  "image": image.asset->url,
+  "headshot": headshot.asset->url,
   "headshotAlt": headshot.alt
 }`;
