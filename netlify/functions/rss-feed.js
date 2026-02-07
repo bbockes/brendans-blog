@@ -72,7 +72,8 @@ function guessMimeTypeFromUrl(url) {
   }
 }
 
-// Extract text from Portable Text content for description (with HTML links)
+// Extract plain text from Portable Text content for description
+// (No HTML links - RSS previews typically don't render them anyway)
 function extractTextFromContent(content) {
   if (!Array.isArray(content)) return '';
   
@@ -80,68 +81,9 @@ function extractTextFromContent(content) {
     .filter(block => block._type === 'block')
     .map(block => {
       if (!block.children || !Array.isArray(block.children)) return '';
-      const markDefs = block.markDefs || [];
-      
       return block.children
         .filter((child) => child._type === 'span' && child.text)
-        .map((child) => {
-          const marks = child.marks || [];
-          let text = child.text;
-          let linkHref = null;
-          
-          // Find link mark - handle both old format ("link-0") and new format ("d29f57cddebc")
-          for (const mark of marks) {
-            const markKey = typeof mark === 'string' ? mark : mark._key || mark.key;
-            
-            // Find the markDef - check if it's a link by looking at _type
-            const linkDef = markDefs.find(def => {
-              if (typeof mark === 'string') {
-                return def._key === markKey && def._type === 'link';
-              } else {
-                return (def._key === markKey || def._key === mark._key) && def._type === 'link';
-              }
-            });
-            
-            // Check if this is a link mark (old format with "link-" prefix OR new format with linkDef)
-            const isLinkMark = markKey && (
-              markKey.startsWith('link-') || 
-              (typeof mark === 'object' && mark._type === 'link') ||
-              (linkDef && linkDef._type === 'link')
-            );
-            
-            if (isLinkMark) {
-              let href = null;
-              if (linkDef && linkDef.href) {
-                href = String(linkDef.href).trim();
-              } else if (typeof mark === 'object' && mark.href) {
-                href = String(mark.href).trim();
-              }
-              
-              // Validate URL - skip invalid ones
-              if (href) {
-                if (href.match(/^https?:\/\/[^\/\s]+\.[^\/\s]+/i) || href.startsWith('/') || href.startsWith('#') || href.startsWith('mailto:')) {
-                  // Valid URL format
-                  linkHref = href;
-                  break;
-                } else if (!href.match(/^https?:\/\//i)) {
-                  // Missing protocol, add it
-                  linkHref = 'https://' + href;
-                  break;
-                }
-                // Invalid URL (like "http://Manus"), skip it
-              }
-            }
-          }
-          
-          // Wrap in link if present
-          if (linkHref) {
-            const escapedHref = String(linkHref).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-            const escapedText = text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-            return `<a href="${escapedHref}">${escapedText}</a>`;
-          }
-          
-          return text;
-        })
+        .map((child) => child.text)
         .join(' ');
     })
     .join(' ');
@@ -330,21 +272,19 @@ function generateRSSXML(posts, baseUrl) {
     const pubDate = formatRSSDate(post.publishedAt);
     
     // Get description from excerpt, subheader, or content
-    // Include HTML links in description for email clients that read description instead of content:encoded
+    // Plain text only - RSS previews typically don't render HTML links anyway
     let description = post.excerpt || post.subheader || '';
     if (!description && post.content) {
       description = extractTextFromContent(post.content);
-      // Limit to 300 characters for RSS description (but try to preserve HTML tags)
+      // Limit to 300 characters for RSS description
       if (description.length > 300) {
-        // Try to cut at a word boundary or after a closing tag
+        // Try to cut at a word boundary
         let truncated = description.substring(0, 297);
-        const lastTag = truncated.lastIndexOf('</a>');
-        if (lastTag > 250) {
-          truncated = truncated.substring(0, lastTag + 4);
-        } else {
-          truncated += '...';
+        const lastSpace = truncated.lastIndexOf(' ');
+        if (lastSpace > 250) {
+          truncated = truncated.substring(0, lastSpace);
         }
-        description = truncated;
+        description = truncated + '...';
       }
     }
     if (!description) {
@@ -355,16 +295,14 @@ function generateRSSXML(posts, baseUrl) {
       ? `    <enclosure url="${escapeXml(post.image)}" type="${guessMimeTypeFromUrl(post.image)}" />`
       : '';
     
+    // Generate full HTML content for content:encoded (with links)
     const fullContent = post.content ? portableTextToHTML(post.content) : '';
     const contentEncoded = fullContent 
       ? `    <content:encoded><![CDATA[${fullContent}]]></content:encoded>`
       : '';
     
-    // Check if description contains HTML (links)
-    const hasHtmlInDescription = description.includes('<a ') || description.includes('<a>');
-    const descriptionField = hasHtmlInDescription
-      ? `<description><![CDATA[${description}]]></description>`
-      : `<description>${escapeXml(description)}</description>`;
+    // Description is plain text (no HTML)
+    const descriptionField = `<description>${escapeXml(description)}</description>`;
     
     return `  <item>
     <title>${escapeXml(post.title)}</title>
