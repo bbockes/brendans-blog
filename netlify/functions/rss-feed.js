@@ -72,7 +72,7 @@ function guessMimeTypeFromUrl(url) {
   }
 }
 
-// Extract text from Portable Text content for description
+// Extract text from Portable Text content for description (with HTML links)
 function extractTextFromContent(content) {
   if (!Array.isArray(content)) return '';
   
@@ -80,9 +80,52 @@ function extractTextFromContent(content) {
     .filter(block => block._type === 'block')
     .map(block => {
       if (!block.children || !Array.isArray(block.children)) return '';
+      const markDefs = block.markDefs || [];
+      
       return block.children
         .filter((child) => child._type === 'span' && child.text)
-        .map((child) => child.text)
+        .map((child) => {
+          const marks = child.marks || [];
+          let text = child.text;
+          let linkHref = null;
+          
+          // Find link mark
+          for (const mark of marks) {
+            const markKey = typeof mark === 'string' ? mark : mark._key || mark.key;
+            if (markKey && (markKey.startsWith('link-') || (typeof mark === 'object' && mark._type === 'link'))) {
+              const linkDef = markDefs.find(def => def._key === markKey || (typeof mark === 'object' && def._key === mark._key));
+              let href = null;
+              if (linkDef && linkDef.href) {
+                href = String(linkDef.href).trim();
+              } else if (typeof mark === 'object' && mark.href) {
+                href = String(mark.href).trim();
+              }
+              
+              // Validate URL - skip invalid ones
+              if (href) {
+                if (href.match(/^https?:\/\/[^\/\s]+\.[^\/\s]+/i) || href.startsWith('/') || href.startsWith('#') || href.startsWith('mailto:')) {
+                  // Valid URL format
+                  linkHref = href;
+                  break;
+                } else if (!href.match(/^https?:\/\//i)) {
+                  // Missing protocol, add it
+                  linkHref = 'https://' + href;
+                  break;
+                }
+                // Invalid URL (like "http://Manus"), skip it
+              }
+            }
+          }
+          
+          // Wrap in link if present
+          if (linkHref) {
+            const escapedHref = String(linkHref).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+            const escapedText = text.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            return `<a href="${escapedHref}">${escapedText}</a>`;
+          }
+          
+          return text;
+        })
         .join(' ');
     })
     .join(' ');
@@ -109,15 +152,51 @@ function portableTextToHTML(content) {
         let text = escapeXmlText(child.text);
         const marks = child.marks || [];
         
+        // Check for link first (it should wrap other marks)
+        // Handle both string marks (like "link-0") and object marks
         let linkHref = null;
-        marks.forEach(mark => {
-          if (typeof mark === 'string' && mark.startsWith('link-')) {
-            const linkDef = markDefs.find(def => def._key === mark);
+        for (const mark of marks) {
+          const markKey = typeof mark === 'string' ? mark : (mark._key || mark.key);
+          if (markKey && (markKey.startsWith('link-') || (typeof mark === 'object' && mark._type === 'link'))) {
+            const linkDef = markDefs.find(def => {
+              if (typeof mark === 'string') {
+                return def._key === mark;
+              } else {
+                return def._key === markKey || def._key === mark._key;
+              }
+            });
             if (linkDef && linkDef.href) {
-              linkHref = String(linkDef.href).replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+              // Validate and fix URL
+              let href = String(linkDef.href).trim();
+              // Skip obviously invalid URLs (like "http://Manus" without a domain)
+              if (href.match(/^https?:\/\/[^\/\s]+\.[^\/\s]+/i) || href.startsWith('/') || href.startsWith('#') || href.startsWith('mailto:')) {
+                // Valid URL format - use it
+                linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+                break; // Found valid link, stop looking
+              } else if (href && !href.match(/^https?:\/\//i)) {
+                // Fix URLs that are missing protocol
+                href = 'https://' + href;
+                linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+                break;
+              }
+              // Invalid URL, continue to next mark
+            } else if (typeof mark === 'object' && mark.href) {
+              // Handle direct href in mark object
+              let href = String(mark.href).trim();
+              // Skip obviously invalid URLs
+              if (href.match(/^https?:\/\/[^\/\s]+\.[^\/\s]+/i) || href.startsWith('/') || href.startsWith('#') || href.startsWith('mailto:')) {
+                // Valid URL format - use it
+                linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+                break;
+              } else if (href && !href.match(/^https?:\/\//i)) {
+                href = 'https://' + href;
+                linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+                break;
+              }
+              // Invalid URL, continue to next mark
             }
           }
-        });
+        }
         
         marks.forEach(mark => {
           if (typeof mark === 'string' && !mark.startsWith('link-')) {
@@ -222,11 +301,22 @@ function generateRSSXML(posts, baseUrl) {
     const postUrl = `${baseUrl}/posts/${slug}`;
     const pubDate = formatRSSDate(post.publishedAt);
     
+    // Get description from excerpt, subheader, or content
+    // Include HTML links in description for email clients that read description instead of content:encoded
     let description = post.excerpt || post.subheader || '';
     if (!description && post.content) {
       description = extractTextFromContent(post.content);
+      // Limit to 300 characters for RSS description (but try to preserve HTML tags)
       if (description.length > 300) {
-        description = description.substring(0, 297) + '...';
+        // Try to cut at a word boundary or after a closing tag
+        let truncated = description.substring(0, 297);
+        const lastTag = truncated.lastIndexOf('</a>');
+        if (lastTag > 250) {
+          truncated = truncated.substring(0, lastTag + 4);
+        } else {
+          truncated += '...';
+        }
+        description = truncated;
       }
     }
     if (!description) {
@@ -242,12 +332,18 @@ function generateRSSXML(posts, baseUrl) {
       ? `    <content:encoded><![CDATA[${fullContent}]]></content:encoded>`
       : '';
     
+    // Check if description contains HTML (links)
+    const hasHtmlInDescription = description.includes('<a ') || description.includes('<a>');
+    const descriptionField = hasHtmlInDescription
+      ? `<description><![CDATA[${description}]]></description>`
+      : `<description>${escapeXml(description)}</description>`;
+    
     return `  <item>
     <title>${escapeXml(post.title)}</title>
     <link>${postUrl}</link>
     <guid isPermaLink="true">${postUrl}</guid>
     <pubDate>${pubDate}</pubDate>
-    <description>${escapeXml(description)}</description>
+    ${descriptionField}
 ${imageTag}
 ${contentEncoded}
   </item>`;
