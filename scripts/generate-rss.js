@@ -110,11 +110,27 @@ function extractTextFromContent(content) {
           let text = child.text;
           let linkHref = null;
           
-          // Find link mark
+          // Find link mark - handle both old format ("link-0") and new format ("d29f57cddebc")
           for (const mark of marks) {
             const markKey = typeof mark === 'string' ? mark : mark._key || mark.key;
-            if (markKey && (markKey.startsWith('link-') || (typeof mark === 'object' && mark._type === 'link'))) {
-              const linkDef = markDefs.find(def => def._key === markKey || (typeof mark === 'object' && def._key === mark._key));
+            
+            // Find the markDef - check if it's a link by looking at _type
+            const linkDef = markDefs.find(def => {
+              if (typeof mark === 'string') {
+                return def._key === markKey && def._type === 'link';
+              } else {
+                return (def._key === markKey || def._key === mark._key) && def._type === 'link';
+              }
+            });
+            
+            // Check if this is a link mark (old format with "link-" prefix OR new format with linkDef)
+            const isLinkMark = markKey && (
+              markKey.startsWith('link-') || 
+              (typeof mark === 'object' && mark._type === 'link') ||
+              (linkDef && linkDef._type === 'link')
+            );
+            
+            if (isLinkMark) {
               let href = null;
               if (linkDef && linkDef.href) {
                 href = String(linkDef.href).trim();
@@ -176,48 +192,58 @@ function portableTextToHTML(content) {
         const marks = child.marks || [];
         
         // Check for link first (it should wrap other marks)
-        // Handle both string marks (like "link-0") and object marks
+        // Handle both old format (like "link-0") and new format (like "d29f57cddebc")
         let linkHref = null;
         for (const mark of marks) {
           const markKey = typeof mark === 'string' ? mark : (mark._key || mark.key);
-          if (markKey && (markKey.startsWith('link-') || (typeof mark === 'object' && mark._type === 'link'))) {
-            const linkDef = markDefs.find(def => {
-              if (typeof mark === 'string') {
-                return def._key === mark;
-              } else {
-                return def._key === markKey || def._key === mark._key;
-              }
-            });
-            if (linkDef && linkDef.href) {
-              // Validate and fix URL
-              let href = String(linkDef.href).trim();
-              // Skip obviously invalid URLs (like "http://Manus" without a domain)
-              if (href.match(/^https?:\/\/[^\/\s]+\.[^\/\s]+/i) || href.startsWith('/') || href.startsWith('#') || href.startsWith('mailto:')) {
-                // Valid URL format - use it
-                linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
-                break; // Found valid link, stop looking
-              } else if (href && !href.match(/^https?:\/\//i)) {
-                // Fix URLs that are missing protocol
-                href = 'https://' + href;
-                linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
-                break;
-              }
-              // Invalid URL, continue to next mark
-            } else if (typeof mark === 'object' && mark.href) {
-              // Handle direct href in mark object
-              let href = String(mark.href).trim();
-              // Skip obviously invalid URLs
-              if (href.match(/^https?:\/\/[^\/\s]+\.[^\/\s]+/i) || href.startsWith('/') || href.startsWith('#') || href.startsWith('mailto:')) {
-                // Valid URL format - use it
-                linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
-                break;
-              } else if (href && !href.match(/^https?:\/\//i)) {
-                href = 'https://' + href;
-                linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
-                break;
-              }
-              // Invalid URL, continue to next mark
+          
+          // Find the markDef - check if it's a link by:
+          // 1. Old format: mark key starts with "link-"
+          // 2. New format: markDef exists and has _type === 'link'
+          const linkDef = markDefs.find(def => {
+            if (typeof mark === 'string') {
+              return def._key === mark && def._type === 'link';
+            } else {
+              return (def._key === markKey || def._key === mark._key) && def._type === 'link';
             }
+          });
+          
+          // Also check if mark itself indicates it's a link (old format)
+          const isLinkMark = markKey && (
+            markKey.startsWith('link-') || 
+            (typeof mark === 'object' && mark._type === 'link') ||
+            (linkDef && linkDef._type === 'link')
+          );
+          
+          if (isLinkMark && linkDef && linkDef.href) {
+            // Validate and fix URL
+            let href = String(linkDef.href).trim();
+            // Skip obviously invalid URLs (like "http://Manus" without a domain)
+            if (href.match(/^https?:\/\/[^\/\s]+\.[^\/\s]+/i) || href.startsWith('/') || href.startsWith('#') || href.startsWith('mailto:')) {
+              // Valid URL format - use it
+              linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+              break; // Found valid link, stop looking
+            } else if (href && !href.match(/^https?:\/\//i)) {
+              // Fix URLs that are missing protocol
+              href = 'https://' + href;
+              linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+              break;
+            }
+            // Invalid URL, continue to next mark
+          } else if (typeof mark === 'object' && mark.href) {
+            // Handle direct href in mark object
+            let href = String(mark.href).trim();
+            // Skip obviously invalid URLs
+            if (href.match(/^https?:\/\/[^\/\s]+\.[^\/\s]+/i) || href.startsWith('/') || href.startsWith('#') || href.startsWith('mailto:')) {
+              // Valid URL format - use it
+              linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+              break;
+            } else if (href && !href.match(/^https?:\/\//i)) {
+              href = 'https://' + href;
+              linkHref = href.replace(/&(?!amp;|lt;|gt;|quot;|apos;|#\d+;|#x[0-9a-fA-F]+;)/g, '&amp;');
+              break;
+            }
+            // Invalid URL, continue to next mark
           }
         }
         
