@@ -259,6 +259,14 @@ export function CategorySidebar({
           <div className="mb-8" style={{ paddingTop: '10px' }}>
             <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Extras</h2>
             <div className="space-y-3">
+              <a
+                href="https://super-productive.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block text-base text-gray-700 dark:text-gray-300 hover:text-[#6184ED] dark:hover:text-[#809FFF] transition-colors"
+              >
+                Super Productive
+              </a>
               {onToggleLinkMode && (
                 <button
                   onClick={() => {
