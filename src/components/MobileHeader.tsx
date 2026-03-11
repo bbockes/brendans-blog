@@ -62,7 +62,7 @@ export function MobileHeader({ onMenuToggle, onLogoClick, onSearchToggle, isSear
             src={`/images/${isDarkMode ? 'dark-mode-logo.svg' : 'logo.svg'}`}
             alt="Brendan's Blog Logo" 
             className="block h-auto object-contain"
-            style={{ maxWidth: '170px', width: 'auto', height: 'auto', display: 'block', transform: 'scale(0.98)' }}
+            style={{ maxWidth: '168px', width: 'auto', height: 'auto', display: 'block', transform: 'scale(0.97)' }}
             onError={(e) => {
               console.error('Failed to load logo image:', e.currentTarget.src);
               // Fallback to text if image fails
