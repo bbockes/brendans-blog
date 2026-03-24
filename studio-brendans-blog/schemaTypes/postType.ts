@@ -18,9 +18,24 @@ export const postType = defineType({
       type: 'slug',
       options: {
         source: 'title',
+        slugify: (input) =>
+          input
+            .toLowerCase()
+            .trim()
+            .replace(/\s+/g, '-')
+            .replace(/[^a-z0-9-]/g, '')
+            .replace(/-+/g, '-')
+            .replace(/^-|-$/g, '')
+            .slice(0, 96),
         maxLength: 96,
       },
-      validation: (rule) => rule.required(),
+      validation: (rule) =>
+        rule.required().custom((value) => {
+          if (!value?.current) return true;
+          return value.current.includes(' ')
+            ? 'Slug cannot contain spaces. Use hyphens (-) between words.'
+            : true;
+        }),
     }),
     defineField({
       name: 'publishedAt',
