@@ -260,7 +260,7 @@ export function CategorySidebar({
             <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-4">Extras</h2>
             <div className="space-y-3">
               <a
-                href="https://super-productive.com/"
+                href="https://super-productive.netlify.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block text-base text-gray-700 dark:text-gray-300 hover:text-[#6184ED] dark:hover:text-[#809FFF] transition-colors"
