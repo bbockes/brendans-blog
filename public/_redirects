@@ -16,6 +16,11 @@ https://www.blog.brendanbockes.com/* https://blog.brendanbockes.com/:splat 301!
 /wp-json/* /.netlify/functions/wordpress-bridge/wp-json/:splat 200!
 /wp-admin/authorize-application.php /.netlify/functions/wordpress-bridge/wp-admin/authorize-application.php 200!
 
+# Serve the RSS feed from the function rather than the copy written at build
+# time. The "!" is what matters: without it the generated dist/feed.xml file
+# wins and scheduled posts stay out of the feed until the next deploy.
+/feed.xml /.netlify/functions/rss-feed 200!
+
 # Fallback to SPA for client-side routing
 # React router will handle both /about and /about/ routes
 /* /index.html 200
