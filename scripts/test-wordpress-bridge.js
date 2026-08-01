@@ -683,6 +683,84 @@ async function runPublishingTests() {
     assert(!('_rev' in document), '_rev must not be written back');
   });
 
+  await test('refuses Markdown instead of silently storing raw syntax', async () => {
+    const client = createFakeClient();
+    const response = await call(
+      authed({
+        method: 'POST',
+        path: '/wp-json/wp/v2/posts',
+        json: {
+          title: 'Wrong Format',
+          content: '## A heading\n\nHello **world** with a [link](https://example.com).\n\n- One\n- Two',
+          status: 'publish',
+        },
+      }),
+      client
+    );
+
+    assertEqual(response.statusCode, 400, `expected 400, body: ${response.body}`);
+    assertEqual(response.json.code, 'rest_invalid_content_format', 'wrong error code');
+    assert(response.json.message.includes('Text Format to HTML'), 'message must say how to fix it');
+    assertEqual(client.documents.size, 0, 'nothing should have been written');
+  });
+
+  await test("accepts Ulysses' WordPress 5 (Gutenberg) output", async () => {
+    const client = createFakeClient();
+    const response = await call(
+      authed({
+        method: 'POST',
+        path: '/wp-json/wp/v2/posts',
+        json: {
+          title: 'Block Editor Format',
+          status: 'publish',
+          content:
+            '<!-- wp:paragraph -->\n<p>Hello <strong>world</strong>.</p>\n<!-- /wp:paragraph -->\n' +
+            '<!-- wp:heading {"level":2} -->\n<h2>A heading</h2>\n<!-- /wp:heading -->\n' +
+            '<!-- wp:list -->\n<ul><li>One</li></ul>\n<!-- /wp:list -->',
+        },
+      }),
+      client
+    );
+
+    assertEqual(response.statusCode, 201, `expected 201, body: ${response.body}`);
+    const [document] = [...client.documents.values()];
+    assertEqual(
+      document.content.map((block) => block.listItem || block.style).join(','),
+      'normal,h2,bullet',
+      'Gutenberg block comments should be ignored, not parsed'
+    );
+  });
+
+  await test('does not mistake ordinary prose or code samples for Markdown', async () => {
+    const client = createFakeClient();
+
+    // Plain unmarked text is legitimate: it becomes a single paragraph.
+    const prose = await call(
+      authed({
+        method: 'POST',
+        path: '/wp-json/wp/v2/posts',
+        json: { title: 'Plain', content: 'Just one sentence with no markup.', status: 'publish' },
+      }),
+      client
+    );
+    assertEqual(prose.statusCode, 201, `plain prose rejected: ${prose.body}`);
+
+    // Markdown-looking text inside real HTML must not trip the guard.
+    const withCode = await call(
+      authed({
+        method: 'POST',
+        path: '/wp-json/wp/v2/posts',
+        json: {
+          title: 'Code Sample',
+          status: 'publish',
+          content: '<p>Markdown uses:</p><pre><code>## Heading\n- bullet\n**bold**</code></pre>',
+        },
+      }),
+      client
+    );
+    assertEqual(withCode.statusCode, 201, `html with a markdown sample rejected: ${withCode.body}`);
+  });
+
   await test('rejects non-image uploads with a clear message', async () => {
     const response = await call(
       authed({

@@ -205,6 +205,51 @@ async function findAssetByMediaId(client, mediaId) {
  * Sanity document ⟷ WordPress post
  * ------------------------------------------------------------------ */
 
+/** An error that should surface to the client verbatim rather than as a 500. */
+class BridgeError extends Error {
+  constructor(statusCode, code, message) {
+    super(message);
+    this.statusCode = statusCode;
+    this.code = code;
+  }
+}
+
+const MARKDOWN_SIGNALS = [
+  /^#{1,6}\s+\S/m, // # Heading
+  /^\s*[-*+]\s+\S/m, // - bullet
+  /^\s*\d+\.\s+\S/m, // 1. ordered
+  /^\s*>\s+\S/m, // > quote
+  /^\s*```/m, // fenced code
+  /\*\*[^*\n]+\*\*/, // **bold**
+  /\[[^\]\n]+\]\([^)\n]+\)/, // [text](url)
+];
+
+/**
+ * Ulysses can serialise a post as HTML, Gutenberg blocks, or Markdown, and only
+ * the first two are HTML. Markdown would otherwise be stored verbatim as a
+ * single paragraph, so refuse it with an instruction the writer can act on.
+ */
+function assertNotMarkdown(content) {
+  const text = String(content || '').trim();
+  if (!text) return;
+
+  // Any real block markup means we were sent HTML (Gutenberg block comments
+  // wrap ordinary HTML, so they pass here too).
+  if (/<(p|h[1-6]|ul|ol|li|blockquote|pre|figure|img|div|table|section)\b[^>]*>/i.test(text)) {
+    return;
+  }
+
+  if (MARKDOWN_SIGNALS.some((pattern) => pattern.test(text))) {
+    throw new BridgeError(
+      400,
+      'rest_invalid_content_format',
+      'This post looks like Markdown, but the blog expects HTML and would have ' +
+        'stored the raw syntax. In the Ulysses publishing settings, set Text ' +
+        'Format to HTML, then publish again.'
+    );
+  }
+}
+
 function wpStatusFor(document) {
   if (String(document._id).startsWith(DRAFT_PREFIX)) return 'draft';
   const publishedAt = document.publishedAt ? new Date(document.publishedAt) : null;
@@ -267,8 +312,9 @@ async function buildPostDocument(client, config, payload, existing) {
 
   let content = existing?.content;
   if (payload.content !== undefined) {
-    const blocks = htmlToPortableText(pickRendered(payload.content) ?? '');
-    content = await resolveImageBlocks(client, blocks, config);
+    const incoming = pickRendered(payload.content) ?? '';
+    assertNotMarkdown(incoming);
+    content = await resolveImageBlocks(client, htmlToPortableText(incoming), config);
   }
   content = content || [];
 
@@ -882,6 +928,9 @@ export async function handleBridgeRequest(request, config = readConfig(), deps =
     console.warn(`[wp-bridge] unhandled route: ${request.method} ${path}`);
     return wpError(404, 'rest_no_route', `No route was found matching ${path}.`);
   } catch (error) {
+    if (error instanceof BridgeError) {
+      return wpError(error.statusCode, error.code, error.message);
+    }
     console.error(`[wp-bridge] ${request.method} ${path} failed:`, error);
     return wpError(500, 'rest_bridge_error', error.message || 'Unexpected bridge error.');
   }
