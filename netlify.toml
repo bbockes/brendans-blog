@@ -54,22 +54,23 @@
     Cache-Control = "public, max-age=3600"
 
 # WordPress-compatible publishing bridge, so Ulysses can publish into Sanity.
-# These must precede the SPA fallback below.
+# public/_redirects is evaluated before this file and carries the same rules;
+# these are the fallback if that file ever goes away.
 [[redirects]]
   from = "/wp-json"
-  to = "/.netlify/functions/wordpress-bridge"
+  to = "/.netlify/functions/wordpress-bridge/wp-json"
   status = 200
   force = true
 
 [[redirects]]
   from = "/wp-json/*"
-  to = "/.netlify/functions/wordpress-bridge"
+  to = "/.netlify/functions/wordpress-bridge/wp-json/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/wp-admin/authorize-application.php"
-  to = "/.netlify/functions/wordpress-bridge"
+  to = "/.netlify/functions/wordpress-bridge/wp-admin/authorize-application.php"
   status = 200
   force = true
 

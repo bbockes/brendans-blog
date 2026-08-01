@@ -9,6 +9,13 @@ https://main--brendansblog.netlify.app/* https://blog.brendanbockes.com/:splat 3
 # Redirect www subdomain to non-www
 https://www.blog.brendanbockes.com/* https://blog.brendanbockes.com/:splat 301!
 
+# WordPress-compatible publishing bridge, so Ulysses can publish into Sanity.
+# Rules in this file are evaluated before netlify.toml, so these have to live
+# here to win against the SPA fallback below.
+/wp-json /.netlify/functions/wordpress-bridge/wp-json 200!
+/wp-json/* /.netlify/functions/wordpress-bridge/wp-json/:splat 200!
+/wp-admin/authorize-application.php /.netlify/functions/wordpress-bridge/wp-admin/authorize-application.php 200!
+
 # Fallback to SPA for client-side routing
 # React router will handle both /about and /about/ routes
 /* /index.html 200
