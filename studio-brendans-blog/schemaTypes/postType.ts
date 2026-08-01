@@ -57,6 +57,33 @@ export const postType = defineType({
       validation: (rule) => rule.required(),
     }),
     defineField({
+      name: 'excerpt',
+      title: 'Excerpt',
+      type: 'text',
+      rows: 3,
+      description: 'Short summary shown on cards and in the RSS feed.',
+    }),
+    defineField({
+      name: 'image',
+      title: 'Cover image',
+      type: 'image',
+      options: {hotspot: true},
+      fields: [
+        {
+          name: 'alt',
+          type: 'string',
+          title: 'Alternative text',
+          description: 'Important for SEO and accessibility.',
+        },
+      ],
+    }),
+    defineField({
+      name: 'readTime',
+      title: 'Read time',
+      type: 'string',
+      description: 'For example "3 min". Calculated automatically when published from Ulysses.',
+    }),
+    defineField({
       name: 'content',
       title: 'Content',
       type: 'array',

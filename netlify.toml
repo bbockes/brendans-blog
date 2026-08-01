@@ -35,6 +35,12 @@
   [headers.values]
     Cache-Control = "public, max-age=0, must-revalidate"
 
+# How WordPress clients discover the REST API from just a site URL.
+[[headers]]
+  for = "/"
+  [headers.values]
+    Link = '<https://blog.brendanbockes.com/wp-json/>; rel="https://api.w.org/"'
+
 [[headers]]
   for = "/feed.xml"
   [headers.values]
@@ -46,6 +52,26 @@
   [headers.values]
     Content-Type = "application/xml; charset=utf-8"
     Cache-Control = "public, max-age=3600"
+
+# WordPress-compatible publishing bridge, so Ulysses can publish into Sanity.
+# These must precede the SPA fallback below.
+[[redirects]]
+  from = "/wp-json"
+  to = "/.netlify/functions/wordpress-bridge"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/wp-json/*"
+  to = "/.netlify/functions/wordpress-bridge"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/wp-admin/authorize-application.php"
+  to = "/.netlify/functions/wordpress-bridge"
+  status = 200
+  force = true
 
 [[redirects]]
   from = "/posts/*/"
