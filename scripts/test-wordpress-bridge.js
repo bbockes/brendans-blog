@@ -433,10 +433,56 @@ async function runPublishingTests() {
     assertEqual(document._type, 'post', 'wrong document type');
     assert(!document._id.startsWith('drafts.'), 'published post should not be a draft');
     assertEqual(document.slug._type, 'slug', 'slug must use the slug type');
-    assertEqual(document.excerpt, 'A short summary.', 'excerpt not stored');
-    assert(document.readTime.endsWith('min'), `unexpected readTime ${document.readTime}`);
     assertEqual(document.content[0]._type, 'block', 'content is not Portable Text');
     assertEqual(document.content[1].style, 'h2', 'heading style lost');
+  });
+
+  await test('writes only fields declared in the Studio schema', async () => {
+    // Anything outside this set shows up in the Studio as "Unknown field found".
+    const schemaFields = new Set(['title', 'slug', 'publishedAt', 'content']);
+    const client = createFakeClient();
+
+    const upload = await call(
+      authed({
+        method: 'POST',
+        path: '/wp-json/wp/v2/media',
+        headers: { 'content-type': 'image/png', 'content-disposition': 'attachment; filename="c.png"' },
+        body: Buffer.from('bytes'),
+      }),
+      client
+    );
+
+    // Send every field Ulysses' publishing sheet can populate.
+    await call(
+      authed({
+        method: 'POST',
+        path: '/wp-json/wp/v2/posts',
+        json: {
+          title: 'Everything Set',
+          content: '<p>Body.</p>',
+          status: 'publish',
+          excerpt: 'Summary.',
+          slug: 'everything-set',
+          featured_media: upload.json.id,
+          categories: [1, 2],
+          tags: [3],
+          format: 'standard',
+          sticky: false,
+          comment_status: 'open',
+        },
+      }),
+      client
+    );
+
+    const document = [...client.documents.values()].find((doc) => doc._type === 'post');
+    const unexpected = Object.keys(document).filter(
+      (key) => !key.startsWith('_') && !schemaFields.has(key)
+    );
+    assertEqual(
+      unexpected.join(', ') || '(none)',
+      '(none)',
+      'these would trigger "Unknown field found" in the Studio'
+    );
   });
 
   await test('stores a draft as a Sanity draft so the site cannot see it', async () => {
@@ -621,7 +667,35 @@ async function runPublishingTests() {
     assert(imageBlock.asset?._ref?.startsWith('image-'), 'image not converted to an asset ref');
     assert(!imageBlock._imageUrl, 'placeholder url should be removed');
     assertEqual(imageBlock.alt, 'A photo', 'alt text lost');
-    assert(document.image?.asset?._ref, 'featured image not stored on the document');
+
+    // Images inside the body belong to `content` and are kept. A featured
+    // image would need a top-level field the schema doesn't have, so it's
+    // deliberately dropped rather than written as an unknown field.
+    assert(!('image' in document), 'featured image must not be stored');
+    assertEqual(created.json.featured_media, 0, 'featured_media should report as unset');
+  });
+
+  await test('accepts an excerpt from Ulysses without storing it', async () => {
+    const client = createFakeClient();
+    const response = await call(
+      authed({
+        method: 'POST',
+        path: '/wp-json/wp/v2/posts',
+        json: {
+          title: 'Has An Excerpt',
+          content: '<p>Body.</p>',
+          status: 'publish',
+          excerpt: 'A summary Ulysses sent.',
+        },
+      }),
+      client
+    );
+
+    // Publishing must still succeed; the excerpt is simply ignored.
+    assertEqual(response.statusCode, 201, `expected 201, body: ${response.body}`);
+    const [document] = [...client.documents.values()];
+    assert(!('excerpt' in document), 'excerpt must not be written to Sanity');
+    assertEqual(response.json.excerpt.raw, '', 'excerpt should read back empty');
   });
 
   await test('reads an uploaded image back by its media id', async () => {

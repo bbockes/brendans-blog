@@ -361,29 +361,6 @@ export function htmlToPortableText(html) {
   return blocks;
 }
 
-/** Plain text of a Portable Text array, used for excerpts and read time. */
-export function portableTextToPlainText(blocks) {
-  if (!Array.isArray(blocks)) return '';
-  return blocks
-    .filter((block) => block._type === 'block' && Array.isArray(block.children))
-    .map((block) =>
-      block.children
-        .filter((child) => child._type === 'span' && child.text)
-        .map((child) => child.text)
-        .join('')
-    )
-    .join('\n\n')
-    .trim();
-}
-
-/** Mirrors the read-time wording used by the existing import scripts. */
-export function calculateReadTime(blocks) {
-  const words = portableTextToPlainText(blocks)
-    .split(/\s+/)
-    .filter(Boolean).length;
-  return `${Math.max(1, Math.ceil(words / 200))} min`;
-}
-
 /** Matches the slugify rule declared in the Studio's post schema. */
 export function slugify(input) {
   return String(input || '')

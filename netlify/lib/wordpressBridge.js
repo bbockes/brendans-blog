@@ -19,7 +19,7 @@
  */
 
 import { createClient } from '@sanity/client';
-import { htmlToPortableText, calculateReadTime, slugify } from './htmlToPortableText.js';
+import { htmlToPortableText, slugify } from './htmlToPortableText.js';
 import { portableTextToHtml } from './portableTextToHtml.js';
 
 const DOC_ID_PREFIX = 'ulysses-';
@@ -262,7 +262,6 @@ function toWpPost(document, config, context) {
   const slug = document.slug?.current || '';
   const link = `${context.siteUrl}/posts/${slug}`;
   const html = portableTextToHtml(document.content);
-  const excerpt = document.excerpt || '';
   const apiBase = `${context.siteUrl}/wp-json/wp/v2`;
 
   return {
@@ -279,13 +278,10 @@ function toWpPost(document, config, context) {
     link,
     title: { raw: document.title || '', rendered: document.title || '' },
     content: { raw: html, rendered: html, protected: false, block_version: 0 },
-    excerpt: {
-      raw: excerpt,
-      rendered: excerpt ? `<p>${excerpt}</p>` : '',
-      protected: false,
-    },
+    // Not stored by this blog; reported empty so clients don't show stale values.
+    excerpt: { raw: '', rendered: '', protected: false },
     author: 1,
-    featured_media: document.image?.asset?._ref ? mediaIdForAsset(document.image.asset._ref) : 0,
+    featured_media: 0,
     comment_status: 'closed',
     ping_status: 'closed',
     sticky: false,
@@ -326,36 +322,17 @@ async function buildPostDocument(client, config, payload, existing) {
   const publishedAt =
     requestedDate?.toISOString() || existing?.publishedAt || new Date().toISOString();
 
-  const document = {
+  // Only the fields declared in the Studio's post schema are written; anything
+  // else would surface as "Unknown field found" in the Studio. Ulysses' excerpt
+  // and featured-image settings are therefore accepted but not stored. Images
+  // placed inside the body still work, since they live in `content`.
+  return {
     _type: 'post',
     title,
     slug: { _type: 'slug', current: slug },
     publishedAt,
     content,
-    readTime: calculateReadTime(content),
   };
-
-  const excerpt = pickRendered(payload.excerpt);
-  if (excerpt !== undefined) {
-    const text = stripHtml(excerpt);
-    if (text) document.excerpt = text;
-  } else if (existing?.excerpt) {
-    document.excerpt = existing.excerpt;
-  }
-
-  if (payload.featured_media !== undefined) {
-    const mediaId = Number(payload.featured_media);
-    if (mediaId > 0) {
-      const assetId = await findAssetByMediaId(client, mediaId);
-      if (assetId) {
-        document.image = { _type: 'image', asset: { _type: 'reference', _ref: assetId } };
-      }
-    }
-  } else if (existing?.image) {
-    document.image = existing.image;
-  }
-
-  return document;
 }
 
 /** WordPress fields arrive either as plain strings or as `{ raw, rendered }`. */
@@ -364,19 +341,6 @@ function pickRendered(field) {
   if (typeof field === 'string') return field;
   if (typeof field === 'object') return field.raw ?? field.rendered ?? undefined;
   return String(field);
-}
-
-function stripHtml(html) {
-  return String(html)
-    .replace(/<[^>]*>/g, '')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/\s+/g, ' ')
-    .trim();
 }
 
 /**
@@ -947,7 +911,7 @@ function postType(context) {
     taxonomies: [],
     rest_base: 'posts',
     rest_namespace: 'wp/v2',
-    supports: { title: true, editor: true, excerpt: true, 'custom-fields': false },
+    supports: { title: true, editor: true, excerpt: false, 'custom-fields': false },
     _links: { collection: [{ href: `${context.siteUrl}/wp-json/wp/v2/posts` }] },
   };
 }
